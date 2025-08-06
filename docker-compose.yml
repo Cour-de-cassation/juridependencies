@@ -1,0 +1,106 @@
+name: judilibre-local-dependencies
+
+services:
+  dbsder:
+    container_name: ${DBSDER_NAME}
+    image: mongo:4.4
+    environment:
+      - MONGO_INITDB_DATABASE=${DBSDER_DATABASE}
+    command: mongod --port ${DBSDER_PORT}
+    volumes:
+      - dbsder-mongo-storage:/data/db-sder/db
+    ports:
+      - ${DBSDER_PORT}:${DBSDER_PORT}
+
+  labeldb:
+    container_name: ${LABELDB_NAME}
+    image: mongo:4.4
+    environment:
+      - MONGO_INITDB_DATABASE=${LABELDB_DATABASE}
+    command: mongod --port ${LABELDB_PORT}
+    volumes:
+      - label-mongo-storage:/data/db
+    ports:
+      - ${LABELDB_PORT}:${LABELDB_PORT}
+
+  dbdsi:
+    image: oracle/database:18.4.0-xe
+    container_name: ${DBDSI_NAME}
+    ports:
+      - ${DBDSI_EXTERNAL_PORT}:1521
+    environment:
+      - ORACLE_PWD=${DBDSI_ADMIN_PASS}
+      - ORACLE_CHARACTERSET=WE8MSWIN1252
+    volumes:
+      - oracle-data:/opt/oracle/oradata
+      - ./oracle/oracle_init.sql:/opt/oracle/scripts/startup/oracle_init.sql
+
+  dbelastic:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.17.24
+    container_name: ${DB_ELASTIC_NAME}
+    environment:
+      - discovery.type=single-node
+      - ES_JAVA_OPTS=-Xms2048m -Xmx2048m
+    ports:
+      - ${DB_ELASTIC_EXTERNAL_PORT}:9200
+    volumes:
+      - elastic-data:/usr/share/elasticsearch/data
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:7.17.24
+    container_name: kibana
+    ports:
+      - 5601:5601
+    depends_on:
+      - dbelastic
+    volumes:
+      - ./.kibana/config:/usr/share/kibana/config
+
+  bucket:
+    container_name: ${BUCKET_NAME}
+    image: minio/minio:RELEASE.2023-02-27T18-10-45Z
+    command: minio server /data --console-address :${BUCKET_CONSOLE_PORT}
+    volumes:
+      - bucket-storage:/data
+    ports:
+      - ${BUCKET_PORT}:${BUCKET_PORT}
+      - ${BUCKET_CONSOLE_PORT}:${BUCKET_CONSOLE_PORT}
+    environment:
+      - MINIO_ROOT_USER=${BUCKET_USER}
+      - MINIO_ROOT_PASSWORD=${BUCKET_PASS}
+
+  createbuckets:
+    image: minio/mc
+    depends_on:
+      - bucket
+    entrypoint: > # source: https://github.com/minio/minio/issues/4769
+      /bin/sh -c " 
+        /usr/bin/mc config host add myminio http://${BUCKET_NAME}:${BUCKET_PORT} ${BUCKET_USER} ${BUCKET_PASS}; 
+        /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITJ_NAME_RAW} && 
+        /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITJ_NAME_NORMALIZED} && 
+        /usr/bin/mc policy download myminio/${BUCKET_JURITJ_NAME_RAW} && 
+        /usr/bin/mc policy download myminio/${BUCKET_JURITJ_NAME_NORMALIZED} && 
+        /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_RAW} && 
+        /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_NORMALIZED} && 
+        /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_PDF2TEXT_SUCCESS} && 
+        /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_PDF2TEXT_FAILED} && 
+        /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_DELETION} && 
+        /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_PDF} && 
+        /usr/bin/mc policy download myminio/${BUCKET_JURITCOM_NAME_RAW} && 
+        /usr/bin/mc policy download myminio/${BUCKET_JURITCOM_NAME_NORMALIZED} &&
+        /usr/bin/mc policy download myminio/${BUCKET_JURITCOM_NAME_PDF2TEXT_SUCCESS} &&
+        /usr/bin/mc policy download myminio/${BUCKET_JURITCOM_NAME_PDF2TEXT_FAILED} &&
+        /usr/bin/mc policy download myminio/${BUCKET_JURITCOM_NAME_DELETION} &&
+        /usr/bin/mc policy download myminio/${BUCKET_JURITCOM_NAME_PDF} &&
+        /usr/bin/mc mb --ignore-existing myminio/${BUCKET_PORTALIS_COLLECT_NAME} && 
+        /usr/bin/mc policy download myminio/${BUCKET_PORTALIS_COLLECT_NAME} && 
+        /usr/bin/mc admin user svcacct add --access-key "${BUCKET_ACCESS_KEY}" --secret-key "${BUCKET_ACCESS_SECRET}" myminio root; exit 0; 
+      "
+
+volumes:
+  dbsder-mongo-storage:
+  label-mongo-storage:
+  oracle-data:
+  bucket-storage:
+  elastic-data:
+

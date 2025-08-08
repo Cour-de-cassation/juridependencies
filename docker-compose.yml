@@ -1,4 +1,4 @@
-name: judilibre-local-dependencies
+name: opendata
 
 services:
   dbsder:
@@ -103,4 +103,3 @@ volumes:
   oracle-data:
   bucket-storage:
   elastic-data:
-

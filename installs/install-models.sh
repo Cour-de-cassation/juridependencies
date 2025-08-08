@@ -13,8 +13,8 @@ if ! dpkg -s $SETUP_MODELS_DEPENDENCIES &>/dev/null; then
     sudo -S apt install $SETUP_MODELS_DEPENDENCIES
 fi
 
-S3_ACCESS_KEY=$(grep '^S3_ACCESS_KEY=' .env | cut -c 15-)
-S3_SECRET_KEY=$(grep '^S3_SECRET_KEY=' .env | cut -c 15-)
+S3_ACCESS_KEY=$(grep '^S3_ACCESS_KEY=' $JURIDEPENDENCIES_DIR/.env | cut -c 15-)
+S3_SECRET_KEY=$(grep '^S3_SECRET_KEY=' $JURIDEPENDENCIES_DIR/.env | cut -c 15-)
 
 if [ -z "$S3_ACCESS_KEY" ]; then
     read -p "Setup AI models needs your S3 access key. S3 access key:" S3_ACCESS_KEY

@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 if command -v docker &> /dev/null; then
     echo "Docker already exists"

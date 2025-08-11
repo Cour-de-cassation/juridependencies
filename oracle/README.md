@@ -8,12 +8,12 @@ Si vous souhaitez créer votre propre base de donnée oracle en locale pour comm
 
 Tout d'abord, il convient d'avoir lancé un oracle en local. Les commandes pour créer l'image docker correspondant au docker-compose.yml joint dans ce projet sont disponibles sur le readme racine.
 
-Il conviendra de créer les variables d'environnements appropriés à l'utilisation de votre (ou vos) base de donnée. Les scripts ci présents auront besoins des informations de connexions des 4 utilisateurs oracles (ils pourront être associés à la même DB ou à des DB différentes puisque l'adresse host est propre à chacun).
-
-Par convenance, le .env-sample du dossier racine contient les informations que j'utilise sur mon propre local et que je monte avec le docker compose des bases du projet. On peut créer le .env à partir de ce .env-sample. 
+Le projet utilisera par défaut les variables d'environnement présentes dans le .env racine de juridependencies.
 
 Le script replace.js doit être lancé à chaque modification des informations de schéma contenu dans les variables d'environnements, on peut, pour être sûr, le lancer avant chaque création de schéma:
 `node replace.js`
+
+Attention: la modification des 4 utilisateurs ou de leur pass de connexion nécessite de tuer le container et d'en recréer un nouveau (ce qui peut être fait grâce au script d'installation install-oracle.sh).
 
 Le script migrate.js permet à loisir de créer les schémas ou de les détruire. Le script nécessite un argument d'action à son appel: 
 - 'up' va créer les schémas nécessaire
@@ -21,6 +21,8 @@ Le script migrate.js permet à loisir de créer les schémas ou de les détruire
 
 Attention toutefois, à la différence de librairie de migrations comme "knexJs", l'historique des migrations n'est pas préservé et les requêtes ne sont pas effectuées en transaction ce qui signifie qu'en cas d'erreur au cours de la lecture d'un SQL, il sera peut-être nécessaire de corriger le schéma à la main dans votre base de donnée.
 `node migration.js up`
+
+Le script seeds.js permet de générer un set de fausses données.
 
 ## Comment le lire
 

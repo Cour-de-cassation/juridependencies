@@ -1,4 +1,7 @@
-#/bin/bash
+#!/bin/bash
+
+INSTALLS_DIR=$(realpath "$(dirname "$0")")
+JURIDEPENDENCIES_DIR=$(realpath "$INSTALLS_DIR/..")
 
 if [ ! -d "$1" ]; then
   echo "Directory \"$1\" does not exists."
@@ -30,14 +33,5 @@ set_sources "nlp-jurispacy-tokenizer"
 set_sources "nlp-jurizonage"
 set_sources "nlp-jurizonage-api"
 
-set_sources "dbsder-api"
-set_sources "juritj"
-set_sources "juritcom"
-set_sources "jurinorm"
-set_sources "label"
-set_sources "openjustice-sder"
-set_sources "judilibre-sder"
-set_sources "judilibre-admin"
-set_sources "judilibre-search"
-set_sources "portalis-collect"
-set_sources "oddj-dashboard"
+bash $JURIDEPENDENCIES_DIR/updates/update-nlp.sh
+bash $INSTALLS_DIR/install-models.sh

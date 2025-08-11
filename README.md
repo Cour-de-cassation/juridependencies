@@ -24,7 +24,8 @@ Ils peuvent être appliqués sur une base oracle destinée à simuler des donné
 
 ### docker-compose.yml
 
-Ce docker-compose doit permettre de lancer, avec docker, des bases de données ou des outils non managés par l'ODDJ mais essentiels à son fonctionnement.
+Ce docker-compose doit permettre de lancer, avec docker, des bases de données et des outils managés ou non par l'ODDJ mais essentiels à son fonctionnement.
+Attention, il est dépendant des applications de data sciences (elles peuvent être installées avec le script d'installation install-data-oddj.sh ou bien commentées).
 
 ## Prochaines versions:
 

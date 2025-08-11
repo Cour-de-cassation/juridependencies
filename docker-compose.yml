@@ -97,6 +97,27 @@ services:
         /usr/bin/mc admin user svcacct add --access-key "${BUCKET_ACCESS_KEY}" --secret-key "${BUCKET_ACCESS_SECRET}" myminio root; exit 0; 
       "
 
+  jurizonage-api:
+    image: jurizonage-api
+    environment:
+      - API_PORT=8090
+    ports:
+      - 8090:8090
+
+  nlp-api:
+    image: nlp-api
+    ports:
+      - 8081:8081
+    environment:
+      - MODEL_JURICA=models/${PSEUDO_API_MODEL}
+      - MODEL_JURIDOUTE=models/${MODEL_JURIDOUTE}
+      - TRAIN_VOCAB_JURIDOUTE=models/${TRAIN_VOCAB_JURIDOUTE}
+      - TRAIN_FEATURES_JURIDOUTE=models/${TRAIN_FEATURES_JURIDOUTE}
+      - MINERU_TOOLS_CONFIG_JSON=models/${MINERU_CONFIG_JSON}
+      - API_PORT=8081
+    volumes:
+      - .models:/nlp-api/models
+
 volumes:
   dbsder-mongo-storage:
   label-mongo-storage:

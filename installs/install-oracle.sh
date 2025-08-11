@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 INSTALLS_DIR=$(realpath "$(dirname "$0")")
 JURIDEPENDENCIES_DIR=$(realpath "$INSTALLS_DIR/..")

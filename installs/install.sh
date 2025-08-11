@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 INSTALLS_DIR=$(realpath "$(dirname "$0")")
 
@@ -11,6 +11,6 @@ fi
 
 DIR=$(realpath "$1")
 
-bash $INSTALLS_DIR/install-projects.sh $DIR
+bash $INSTALLS_DIR/install-data-oddj.sh $DIR
+bash $INSTALLS_DIR/install-web-oddj.sh $DIR
 bash $INSTALLS_DIR/install-oracle.sh
-bash $INSTALLS_DIR/install-models.sh

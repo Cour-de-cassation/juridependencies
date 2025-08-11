@@ -13,12 +13,11 @@ async function replaceEnv(filePath) {
 
 async function main() {
   try {
-    const migrationsfilenames = await readdir(resolve(__dirname, 'migrations'));
-    const migrationsTemplates = migrationsfilenames
-      .filter((_) => _.endsWith('_template.sql'))
-      .map((_) => resolve(__dirname, 'migrations', _));
+    const migrationsfilenames = (await readdir(resolve(__dirname, 'migrations'))).map(_ => resolve(__dirname, 'migrations', _));
+    const seedsfilenames = (await readdir(resolve(__dirname, 'seeds'))).map(_ => resolve(__dirname, 'seeds', _));
     const oracleInitTemplate = resolve(__dirname, 'oracle_init_template.sql');
-    const templates = [oracleInitTemplate, ...migrationsTemplates]
+
+    const templates = [oracleInitTemplate, ...migrationsfilenames, ...seedsfilenames].filter((_) => _.endsWith('_template.sql'))
 
     Promise.all(templates.map((_) => replaceEnv(_)));
   } catch (_) {

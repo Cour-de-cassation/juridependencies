@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 UPDATES_DIR=$(realpath "$(dirname "$0")")
 JURIDEPENDENCIES_DIR=$(realpath "$UPDATES_DIR/..")

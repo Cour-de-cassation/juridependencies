@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 UPDATES_DIR=$(realpath "$(dirname "$0")")
 INSTALLS_DIR=$(realpath "$UPDATES_DIR/../installs")
@@ -14,11 +14,13 @@ DIR=$(realpath "$1")
 
 bash "$INSTALLS_DIR/install-docker.sh"
 SETUP_PROJECTS_DEPENDENCIES="git"
+
 if ! dpkg -s $SETUP_PROJECTS_DEPENDENCIES &>/dev/null; then
     sudo -S apt install $SETUP_PROJECTS_DEPENDENCIES
 fi
 
 update_jurizonage() {
+    DIR_PREVIOUS=$(pwd)
     DIR_JURIZONAGE=$(realpath "$DIR/nlp-jurizonage")
     DIR_JURIZONAGE_API=$(realpath "$DIR/nlp-jurizonage-api")
 
@@ -29,19 +31,23 @@ update_jurizonage() {
         return 1
     fi
 
-    echo "Build jurizonage image" 
+    echo "Build jurizonage image"
+    cd $DIR_JURIZONAGE
     git pull $DIR_JURIZONAGE
     docker build -t cour-de-cassation/nlp-jurizonage/local .
 
     echo "Build jurizonage-api image"
+    cd $DIR_JURIZONAGE_API
     git pull $DIR_JURIZONAGE_API
     docker build \
         --build-arg CI_REGISTRY=docker.io \
         --build-arg CI_COMMIT_BRANCH=local \
         -t jurizonage-api .
+
+    cd $DIR_PREVIOUS
 }
 
-upldate_nlp() {
+update_nlp() {
     DIR_NLP_API=$(realpath "$DIR/nlp-api")
     DIR_JURITOOLS=$(realpath "$DIR/nlp-juritools")
     DIR_JURISPACY_TOKENIZER=$(realpath "$DIR/nlp-jurispacy-tokenizer")
@@ -55,6 +61,7 @@ upldate_nlp() {
     fi
 
     echo "Build jurispacy-tokenizer image"
+    cd $DIR_JURISPACY_TOKENIZER
     git pull $DIR_JURISPACY_TOKENIZER
     docker build \
         --build-arg IMAGE_NAME=ubuntu:22.04 \
@@ -62,6 +69,7 @@ upldate_nlp() {
         -t cour-de-cassation/nlp-jurispacy-tokenizer/local .
 
     echo "Build juritools image"
+    cd $DIR_JURITOOLS
     git pull $DIR_JURITOOLS
     docker build \
         --build-arg CI_REGISTRY=docker.io \
@@ -69,10 +77,15 @@ upldate_nlp() {
         -t cour-de-cassation/nlp-juritools/local .
 
     echo "Build nlp-api image"
+    cd $DIR_NLP_API
     git pull $DIR_NLP_API
     docker build \
         --build-arg CI_REGISTRY=docker.io \
         --build-arg CI_COMMIT_BRANCH=local \
         -t nlp-api .
 
+    cd $DIR_PREVIOUS
 }
+
+update_jurizonage
+update_nlp

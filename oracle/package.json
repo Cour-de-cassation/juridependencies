@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "",
+  "scripts": {
+    "env": "node oracle_local_init/replace.js",
+    "migrate:up": "npm run env && node oracle_local_init/migrate.js up",
+    "migrate:down": "node oracle_local_init/migrate.js down",
+    "seeds": "node oracle_local_init/seed.js"
+  },
   "dependencies": {
     "dotenv": "^17.2.1",
     "iconv-lite": "^0.6.2",

@@ -4,10 +4,10 @@
   "description": "",
   "main": "",
   "scripts": {
-    "env": "node oracle_local_init/replace.js",
-    "migrate:up": "npm run env && node oracle_local_init/migrate.js up",
-    "migrate:down": "node oracle_local_init/migrate.js down",
-    "seeds": "node oracle_local_init/seed.js"
+    "env": "node replace.js",
+    "migrate:up": "npm run env && node migrate.js up",
+    "migrate:down": "node migrate.js down",
+    "seeds": "node seed.js"
   },
   "dependencies": {
     "dotenv": "^17.2.1",

@@ -1,8 +1,8 @@
 const { resolve } = require('path');
 const { readFile } = require('fs/promises');
 
-const { JurinetOracle } = require('../src/jurinet-oracle');
-const { JuricaOracle } = require('../src/jurica-oracle');
+const { JurinetOracle } = require('./tables/jurinet-oracle');
+const { JuricaOracle } = require('./tables/jurica-oracle');
 
 if (!process.env.NODE_ENV) require('dotenv').config({ path: resolve(__dirname, '..', '.env') });
 

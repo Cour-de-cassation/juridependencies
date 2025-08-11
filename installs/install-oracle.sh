@@ -112,5 +112,3 @@ setup_oracle_project() {
 install_dependencies
 install_oracle_project
 setup_oracle_project
-
-

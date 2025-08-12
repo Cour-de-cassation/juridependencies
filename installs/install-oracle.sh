@@ -81,7 +81,7 @@ setup_oracle_project() {
     fi
 
     echo "Docker building oracle for first time"
-    node $JURIDEPENDENCIES_DIR/oracle/replace.js
+    node $JURIDEPENDENCIES_DIR/fake-data/dbdsi/replace.js
     docker compose -f $JURIDEPENDENCIES_DIR/docker-compose.yml up -d dbdsi
 
     echo "Waiting for Oracle setup. This could be long. Take a break, get a coffee. What else ?"
@@ -101,12 +101,9 @@ setup_oracle_project() {
         if [ -n "$COMPLETED_FLAG" ] || [ -n "$SAVE_STATE_FLAG" ]; then break; fi
     done
 
-    if [ -n "$SAVE_STATE_FLAG" ]; then
-        echo "SQL Schema migrating."
-        node $JURIDEPENDENCIES_DIR/oracle/migrate.js up
-    fi
-
     docker compose -f $JURIDEPENDENCIES_DIR/docker-compose.yml down
+    
+    echo "Oracle is setup, take a look at fake-data to generate schemas and hydrate it"
 }
 
 install_dependencies

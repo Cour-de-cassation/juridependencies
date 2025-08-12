@@ -33,7 +33,7 @@ services:
       - ORACLE_CHARACTERSET=WE8MSWIN1252
     volumes:
       - oracle-data:/opt/oracle/oradata
-      - ./oracle/oracle_init.sql:/opt/oracle/scripts/startup/oracle_init.sql
+      - ./fake-data/dbdsi/oracle_init.sql:/opt/oracle/scripts/startup/oracle_init.sql
 
   dbelastic:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.17.24

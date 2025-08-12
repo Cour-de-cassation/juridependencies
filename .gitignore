@@ -4,7 +4,6 @@ node_modules
 docker-images
 
 oracle_init.sql
-jurinet_create_schema.sql
-jurinet_drop_schema.sql
-jurica_create_schema.sql
-jurica_drop_schema.sql
+*_create_schema.sql
+*_drop_schema.sql
+

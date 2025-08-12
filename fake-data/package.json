@@ -1,0 +1,23 @@
+{
+  "name": "api-dbsder",
+  "version": "0.0.1",
+  "description": "API DBSDER",
+  "author": "Cour de Cassation",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dbdsi:templates": "node dbdsi/replace.js",
+    "dbdsi:migrate:up":  "node dbdsi/migrate.js up",
+    "dbdsi:migrate:down": "node dbdsi/migrate.js down",
+    "dbdsi:seeds": "npm run dbdsi:migrate:down && npm run dbdsi:migrate:up && node dbdsi/seed.js",
+    "dbsder:seeds": "node dbsder/clean.js && node dbsder/load.js",
+    "label:seeds": "node label/clean.js && node label/load.js",
+    "seeds": "npm run dbdsi:seeds && npm run dbsder:seeds && npm run label:seeds"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "iconv-lite": "^0.6.2",
+    "oracledb": "^5.1.0",
+    "mongodb": "^6.15.0"
+  }
+}

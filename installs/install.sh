@@ -11,6 +11,7 @@ fi
 
 DIR=$(realpath "$1")
 
-bash $INSTALLS_DIR/install-data-oddj.sh $DIR
-bash $INSTALLS_DIR/install-web-oddj.sh $DIR
+bash $INSTALLS_DIR/install-models.sh
+bash $INSTALLS_DIR/install-nlp.sh $DIR
+bash $INSTALLS_DIR/install-web.sh $DIR
 bash $INSTALLS_DIR/install-oracle.sh

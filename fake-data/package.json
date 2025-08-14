@@ -7,12 +7,13 @@
   "license": "MIT",
   "scripts": {
     "dbdsi:templates": "node dbdsi/replace.js",
-    "dbdsi:migrate:up":  "node dbdsi/migrate.js up",
+    "dbdsi:migrate:up": "node dbdsi/migrate.js up",
     "dbdsi:migrate:down": "node dbdsi/migrate.js down",
     "dbdsi:seeds": "npm run dbdsi:migrate:down && npm run dbdsi:migrate:up && node dbdsi/seed.js",
     "dbsder:seeds": "node dbsder/clean.js && node dbsder/load.js",
     "label:seeds": "node label/clean.js && node label/load.js",
-    "seeds": "npm run dbdsi:seeds && npm run dbsder:seeds && npm run label:seeds"
+    "index:seeds": "node index/clean.js && node index/load.js",
+    "seeds": "npm run dbdsi:seeds && npm run dbsder:seeds && npm run label:seeds && npm run index:seeds"
   },
   "dependencies": {
     "dotenv": "^17.2.1",

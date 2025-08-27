@@ -28,4 +28,4 @@ if [ -z "$S3_SECRET_KEY" ]; then
     echo "S3_SECRET_KEY=$S3_SECRET_KEY" >> $JURIDEPENDENCIES_DIR/.env
 fi
 
-bash $JURIDEPENDENCIES_DIR/update-models.sh
+bash $JURIDEPENDENCIES_DIR/updates/update-models.sh

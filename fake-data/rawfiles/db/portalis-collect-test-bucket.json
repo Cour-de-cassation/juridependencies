@@ -1,0 +1,481 @@
+[{
+  "_id": {
+    "$oid": "6851801e9e4e1fc0c7109167"
+  },
+  "path": "7a018854-6124-46bd-98d2-6c3e77a34086-2025-06-17T14:47:58.736Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "ID_DECISION",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": false,
+      "elementsAOcculter": [
+        "La FiAt RoUGe"
+      ]
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Cette décision est très intéressante parce qu'elle est intéressante"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-06-17T14:47:58.736Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68665d281dd93ca4a125410c"
+  },
+  "path": "2271a2f6-2a38-4035-b60d-09d3575e8d83-2025-07-03T10:36:24.236Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "65465465-978798",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": false,
+      "elementsAOcculter": [
+        "le bateau de Paul",
+        "le bateau de Julien"
+      ]
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Cette décision est très intéressante parce qu'elle est intéressante"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-07-03T10:36:24.236Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68665d741dd93ca4a125410d"
+  },
+  "path": "5ecba5d7-4fe0-4178-835e-ebcfd4f47dfd-2025-07-03T10:37:40.127Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "65465465-978798",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": false,
+      "elementsAOcculter": [
+        "le bateau de Paul",
+        "le bateau de Julien"
+      ]
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Cette décision est très intéressante parce qu'elle est intéressante"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-07-03T10:37:40.127Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68665d891dd93ca4a125410e"
+  },
+  "path": "17de1e7c-0483-4449-bd18-f962fee7efa4-2025-07-03T10:38:01.214Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "65465465-978798",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": false,
+      "elementsAOcculter": [
+        "le bateau de Paul",
+        "le bateau de Julien"
+      ]
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Cette décision est très intéressante parce qu'elle est intéressante"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-07-03T10:38:01.214Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688327701dd93ca4a125410f"
+  },
+  "path": "a1923cea-ed5d-48ee-8eae-6ad127f068d2-2025-07-25T06:42:56.276Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "9968",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": false,
+      "elementsAOcculter": [
+        "le bateau de Paul",
+        "le bateau de Julien"
+      ]
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Cette décision est très intéressante parce qu'elle est intéressante"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-07-25T06:42:56.276Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688327ba1dd93ca4a1254110"
+  },
+  "path": "426f184c-fb1f-4b3d-ad4b-62ab09e8a9f2-2025-07-25T06:44:10.200Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "9968",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": false,
+      "elementsAOcculter": [
+        "le bateau de Paul",
+        "le bateau de Julien"
+      ]
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Cette décision est très intéressante parce qu'elle est intéressante"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-07-25T06:44:10.200Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688328831dd93ca4a1254111"
+  },
+  "path": "438153ff-7913-4829-b8c7-9e6eef5711a9-2025-07-25T06:47:31.955Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "9968",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": false,
+      "elementsAOcculter": [
+        "le bateau de Paul",
+        "le bateau de Julien"
+      ]
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Cette décision est très intéressante parce qu'elle est intéressante"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-07-25T06:47:31.955Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688329c81dd93ca4a1254112"
+  },
+  "path": "ddabd5f1-f95f-4805-8807-5d12675cd28e-2025-07-25T06:52:56.171Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "9968",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": false,
+      "elementsAOcculter": [
+        "le bateau de Paul",
+        "le bateau de Julien"
+      ]
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Cette décision est très intéressante parce qu'elle est intéressante"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-07-25T06:52:56.171Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68832c141dd93ca4a1254113"
+  },
+  "path": "5eb28f4e-ff88-4426-8610-fbac9dae83ab-2025-07-25T07:02:44.629Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "9968",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": false,
+      "elementsAOcculter": [
+        "le bateau de Paul",
+        "le bateau de Julien"
+      ]
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Cette décision est très intéressante parce qu'elle est intéressante"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-07-25T07:02:44.629Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68832f3d1dd93ca4a1254114"
+  },
+  "path": "9626cff7-a3c8-4790-95ac-528097241591-2025-07-25T07:16:13.213Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "9968",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": false,
+      "elementsAOcculter": [
+        "le bateau de Paul",
+        "le bateau de Julien"
+      ]
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Cette décision est très intéressante parce qu'elle est intéressante"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-07-25T07:16:13.213Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688333ff1dd93ca4a1254115"
+  },
+  "path": "8969b4ad-8ba9-405f-8e4e-eac81facd59c-2025-07-25T07:36:31.011Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "9968",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": false,
+      "elementsAOcculter": [
+        "le bateau de Paul",
+        "le bateau de Julien"
+      ]
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Cette décision est très intéressante parce qu'elle est intéressante"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-07-25T07:36:31.011Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68833ce31dd93ca4a1254116"
+  },
+  "path": "c9df9ad8-542d-426d-9899-58046f5e14a8-2025-07-25T08:14:27.568Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "9968",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": false,
+      "elementsAOcculter": [
+        "le bateau de Paul",
+        "le bateau de Julien"
+      ]
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Cette décision est très intéressante parce qu'elle est intéressante"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-07-25T08:14:27.568Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6883419b1dd93ca4a1254117"
+  },
+  "path": "f44bd44b-97e8-4023-95bf-2ba3fbea69f9-2025-07-25T08:34:35.277Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "9968",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": false,
+      "elementsAOcculter": [
+        "le bateau de Paul",
+        "le bateau de Julien"
+      ]
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Cette décision est très intéressante parce qu'elle est intéressante"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-07-25T08:34:35.277Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688354011dd93ca4a1254118"
+  },
+  "path": "86ca7e2a-e1c5-4932-8071-89afc1ad0822-2025-07-25T09:53:05.302Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "9968",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": false,
+      "elementsAOcculter": [
+        "le bateau de Paul",
+        "le bateau de Julien"
+      ]
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Cette décision est très intéressante parce qu'elle est intéressante"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-07-25T09:53:05.302Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "688b340fc1e27d315de3fdf1"
+  },
+  "path": "dcaaf69d-37f0-408d-bf1b-9b8ad6bcc79b-2025-07-31T09:14:55.139Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "9968",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": false,
+      "elementsAOcculter": [
+        "le bateau de Paul",
+        "le bateau de Julien"
+      ]
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Cette décision est très intéressante parce qu'elle est intéressante"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-07-31T09:14:55.139Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68961a68f767d68c0611a8c1"
+  },
+  "path": "781d4903-39d1-4514-9dfa-2d08d39086d6-2025-08-08T15:40:24.093Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "601717",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": true,
+      "elementsAOcculter": []
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "TEST ODDJ BOUT EN BOUT"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-08-08T15:40:24.093Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68961f09f767d68c0611a8c2"
+  },
+  "path": "d6890462-0385-4a5c-a9ee-b99d724dfc83-2025-08-08T16:00:09.449Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "601717",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": true,
+      "elementsAOcculter": []
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "TEST ODDJ BOUT EN BOUT"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-08-08T16:00:09.449Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "689630e1f767d68c0611a8c3"
+  },
+  "path": "07f643bc-b345-421e-aaf2-420797375910-2025-08-08T17:16:16.995Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "601717",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": true,
+      "elementsAOcculter": []
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "TEST ODDJ BOUT EN BOUT"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-08-08T17:16:16.995Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6899a6def767d68c0611a8c4"
+  },
+  "path": "72cb1641-fe13-4942-a503-1393448407ef-2025-08-11T08:16:30.053Z.pdf",
+  "metadatas": {
+    "identifiantDecision": "601718",
+    "recommandationOccultation": {
+      "suiviRecommandationOccultation": true,
+      "elementsAOcculter": []
+    },
+    "interetParticulier": true,
+    "sommaireInteretParticulier": "Test"
+  },
+  "events": [
+    {
+      "type": "created",
+      "date": {
+        "$date": "2025-08-11T08:16:30.053Z"
+      }
+    }
+  ]
+}]

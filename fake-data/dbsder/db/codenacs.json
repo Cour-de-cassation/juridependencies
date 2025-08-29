@@ -1,7 +1,273 @@
 [
   {
     "_id": {
+      "$oid": "660ed3506ccff4bf6c93b143"
+    },
+    "codeNAC": "22A",
+    "libelleNAC": "[FACTICE] Demande d'un truc pas ouf",
+    "niveau1NAC": {
+      "code": "2",
+      "libelle": "[FACTICE] Des trucs"
+    },
+    "niveau2NAC": {
+      "code": "22",
+      "libelle": "[FACTICE] Des trucs pas oufs"
+    },
+    "blocOccultationCA": 4,
+    "blocOccultationTJ": 4,
+    "indicateurDecisionRenduePubliquement": true,
+    "indicateurDebatsPublics": true,
+    "indicateurAffaireSignalee": false,
+    "categoriesToOmitCA": {
+      "aucune": [
+        "adresse",
+        "cadastre",
+        "personneMorale",
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "numeroIdentifiant",
+        "plaqueImmatriculation",
+        "compteBancaire",
+        "localite",
+        "numeroSiretSiren",
+        "annotationSupplementaire",
+        "siteWebSensible",
+        "etablissement",
+        "telephoneFax",
+        "email"
+      ],
+      "conforme": [
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "personneMorale",
+        "numeroSiretSiren"
+      ],
+      "substituant": [
+        "adresse",
+        "cadastre",
+        "personneMorale",
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "numeroIdentifiant",
+        "plaqueImmatriculation",
+        "compteBancaire",
+        "localite",
+        "numeroSiretSiren",
+        "annotationSupplementaire",
+        "siteWebSensible",
+        "etablissement",
+        "telephoneFax",
+        "email"
+      ],
+      "complément": [
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "personneMorale",
+        "numeroSiretSiren"
+      ]
+    },
+    "categoriesToOmitTJ": {
+      "aucune": [
+        "adresse",
+        "cadastre",
+        "personneMorale",
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "numeroIdentifiant",
+        "plaqueImmatriculation",
+        "compteBancaire",
+        "localite",
+        "numeroSiretSiren",
+        "annotationSupplementaire",
+        "siteWebSensible",
+        "etablissement",
+        "telephoneFax",
+        "email"
+      ],
+      "conforme": [
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "personneMorale",
+        "numeroSiretSiren"
+      ],
+      "substituant": [
+        "adresse",
+        "cadastre",
+        "personneMorale",
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "numeroIdentifiant",
+        "plaqueImmatriculation",
+        "compteBancaire",
+        "localite",
+        "numeroSiretSiren",
+        "annotationSupplementaire",
+        "siteWebSensible",
+        "etablissement",
+        "telephoneFax",
+        "email"
+      ],
+      "complément": [
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "personneMorale",
+        "numeroSiretSiren"
+      ]
+    },
+    "routeRelecture": "systematique"
+  },
+  {
+    "_id": {
       "$oid": "660ed3506ccff4bf6c93b144"
+    },
+    "codeNAC": "00A",
+    "libelleNAC": "[FACTICE] Demande d'un machin pas ouf",
+    "niveau1NAC": {
+      "code": "0",
+      "libelle": "[FACTICE] Des machins"
+    },
+    "niveau2NAC": {
+      "code": "00",
+      "libelle": "[FACTICE] Des machins pas oufs"
+    },
+    "blocOccultationCA": 4,
+    "blocOccultationTJ": 4,
+    "indicateurDecisionRenduePubliquement": true,
+    "indicateurDebatsPublics": true,
+    "indicateurAffaireSignalee": false,
+    "categoriesToOmitCA": {
+      "aucune": [
+        "adresse",
+        "cadastre",
+        "personneMorale",
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "numeroIdentifiant",
+        "plaqueImmatriculation",
+        "compteBancaire",
+        "localite",
+        "numeroSiretSiren",
+        "annotationSupplementaire",
+        "siteWebSensible",
+        "etablissement",
+        "telephoneFax",
+        "email"
+      ],
+      "conforme": [
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "personneMorale",
+        "numeroSiretSiren"
+      ],
+      "substituant": [
+        "adresse",
+        "cadastre",
+        "personneMorale",
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "numeroIdentifiant",
+        "plaqueImmatriculation",
+        "compteBancaire",
+        "localite",
+        "numeroSiretSiren",
+        "annotationSupplementaire",
+        "siteWebSensible",
+        "etablissement",
+        "telephoneFax",
+        "email"
+      ],
+      "complément": [
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "personneMorale",
+        "numeroSiretSiren"
+      ]
+    },
+    "categoriesToOmitTJ": {
+      "aucune": [
+        "adresse",
+        "cadastre",
+        "personneMorale",
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "numeroIdentifiant",
+        "plaqueImmatriculation",
+        "compteBancaire",
+        "localite",
+        "numeroSiretSiren",
+        "annotationSupplementaire",
+        "siteWebSensible",
+        "etablissement",
+        "telephoneFax",
+        "email"
+      ],
+      "conforme": [
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "personneMorale",
+        "numeroSiretSiren"
+      ],
+      "substituant": [
+        "adresse",
+        "cadastre",
+        "personneMorale",
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "numeroIdentifiant",
+        "plaqueImmatriculation",
+        "compteBancaire",
+        "localite",
+        "numeroSiretSiren",
+        "annotationSupplementaire",
+        "siteWebSensible",
+        "etablissement",
+        "telephoneFax",
+        "email"
+      ],
+      "complément": [
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "personneMorale",
+        "numeroSiretSiren"
+      ]
+    },
+    "routeRelecture": "systematique"
+  },
+  {
+    "_id": {
+      "$oid": "660ed3506ccff4bf6c93b145"
     },
     "codeNAC": "92S",
     "libelleNAC": "[FACTICE] Demande en nullité d'un contrat de travail pour vice du consentement",

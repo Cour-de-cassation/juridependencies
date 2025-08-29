@@ -13,7 +13,8 @@
     "dbsder:seeds": "node dbsder/clean.js && node dbsder/load.js",
     "label:seeds": "node label/clean.js && node label/load.js",
     "index:seeds": "node index/clean.js && node index/load.js",
-    "seeds": "npm run dbdsi:seeds && npm run dbsder:seeds && npm run label:seeds && npm run index:seeds"
+    "rawfiles:seeds": "node rawfiles/clean.js && node rawfiles/load.js",
+    "seeds": "npm run dbdsi:seeds && npm run dbsder:seeds && npm run label:seeds && npm run index:seeds && npm run rawfiles:seeds"
   },
   "dependencies": {
     "dotenv": "^17.2.1",

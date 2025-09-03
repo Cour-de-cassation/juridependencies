@@ -96,6 +96,18 @@ services:
         /usr/bin/mc policy download myminio/${BUCKET_PORTALIS_COLLECT_NAME} && 
         /usr/bin/mc admin user svcacct add --access-key "${BUCKET_ACCESS_KEY}" --secret-key "${BUCKET_ACCESS_SECRET}" myminio root; exit 0; 
       "
+  keycloak:
+    image: quay.io/keycloak/keycloak:26.1.2
+    command: [ "start-dev", "--import-realm" ]
+    environment:
+      - KC_BOOTSTRAP_ADMIN_USERNAME=admin
+      - KC_BOOTSTRAP_ADMIN_PASSWORD=admin
+    volumes:
+      - ./fake-data/keycloak/keycloak-realm-config.json:/opt/keycloak/data/import/keycloak-realm-config.json
+    ports:
+      - "8080:8080"
+    networks:
+      - default
 
   jurizonage-api:
     image: jurizonage-api

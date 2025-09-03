@@ -32,7 +32,7 @@ install_dependencies() {
     bash $INSTALLS_DIR/install-docker.sh
     bash $INSTALLS_DIR/install-node.sh
 
-    if [ "$OS" = "ubuntu" ] && [ "$VERSION" > "24" ]; then 
+    if [ "$OS" = "ubuntu" ] && [ "${VERSION%%.*}" -ge "24" ]; then 
         install_ubuntu_dependencies
     else 
         install_debian_dependencies

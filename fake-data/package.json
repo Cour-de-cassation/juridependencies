@@ -14,12 +14,14 @@
     "label:seeds": "node label/clean.js && node label/load.js",
     "index:seeds": "node index/clean.js && node index/load.js",
     "rawfiles:seeds": "node rawfiles/clean.js && node rawfiles/load.js",
-    "seeds": "npm run dbdsi:seeds && npm run dbsder:seeds && npm run label:seeds && npm run index:seeds && npm run rawfiles:seeds"
+    "dbelastic:seeds": "node dbelastic/clean.js && node dbelastic/load.js",
+    "seeds": "npm run dbdsi:seeds && npm run dbsder:seeds && npm run label:seeds && npm run index:seeds && npm run rawfiles:seeds && npm run dbelastic:seeds"
   },
   "dependencies": {
     "dotenv": "^17.2.1",
     "iconv-lite": "^0.6.2",
     "oracledb": "^5.1.0",
-    "mongodb": "^6.15.0"
+    "mongodb": "^6.15.0",
+    "@elastic/elasticsearch": "^7.17.0"
   }
 }

@@ -1,0 +1,449 @@
+{
+    "settings": {
+        "number_of_shards": 1,
+        "number_of_replicas": 1,
+        "analysis": {
+            "filter": {
+                "french_elision": {
+                    "type": "elision",
+                    "articles_case": true,
+                    "articles": [
+                        "l",
+                        "m",
+                        "t",
+                        "qu",
+                        "n",
+                        "s",
+                        "j",
+                        "d",
+                        "c",
+                        "jusqu",
+                        "quoiqu",
+                        "lorsqu",
+                        "puisqu"
+                    ]
+                },
+                "french_stop": {
+                    "type": "stop",
+                    "stopwords": "_french_"
+                },
+                "custom_stop": {
+                    "type": "stop",
+                    "stopwords": [
+                        "au",
+                        "aux",
+                        "avec",
+                        "ce",
+                        "ces",
+                        "dans",
+                        "de",
+                        "des",
+                        "du",
+                        "elle",
+                        "en",
+                        "et",
+                        "eux",
+                        "il",
+                        "je",
+                        "la",
+                        "le",
+                        "leur",
+                        "lui",
+                        "ma",
+                        "mais",
+                        "me",
+                        "même",
+                        "mes",
+                        "moi",
+                        "mon",
+                        "ne",
+                        "nos",
+                        "notre",
+                        "nous",
+                        "on",
+                        "ou",
+                        "par",
+                        "pas",
+                        "pour",
+                        "qu",
+                        "que",
+                        "qui",
+                        "sa",
+                        "se",
+                        "ses",
+                        "sur",
+                        "ta",
+                        "te",
+                        "tes",
+                        "toi",
+                        "ton",
+                        "tu",
+                        "un",
+                        "une",
+                        "vos",
+                        "votre",
+                        "vous",
+                        "c",
+                        "d",
+                        "j",
+                        "l",
+                        "à",
+                        "m",
+                        "n",
+                        "s",
+                        "t",
+                        "y",
+                        "étée",
+                        "étées",
+                        "étant",
+                        "suis",
+                        "es",
+                        "êtes",
+                        "sont",
+                        "serai",
+                        "seras",
+                        "sera",
+                        "serons",
+                        "serez",
+                        "seront",
+                        "serais",
+                        "serait",
+                        "serions",
+                        "seriez",
+                        "seraient",
+                        "étais",
+                        "était",
+                        "étions",
+                        "étiez",
+                        "étaient",
+                        "fus",
+                        "fut",
+                        "fûmes",
+                        "fûtes",
+                        "furent",
+                        "sois",
+                        "soit",
+                        "soyons",
+                        "soyez",
+                        "soient",
+                        "fusse",
+                        "fusses",
+                        "fussions",
+                        "fussiez",
+                        "fussent",
+                        "ayant",
+                        "eu",
+                        "eue",
+                        "eues",
+                        "eus",
+                        "ai",
+                        "avons",
+                        "avez",
+                        "ont",
+                        "aurai",
+                        "aurons",
+                        "aurez",
+                        "auront",
+                        "aurais",
+                        "aurait",
+                        "aurions",
+                        "auriez",
+                        "auraient",
+                        "avais",
+                        "avait",
+                        "aviez",
+                        "avaient",
+                        "eut",
+                        "eûmes",
+                        "eûtes",
+                        "eurent",
+                        "aie",
+                        "aies",
+                        "ait",
+                        "ayons",
+                        "ayez",
+                        "aient",
+                        "eusse",
+                        "eusses",
+                        "eût",
+                        "eussions",
+                        "eussiez",
+                        "eussent",
+                        "ceci",
+                        "cela",
+                        "celà",
+                        "cet",
+                        "cette",
+                        "ici",
+                        "ils",
+                        "les",
+                        "leurs",
+                        "quel",
+                        "quels",
+                        "quelle",
+                        "quelles",
+                        "sans",
+                        "soi"
+                    ]
+                },
+                "french_stemmer": {
+                    "type": "stemmer",
+                    "language": "light_french"
+                }
+            },
+            "analyzer": {
+                "medium_french": {
+                    "tokenizer": "standard",
+                    "filter": [
+                        "french_elision",
+                        "asciifolding",
+                        "lowercase",
+                        "french_stop",
+                        "custom_stop",
+                        "french_stemmer"
+                    ]
+                },
+                "light_french": {
+                    "tokenizer": "standard",
+                    "filter": [
+                        "french_elision",
+                        "asciifolding",
+                        "lowercase",
+                        "french_stop"
+                    ]
+                },
+                "exact_french": {
+                    "tokenizer": "standard",
+                    "filter": [
+                        "lowercase"
+                    ]
+                }
+            }
+        }
+    },
+    "mappings": {
+        "properties": {
+            "id": {
+                "type": "keyword",
+                "index": false
+            },
+            "version": {
+                "type": "keyword",
+                "index": false
+            },
+            "source": {
+                "type": "keyword"
+            },
+            "jurisdiction": {
+                "type": "keyword"
+            },
+            "location": {
+                "type": "keyword"
+            },
+            "chamber": {
+                "type": "keyword"
+            },
+            "number": {
+                "type": "keyword"
+            },
+            "numberFull": {
+                "type": "keyword",
+                "index": false
+            },
+            "ecli": {
+                "type": "keyword"
+            },
+            "nac": {
+                "type": "keyword"
+            },
+            "portalis": {
+                "type": "keyword"
+            },
+            "formation": {
+                "type": "keyword"
+            },
+            "publication": {
+                "type": "keyword"
+            },
+            "decision_date": {
+                "type": "date",
+                "format": "yyyy-MM-dd"
+            },
+            "update_date": {
+                "type": "date",
+                "format": "yyyy-MM-dd"
+            },
+            "solution": {
+                "type": "keyword"
+            },
+            "type": {
+                "type": "keyword"
+            },
+            "solution_alt": {
+                "type": "text",
+                "analyzer": "light_french"
+            },
+            "text": {
+                "type": "text",
+                "analyzer": "medium_french",
+                "fields": {
+                    "exact": {
+                        "type": "text",
+                        "analyzer": "exact_french"
+                    }
+                }
+            },
+            "zoneIntroduction": {
+                "type": "text",
+                "analyzer": "medium_french",
+                "fields": {
+                    "exact": {
+                        "type": "text",
+                        "analyzer": "exact_french"
+                    }
+                }
+            },
+            "zoneExpose": {
+                "type": "text",
+                "analyzer": "medium_french",
+                "fields": {
+                    "exact": {
+                        "type": "text",
+                        "analyzer": "exact_french"
+                    }
+                }
+            },
+            "zoneMoyens": {
+                "type": "text",
+                "analyzer": "medium_french",
+                "fields": {
+                    "exact": {
+                        "type": "text",
+                        "analyzer": "exact_french"
+                    }
+                }
+            },
+            "zoneMotivations": {
+                "type": "text",
+                "analyzer": "medium_french",
+                "fields": {
+                    "exact": {
+                        "type": "text",
+                        "analyzer": "exact_french"
+                    }
+                }
+            },
+            "zoneDispositif": {
+                "type": "text",
+                "analyzer": "medium_french",
+                "fields": {
+                    "exact": {
+                        "type": "text",
+                        "analyzer": "exact_french"
+                    }
+                }
+            },
+            "zoneAnnexes": {
+                "type": "text",
+                "analyzer": "medium_french",
+                "fields": {
+                    "exact": {
+                        "type": "text",
+                        "analyzer": "exact_french"
+                    }
+                }
+            },
+            "themes": {
+                "type": "text",
+                "analyzer": "medium_french",
+                "fields": {
+                    "exact": {
+                        "type": "text",
+                        "analyzer": "exact_french"
+                    }
+                }
+            },
+            "themesFilter": {
+                "type": "keyword"
+            },
+            "summary": {
+                "type": "text",
+                "analyzer": "medium_french",
+                "fields": {
+                    "exact": {
+                        "type": "text",
+                        "analyzer": "exact_french"
+                    }
+                }
+            },
+            "visa": {
+                "type": "text",
+                "analyzer": "light_french"
+            },
+            "bulletin": {
+                "type": "keyword"
+            },
+            "contested": {
+                "type": "flattened",
+                "index": false
+            },
+            "forward": {
+                "type": "flattened",
+                "index": false
+            },
+            "rapprochements": {
+                "type": "flattened",
+                "index": false
+            },
+            "files": {
+                "type": "flattened",
+                "index": false
+            },
+            "fileType": {
+                "type": "keyword"
+            },
+            "zones": {
+                "type": "flattened",
+                "index": false
+            },
+            "lowInterest": {
+                "type": "boolean"
+            },
+            "partial": {
+                "type": "boolean",
+                "index": false
+            },
+            "timeline": {
+                "type": "flattened",
+                "index": false
+            },
+            "displayText": {
+                "type": "text",
+                "analyzer": "medium_french",
+                "fields": {
+                    "exact": {
+                        "type": "text",
+                        "analyzer": "exact_french"
+                    }
+                }
+            },
+            "legacy": {
+                "type": "flattened",
+                "index": true
+            },
+            "decision_datetime": {
+                "type": "date"
+            },
+            "update_datetime": {
+                "type": "date"
+            },
+            "titlesAndSummaries": {
+                "type": "flattened",
+                "index": false
+            },
+            "particularInterest": {
+                "type": "boolean"
+            }
+        }
+    }
+}

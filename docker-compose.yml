@@ -11,6 +11,9 @@ services:
       - dbsder-mongo-storage:/data/db-sder/db
     ports:
       - ${DBSDER_PORT}:${DBSDER_PORT}
+    profiles:
+      - publication
+      - normalisation
 
   labeldb:
     container_name: ${LABELDB_NAME}
@@ -22,6 +25,8 @@ services:
       - label-mongo-storage:/data/db
     ports:
       - ${LABELDB_PORT}:${LABELDB_PORT}
+    profiles:
+      - label
 
   dbdsi:
     image: oracle/database:18.4.0-xe
@@ -34,6 +39,9 @@ services:
     volumes:
       - oracle-data:/opt/oracle/oradata
       - ./fake-data/dbdsi/oracle_init.sql:/opt/oracle/scripts/startup/oracle_init.sql
+    profiles:
+      - publication
+      - normalisation
 
   dbelastic:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.17.24
@@ -45,6 +53,8 @@ services:
       - ${DB_ELASTIC_EXTERNAL_PORT}:9200
     volumes:
       - elastic-data:/usr/share/elasticsearch/data
+    profiles:
+      - publication
 
   kibana:
     image: docker.elastic.co/kibana/kibana:7.17.24
@@ -55,6 +65,9 @@ services:
       - dbelastic
     volumes:
       - ./.kibana/config:/usr/share/kibana/config
+    profiles:
+    - monitoring
+
 
   bucket:
     container_name: ${BUCKET_NAME}
@@ -68,6 +81,8 @@ services:
     environment:
       - MINIO_ROOT_USER=${BUCKET_USER}
       - MINIO_ROOT_PASSWORD=${BUCKET_PASS}
+    profiles:
+      - collection
 
   createbuckets:
     image: minio/mc
@@ -108,6 +123,8 @@ services:
       - "8080:8080"
     networks:
       - default
+    profiles:
+      - collection
 
   jurizonage-api:
     image: jurizonage-api
@@ -115,6 +132,8 @@ services:
       - API_PORT=8090
     ports:
       - 8090:8090
+    profiles:
+      - publication
 
   nlp-api:
     image: nlp-api
@@ -129,6 +148,8 @@ services:
       - API_PORT=8081
     volumes:
       - ./models:/nlp-api/models
+    profiles:
+     - normalisation
 
 volumes:
   dbsder-mongo-storage:

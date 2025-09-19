@@ -34,14 +34,14 @@ update_jurizonage() {
     echo "Build jurizonage image"
     cd $DIR_JURIZONAGE
     git pull $DIR_JURIZONAGE
-    docker build -t cour-de-cassation/nlp-jurizonage/local .
+    docker build -t cour-de-cassation/nlp-jurizonage:local .
 
     echo "Build jurizonage-api image"
     cd $DIR_JURIZONAGE_API
     git pull $DIR_JURIZONAGE_API
     docker build \
         --build-arg CI_REGISTRY=docker.io \
-        --build-arg CI_COMMIT_BRANCH=local \
+        --build-arg JURIZONAGE_VERSION=local \
         -t jurizonage-api .
 
     cd $DIR_PREVIOUS

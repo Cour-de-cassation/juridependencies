@@ -66,22 +66,24 @@ update_nlp() {
     docker build \
         --build-arg IMAGE_NAME=ubuntu:22.04 \
         --build-arg REQUIREMENTS_FILENAME=requirements.txt \
-        -t cour-de-cassation/nlp-jurispacy-tokenizer/local .
+        -t cour-de-cassation/nlp-jurispacy-tokenizer/cpu:local .
 
     echo "Build juritools image"
     cd $DIR_JURITOOLS
     git pull $DIR_JURITOOLS
     docker build \
         --build-arg CI_REGISTRY=docker.io \
-        --build-arg CI_COMMIT_BRANCH=local \
-        -t cour-de-cassation/nlp-juritools/local .
+        --build-arg HARDWARE_TARGET=cpu \
+        --build-arg JURISPACY_VERSION=local \
+        -t cour-de-cassation/nlp-juritools/cpu:local .
 
     echo "Build nlp-api image"
     cd $DIR_NLP_API
     git pull $DIR_NLP_API
     docker build \
         --build-arg CI_REGISTRY=docker.io \
-        --build-arg CI_COMMIT_BRANCH=local \
+        --build-arg HARDWARE_TARGET=cpu \
+        --build-arg JURITOOLS_VERSION=local \
         -t nlp-api .
 
     cd $DIR_PREVIOUS

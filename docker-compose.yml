@@ -2,7 +2,6 @@ name: opendata
 
 services:
   dbsder:
-    container_name: ${DBSDER_NAME}
     image: mongo:4.4
     environment:
       - MONGO_INITDB_DATABASE=${DBSDER_DATABASE}
@@ -13,7 +12,6 @@ services:
       - ${DBSDER_PORT}:${DBSDER_PORT}
 
   labeldb:
-    container_name: ${LABELDB_NAME}
     image: mongo:4.4
     environment:
       - MONGO_INITDB_DATABASE=${LABELDB_DATABASE}
@@ -25,7 +23,6 @@ services:
 
   dbdsi:
     image: oracle/database:18.4.0-xe
-    container_name: ${DBDSI_NAME}
     ports:
       - ${DBDSI_EXTERNAL_PORT}:1521
     environment:
@@ -37,7 +34,6 @@ services:
 
   dbelastic:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.17.24
-    container_name: ${DB_ELASTIC_NAME}
     environment:
       - discovery.type=single-node
       - ES_JAVA_OPTS=-Xms2048m -Xmx2048m
@@ -48,7 +44,6 @@ services:
 
   kibana:
     image: docker.elastic.co/kibana/kibana:7.17.24
-    container_name: kibana
     ports:
       - 5601:5601
     depends_on:
@@ -57,7 +52,6 @@ services:
       - ./.kibana/config:/usr/share/kibana/config
 
   bucket:
-    container_name: ${BUCKET_NAME}
     image: minio/minio:RELEASE.2023-02-27T18-10-45Z
     command: minio server /data --console-address :${BUCKET_CONSOLE_PORT}
     volumes:

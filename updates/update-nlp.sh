@@ -33,12 +33,12 @@ update_jurizonage() {
 
     echo "Build jurizonage image"
     cd $DIR_JURIZONAGE
-    git pull $DIR_JURIZONAGE
+    git pull
     docker build -t cour-de-cassation/nlp-jurizonage:local .
 
     echo "Build jurizonage-api image"
     cd $DIR_JURIZONAGE_API
-    git pull $DIR_JURIZONAGE_API
+    git pull
     docker build \
         --build-arg CI_REGISTRY=docker.io \
         --build-arg JURIZONAGE_VERSION=local \
@@ -62,7 +62,7 @@ update_nlp() {
 
     echo "Build jurispacy-tokenizer image"
     cd $DIR_JURISPACY_TOKENIZER
-    git pull $DIR_JURISPACY_TOKENIZER
+    git pull
     docker build \
         --build-arg IMAGE_NAME=ubuntu:22.04 \
         --build-arg REQUIREMENTS_FILENAME=requirements.txt \
@@ -70,7 +70,7 @@ update_nlp() {
 
     echo "Build juritools image"
     cd $DIR_JURITOOLS
-    git pull $DIR_JURITOOLS
+    git pull
     docker build \
         --build-arg CI_REGISTRY=docker.io \
         --build-arg HARDWARE_TARGET=cpu \
@@ -79,7 +79,7 @@ update_nlp() {
 
     echo "Build nlp-api image"
     cd $DIR_NLP_API
-    git pull $DIR_NLP_API
+    git pull
     docker build \
         --build-arg CI_REGISTRY=docker.io \
         --build-arg HARDWARE_TARGET=cpu \

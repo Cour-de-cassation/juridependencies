@@ -22,27 +22,19 @@ fi
 update_jurizonage() {
     DIR_PREVIOUS=$(pwd)
     DIR_JURIZONAGE=$(realpath "$DIR/nlp-jurizonage")
-    DIR_JURIZONAGE_API=$(realpath "$DIR/nlp-jurizonage-api")
 
-    if [ ! -d "$DIR_JURIZONAGE" ] || [ ! -d "$DIR_JURIZONAGE_API" ]; then
-        echo "One of this projects missing:"
-        echo "$DIR_JURIZONAGE"
-        echo "$DIR_JURIZONAGE_API"
+    if [ ! -d "$DIR_JURIZONAGE" ]; then
+        echo "$DIR_JURIZONAGE missing"
         return 1
     fi
 
     echo "Build jurizonage image"
     cd $DIR_JURIZONAGE
     git pull
-    docker build -t cour-de-cassation/nlp-jurizonage:local .
-
-    echo "Build jurizonage-api image"
-    cd $DIR_JURIZONAGE_API
-    git pull
     docker build \
-        --build-arg CI_REGISTRY=docker.io \
-        --build-arg JURIZONAGE_VERSION=local \
-        -t jurizonage-api .
+        -t cour-de-cassation/nlp-jurizonage:local \
+        -f api/api.Dockerfile \
+        .
 
     cd $DIR_PREVIOUS
 }
@@ -52,21 +44,10 @@ update_nlp() {
     DIR_JURITOOLS=$(realpath "$DIR/nlp-juritools")
     DIR_JURISPACY_TOKENIZER=$(realpath "$DIR/nlp-jurispacy-tokenizer")
 
-    if [ ! -d "$DIR_NLP_API" ] || [ ! -d "$DIR_JURITOOLS" ] || [ ! -d "$DIR_JURISPACY_TOKENIZER" ]; then
-        echo "One of this projects missing:"
-        echo "$DIR_NLP_API"
-        echo "$DIR_JURITOOLS"
-        echo "$DIR_JURISPACY_TOKENIZER"
+    if [ ! -d "$DIR_JURITOOLS" ]; then
+        echo "DIR_JURITOOLS missing:"
         return 1
     fi
-
-    echo "Build jurispacy-tokenizer image"
-    cd $DIR_JURISPACY_TOKENIZER
-    git pull
-    docker build \
-        --build-arg IMAGE_NAME=ubuntu:22.04 \
-        --build-arg REQUIREMENTS_FILENAME=requirements.txt \
-        -t cour-de-cassation/nlp-jurispacy-tokenizer/cpu:local .
 
     echo "Build juritools image"
     cd $DIR_JURITOOLS
@@ -75,17 +56,10 @@ update_nlp() {
         --build-arg CI_REGISTRY=docker.io \
         --build-arg HARDWARE_TARGET=cpu \
         --build-arg JURISPACY_VERSION=local \
-        -t cour-de-cassation/nlp-juritools/cpu:local .
-
-    echo "Build nlp-api image"
-    cd $DIR_NLP_API
-    git pull
-    docker build \
-        --build-arg CI_REGISTRY=docker.io \
-        --build-arg HARDWARE_TARGET=cpu \
-        --build-arg JURITOOLS_VERSION=local \
-        -t nlp-api .
-
+        -t cour-de-cassation/nlp-juritools/cpu:local \
+        -f api/api.Dockerfile \
+        .
+    
     cd $DIR_PREVIOUS
 }
 

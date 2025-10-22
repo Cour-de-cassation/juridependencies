@@ -27,10 +27,7 @@ set_sources () {
   fi
 }
 
-set_sources "nlp-api"
 set_sources "nlp-juritools"
-set_sources "nlp-jurispacy-tokenizer"
 set_sources "nlp-jurizonage"
-set_sources "nlp-jurizonage-api"
 
 bash $JURIDEPENDENCIES_DIR/updates/update-nlp.sh $DIR

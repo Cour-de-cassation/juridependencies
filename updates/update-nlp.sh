@@ -32,7 +32,7 @@ update_jurizonage() {
     cd $DIR_JURIZONAGE
     git pull
     docker build \
-        -t cour-de-cassation/nlp-jurizonage:local \
+        -t jurizonage-api \
         -f api/api.Dockerfile \
         .
 
@@ -40,9 +40,7 @@ update_jurizonage() {
 }
 
 update_nlp() {
-    DIR_NLP_API=$(realpath "$DIR/nlp-api")
     DIR_JURITOOLS=$(realpath "$DIR/nlp-juritools")
-    DIR_JURISPACY_TOKENIZER=$(realpath "$DIR/nlp-jurispacy-tokenizer")
 
     if [ ! -d "$DIR_JURITOOLS" ]; then
         echo "DIR_JURITOOLS missing:"
@@ -53,10 +51,7 @@ update_nlp() {
     cd $DIR_JURITOOLS
     git pull
     docker build \
-        --build-arg CI_REGISTRY=docker.io \
-        --build-arg HARDWARE_TARGET=cpu \
-        --build-arg JURISPACY_VERSION=local \
-        -t cour-de-cassation/nlp-juritools/cpu:local \
+        -t nlp-api \
         -f api/api.Dockerfile \
         .
     

@@ -1,0 +1,592 @@
+{
+  "entities": [
+    {
+      "text": "Gilles",
+      "start": 117,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_gilles",
+      "source": "postprocess",
+      "score": 1.0,
+      "end": 123
+    },
+    {
+      "text": "Bernadette",
+      "start": 124,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999580383300781,
+      "end": 134
+    },
+    {
+      "text": "DIJON",
+      "start": 399,
+      "category": "localite",
+      "entityId": "localite_dijon",
+      "source": "postprocess",
+      "score": 1.0,
+      "end": 404
+    },
+    {
+      "text": "Gilles",
+      "start": 805,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_gilles",
+      "source": "NER model",
+      "score": 0.9999877214431763,
+      "end": 811
+    },
+    {
+      "text": "Bernadette",
+      "start": 812,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999873638153076,
+      "end": 822
+    },
+    {
+      "text": "96, avenue Guillot",
+      "start": 892,
+      "category": "adresse",
+      "entityId": "adresse_96, avenue guillot",
+      "source": "NER model",
+      "score": 0.9998566508293152,
+      "end": 910
+    },
+    {
+      "text": "56257 Hernandez",
+      "start": 911,
+      "category": "localite",
+      "entityId": "localite_56257 hernandez",
+      "source": "NER model",
+      "score": 0.9869689643383026,
+      "end": 926
+    },
+    {
+      "text": "49, chemin Maurice Boutin",
+      "start": 1267,
+      "category": "adresse",
+      "entityId": "adresse_49, chemin maurice boutin",
+      "source": "NER model",
+      "score": 0.9998775720596313,
+      "end": 1292
+    },
+    {
+      "text": "04452 Saint Andrée",
+      "start": 1293,
+      "category": "localite",
+      "entityId": "localite_04452 saint andree",
+      "source": "NER model",
+      "score": 0.9947587847709656,
+      "end": 1311
+    },
+    {
+      "text": "rue Guilbert",
+      "start": 1504,
+      "category": "adresse",
+      "entityId": "adresse_rue guilbert",
+      "source": "NER model",
+      "score": 0.9991035163402557,
+      "end": 1516
+    },
+    {
+      "text": "74994 HamonBourg",
+      "start": 1517,
+      "category": "localite",
+      "entityId": "localite_74994 hamonbourg",
+      "source": "NER model",
+      "score": 0.9906845986843109,
+      "end": 1533
+    },
+    {
+      "text": "BATS",
+      "start": 2081,
+      "category": "localite",
+      "entityId": "localite_bats",
+      "source": "postprocess",
+      "score": 1.0,
+      "end": 2085
+    },
+    {
+      "text": "BATS",
+      "start": 2110,
+      "category": "localite",
+      "entityId": "localite_bats",
+      "source": "postprocess",
+      "score": 1.0,
+      "end": 2114
+    },
+    {
+      "text": "Gilles",
+      "start": 2964,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_gilles",
+      "source": "NER model",
+      "score": 0.9999701976776123,
+      "end": 2970
+    },
+    {
+      "text": "Édith",
+      "start": 2971,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_edith",
+      "source": "NER model",
+      "score": 0.9999650716781616,
+      "end": 2976
+    },
+    {
+      "text": "Bernadette",
+      "start": 2977,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999700784683228,
+      "end": 2987
+    },
+    {
+      "text": "Bernadette",
+      "start": 3487,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999887943267822,
+      "end": 3497
+    },
+    {
+      "text": "Bernadette",
+      "start": 3863,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999905824661255,
+      "end": 3873
+    },
+    {
+      "text": "Paris",
+      "start": 4063,
+      "category": "localite",
+      "entityId": "localite_paris",
+      "source": "postprocess",
+      "score": 1.0,
+      "end": 4068
+    },
+    {
+      "text": "Bernadette",
+      "start": 4189,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999918937683105,
+      "end": 4199
+    },
+    {
+      "text": "2, avenue de Baudry",
+      "start": 4611,
+      "category": "adresse",
+      "entityId": "adresse_2, avenue de baudry",
+      "source": "NER model",
+      "score": 0.9998223066329956,
+      "end": 4630
+    },
+    {
+      "text": "68219 Mace",
+      "start": 4631,
+      "category": "localite",
+      "entityId": "localite_68219 mace",
+      "source": "NER model",
+      "score": 0.9949538111686707,
+      "end": 4641
+    },
+    {
+      "text": "Bernadette",
+      "start": 4931,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "postprocess",
+      "score": 1.0,
+      "end": 4941
+    },
+    {
+      "text": "Bernadette",
+      "start": 5483,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999861717224121,
+      "end": 5493
+    },
+    {
+      "text": "Beaune",
+      "start": 5829,
+      "category": "localite",
+      "entityId": "localite_beaune",
+      "source": "postprocess",
+      "score": 1.0,
+      "end": 5835
+    },
+    {
+      "text": "Bernadette",
+      "start": 5967,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999926090240479,
+      "end": 5977
+    },
+    {
+      "text": "Bernadette",
+      "start": 6104,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999918937683105,
+      "end": 6114
+    },
+    {
+      "text": "Bernadette",
+      "start": 6347,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.999991774559021,
+      "end": 6357
+    },
+    {
+      "text": "Beaune",
+      "start": 6662,
+      "category": "localite",
+      "entityId": "localite_beaune",
+      "source": "postprocess",
+      "score": 1.0,
+      "end": 6668
+    },
+    {
+      "text": "Bernadette",
+      "start": 6936,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999911785125732,
+      "end": 6946
+    },
+    {
+      "text": "Bernadette",
+      "start": 7012,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999887943267822,
+      "end": 7022
+    },
+    {
+      "text": "Bernadette",
+      "start": 8027,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999902248382568,
+      "end": 8037
+    },
+    {
+      "text": "Bernadette",
+      "start": 8398,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999865293502808,
+      "end": 8408
+    },
+    {
+      "text": "Bernadette",
+      "start": 8814,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999853372573853,
+      "end": 8824
+    },
+    {
+      "text": "Bernadette",
+      "start": 8956,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999886751174927,
+      "end": 8966
+    },
+    {
+      "text": "Bernadette",
+      "start": 9505,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999881982803345,
+      "end": 9515
+    },
+    {
+      "text": "Bernadette",
+      "start": 12760,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999904632568359,
+      "end": 12770
+    },
+    {
+      "text": "Bernadette",
+      "start": 13023,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999927282333374,
+      "end": 13033
+    },
+    {
+      "text": "Bernadette",
+      "start": 13506,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999853372573853,
+      "end": 13516
+    },
+    {
+      "text": "Bernadette",
+      "start": 14087,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999887943267822,
+      "end": 14097
+    },
+    {
+      "text": "Beaune",
+      "start": 14362,
+      "category": "localite",
+      "entityId": "localite_beaune",
+      "source": "postprocess",
+      "score": 1.0,
+      "end": 14368
+    },
+    {
+      "text": "Bernadette",
+      "start": 14539,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999892711639404,
+      "end": 14549
+    },
+    {
+      "text": "Bernadette",
+      "start": 15154,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999892711639404,
+      "end": 15164
+    },
+    {
+      "text": "Bernadette",
+      "start": 15529,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999899864196777,
+      "end": 15539
+    },
+    {
+      "text": "Bernadette",
+      "start": 16245,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "postprocess",
+      "score": 1.0,
+      "end": 16255
+    },
+    {
+      "text": "Bernadette",
+      "start": 16973,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999899864196777,
+      "end": 16983
+    },
+    {
+      "text": "Bernadette",
+      "start": 17380,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999899864196777,
+      "end": 17390
+    },
+    {
+      "text": "Bernadette",
+      "start": 18405,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999892711639404,
+      "end": 18415
+    },
+    {
+      "text": "Bernadette",
+      "start": 19353,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999905824661255,
+      "end": 19363
+    },
+    {
+      "text": "Bernadette",
+      "start": 20344,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999873638153076,
+      "end": 20354
+    },
+    {
+      "text": "Bernadette",
+      "start": 21602,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "postprocess",
+      "score": 1.0,
+      "end": 21612
+    },
+    {
+      "text": "Bernadette",
+      "start": 21917,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999914169311523,
+      "end": 21927
+    },
+    {
+      "text": "Bernadette",
+      "start": 22410,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999879598617554,
+      "end": 22420
+    },
+    {
+      "text": "Bernadette",
+      "start": 23447,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999891519546509,
+      "end": 23457
+    },
+    {
+      "text": "Bernadette",
+      "start": 23940,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "postprocess",
+      "score": 1.0,
+      "end": 23950
+    },
+    {
+      "text": "Bernadette",
+      "start": 24076,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999901056289673,
+      "end": 24086
+    },
+    {
+      "text": "Bernadette",
+      "start": 24286,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.99998939037323,
+      "end": 24296
+    },
+    {
+      "text": "Bernadette",
+      "start": 26092,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999858140945435,
+      "end": 26102
+    },
+    {
+      "text": "Bernadette",
+      "start": 26951,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999890327453613,
+      "end": 26961
+    },
+    {
+      "text": "Gilles",
+      "start": 27472,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_gilles",
+      "source": "NER model",
+      "score": 0.9999887943267822,
+      "end": 27478
+    },
+    {
+      "text": "Édith",
+      "start": 27480,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_edith",
+      "source": "NER model",
+      "score": 0.999974250793457,
+      "end": 27485
+    },
+    {
+      "text": "Bernadette",
+      "start": 27486,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999792575836182,
+      "end": 27496
+    },
+    {
+      "text": "Bernadette",
+      "start": 27930,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_bernadette",
+      "source": "NER model",
+      "score": 0.9999905824661255,
+      "end": 27940
+    }
+  ],
+  "checklist": [],
+  "additionalTermsParsingFailed": false,
+  "additionalTermsToAnnotate": [],
+  "additionalTermsToUnAnnotate": [],
+  "versions": {
+    "juriSpacyTokenizer": {
+      "version": "1.2.0",
+      "date": "2025-11-10 15:42:15.381592"
+    },
+    "juritools": {
+      "version": "0.16.10",
+      "date": "2025-11-24 13:17:48.806354"
+    },
+    "nlpApi": {
+      "version": "0.7.1",
+      "date": "2025-11-24 13:23:42.226544"
+    },
+    "model": {
+      "name": "model_camembert_crf_02272024.pt"
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+    "entities": [
+        {
+            "text": "LANNISTER",
+            "start": 72,
+            "category": "professionnelMagistratGreffier",
+            "entityId": "professionnelMagistratGreffier_lannister",
+            "source": "NER model",
+            "score": 0.9997405409812927,
+            "end": 81
+        },
+        {
+            "text": "DUPONT",
+            "start": 328,
+            "category": "personnePhysique",
+            "entityId": "personnePhysique_dupont",
+            "source": "NER model",
+            "score": 0.9999791383743286,
+            "end": 334
+        },
+        {
+            "text": "DUBOIS",
+            "start": 335,
+            "category": "personnePhysique",
+            "entityId": "personnePhysique_dubois",
+            "source": "NER model",
+            "score": 0.9987587928771973,
+            "end": 341
+        },
+        {
+            "text": "Targaryien",
+            "start": 664,
+            "category": "professionnelMagistratGreffier",
+            "entityId": "professionnelMagistratGreffier_targaryien",
+            "source": "NER model",
+            "score": 0.9998692274093628,
+            "end": 674
+        },
+        {
+            "text": "Riri, Fifi et Loulou",
+            "start": 715,
+            "category": "professionnelAvocat",
+            "entityId": "professionnelAvocat_riri, fifi et loulou",
+            "source": "NER model",
+            "score": 0.9999675273895263,
+            "end": 735
+        },
+        {
+            "text": "DUPONT\\nDUBOIS",
+            "start": 750,
+            "category": "personnePhysique",
+            "entityId": "personnePhysique_dupont\\ndubois",
+            "source": "NER model",
+            "score": 0.9996531009674072,
+            "end": 764
+        },
+        {
+            "text": "Stark",
+            "start": 791,
+            "category": "professionnelMagistratGreffier",
+            "entityId": "professionnelMagistratGreffier_stark",
+            "source": "NER model",
+            "score": 0.9998385906219482,
+            "end": 796
+        },
+        {
+            "text": "Lannister",
+            "start": 889,
+            "category": "professionnelMagistratGreffier",
+            "entityId": "professionnelMagistratGreffier_lannister",
+            "source": "NER model",
+            "score": 0.9998902082443237,
+            "end": 898
+        },
+        {
+            "text": "Targaryien",
+            "start": 999,
+            "category": "professionnelMagistratGreffier",
+            "entityId": "professionnelMagistratGreffier_targaryien",
+            "source": "NER model",
+            "score": 0.9999030828475952,
+            "end": 1009
+        },
+        {
+            "text": "Littlefinger",
+            "start": 1037,
+            "category": "professionnelMagistratGreffier",
+            "entityId": "professionnelMagistratGreffier_littlefinger",
+            "source": "NER model",
+            "score": 0.9999148845672607,
+            "end": 1049
+        },
+        {
+            "text": "Tyrell",
+            "start": 1083,
+            "category": "professionnelMagistratGreffier",
+            "entityId": "professionnelMagistratGreffier_tyrell",
+            "source": "NER model",
+            "score": 0.9998925924301147,
+            "end": 1089
+        },
+        {
+            "text": "DUPONT",
+            "start": 1496,
+            "category": "personnePhysique",
+            "entityId": "personnePhysique_dupont",
+            "source": "postprocess",
+            "score": 1.0,
+            "end": 1502
+        },
+        {
+            "text": "DUBOIS",
+            "start": 1503,
+            "category": "personnePhysique",
+            "entityId": "personnePhysique_dubois",
+            "source": "postprocess",
+            "score": 1.0,
+            "end": 1509
+        }
+    ],
+    "checklist": [],
+    "additionalTermsParsingFailed": false,
+    "additionalTermsToAnnotate": [],
+    "additionalTermsToUnAnnotate": [],
+    "versions": {
+        "juriSpacyTokenizer": {
+            "version": "1.2.0",
+            "date": "2025-11-10 15:42:15.381592"
+        },
+        "juritools": {
+            "version": "0.16.10",
+            "date": "2025-11-24 13:17:48.806354"
+        },
+        "nlpApi": {
+            "version": "0.7.1",
+            "date": "2025-11-24 13:23:42.226544"
+        },
+        "model": {
+            "name": "model_camembert_crf_02272024.pt"
+        }
+    }
+}

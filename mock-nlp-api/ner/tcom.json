@@ -1,0 +1,52 @@
+{
+  "entities": [
+    {
+      "text": "3 rue des églantine",
+      "start": 329,
+      "category": "adresse",
+      "entityId": "adresse_3 rue des eglantine",
+      "source": "NER model",
+      "score": 0.9998452216386795,
+      "end": 348
+    },
+    {
+      "text": "Tyrion",
+      "start": 2805,
+      "category": "professionnelMagistratGreffier",
+      "entityId": "professionnelMagistratGreffier_tyrion",
+      "source": "NER model",
+      "score": 0.9998695850372314,
+      "end": 2811
+    },
+    {
+      "text": "LANNISTER",
+      "start": 2812,
+      "category": "professionnelMagistratGreffier",
+      "entityId": "professionnelMagistratGreffier_lannister",
+      "source": "NER model",
+      "score": 0.9998699426651001,
+      "end": 2821
+    }
+  ],
+  "checklist": [],
+  "additionalTermsParsingFailed": false,
+  "additionalTermsToAnnotate": [],
+  "additionalTermsToUnAnnotate": [],
+  "versions": {
+    "juriSpacyTokenizer": {
+      "version": "1.2.0",
+      "date": "2025-11-10 15:42:15.381592"
+    },
+    "juritools": {
+      "version": "0.16.10",
+      "date": "2025-11-24 13:17:48.806354"
+    },
+    "nlpApi": {
+      "version": "0.7.1",
+      "date": "2025-11-25 13:03:04.328209"
+    },
+    "model": {
+      "name": "model_camembert_crf_02272024.pt"
+    }
+  }
+}

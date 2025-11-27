@@ -92,7 +92,7 @@ services:
       "
   keycloak:
     image: quay.io/keycloak/keycloak:26.1.2
-    command: [ "start-dev", "--import-realm" ]
+    command: ["start-dev", "--import-realm"]
     environment:
       - KC_BOOTSTRAP_ADMIN_USERNAME=admin
       - KC_BOOTSTRAP_ADMIN_PASSWORD=admin
@@ -123,6 +123,15 @@ services:
       - API_PORT=8081
     volumes:
       - ./models:/nlp-api/models
+
+  # mock-nlp-api:
+  #   build:
+  #     context: mock-nlp-api
+  #     dockerfile: Dockerfile
+  #   ports:
+  #     - 8081:8081
+  #   environment:
+  #     - API_PORT=8081
 
 volumes:
   dbsder-mongo-storage:

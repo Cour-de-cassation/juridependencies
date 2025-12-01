@@ -1,342 +1,277 @@
 {
   "entities": [
     {
-      "text": "Lannister</PRESIDENT><CONSRAP",
-      "start": 445,
-      "category": "personnePhysique",
-      "entityId": "personnePhysique_lannister</president><consrap",
+      "text": "Lannister",
+      "start": 95,
+      "category": "professionnelMagistratGreffier",
+      "entityId": "professionnelMagistratGreffier_lannister",
       "source": "NER model",
-      "score": 0.9999443292617798,
-      "end": 474
-    },
-    {
-      "text": "Leprieur</CONSRAP><AVOG",
-      "start": 479,
-      "category": "personnePhysique",
-      "entityId": "personnePhysique_leprieur</consrap><avog",
-      "source": "NER model",
-      "score": 0.9998564720153809,
-      "end": 502
-    },
-    {
-      "text": "Stark</AVOG><SOURCE></SOURCE><DOCTRINE></DOCTRINE><CAT_PUB",
-      "start": 506,
-      "category": "personnePhysique",
-      "entityId": "personnePhysique_stark</avog><source></source><doctrine></doctrine><cat_pub",
-      "source": "NER model",
-      "score": 0.9999781847000122,
-      "end": 564
+      "score": 0.9999442100524902,
+      "end": 104
     },
     {
       "text": "Philippe",
-      "start": 1081,
+      "start": 358,
       "category": "personnePhysique",
       "entityId": "personnePhysique_philippe",
       "source": "NER model",
-      "score": 0.9999896287918091,
-      "end": 1089
+      "score": 0.9999886751174927,
+      "end": 366
     },
     {
       "text": "Dominique",
-      "start": 1090,
+      "start": 367,
       "category": "personnePhysique",
       "entityId": "personnePhysique_dominique",
       "source": "NER model",
-      "score": 0.9999837875366211,
-      "end": 1099
+      "score": 0.9999874830245972,
+      "end": 376
+    },
+    {
+      "text": "Leprieur",
+      "start": 779,
+      "category": "professionnelMagistratGreffier",
+      "entityId": "professionnelMagistratGreffier_leprieur",
+      "source": "NER model",
+      "score": 0.9999759197235107,
+      "end": 787
+    },
+    {
+      "text": "Boucard-Maman",
+      "start": 828,
+      "category": "professionnelAvocat",
+      "entityId": "professionnelAvocat_boucard-maman",
+      "source": "NER model",
+      "score": 0.9999282360076904,
+      "end": 841
     },
     {
       "text": "Philippe",
-      "start": 1593,
+      "start": 856,
       "category": "personnePhysique",
       "entityId": "personnePhysique_philippe",
       "source": "NER model",
-      "score": 0.9999696016311646,
-      "end": 1601
+      "score": 0.9999727010726929,
+      "end": 864
     },
     {
       "text": "Dominique",
-      "start": 1602,
+      "start": 865,
       "category": "personnePhysique",
       "entityId": "personnePhysique_dominique",
       "source": "NER model",
-      "score": 0.9999610185623169,
-      "end": 1611
+      "score": 0.9999582767486572,
+      "end": 874
+    },
+    {
+      "text": "Stark",
+      "start": 901,
+      "category": "professionnelMagistratGreffier",
+      "entityId": "professionnelMagistratGreffier_stark",
+      "source": "NER model",
+      "score": 0.9999184608459473,
+      "end": 906
+    },
+    {
+      "text": "Lannister",
+      "start": 1004,
+      "category": "professionnelMagistratGreffier",
+      "entityId": "professionnelMagistratGreffier_lannister",
+      "source": "NER model",
+      "score": 0.9999688863754272,
+      "end": 1013
+    },
+    {
+      "text": "Leprieur",
+      "start": 1030,
+      "category": "professionnelMagistratGreffier",
+      "entityId": "professionnelMagistratGreffier_leprieur",
+      "source": "NER model",
+      "score": 0.9999769926071167,
+      "end": 1038
+    },
+    {
+      "text": "de Larosière de Champfeu",
+      "start": 1066,
+      "category": "professionnelMagistratGreffier",
+      "entityId": "professionnelMagistratGreffier_de larosiere de champfeu",
+      "source": "NER model",
+      "score": 0.9998443573713303,
+      "end": 1090
+    },
+    {
+      "text": "Sommier",
+      "start": 1125,
+      "category": "professionnelMagistratGreffier",
+      "entityId": "professionnelMagistratGreffier_sommier",
+      "source": "NER model",
+      "score": 0.999966025352478,
+      "end": 1132
     },
     {
       "text": "Philippe",
-      "start": 2271,
+      "start": 1522,
       "category": "personnePhysique",
       "entityId": "personnePhysique_philippe",
       "source": "NER model",
-      "score": 0.9999927282333374,
-      "end": 2279
+      "score": 0.9999938011169434,
+      "end": 1530
     },
     {
       "text": "Dominique",
-      "start": 2280,
+      "start": 1531,
       "category": "personnePhysique",
       "entityId": "personnePhysique_dominique",
       "source": "NER model",
-      "score": 0.9999912977218628,
-      "end": 2289
+      "score": 0.9999924898147583,
+      "end": 1540
     },
     {
       "text": "Jean",
-      "start": 2370,
+      "start": 1621,
       "category": "personnePhysique",
       "entityId": "personnePhysique_jean",
       "source": "NER model",
       "score": 0.9999910593032837,
-      "end": 2374
+      "end": 1625
     },
     {
       "text": "Antoinette",
-      "start": 2375,
+      "start": 1626,
       "category": "personnePhysique",
       "entityId": "personnePhysique_antoinette",
       "source": "NER model",
-      "score": 0.9900143146514893,
-      "end": 2385
+      "score": 0.9995112419128418,
+      "end": 1636
     },
     {
       "text": "Dominique",
-      "start": 2511,
+      "start": 1762,
       "category": "personnePhysique",
       "entityId": "personnePhysique_dominique",
       "source": "NER model",
       "score": 0.9999939203262329,
-      "end": 2520
+      "end": 1771
     },
     {
       "text": "Dominique",
-      "start": 2679,
+      "start": 1930,
       "category": "personnePhysique",
       "entityId": "personnePhysique_dominique",
       "source": "NER model",
       "score": 0.999994158744812,
-      "end": 2688
+      "end": 1939
     },
     {
       "text": "Dominique",
-      "start": 3545,
+      "start": 2796,
       "category": "personnePhysique",
       "entityId": "personnePhysique_dominique",
       "source": "NER model",
       "score": 0.9999939203262329,
-      "end": 3554
+      "end": 2805
     },
     {
       "text": "Antoinette",
-      "start": 3616,
+      "start": 2867,
       "category": "personnePhysique",
       "entityId": "personnePhysique_antoinette",
       "source": "NER model",
       "score": 0.9999929666519165,
-      "end": 3626
+      "end": 2877
     },
     {
       "text": "Antoinette",
-      "start": 4160,
+      "start": 3411,
       "category": "personnePhysique",
       "entityId": "personnePhysique_antoinette",
       "source": "NER model",
       "score": 0.9999910593032837,
-      "end": 4170
-    },
-    {
-      "text": "Aubry",
-      "start": 4277,
-      "category": "localite",
-      "entityId": "localite_aubry",
-      "source": "NER model",
-      "score": 0.9975212216377258,
-      "end": 4282
-    },
-    {
-      "text": "Clément-les-Bains",
-      "start": 4289,
-      "category": "localite",
-      "entityId": "localite_clement-les-bains",
-      "source": "NER model",
-      "score": 0.9986240863800049,
-      "end": 4306
-    },
-    {
-      "text": "Seguin",
-      "start": 4385,
-      "category": "localite",
-      "entityId": "localite_seguin",
-      "source": "NER model",
-      "score": 0.9987198114395142,
-      "end": 4391
+      "end": 3421
     },
     {
       "text": "Dominique",
-      "start": 5173,
+      "start": 4424,
       "category": "personnePhysique",
       "entityId": "personnePhysique_dominique",
       "source": "NER model",
       "score": 0.9999927282333374,
-      "end": 5182
-    },
-    {
-      "text": "Seguin",
-      "start": 5246,
-      "category": "localite",
-      "entityId": "localite_seguin",
-      "source": "NER model",
-      "score": 0.9990168809890747,
-      "end": 5252
+      "end": 4433
     },
     {
       "text": "Dominique",
-      "start": 6301,
+      "start": 5552,
       "category": "personnePhysique",
       "entityId": "personnePhysique_dominique",
       "source": "NER model",
       "score": 0.9999932050704956,
-      "end": 6310
-    },
-    {
-      "text": "Seguin",
-      "start": 6376,
-      "category": "localite",
-      "entityId": "localite_seguin",
-      "source": "NER model",
-      "score": 0.9987550973892212,
-      "end": 6382
+      "end": 5561
     },
     {
       "text": "Dominique",
-      "start": 6925,
+      "start": 6176,
       "category": "personnePhysique",
       "entityId": "personnePhysique_dominique",
       "source": "NER model",
       "score": 0.999992847442627,
-      "end": 6934
+      "end": 6185
     },
     {
       "text": "Dominique",
-      "start": 7585,
+      "start": 6836,
       "category": "personnePhysique",
       "entityId": "personnePhysique_dominique",
       "source": "NER model",
       "score": 0.9999939203262329,
-      "end": 7594
+      "end": 6845
     },
     {
       "text": "Dominique",
-      "start": 7806,
+      "start": 7057,
       "category": "personnePhysique",
       "entityId": "personnePhysique_dominique",
       "source": "NER model",
       "score": 0.9999939203262329,
-      "end": 7815
+      "end": 7066
     },
     {
       "text": "Dominique",
-      "start": 7942,
+      "start": 7193,
       "category": "personnePhysique",
       "entityId": "personnePhysique_dominique",
       "source": "NER model",
       "score": 0.9999934434890747,
-      "end": 7951
+      "end": 7202
     },
     {
       "text": "Antoinette",
-      "start": 7957,
+      "start": 7208,
       "category": "personnePhysique",
       "entityId": "personnePhysique_antoinette",
       "source": "NER model",
       "score": 0.9999918937683105,
-      "end": 7967
-    },
-    {
-      "text": "Seguin",
-      "start": 8124,
-      "category": "localite",
-      "entityId": "localite_seguin",
-      "source": "NER model",
-      "score": 0.9982315897941589,
-      "end": 8130
+      "end": 7218
     },
     {
       "text": "Dominique",
-      "start": 8458,
+      "start": 7709,
       "category": "personnePhysique",
       "entityId": "personnePhysique_dominique",
       "source": "NER model",
       "score": 0.9999929666519165,
-      "end": 8467
+      "end": 7718
     },
     {
       "text": "Seguin",
-      "start": 8846,
+      "start": 8097,
       "category": "personnePhysique",
       "entityId": "personnePhysique_seguin",
       "source": "NER model",
       "score": 0.9999215602874756,
-      "end": 8852
+      "end": 8103
     }
   ],
-  "checklist": [
-    {
-      "check_type": "different_categories",
-      "entities": [
-        {
-          "text": "Seguin",
-          "start": 4385,
-          "category": "localite",
-          "entityId": "localite_seguin",
-          "source": "NER model",
-          "score": 0.9987198114395142,
-          "end": 4391
-        },
-        {
-          "text": "Seguin",
-          "start": 5246,
-          "category": "localite",
-          "entityId": "localite_seguin",
-          "source": "NER model",
-          "score": 0.9990168809890747,
-          "end": 5252
-        },
-        {
-          "text": "Seguin",
-          "start": 6376,
-          "category": "localite",
-          "entityId": "localite_seguin",
-          "source": "NER model",
-          "score": 0.9987550973892212,
-          "end": 6382
-        },
-        {
-          "text": "Seguin",
-          "start": 8124,
-          "category": "localite",
-          "entityId": "localite_seguin",
-          "source": "NER model",
-          "score": 0.9982315897941589,
-          "end": 8130
-        },
-        {
-          "text": "Seguin",
-          "start": 8846,
-          "category": "personnePhysique",
-          "entityId": "personnePhysique_seguin",
-          "source": "NER model",
-          "score": 0.9999215602874756,
-          "end": 8852
-        }
-      ],
-      "sentences": [],
-      "metadata_text": [],
-      "message": "L'annotation \"Seguin\" est présente dans différentes catégories: ['Personne physique', 'Localité']",
-      "short_message": "\"Seguin\" [personnePhysique] ou [localite] ?",
-      "_rank": 2
-    }
-  ],
+  "checklist": [],
   "additionalTermsParsingFailed": false,
   "additionalTermsToAnnotate": [],
   "additionalTermsToUnAnnotate": [],
@@ -351,7 +286,7 @@
     },
     "nlpApi": {
       "version": "0.7.1",
-      "date": "2025-11-24 13:23:42.226544"
+      "date": "2025-11-25 13:03:04.328209"
     },
     "model": {
       "name": "model_camembert_crf_02272024.pt"

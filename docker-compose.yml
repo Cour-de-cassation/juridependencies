@@ -71,9 +71,7 @@ services:
       /bin/sh -c " 
         /usr/bin/mc config host add myminio http://${BUCKET_NAME}:${BUCKET_PORT} ${BUCKET_USER} ${BUCKET_PASS}; 
         /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITJ_NAME_RAW} && 
-        /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITJ_NAME_NORMALIZED} && 
         /usr/bin/mc policy download myminio/${BUCKET_JURITJ_NAME_RAW} && 
-        /usr/bin/mc policy download myminio/${BUCKET_JURITJ_NAME_NORMALIZED} && 
         /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_RAW} && 
         /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_NORMALIZED} && 
         /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_PDF2TEXT_SUCCESS} && 

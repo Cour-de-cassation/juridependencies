@@ -2,30 +2,30 @@
   "entities": [
     {
       "text": "3 rue des églantines",
-      "start": 306,
+      "start": 325,
       "category": "adresse",
       "entityId": "adresse_3 rue des eglantines",
       "source": "NER model",
-      "score": 0.9998729079961777,
-      "end": 326
+      "score": 0.9998806864023209,
+      "end": 345
     },
     {
       "text": "Tyrion",
-      "start": 2743,
+      "start": 2762,
       "category": "professionnelMagistratGreffier",
       "entityId": "professionnelMagistratGreffier_tyrion",
       "source": "NER model",
       "score": 0.9998764991760254,
-      "end": 2749
+      "end": 2768
     },
     {
       "text": "LANNISTER",
-      "start": 2750,
+      "start": 2769,
       "category": "professionnelMagistratGreffier",
       "entityId": "professionnelMagistratGreffier_lannister",
       "source": "NER model",
       "score": 0.9999030828475952,
-      "end": 2759
+      "end": 2778
     }
   ],
   "checklist": [],

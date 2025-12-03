@@ -9,8 +9,12 @@ if ! [ -f "$JURIDEPENDENCIES_DIR/.env" ]; then
 fi
 
 SETUP_MODELS_DEPENDENCIES="rclone"
-if ! dpkg -s $SETUP_MODELS_DEPENDENCIES &>/dev/null; then
-    sudo -S apt install $SETUP_MODELS_DEPENDENCIES
+if ! dpkg -s $SETUP_MODELS_DEPENDENCIES &>/dev/null ; then
+    if grep -q "^ID_LIKE=debian" /etc/os-release || grep -q "^ID=debian" /etc/os-release; then
+        sudo -S apt install "$SETUP_MODELS_DEPENDENCIES"
+    elif grep -q "^ID_LIKE=arch" /etc/os-release; then
+        sudo pacman -Sy rclone
+    fi
 fi
 
 S3_ACCESS_KEY=$(grep '^S3_ACCESS_KEY=' $JURIDEPENDENCIES_DIR/.env | cut -c 15-)

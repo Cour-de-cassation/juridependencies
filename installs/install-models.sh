@@ -8,13 +8,27 @@ if ! [ -f "$JURIDEPENDENCIES_DIR/.env" ]; then
     exit 1
 fi
 
-SETUP_MODELS_DEPENDENCIES="rclone"
-if ! dpkg -s $SETUP_MODELS_DEPENDENCIES &>/dev/null ; then
-    if grep -q "^ID_LIKE=debian" /etc/os-release || grep -q "^ID=debian" /etc/os-release; then
-        sudo -S apt install "$SETUP_MODELS_DEPENDENCIES"
-    elif grep -q "^ID_LIKE=arch" /etc/os-release; then
-        sudo pacman -Sy rclone
+install_debian_dependencies() {
+    SETUP_MODELS_DEPENDENCIES="rclone"
+    if ! dpkg -s $SETUP_MODELS_DEPENDENCIES &>/dev/null; then
+        sudo -S apt install $SETUP_MODELS_DEPENDENCIES
     fi
+}
+
+install_arch_dependencies() {
+    SETUP_MODELS_DEPENDENCIES="rclone"
+    if ! dpkg -s $SETUP_MODELS_DEPENDENCIES &>/dev/null; then
+        sudo pacman -Sy $SETUP_MODELS_DEPENDENCIES
+    fi
+}
+
+if grep -q "^ID_LIKE=debian" /etc/os-release || grep -q "^ID=debian" /etc/os-release; then
+    install_debian_dependencies
+elif grep -q "^ID_LIKE=arch" /etc/os-release; then
+    install_arch_dependencies
+else
+    echo "System unknown to install dependencies"
+    return 1
 fi
 
 S3_ACCESS_KEY=$(grep '^S3_ACCESS_KEY=' $JURIDEPENDENCIES_DIR/.env | cut -c 15-)

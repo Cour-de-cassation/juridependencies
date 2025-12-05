@@ -28,14 +28,26 @@ install_debian_dependencies() {
     fi
 }
 
+install_arch_dependencies() {
+    SETUP_ORACLE_DEPENDENCIES="unzip wget libaio"
+    if ! dpkg -s $SETUP_ORACLE_DEPENDENCIES &>/dev/null; then
+        sudo pacman -Sy $SETUP_ORACLE_DEPENDENCIES
+    fi
+}
+
 install_dependencies() {
     bash $INSTALLS_DIR/install-docker.sh
     bash $INSTALLS_DIR/install-node.sh
 
     if [ "$OS" = "ubuntu" ] && [ "${VERSION%%.*}" -ge "24" ]; then 
         install_ubuntu_dependencies
-    else 
+    elif grep -q "^ID_LIKE=debian" /etc/os-release || grep -q "^ID=debian" /etc/os-release; then
         install_debian_dependencies
+    elif grep -q "^ID_LIKE=arch" /etc/os-release; then
+        install_arch_dependencies
+    else
+        echo "System unknown to install dependencies"
+        return 1
     fi
 
     if [ -d "/opt/oracle" ]; then
@@ -50,10 +62,11 @@ install_dependencies() {
 
     if [ -f "$HOME/.bashrc" ]; then 
         echo -n  "export LD_LIBRARY_PATH=/opt/oracle/instantclient_23_4:\$LD_LIBRARY_PATH" >> $HOME/.bashrc 
-    fi
-
-    if [ -f "$HOME/.zshrc" ]; then 
+    elif [ -f "$HOME/.zshrc" ]; then 
         echo -n "export LD_LIBRARY_PATH=/opt/oracle/instantclient_23_4:\$LD_LIBRARY_PATH" >> $HOME/.zshrc 
+    else
+        echo "console .rc unknown"
+        echo "You need to add env variable: LD_LIBRARY_PATH=/opt/oracle/instantclient_23_4:\$LD_LIBRARY_PATH"
     fi
 }
 
@@ -81,7 +94,12 @@ setup_oracle_project() {
     fi
 
     echo "Docker building oracle for first time"
-    node $JURIDEPENDENCIES_DIR/fake-data/dbdsi/replace.js
+
+    DIR_PREVIOUS=$(pwd)
+    cd $JURIDEPENDENCIES_DIR/fake-data
+    npm i && node dbdsi/replace.js
+    cd $DIR_PREVIOUS
+
     docker compose -f $JURIDEPENDENCIES_DIR/docker-compose.yml up -d dbdsi
 
     echo "Waiting for Oracle setup. This could be long. Take a break, get a coffee. What else ?"

@@ -64,12 +64,12 @@ services:
       - MINIO_ROOT_PASSWORD=${BUCKET_PASS}
 
   createbuckets:
-    image: minio/mc
+    image: minio/mc:RELEASE.2025-08-13T08-35-41Z
     depends_on:
       - bucket
     entrypoint: > # source: https://github.com/minio/minio/issues/4769
       /bin/sh -c " 
-        /usr/bin/mc config host add myminio http://${BUCKET_NAME}:${BUCKET_PORT} ${BUCKET_USER} ${BUCKET_PASS}; 
+        /usr/bin/mc alias set myminio http://${BUCKET_NAME}:${BUCKET_PORT} ${BUCKET_USER} ${BUCKET_PASS}; 
         /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITJ_NAME_RAW} && 
         /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITJ_NAME_NORMALIZED} && 
         /usr/bin/mc policy download myminio/${BUCKET_JURITJ_NAME_RAW} && 
@@ -110,28 +110,28 @@ services:
     ports:
       - 8090:8090
 
-  nlp-api:
-    image: nlp-api
-    ports:
-      - 8081:8081
-    environment:
-      - MODEL_JURICA=models/${PSEUDO_API_MODEL}
-      - MODEL_JURIDOUTE=models/${MODEL_JURIDOUTE}
-      - TRAIN_VOCAB_JURIDOUTE=models/${TRAIN_VOCAB_JURIDOUTE}
-      - TRAIN_FEATURES_JURIDOUTE=models/${TRAIN_FEATURES_JURIDOUTE}
-      - MINERU_TOOLS_CONFIG_JSON=/nlp-api/models/${MINERU_CONFIG_JSON}
-      - API_PORT=8081
-    volumes:
-      - ./models:/nlp-api/models
-
-  # mock-nlp-api:
-  #   build:
-  #     context: mock-nlp-api
-  #     dockerfile: Dockerfile
+  # nlp-api:
+  #   image: nlp-api
   #   ports:
   #     - 8081:8081
   #   environment:
+  #     - MODEL_JURICA=models/${PSEUDO_API_MODEL}
+  #     - MODEL_JURIDOUTE=models/${MODEL_JURIDOUTE}
+  #     - TRAIN_VOCAB_JURIDOUTE=models/${TRAIN_VOCAB_JURIDOUTE}
+  #     - TRAIN_FEATURES_JURIDOUTE=models/${TRAIN_FEATURES_JURIDOUTE}
+  #     - MINERU_TOOLS_CONFIG_JSON=/nlp-api/models/${MINERU_CONFIG_JSON}
   #     - API_PORT=8081
+  #   volumes:
+  #     - ./models:/nlp-api/models
+
+  mock-nlp-api:
+    build:
+      context: mock-nlp-api
+      dockerfile: Dockerfile
+    ports:
+      - 8081:8081
+    environment:
+      - API_PORT=8081
 
 volumes:
   dbsder-mongo-storage:

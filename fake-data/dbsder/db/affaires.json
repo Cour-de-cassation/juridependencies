@@ -1,0 +1,3722 @@
+[
+  {
+    "_id": {
+      "$oid": "693bf0909e151a8d471da071"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf090ae502cb4e8ff1020"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0909e151a8d471da072"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf090ae502cb4e8ff1029"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0909e151a8d471da073"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf090ae502cb4e8ff1032"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0909e151a8d471da074"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf090ae502cb4e8ff103b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0909e151a8d471da075"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf090ae502cb4e8ff1045"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0909e151a8d471da076"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf090ae502cb4e8ff104e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0909e151a8d471da077"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf090ae502cb4e8ff1058"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0919e151a8d471da078"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf090ae502cb4e8ff1061"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0919e151a8d471da079"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf091ae502cb4e8ff106c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0919e151a8d471da07a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf091ae502cb4e8ff1075"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0919e151a8d471da07b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf091ae502cb4e8ff107e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0919e151a8d471da07c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf091ae502cb4e8ff1087"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0919e151a8d471da07d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf091ae502cb4e8ff1090"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0919e151a8d471da07e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf091ae502cb4e8ff1099"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0919e151a8d471da07f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf091ae502cb4e8ff10a2"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0929e151a8d471da080"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf091ae502cb4e8ff10ab"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0929e151a8d471da081"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf092ae502cb4e8ff10b4"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0929e151a8d471da082"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf092ae502cb4e8ff10bd"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0929e151a8d471da083"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf092ae502cb4e8ff10c6"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0929e151a8d471da084"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf092ae502cb4e8ff10cf"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0929e151a8d471da085"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf092ae502cb4e8ff10d9"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0939e151a8d471da086"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf092ae502cb4e8ff10e3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0939e151a8d471da087"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf093ae502cb4e8ff10ec"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0939e151a8d471da088"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf093ae502cb4e8ff10f5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0939e151a8d471da089"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf093ae502cb4e8ff10fe"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0939e151a8d471da08a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf093ae502cb4e8ff1107"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0939e151a8d471da08b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf093ae502cb4e8ff1110"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0939e151a8d471da08c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf093ae502cb4e8ff1119"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0939e151a8d471da08d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf093ae502cb4e8ff1122"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0949e151a8d471da08e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf094ae502cb4e8ff112b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0949e151a8d471da08f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf094ae502cb4e8ff1134"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0949e151a8d471da090"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf094ae502cb4e8ff113d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0949e151a8d471da091"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf094ae502cb4e8ff1146"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0949e151a8d471da092"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf094ae502cb4e8ff114f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0949e151a8d471da093"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf094ae502cb4e8ff1158"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0949e151a8d471da094"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf094ae502cb4e8ff1161"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0949e151a8d471da095"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf094ae502cb4e8ff116a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0949e151a8d471da096"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf094ae502cb4e8ff1173"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0949e151a8d471da097"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf094ae502cb4e8ff117c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0949e151a8d471da098"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf094ae502cb4e8ff1185"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0959e151a8d471da099"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf095ae502cb4e8ff118e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0959e151a8d471da09a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf095ae502cb4e8ff1197"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0959e151a8d471da09b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf095ae502cb4e8ff11a0"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0959e151a8d471da09c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf095ae502cb4e8ff11a9"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0959e151a8d471da09d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf095ae502cb4e8ff11b2"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0969e151a8d471da09e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf095ae502cb4e8ff11bb"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0969e151a8d471da09f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf096ae502cb4e8ff11c5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0969e151a8d471da0a0"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf096ae502cb4e8ff11ce"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0969e151a8d471da0a1"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf096ae502cb4e8ff11d7"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0969e151a8d471da0a2"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf096ae502cb4e8ff11e0"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0969e151a8d471da0a3"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf096ae502cb4e8ff11e9"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0979e151a8d471da0a4"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf096ae502cb4e8ff11f2"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0979e151a8d471da0a5"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf097ae502cb4e8ff11fb"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0979e151a8d471da0a6"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf097ae502cb4e8ff1204"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0979e151a8d471da0a7"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf097ae502cb4e8ff120d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0979e151a8d471da0a8"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf097ae502cb4e8ff1216"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0979e151a8d471da0a9"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf097ae502cb4e8ff121f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0989e151a8d471da0aa"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf098ae502cb4e8ff1228"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0989e151a8d471da0ab"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf098ae502cb4e8ff1231"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0989e151a8d471da0ac"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf098ae502cb4e8ff123a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0989e151a8d471da0ad"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf098ae502cb4e8ff1243"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0989e151a8d471da0ae"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf098ae502cb4e8ff124c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0989e151a8d471da0af"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf098ae502cb4e8ff1255"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0989e151a8d471da0b0"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf098ae502cb4e8ff125e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0989e151a8d471da0b1"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf098ae502cb4e8ff1267"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0999e151a8d471da0b2"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf099ae502cb4e8ff1270"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0999e151a8d471da0b3"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf099ae502cb4e8ff1279"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0999e151a8d471da0b4"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf099ae502cb4e8ff1282"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0999e151a8d471da0b5"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf099ae502cb4e8ff128b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0999e151a8d471da0b6"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf099ae502cb4e8ff1294"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0999e151a8d471da0b7"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf099ae502cb4e8ff129f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09a9e151a8d471da0b8"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09aae502cb4e8ff12a9"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09a9e151a8d471da0b9"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09aae502cb4e8ff12b2"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09a9e151a8d471da0ba"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09aae502cb4e8ff12bb"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09a9e151a8d471da0bb"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09aae502cb4e8ff12c4"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09a9e151a8d471da0bc"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09aae502cb4e8ff12cd"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09a9e151a8d471da0bd"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09aae502cb4e8ff12d8"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09b9e151a8d471da0be"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09bae502cb4e8ff12e3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09b9e151a8d471da0bf"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09bae502cb4e8ff12ee"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09b9e151a8d471da0c0"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09bae502cb4e8ff12f7"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09b9e151a8d471da0c1"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09bae502cb4e8ff1300"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09b9e151a8d471da0c2"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09bae502cb4e8ff1309"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09b9e151a8d471da0c3"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09bae502cb4e8ff1312"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09c9e151a8d471da0c4"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09cae502cb4e8ff131b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09c9e151a8d471da0c5"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09cae502cb4e8ff1324"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09c9e151a8d471da0c6"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09cae502cb4e8ff132d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09c9e151a8d471da0c7"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09cae502cb4e8ff1336"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09d9e151a8d471da0c8"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09dae502cb4e8ff1341"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09d9e151a8d471da0c9"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09dae502cb4e8ff134a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09d9e151a8d471da0ca"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09dae502cb4e8ff1353"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09d9e151a8d471da0cb"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09dae502cb4e8ff135c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09d9e151a8d471da0cc"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09dae502cb4e8ff1365"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09d9e151a8d471da0cd"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09dae502cb4e8ff136e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09e9e151a8d471da0ce"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09eae502cb4e8ff1377"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09e9e151a8d471da0cf"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09eae502cb4e8ff1380"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09e9e151a8d471da0d0"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09eae502cb4e8ff1389"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09e9e151a8d471da0d1"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09eae502cb4e8ff1392"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09e9e151a8d471da0d2"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09eae502cb4e8ff139b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09e9e151a8d471da0d3"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09eae502cb4e8ff13a4"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09f9e151a8d471da0d4"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09fae502cb4e8ff13ad"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09f9e151a8d471da0d5"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09fae502cb4e8ff13b6"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09f9e151a8d471da0d6"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09fae502cb4e8ff13bf"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09f9e151a8d471da0d7"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09fae502cb4e8ff13c8"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09f9e151a8d471da0d8"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09fae502cb4e8ff13d1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09f9e151a8d471da0d9"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09fae502cb4e8ff13da"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09f9e151a8d471da0da"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09fae502cb4e8ff13e3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09f9e151a8d471da0db"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09fae502cb4e8ff13ec"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09f9e151a8d471da0dc"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09fae502cb4e8ff13f5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf09f9e151a8d471da0dd"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf09fae502cb4e8ff13fe"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a09e151a8d471da0de"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a0ae502cb4e8ff1407"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a09e151a8d471da0df"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a0ae502cb4e8ff1411"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a09e151a8d471da0e0"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a0ae502cb4e8ff141a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a09e151a8d471da0e1"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a0ae502cb4e8ff1423"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a09e151a8d471da0e2"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a0ae502cb4e8ff142c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a09e151a8d471da0e3"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a0ae502cb4e8ff1435"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a09e151a8d471da0e4"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a0ae502cb4e8ff143e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a19e151a8d471da0e5"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a1ae502cb4e8ff1447"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a19e151a8d471da0e6"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a1ae502cb4e8ff1450"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a19e151a8d471da0e7"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a1ae502cb4e8ff1459"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a19e151a8d471da0e8"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a1ae502cb4e8ff1462"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a19e151a8d471da0e9"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a1ae502cb4e8ff146b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a19e151a8d471da0ea"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a1ae502cb4e8ff1474"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a19e151a8d471da0eb"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a1ae502cb4e8ff147d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a19e151a8d471da0ec"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a1ae502cb4e8ff1486"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a19e151a8d471da0ed"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a1ae502cb4e8ff148f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a29e151a8d471da0ee"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a2ae502cb4e8ff1498"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a29e151a8d471da0ef"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a2ae502cb4e8ff14a1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a29e151a8d471da0f0"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a2ae502cb4e8ff14aa"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a29e151a8d471da0f1"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a2ae502cb4e8ff14b3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a29e151a8d471da0f2"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a2ae502cb4e8ff14bc"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a29e151a8d471da0f3"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a2ae502cb4e8ff14c5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a29e151a8d471da0f4"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a2ae502cb4e8ff14ce"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a29e151a8d471da0f5"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a2ae502cb4e8ff14d7"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a39e151a8d471da0f6"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a3ae502cb4e8ff14e0"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a39e151a8d471da0f7"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a3ae502cb4e8ff14e9"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a39e151a8d471da0f8"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a3ae502cb4e8ff14f2"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a39e151a8d471da0f9"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a3ae502cb4e8ff14fb"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a39e151a8d471da0fa"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a3ae502cb4e8ff1504"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a39e151a8d471da0fb"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a3ae502cb4e8ff150d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a39e151a8d471da0fc"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a3ae502cb4e8ff1516"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a49e151a8d471da0fd"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a4ae502cb4e8ff1522"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a49e151a8d471da0fe"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a4ae502cb4e8ff152c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a49e151a8d471da0ff"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a4ae502cb4e8ff1538"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a49e151a8d471da100"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a4ae502cb4e8ff1543"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a59e151a8d471da101"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a5ae502cb4e8ff1550"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a59e151a8d471da102"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a5ae502cb4e8ff155a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a59e151a8d471da103"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a5ae502cb4e8ff1564"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a59e151a8d471da104"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a5ae502cb4e8ff156e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a59e151a8d471da105"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a5ae502cb4e8ff1578"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a59e151a8d471da106"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a5ae502cb4e8ff1582"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a69e151a8d471da107"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a6ae502cb4e8ff158c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a69e151a8d471da108"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a6ae502cb4e8ff1596"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a69e151a8d471da109"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a6ae502cb4e8ff15a0"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a79e151a8d471da10a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a6ae502cb4e8ff15ac"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a79e151a8d471da10b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a7ae502cb4e8ff15b6"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a79e151a8d471da10c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a7ae502cb4e8ff15c0"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a89e151a8d471da10d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a7ae502cb4e8ff15ca"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a89e151a8d471da10e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a8ae502cb4e8ff15d4"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a89e151a8d471da10f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a8ae502cb4e8ff15de"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a89e151a8d471da110"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a8ae502cb4e8ff15e8"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a99e151a8d471da111"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a9ae502cb4e8ff15f2"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a99e151a8d471da112"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a9ae502cb4e8ff15fc"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0a99e151a8d471da113"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0a9ae502cb4e8ff1606"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0aa9e151a8d471da114"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0aaae502cb4e8ff1611"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0aa9e151a8d471da115"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0aaae502cb4e8ff161b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0aa9e151a8d471da116"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0aaae502cb4e8ff1625"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ab9e151a8d471da117"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0abae502cb4e8ff162f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ab9e151a8d471da118"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0abae502cb4e8ff1639"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ab9e151a8d471da119"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0abae502cb4e8ff1643"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ab9e151a8d471da11a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0abae502cb4e8ff164d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ac9e151a8d471da11b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0acae502cb4e8ff1657"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ac9e151a8d471da11c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0acae502cb4e8ff1661"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ac9e151a8d471da11d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0acae502cb4e8ff166b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ad9e151a8d471da11e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0adae502cb4e8ff1675"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ad9e151a8d471da11f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0adae502cb4e8ff167f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ad9e151a8d471da120"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0adae502cb4e8ff1689"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ad9e151a8d471da121"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0adae502cb4e8ff1693"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ae9e151a8d471da122"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0aeae502cb4e8ff169e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ae9e151a8d471da123"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0aeae502cb4e8ff16a8"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ae9e151a8d471da124"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0aeae502cb4e8ff16b4"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0af9e151a8d471da125"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0afae502cb4e8ff16c2"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0af9e151a8d471da126"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0afae502cb4e8ff16cc"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0af9e151a8d471da127"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0afae502cb4e8ff16d6"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b09e151a8d471da128"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b0ae502cb4e8ff16e0"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b09e151a8d471da129"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b0ae502cb4e8ff16ea"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b09e151a8d471da12a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b0ae502cb4e8ff16f5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b19e151a8d471da12b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b1ae502cb4e8ff1700"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b19e151a8d471da12c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b1ae502cb4e8ff170a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b19e151a8d471da12d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b1ae502cb4e8ff1714"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b29e151a8d471da12e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b2ae502cb4e8ff171e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b29e151a8d471da12f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b2ae502cb4e8ff1728"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b29e151a8d471da130"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b2ae502cb4e8ff1732"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b39e151a8d471da131"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b3ae502cb4e8ff173c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b39e151a8d471da132"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b3ae502cb4e8ff1746"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b39e151a8d471da133"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b3ae502cb4e8ff1750"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b49e151a8d471da134"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b4ae502cb4e8ff175b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b49e151a8d471da135"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b4ae502cb4e8ff1765"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b49e151a8d471da136"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b4ae502cb4e8ff176f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b59e151a8d471da137"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b5ae502cb4e8ff1779"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b59e151a8d471da138"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b5ae502cb4e8ff1783"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b59e151a8d471da139"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b5ae502cb4e8ff178d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b69e151a8d471da13a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b6ae502cb4e8ff1797"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b69e151a8d471da13b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b6ae502cb4e8ff17a1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b79e151a8d471da13c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b6ae502cb4e8ff17ab"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b79e151a8d471da13d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b7ae502cb4e8ff17b5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b79e151a8d471da13e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b7ae502cb4e8ff17bf"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b89e151a8d471da13f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b8ae502cb4e8ff17ca"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b89e151a8d471da140"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b8ae502cb4e8ff17d4"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b89e151a8d471da141"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b8ae502cb4e8ff17de"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b89e151a8d471da142"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b8ae502cb4e8ff17ea"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b99e151a8d471da143"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b9ae502cb4e8ff17f8"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0b99e151a8d471da144"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b9ae502cb4e8ff1802"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ba9e151a8d471da145"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0b9ae502cb4e8ff180c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ba9e151a8d471da146"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0baae502cb4e8ff1816"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0bb9e151a8d471da147"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0baae502cb4e8ff1822"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0bb9e151a8d471da148"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0bbae502cb4e8ff182c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0bb9e151a8d471da149"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0bbae502cb4e8ff1836"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0bc9e151a8d471da14a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0bcae502cb4e8ff1840"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0bc9e151a8d471da14b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0bcae502cb4e8ff184a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0bc9e151a8d471da14c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0bcae502cb4e8ff1854"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0bd9e151a8d471da14d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0bcae502cb4e8ff185e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0bd9e151a8d471da14e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0bdae502cb4e8ff1868"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0bd9e151a8d471da14f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0bdae502cb4e8ff1872"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0be9e151a8d471da150"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0beae502cb4e8ff187d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0be9e151a8d471da151"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0beae502cb4e8ff1887"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0bf9e151a8d471da152"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0bfae502cb4e8ff1890"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0bf9e151a8d471da153"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0bfae502cb4e8ff1899"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c09e151a8d471da154"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0bfae502cb4e8ff18a2"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c09e151a8d471da155"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c0ae502cb4e8ff18ab"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c09e151a8d471da156"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c0ae502cb4e8ff18b4"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c09e151a8d471da157"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c0ae502cb4e8ff18bd"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c09e151a8d471da158"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c0ae502cb4e8ff18c6"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c19e151a8d471da159"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c1ae502cb4e8ff18cf"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c19e151a8d471da15a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c1ae502cb4e8ff18d8"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c19e151a8d471da15b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c1ae502cb4e8ff18e1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c19e151a8d471da15c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c1ae502cb4e8ff18ea"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c29e151a8d471da15d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c2ae502cb4e8ff18f4"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c29e151a8d471da15e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c2ae502cb4e8ff18fd"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c29e151a8d471da15f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c2ae502cb4e8ff1906"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c39e151a8d471da160"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c3ae502cb4e8ff1915"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c39e151a8d471da161"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c3ae502cb4e8ff191e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c39e151a8d471da162"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c3ae502cb4e8ff1927"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c49e151a8d471da163"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c4ae502cb4e8ff1930"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c49e151a8d471da164"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c4ae502cb4e8ff1939"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c59e151a8d471da165"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c5ae502cb4e8ff1944"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c59e151a8d471da166"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c5ae502cb4e8ff194d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c59e151a8d471da167"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c5ae502cb4e8ff1956"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c69e151a8d471da168"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c6ae502cb4e8ff195f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c69e151a8d471da169"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c6ae502cb4e8ff1968"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c69e151a8d471da16a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c6ae502cb4e8ff1971"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c69e151a8d471da16b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c6ae502cb4e8ff197a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c79e151a8d471da16c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c7ae502cb4e8ff1983"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c79e151a8d471da16d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c7ae502cb4e8ff198c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c79e151a8d471da16e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c7ae502cb4e8ff1995"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c89e151a8d471da16f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c8ae502cb4e8ff199f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c89e151a8d471da170"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c8ae502cb4e8ff19a8"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0c99e151a8d471da171"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0c9ae502cb4e8ff19b1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0cb9e151a8d471da172"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0caae502cb4e8ff19ba"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0cb9e151a8d471da173"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0cbae502cb4e8ff19c3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0cb9e151a8d471da174"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0cbae502cb4e8ff19cc"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0cb9e151a8d471da175"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0cbae502cb4e8ff19d5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0cc9e151a8d471da176"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0ccae502cb4e8ff19de"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0cc9e151a8d471da177"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0ccae502cb4e8ff19e8"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0cc9e151a8d471da178"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0ccae502cb4e8ff19f1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0cc9e151a8d471da179"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0ccae502cb4e8ff19fa"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0cc9e151a8d471da17a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0ccae502cb4e8ff1a04"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0cc9e151a8d471da17b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0ccae502cb4e8ff1a0e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0cd9e151a8d471da17c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0cdae502cb4e8ff1a1b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0cd9e151a8d471da17d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0cdae502cb4e8ff1a24"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ce9e151a8d471da17e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0cdae502cb4e8ff1a2d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ce9e151a8d471da17f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0ceae502cb4e8ff1a36"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0ce9e151a8d471da180"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0ceae502cb4e8ff1a3f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0cf9e151a8d471da181"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0cfae502cb4e8ff1a4a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0cf9e151a8d471da182"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0cfae502cb4e8ff1a53"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0cf9e151a8d471da183"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0cfae502cb4e8ff1a5c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d09e151a8d471da184"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d0ae502cb4e8ff1a65"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d09e151a8d471da185"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d0ae502cb4e8ff1a6e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d09e151a8d471da186"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d0ae502cb4e8ff1a77"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d19e151a8d471da187"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d1ae502cb4e8ff1a80"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d19e151a8d471da188"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d1ae502cb4e8ff1a89"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d19e151a8d471da189"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d1ae502cb4e8ff1a92"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d29e151a8d471da18a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d2ae502cb4e8ff1a9c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d29e151a8d471da18b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d2ae502cb4e8ff1aa5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d29e151a8d471da18c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d2ae502cb4e8ff1aae"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d39e151a8d471da18d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d3ae502cb4e8ff1ab7"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d39e151a8d471da18e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d3ae502cb4e8ff1ac0"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d39e151a8d471da18f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d3ae502cb4e8ff1ac9"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d49e151a8d471da190"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d4ae502cb4e8ff1ad2"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d49e151a8d471da191"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d4ae502cb4e8ff1adb"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d59e151a8d471da192"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d5ae502cb4e8ff1ae4"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d59e151a8d471da193"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d5ae502cb4e8ff1aed"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d59e151a8d471da194"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d5ae502cb4e8ff1af6"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d69e151a8d471da195"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d5ae502cb4e8ff1aff"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d69e151a8d471da196"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d6ae502cb4e8ff1b09"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d69e151a8d471da197"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d6ae502cb4e8ff1b12"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d79e151a8d471da198"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d6ae502cb4e8ff1b1d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d79e151a8d471da199"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d7ae502cb4e8ff1b2a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d79e151a8d471da19a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d7ae502cb4e8ff1b33"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d89e151a8d471da19b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d8ae502cb4e8ff1b3c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d89e151a8d471da19c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d8ae502cb4e8ff1b45"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d89e151a8d471da19d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d8ae502cb4e8ff1b4f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d99e151a8d471da19e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d9ae502cb4e8ff1b59"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0d99e151a8d471da19f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d9ae502cb4e8ff1b62"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0da9e151a8d471da1a0"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0d9ae502cb4e8ff1b6b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0da9e151a8d471da1a1"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0daae502cb4e8ff1b74"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0db9e151a8d471da1a2"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0dbae502cb4e8ff1b7d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0db9e151a8d471da1a3"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0dbae502cb4e8ff1b86"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0db9e151a8d471da1a4"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0dbae502cb4e8ff1b8f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0dc9e151a8d471da1a5"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0dbae502cb4e8ff1b98"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "693bf0dc9e151a8d471da1a6"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "693bf0dcae502cb4e8ff1ba2"
+      }
+    ],
+    "documentAssocieIds": []
+  }
+]

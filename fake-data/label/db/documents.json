@@ -1,7 +1,7 @@
 [
   {
     "_id": {
-      "$oid": "692ec99bade165818980f4e6"
+      "$oid": "693bf5a05dde024460c4b514"
     },
     "creationDate": 1764328995061,
     "decisionMetadata": {
@@ -47,7 +47,7 @@
       "sommaire": ""
     },
     "documentNumber": 1629391,
-    "externalId": "692ec8d669a83f77e209bc67",
+    "externalId": "693bf099ae502cb4e8ff1294",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -82,11 +82,11 @@
       "viewerNames": []
     },
     "status": "free",
-    "updateDate": 1764673948031
+    "updateDate": 1765537184919
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f4e9"
+      "$oid": "693bf5a05dde024460c4b517"
     },
     "creationDate": 1764328995040,
     "decisionMetadata": {
@@ -132,7 +132,7 @@
       "sommaire": ""
     },
     "documentNumber": 1632021,
-    "externalId": "692ec8d669a83f77e209bc62",
+    "externalId": "693bf099ae502cb4e8ff128b",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -167,11 +167,11 @@
       "viewerNames": []
     },
     "status": "free",
-    "updateDate": 1764673948069
+    "updateDate": 1765537184983
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f4ec"
+      "$oid": "693bf5a15dde024460c4b51a"
     },
     "creationDate": 1764328995020,
     "decisionMetadata": {
@@ -217,7 +217,7 @@
       "sommaire": ""
     },
     "documentNumber": 1632275,
-    "externalId": "692ec8d669a83f77e209bc5d",
+    "externalId": "693bf099ae502cb4e8ff1282",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -252,11 +252,11 @@
       "viewerNames": []
     },
     "status": "free",
-    "updateDate": 1764673948107
+    "updateDate": 1765537185031
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f4ef"
+      "$oid": "693bf5a15dde024460c4b51d"
     },
     "creationDate": 1764328994995,
     "decisionMetadata": {
@@ -302,7 +302,7 @@
       "sommaire": ""
     },
     "documentNumber": 1639236,
-    "externalId": "692ec8d669a83f77e209bc58",
+    "externalId": "693bf099ae502cb4e8ff1279",
     "loss": null,
     "priority": 4,
     "publicationCategory": [
@@ -337,11 +337,11 @@
       "viewerNames": []
     },
     "status": "free",
-    "updateDate": 1764673948140
+    "updateDate": 1765537185076
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f4f2"
+      "$oid": "693bf5a15dde024460c4b520"
     },
     "creationDate": 1764328994971,
     "decisionMetadata": {
@@ -387,7 +387,7 @@
       "sommaire": ""
     },
     "documentNumber": 1640444,
-    "externalId": "692ec8d669a83f77e209bc53",
+    "externalId": "693bf099ae502cb4e8ff1270",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -422,11 +422,11 @@
       "viewerNames": []
     },
     "status": "free",
-    "updateDate": 1764673948187
+    "updateDate": 1765537185117
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f4f5"
+      "$oid": "693bf5a15dde024460c4b523"
     },
     "creationDate": 1764328994951,
     "decisionMetadata": {
@@ -472,7 +472,7 @@
       "sommaire": ""
     },
     "documentNumber": 1642222,
-    "externalId": "692ec8d669a83f77e209bc4e",
+    "externalId": "693bf098ae502cb4e8ff1267",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -507,11 +507,11 @@
       "viewerNames": []
     },
     "status": "free",
-    "updateDate": 1764673948240
+    "updateDate": 1765537185161
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f4f8"
+      "$oid": "693bf5a15dde024460c4b526"
     },
     "creationDate": 1764328994928,
     "decisionMetadata": {
@@ -557,7 +557,7 @@
       "sommaire": ""
     },
     "documentNumber": 1649991,
-    "externalId": "692ec8d669a83f77e209bc49",
+    "externalId": "693bf098ae502cb4e8ff125e",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -592,11 +592,11 @@
       "viewerNames": []
     },
     "status": "free",
-    "updateDate": 1764673948293
+    "updateDate": 1765537185198
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f4fb"
+      "$oid": "693bf5a15dde024460c4b529"
     },
     "creationDate": 1764328994905,
     "decisionMetadata": {
@@ -642,7 +642,7 @@
       "sommaire": ""
     },
     "documentNumber": 1650596,
-    "externalId": "692ec8d669a83f77e209bc44",
+    "externalId": "693bf098ae502cb4e8ff1255",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -677,11 +677,11 @@
       "viewerNames": []
     },
     "status": "free",
-    "updateDate": 1764673948375
+    "updateDate": 1765537185239
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f4fe"
+      "$oid": "693bf5a15dde024460c4b52c"
     },
     "creationDate": 1764328994884,
     "decisionMetadata": {
@@ -727,7 +727,7 @@
       "sommaire": ""
     },
     "documentNumber": 1656692,
-    "externalId": "692ec8d669a83f77e209bc3f",
+    "externalId": "693bf098ae502cb4e8ff124c",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -762,11 +762,11 @@
       "viewerNames": []
     },
     "status": "free",
-    "updateDate": 1764673948452
+    "updateDate": 1765537185289
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f501"
+      "$oid": "693bf5a15dde024460c4b52f"
     },
     "creationDate": 1764328994862,
     "decisionMetadata": {
@@ -812,7 +812,7 @@
       "sommaire": ""
     },
     "documentNumber": 1660357,
-    "externalId": "692ec8d669a83f77e209bc3a",
+    "externalId": "693bf098ae502cb4e8ff1243",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -847,11 +847,11 @@
       "viewerNames": []
     },
     "status": "free",
-    "updateDate": 1764673948496
+    "updateDate": 1765537185326
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f504"
+      "$oid": "693bf5a15dde024460c4b532"
     },
     "creationDate": 1764328994839,
     "decisionMetadata": {
@@ -897,7 +897,7 @@
       "sommaire": ""
     },
     "documentNumber": 1663240,
-    "externalId": "692ec8d669a83f77e209bc35",
+    "externalId": "693bf098ae502cb4e8ff123a",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -932,11 +932,11 @@
       "viewerNames": []
     },
     "status": "free",
-    "updateDate": 1764673948540
+    "updateDate": 1765537185368
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f507"
+      "$oid": "693bf5a15dde024460c4b535"
     },
     "creationDate": 1764328994819,
     "decisionMetadata": {
@@ -982,7 +982,7 @@
       "sommaire": ""
     },
     "documentNumber": 1666266,
-    "externalId": "692ec8d669a83f77e209bc30",
+    "externalId": "693bf098ae502cb4e8ff1231",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -1017,11 +1017,11 @@
       "viewerNames": []
     },
     "status": "free",
-    "updateDate": 1764673948590
+    "updateDate": 1765537185417
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f50a"
+      "$oid": "693bf5a15dde024460c4b538"
     },
     "creationDate": 1764328994796,
     "decisionMetadata": {
@@ -1067,7 +1067,7 @@
       "sommaire": ""
     },
     "documentNumber": 1667165,
-    "externalId": "692ec8d669a83f77e209bc2b",
+    "externalId": "693bf098ae502cb4e8ff1228",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -1102,11 +1102,11 @@
       "viewerNames": []
     },
     "status": "free",
-    "updateDate": 1764673948662
+    "updateDate": 1765537185466
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f50d"
+      "$oid": "693bf5a15dde024460c4b53b"
     },
     "creationDate": 1764328994773,
     "decisionMetadata": {
@@ -1152,7 +1152,7 @@
       "sommaire": ""
     },
     "documentNumber": 1667244,
-    "externalId": "692ec8d669a83f77e209bc26",
+    "externalId": "693bf097ae502cb4e8ff121f",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -1187,11 +1187,11 @@
       "viewerNames": []
     },
     "status": "free",
-    "updateDate": 1764673948716
+    "updateDate": 1765537185511
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f510"
+      "$oid": "693bf5a15dde024460c4b53e"
     },
     "creationDate": 1764328994751,
     "decisionMetadata": {
@@ -1237,7 +1237,7 @@
       "sommaire": ""
     },
     "documentNumber": 1671009,
-    "externalId": "692ec8d669a83f77e209bc21",
+    "externalId": "693bf097ae502cb4e8ff1216",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -1272,11 +1272,11 @@
       "viewerNames": []
     },
     "status": "free",
-    "updateDate": 1764673948752
+    "updateDate": 1765537185557
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f513"
+      "$oid": "693bf5a15dde024460c4b541"
     },
     "creationDate": 1764328994728,
     "decisionMetadata": {
@@ -1322,7 +1322,7 @@
       "sommaire": ""
     },
     "documentNumber": 1671461,
-    "externalId": "692ec8d669a83f77e209bc1c",
+    "externalId": "693bf097ae502cb4e8ff120d",
     "loss": null,
     "priority": 4,
     "publicationCategory": [
@@ -1357,11 +1357,11 @@
       "viewerNames": []
     },
     "status": "toBePublished",
-    "updateDate": 1764674945651
+    "updateDate": 1765537644575
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f516"
+      "$oid": "693bf5a15dde024460c4b544"
     },
     "creationDate": 1764328994706,
     "decisionMetadata": {
@@ -1407,7 +1407,7 @@
       "sommaire": ""
     },
     "documentNumber": 1674895,
-    "externalId": "692ec8d669a83f77e209bc17",
+    "externalId": "693bf097ae502cb4e8ff1204",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -1442,11 +1442,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674964002
+    "updateDate": 1765537654794
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f519"
+      "$oid": "693bf5a15dde024460c4b547"
     },
     "creationDate": 1764328994685,
     "decisionMetadata": {
@@ -1492,7 +1492,7 @@
       "sommaire": ""
     },
     "documentNumber": 1677392,
-    "externalId": "692ec8d669a83f77e209bc12",
+    "externalId": "693bf097ae502cb4e8ff11fb",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -1527,11 +1527,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673948860
+    "updateDate": 1765537185690
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f51c"
+      "$oid": "693bf5a15dde024460c4b54a"
     },
     "creationDate": 1764328994666,
     "decisionMetadata": {
@@ -1577,7 +1577,7 @@
       "sommaire": ""
     },
     "documentNumber": 1678554,
-    "externalId": "692ec8d669a83f77e209bc0d",
+    "externalId": "693bf096ae502cb4e8ff11f2",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -1612,11 +1612,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673948894
+    "updateDate": 1765537185728
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f51f"
+      "$oid": "693bf5a15dde024460c4b54d"
     },
     "creationDate": 1764328994645,
     "decisionMetadata": {
@@ -1662,7 +1662,7 @@
       "sommaire": ""
     },
     "documentNumber": 1679499,
-    "externalId": "692ec8d669a83f77e209bc08",
+    "externalId": "693bf096ae502cb4e8ff11e9",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -1697,11 +1697,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674973873
+    "updateDate": 1765537662869
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f522"
+      "$oid": "693bf5a15dde024460c4b550"
     },
     "creationDate": 1764328994624,
     "decisionMetadata": {
@@ -1747,7 +1747,7 @@
       "sommaire": ""
     },
     "documentNumber": 1681861,
-    "externalId": "692ec8d669a83f77e209bc03",
+    "externalId": "693bf096ae502cb4e8ff11e0",
     "loss": null,
     "priority": 4,
     "publicationCategory": [
@@ -1782,11 +1782,11 @@
       "viewerNames": []
     },
     "status": "toBePublished",
-    "updateDate": 1764674947674
+    "updateDate": 1765537640820
   },
   {
     "_id": {
-      "$oid": "692ec99cade165818980f525"
+      "$oid": "693bf5a15dde024460c4b553"
     },
     "creationDate": 1764328994604,
     "decisionMetadata": {
@@ -1832,7 +1832,7 @@
       "sommaire": ""
     },
     "documentNumber": 1682604,
-    "externalId": "692ec8d669a83f77e209bbfe",
+    "externalId": "693bf096ae502cb4e8ff11d7",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -1867,11 +1867,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673949003
+    "updateDate": 1765537185858
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f528"
+      "$oid": "693bf5a15dde024460c4b556"
     },
     "creationDate": 1764328994583,
     "decisionMetadata": {
@@ -1917,7 +1917,7 @@
       "sommaire": ""
     },
     "documentNumber": 1685921,
-    "externalId": "692ec8d669a83f77e209bbf9",
+    "externalId": "693bf096ae502cb4e8ff11ce",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -1952,11 +1952,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674971943
+    "updateDate": 1765538939908
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f52b"
+      "$oid": "693bf5a15dde024460c4b559"
     },
     "creationDate": 1764328994563,
     "decisionMetadata": {
@@ -2002,7 +2002,7 @@
       "sommaire": ""
     },
     "documentNumber": 1686430,
-    "externalId": "692ec8d669a83f77e209bbf4",
+    "externalId": "693bf096ae502cb4e8ff11c5",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -2037,11 +2037,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673949074
+    "updateDate": 1765537185953
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f52e"
+      "$oid": "693bf5a15dde024460c4b55c"
     },
     "creationDate": 1764328994541,
     "decisionMetadata": {
@@ -2087,7 +2087,7 @@
       "sommaire": ""
     },
     "documentNumber": 1686467,
-    "externalId": "692ec8d669a83f77e209bbef",
+    "externalId": "693bf095ae502cb4e8ff11bb",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -2122,11 +2122,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674984850
+    "updateDate": 1765537663788
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f531"
+      "$oid": "693bf5a25dde024460c4b55f"
     },
     "creationDate": 1764328994521,
     "decisionMetadata": {
@@ -2172,7 +2172,7 @@
       "sommaire": ""
     },
     "documentNumber": 1689228,
-    "externalId": "692ec8d669a83f77e209bbea",
+    "externalId": "693bf095ae502cb4e8ff11b2",
     "loss": null,
     "priority": 4,
     "publicationCategory": [
@@ -2207,11 +2207,11 @@
       "viewerNames": []
     },
     "status": "toBePublished",
-    "updateDate": 1764674951089
+    "updateDate": 1765537642531
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f534"
+      "$oid": "693bf5a25dde024460c4b562"
     },
     "creationDate": 1764328994501,
     "decisionMetadata": {
@@ -2257,7 +2257,7 @@
       "sommaire": ""
     },
     "documentNumber": 1691083,
-    "externalId": "692ec8d569a83f77e209bbe5",
+    "externalId": "693bf095ae502cb4e8ff11a9",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -2292,11 +2292,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674957121
+    "updateDate": 1765538942436
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f537"
+      "$oid": "693bf5a25dde024460c4b565"
     },
     "creationDate": 1764328994480,
     "decisionMetadata": {
@@ -2342,7 +2342,7 @@
       "sommaire": ""
     },
     "documentNumber": 1691262,
-    "externalId": "692ec8d569a83f77e209bbe0",
+    "externalId": "693bf095ae502cb4e8ff11a0",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -2377,11 +2377,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673949229
+    "updateDate": 1765537186155
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f53a"
+      "$oid": "693bf5a25dde024460c4b568"
     },
     "creationDate": 1764328994458,
     "decisionMetadata": {
@@ -2427,7 +2427,7 @@
       "sommaire": ""
     },
     "documentNumber": 1691898,
-    "externalId": "692ec8d569a83f77e209bbdb",
+    "externalId": "693bf095ae502cb4e8ff1197",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -2462,11 +2462,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673949265
+    "updateDate": 1765537186196
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f53d"
+      "$oid": "693bf5a25dde024460c4b56b"
     },
     "creationDate": 1764328994438,
     "decisionMetadata": {
@@ -2512,7 +2512,7 @@
       "sommaire": ""
     },
     "documentNumber": 1692355,
-    "externalId": "692ec8d569a83f77e209bbd6",
+    "externalId": "693bf095ae502cb4e8ff118e",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -2547,11 +2547,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674975231
+    "updateDate": 1765537657883
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f540"
+      "$oid": "693bf5a25dde024460c4b56e"
     },
     "creationDate": 1764328994418,
     "decisionMetadata": {
@@ -2597,7 +2597,7 @@
       "sommaire": ""
     },
     "documentNumber": 1692659,
-    "externalId": "692ec8d569a83f77e209bbd1",
+    "externalId": "693bf094ae502cb4e8ff1185",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -2632,11 +2632,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674976545
+    "updateDate": 1765537655828
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f543"
+      "$oid": "693bf5a25dde024460c4b571"
     },
     "creationDate": 1764328994398,
     "decisionMetadata": {
@@ -2682,7 +2682,7 @@
       "sommaire": ""
     },
     "documentNumber": 1693940,
-    "externalId": "692ec8d569a83f77e209bbcc",
+    "externalId": "693bf094ae502cb4e8ff117c",
     "loss": null,
     "priority": 4,
     "publicationCategory": [
@@ -2717,11 +2717,11 @@
       "viewerNames": []
     },
     "status": "toBePublished",
-    "updateDate": 1764674949488
+    "updateDate": 1765537647239
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f546"
+      "$oid": "693bf5a25dde024460c4b574"
     },
     "creationDate": 1764328994377,
     "decisionMetadata": {
@@ -2767,7 +2767,7 @@
       "sommaire": ""
     },
     "documentNumber": 1696438,
-    "externalId": "692ec8d569a83f77e209bbc7",
+    "externalId": "693bf094ae502cb4e8ff1173",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -2802,11 +2802,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674962274
+    "updateDate": 1765537656849
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f549"
+      "$oid": "693bf5a25dde024460c4b577"
     },
     "creationDate": 1764328994356,
     "decisionMetadata": {
@@ -2852,7 +2852,7 @@
       "sommaire": ""
     },
     "documentNumber": 1696759,
-    "externalId": "692ec8d569a83f77e209bbc2",
+    "externalId": "693bf094ae502cb4e8ff116a",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -2887,11 +2887,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674965330
+    "updateDate": 1765537666730
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f54c"
+      "$oid": "693bf5a25dde024460c4b57a"
     },
     "creationDate": 1764328994334,
     "decisionMetadata": {
@@ -2937,7 +2937,7 @@
       "sommaire": ""
     },
     "documentNumber": 1698972,
-    "externalId": "692ec8d569a83f77e209bbbd",
+    "externalId": "693bf094ae502cb4e8ff1161",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -2972,11 +2972,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673949480
+    "updateDate": 1765537186444
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f54f"
+      "$oid": "693bf5a25dde024460c4b57d"
     },
     "creationDate": 1764328994314,
     "decisionMetadata": {
@@ -3022,7 +3022,7 @@
       "sommaire": ""
     },
     "documentNumber": 1704910,
-    "externalId": "692ec8d569a83f77e209bbb8",
+    "externalId": "693bf094ae502cb4e8ff1158",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -3057,11 +3057,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674982652
+    "updateDate": 1765537661909
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f552"
+      "$oid": "693bf5a25dde024460c4b580"
     },
     "creationDate": 1764328994294,
     "decisionMetadata": {
@@ -3107,7 +3107,7 @@
       "sommaire": ""
     },
     "documentNumber": 1704919,
-    "externalId": "692ec8d569a83f77e209bbb3",
+    "externalId": "693bf094ae502cb4e8ff114f",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -3142,11 +3142,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673949558
+    "updateDate": 1765537186579
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f555"
+      "$oid": "693bf5a25dde024460c4b583"
     },
     "creationDate": 1764328994228,
     "decisionMetadata": {
@@ -3192,7 +3192,7 @@
       "sommaire": ""
     },
     "documentNumber": 1705538,
-    "externalId": "692ec8d569a83f77e209bbae",
+    "externalId": "693bf094ae502cb4e8ff1146",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -3227,11 +3227,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673949590
+    "updateDate": 1765537186633
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f558"
+      "$oid": "693bf5a25dde024460c4b586"
     },
     "creationDate": 1764328994207,
     "decisionMetadata": {
@@ -3277,7 +3277,7 @@
       "sommaire": ""
     },
     "documentNumber": 1706457,
-    "externalId": "692ec8d569a83f77e209bba9",
+    "externalId": "693bf094ae502cb4e8ff113d",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -3312,11 +3312,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673949620
+    "updateDate": 1765537186671
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f55b"
+      "$oid": "693bf5a25dde024460c4b589"
     },
     "creationDate": 1764328994185,
     "decisionMetadata": {
@@ -3362,7 +3362,7 @@
       "sommaire": ""
     },
     "documentNumber": 1706917,
-    "externalId": "692ec8d569a83f77e209bba4",
+    "externalId": "693bf094ae502cb4e8ff1134",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -3397,11 +3397,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674968105
+    "updateDate": 1765537649530
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f55e"
+      "$oid": "693bf5a25dde024460c4b58c"
     },
     "creationDate": 1764328994164,
     "decisionMetadata": {
@@ -3447,7 +3447,7 @@
       "sommaire": ""
     },
     "documentNumber": 1708227,
-    "externalId": "692ec8d569a83f77e209bb9f",
+    "externalId": "693bf094ae502cb4e8ff112b",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -3482,11 +3482,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673949687
+    "updateDate": 1765537186759
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f561"
+      "$oid": "693bf5a25dde024460c4b58f"
     },
     "creationDate": 1764328994143,
     "decisionMetadata": {
@@ -3532,7 +3532,7 @@
       "sommaire": ""
     },
     "documentNumber": 1709487,
-    "externalId": "692ec8d569a83f77e209bb9a",
+    "externalId": "693bf093ae502cb4e8ff1122",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -3567,11 +3567,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674977768
+    "updateDate": 1765537653777
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f564"
+      "$oid": "693bf5a25dde024460c4b592"
     },
     "creationDate": 1764328994119,
     "decisionMetadata": {
@@ -3617,7 +3617,7 @@
       "sommaire": ""
     },
     "documentNumber": 1709513,
-    "externalId": "692ec8d569a83f77e209bb95",
+    "externalId": "693bf093ae502cb4e8ff1119",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -3652,11 +3652,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673949755
+    "updateDate": 1765537186847
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f567"
+      "$oid": "693bf5a25dde024460c4b595"
     },
     "creationDate": 1764328994097,
     "decisionMetadata": {
@@ -3702,7 +3702,7 @@
       "sommaire": ""
     },
     "documentNumber": 1711649,
-    "externalId": "692ec8d569a83f77e209bb90",
+    "externalId": "693bf093ae502cb4e8ff1110",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -3737,11 +3737,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674978994
+    "updateDate": 1765537658912
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f56a"
+      "$oid": "693bf5a25dde024460c4b598"
     },
     "creationDate": 1764328994077,
     "decisionMetadata": {
@@ -3787,7 +3787,7 @@
       "sommaire": ""
     },
     "documentNumber": 1713012,
-    "externalId": "692ec8d569a83f77e209bb8b",
+    "externalId": "693bf093ae502cb4e8ff1107",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -3822,11 +3822,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673949835
+    "updateDate": 1765537186923
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f56d"
+      "$oid": "693bf5a25dde024460c4b59b"
     },
     "creationDate": 1764328994055,
     "decisionMetadata": {
@@ -3872,7 +3872,7 @@
       "sommaire": ""
     },
     "documentNumber": 1713056,
-    "externalId": "692ec8d569a83f77e209bb86",
+    "externalId": "693bf093ae502cb4e8ff10fe",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -3907,11 +3907,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673949866
+    "updateDate": 1765537186960
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f570"
+      "$oid": "693bf5a25dde024460c4b59e"
     },
     "creationDate": 1764328994023,
     "decisionMetadata": {
@@ -3957,7 +3957,7 @@
       "sommaire": ""
     },
     "documentNumber": 1713771,
-    "externalId": "692ec8d569a83f77e209bb81",
+    "externalId": "693bf093ae502cb4e8ff10f5",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -3992,11 +3992,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673949895
+    "updateDate": 1765537186994
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f573"
+      "$oid": "693bf5a35dde024460c4b5a1"
     },
     "creationDate": 1764328993986,
     "decisionMetadata": {
@@ -4042,7 +4042,7 @@
       "sommaire": ""
     },
     "documentNumber": 1713788,
-    "externalId": "692ec8d569a83f77e209bb7b",
+    "externalId": "693bf093ae502cb4e8ff10ec",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -4077,11 +4077,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674970625
+    "updateDate": 1765537660909
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f576"
+      "$oid": "693bf5a35dde024460c4b5a4"
     },
     "creationDate": 1764328993967,
     "decisionMetadata": {
@@ -4127,7 +4127,7 @@
       "sommaire": ""
     },
     "documentNumber": 1715589,
-    "externalId": "692ec8d569a83f77e209bb76",
+    "externalId": "693bf092ae502cb4e8ff10e3",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -4162,11 +4162,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673949968
+    "updateDate": 1765537187085
   },
   {
     "_id": {
-      "$oid": "692ec99dade165818980f579"
+      "$oid": "693bf5a35dde024460c4b5a7"
     },
     "creationDate": 1764328993944,
     "decisionMetadata": {
@@ -4212,7 +4212,7 @@
       "sommaire": ""
     },
     "documentNumber": 1715982,
-    "externalId": "692ec8d569a83f77e209bb71",
+    "externalId": "693bf092ae502cb4e8ff10d9",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -4247,11 +4247,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673950004
+    "updateDate": 1765537187124
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f57c"
+      "$oid": "693bf5a35dde024460c4b5aa"
     },
     "creationDate": 1764328993924,
     "decisionMetadata": {
@@ -4297,7 +4297,7 @@
       "sommaire": ""
     },
     "documentNumber": 1717414,
-    "externalId": "692ec8d569a83f77e209bb6c",
+    "externalId": "693bf092ae502cb4e8ff10cf",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -4332,11 +4332,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673950063
+    "updateDate": 1765537187192
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f57f"
+      "$oid": "693bf5a35dde024460c4b5ad"
     },
     "creationDate": 1764328993903,
     "decisionMetadata": {
@@ -4382,7 +4382,7 @@
       "sommaire": ""
     },
     "documentNumber": 1721089,
-    "externalId": "692ec8d569a83f77e209bb67",
+    "externalId": "693bf092ae502cb4e8ff10c6",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -4417,11 +4417,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674955504
+    "updateDate": 1765537665818
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f582"
+      "$oid": "693bf5a35dde024460c4b5b0"
     },
     "creationDate": 1764328993876,
     "decisionMetadata": {
@@ -4467,7 +4467,7 @@
       "sommaire": ""
     },
     "documentNumber": 1721222,
-    "externalId": "692ec8d569a83f77e209bb62",
+    "externalId": "693bf092ae502cb4e8ff10bd",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -4502,11 +4502,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673950133
+    "updateDate": 1765537187275
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f585"
+      "$oid": "693bf5a35dde024460c4b5b3"
     },
     "creationDate": 1764328993849,
     "decisionMetadata": {
@@ -4552,7 +4552,7 @@
       "sommaire": ""
     },
     "documentNumber": 1724185,
-    "externalId": "692ec8d569a83f77e209bb5c",
+    "externalId": "693bf092ae502cb4e8ff10b4",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -4587,11 +4587,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674952954
+    "updateDate": 1765537659920
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f588"
+      "$oid": "693bf5a35dde024460c4b5b6"
     },
     "creationDate": 1764328993818,
     "decisionMetadata": {
@@ -4637,7 +4637,7 @@
       "sommaire": ""
     },
     "documentNumber": 1724475,
-    "externalId": "692ec8d569a83f77e209bb57",
+    "externalId": "693bf091ae502cb4e8ff10ab",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -4672,13 +4672,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764673950248
+    "updateDate": 1765537187351
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f58b"
+      "$oid": "693bf5a35dde024460c4b5b9"
     },
-    "creationDate": 1764673764120,
+    "creationDate": 1765535934397,
     "decisionMetadata": {
       "appealNumber": "25/03636",
       "additionalTermsToAnnotate": "",
@@ -4713,7 +4713,7 @@
       "sommaire": ""
     },
     "documentNumber": 3698392954,
-    "externalId": "692ec8e469a83f77e209bfcf",
+    "externalId": "693bf0beae502cb4e8ff1887",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -4888,14 +4888,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673950362
+    "status": "free",
+    "updateDate": 1765537187495
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f58e"
+      "$oid": "693bf5a35dde024460c4b5bc"
     },
-    "creationDate": 1764673763968,
+    "creationDate": 1765535933935,
     "decisionMetadata": {
       "appealNumber": "23/01891",
       "additionalTermsToAnnotate": "",
@@ -4930,7 +4930,7 @@
       "sommaire": ""
     },
     "documentNumber": 429146565,
-    "externalId": "692ec8e469a83f77e209bfc9",
+    "externalId": "693bf0beae502cb4e8ff187d",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -5105,14 +5105,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673950410
+    "status": "free",
+    "updateDate": 1765537187535
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f591"
+      "$oid": "693bf5a35dde024460c4b5bf"
     },
-    "creationDate": 1764673763801,
+    "creationDate": 1765535933529,
     "decisionMetadata": {
       "appealNumber": "23/02167",
       "additionalTermsToAnnotate": "",
@@ -5158,7 +5158,7 @@
       "sommaire": ""
     },
     "documentNumber": 751264194,
-    "externalId": "692ec8e369a83f77e209bfc3",
+    "externalId": "693bf0bdae502cb4e8ff1872",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -5333,14 +5333,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673950441
+    "status": "free",
+    "updateDate": 1765537187577
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f594"
+      "$oid": "693bf5a35dde024460c4b5c2"
     },
-    "creationDate": 1764673763607,
+    "creationDate": 1765535933161,
     "decisionMetadata": {
       "appealNumber": "19/05386",
       "additionalTermsToAnnotate": "",
@@ -5375,7 +5375,7 @@
       "sommaire": ""
     },
     "documentNumber": 1965730795,
-    "externalId": "692ec8e369a83f77e209bfbd",
+    "externalId": "693bf0bdae502cb4e8ff1868",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -5550,14 +5550,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673950470
+    "status": "free",
+    "updateDate": 1765537187616
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f597"
+      "$oid": "693bf5a35dde024460c4b5c5"
     },
-    "creationDate": 1764673763354,
+    "creationDate": 1765535932852,
     "decisionMetadata": {
       "appealNumber": "25/01687",
       "additionalTermsToAnnotate": "",
@@ -5592,7 +5592,7 @@
       "sommaire": ""
     },
     "documentNumber": 3127301957,
-    "externalId": "692ec8e369a83f77e209bfb7",
+    "externalId": "693bf0bcae502cb4e8ff185e",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -5767,14 +5767,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673950503
+    "status": "free",
+    "updateDate": 1765537187663
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f59a"
+      "$oid": "693bf5a35dde024460c4b5c8"
     },
-    "creationDate": 1764673763180,
+    "creationDate": 1765535932577,
     "decisionMetadata": {
       "appealNumber": "22/04514",
       "additionalTermsToAnnotate": "",
@@ -5809,7 +5809,7 @@
       "sommaire": ""
     },
     "documentNumber": 588645772,
-    "externalId": "692ec8e369a83f77e209bfb1",
+    "externalId": "693bf0bcae502cb4e8ff1854",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -5984,14 +5984,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673950542
+    "status": "free",
+    "updateDate": 1765537187704
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f59d"
+      "$oid": "693bf5a35dde024460c4b5cb"
     },
-    "creationDate": 1764673763027,
+    "creationDate": 1765535932287,
     "decisionMetadata": {
       "appealNumber": "19/01169",
       "additionalTermsToAnnotate": "",
@@ -6026,7 +6026,7 @@
       "sommaire": ""
     },
     "documentNumber": 1693382021,
-    "externalId": "692ec8e369a83f77e209bfab",
+    "externalId": "693bf0bcae502cb4e8ff184a",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -6201,14 +6201,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673950577
+    "status": "free",
+    "updateDate": 1765537187746
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f5a0"
+      "$oid": "693bf5a35dde024460c4b5ce"
     },
-    "creationDate": 1764673762869,
+    "creationDate": 1765535931980,
     "decisionMetadata": {
       "appealNumber": "24/00102",
       "additionalTermsToAnnotate": "",
@@ -6243,7 +6243,7 @@
       "sommaire": ""
     },
     "documentNumber": 2278279525,
-    "externalId": "692ec8e269a83f77e209bfa5",
+    "externalId": "693bf0bcae502cb4e8ff1840",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -6418,14 +6418,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673950616
+    "status": "free",
+    "updateDate": 1765537187787
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f5a3"
+      "$oid": "693bf5a35dde024460c4b5d1"
     },
-    "creationDate": 1764673762724,
+    "creationDate": 1765535931658,
     "decisionMetadata": {
       "appealNumber": "23/00122",
       "additionalTermsToAnnotate": "",
@@ -6471,7 +6471,7 @@
       "sommaire": ""
     },
     "documentNumber": 3149899823,
-    "externalId": "692ec8e269a83f77e209bf9f",
+    "externalId": "693bf0bbae502cb4e8ff1836",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -6646,14 +6646,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673950652
+    "status": "free",
+    "updateDate": 1765537187825
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f5a6"
+      "$oid": "693bf5a35dde024460c4b5d4"
     },
-    "creationDate": 1764673762570,
+    "creationDate": 1765535931370,
     "decisionMetadata": {
       "appealNumber": "25/03609",
       "additionalTermsToAnnotate": "",
@@ -6688,7 +6688,7 @@
       "sommaire": ""
     },
     "documentNumber": 110581415,
-    "externalId": "692ec8e269a83f77e209bf99",
+    "externalId": "693bf0bbae502cb4e8ff182c",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -6863,14 +6863,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673950686
+    "status": "free",
+    "updateDate": 1765537187862
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f5a9"
+      "$oid": "693bf5a35dde024460c4b5d7"
     },
-    "creationDate": 1764673762415,
+    "creationDate": 1765535930832,
     "decisionMetadata": {
       "appealNumber": "25/00120",
       "additionalTermsToAnnotate": "",
@@ -6905,7 +6905,7 @@
       "sommaire": ""
     },
     "documentNumber": 968790085,
-    "externalId": "692ec8e269a83f77e209bf92",
+    "externalId": "693bf0baae502cb4e8ff1822",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -7080,14 +7080,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673950719
+    "status": "free",
+    "updateDate": 1765537187906
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f5ac"
+      "$oid": "693bf5a35dde024460c4b5da"
     },
-    "creationDate": 1764673762280,
+    "creationDate": 1765535930436,
     "decisionMetadata": {
       "appealNumber": "25/03479",
       "additionalTermsToAnnotate": "",
@@ -7122,7 +7122,7 @@
       "sommaire": ""
     },
     "documentNumber": 3616581679,
-    "externalId": "692ec8e269a83f77e209bf8c",
+    "externalId": "693bf0baae502cb4e8ff1816",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -7297,14 +7297,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673950762
+    "status": "free",
+    "updateDate": 1765537187952
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f5af"
+      "$oid": "693bf5a35dde024460c4b5dd"
     },
-    "creationDate": 1764673762093,
+    "creationDate": 1765535929830,
     "decisionMetadata": {
       "appealNumber": "24/00946",
       "additionalTermsToAnnotate": "",
@@ -7339,7 +7339,7 @@
       "sommaire": ""
     },
     "documentNumber": 3205378729,
-    "externalId": "692ec8e269a83f77e209bf86",
+    "externalId": "693bf0b9ae502cb4e8ff180c",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -7514,14 +7514,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673950803
+    "status": "free",
+    "updateDate": 1765537187992
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f5b2"
+      "$oid": "693bf5a45dde024460c4b5e0"
     },
-    "creationDate": 1764673761945,
+    "creationDate": 1765535929537,
     "decisionMetadata": {
       "appealNumber": "25/01044",
       "additionalTermsToAnnotate": "",
@@ -7556,7 +7556,7 @@
       "sommaire": ""
     },
     "documentNumber": 4213283434,
-    "externalId": "692ec8e269a83f77e209bf80",
+    "externalId": "693bf0b9ae502cb4e8ff1802",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -7731,14 +7731,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673950839
+    "status": "free",
+    "updateDate": 1765537188033
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f5b5"
+      "$oid": "693bf5a45dde024460c4b5e3"
     },
-    "creationDate": 1764673761799,
+    "creationDate": 1765535929125,
     "decisionMetadata": {
       "appealNumber": "24/00738",
       "additionalTermsToAnnotate": "",
@@ -7773,7 +7773,7 @@
       "sommaire": ""
     },
     "documentNumber": 1761507183,
-    "externalId": "692ec8e169a83f77e209bf7a",
+    "externalId": "693bf0b9ae502cb4e8ff17f8",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -7948,14 +7948,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673950880
+    "status": "free",
+    "updateDate": 1765537188073
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f5b8"
+      "$oid": "693bf5a45dde024460c4b5e6"
     },
-    "creationDate": 1764673761660,
+    "creationDate": 1765535928832,
     "decisionMetadata": {
       "appealNumber": "24/00025",
       "additionalTermsToAnnotate": "",
@@ -7990,7 +7990,7 @@
       "sommaire": ""
     },
     "documentNumber": 1747354569,
-    "externalId": "692ec8e169a83f77e209bf74",
+    "externalId": "693bf0b8ae502cb4e8ff17ea",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -8166,13 +8166,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675225249
+    "updateDate": 1765538911326
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f5bb"
+      "$oid": "693bf5a45dde024460c4b5e9"
     },
-    "creationDate": 1764673761524,
+    "creationDate": 1765535928534,
     "decisionMetadata": {
       "appealNumber": "25/00480",
       "additionalTermsToAnnotate": "",
@@ -8207,7 +8207,7 @@
       "sommaire": ""
     },
     "documentNumber": 3668230518,
-    "externalId": "692ec8e169a83f77e209bf6e",
+    "externalId": "693bf0b8ae502cb4e8ff17de",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -8383,13 +8383,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675223297
+    "updateDate": 1765537706045
   },
   {
     "_id": {
-      "$oid": "692ec99eade165818980f5be"
+      "$oid": "693bf5a45dde024460c4b5ec"
     },
-    "creationDate": 1764673761401,
+    "creationDate": 1765535928213,
     "decisionMetadata": {
       "appealNumber": "25/00217",
       "additionalTermsToAnnotate": "",
@@ -8424,7 +8424,7 @@
       "sommaire": ""
     },
     "documentNumber": 3657011330,
-    "externalId": "692ec8e169a83f77e209bf68",
+    "externalId": "693bf0b8ae502cb4e8ff17d4",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -8600,13 +8600,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674997017
+    "updateDate": 1765538895531
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5c1"
+      "$oid": "693bf5a45dde024460c4b5ef"
     },
-    "creationDate": 1764673761265,
+    "creationDate": 1765535927881,
     "decisionMetadata": {
       "appealNumber": "25/04125",
       "additionalTermsToAnnotate": "",
@@ -8641,7 +8641,7 @@
       "sommaire": ""
     },
     "documentNumber": 927883397,
-    "externalId": "692ec8e169a83f77e209bf62",
+    "externalId": "693bf0b8ae502cb4e8ff17ca",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -8817,13 +8817,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675025290
+    "updateDate": 1765538860059
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5c4"
+      "$oid": "693bf5a45dde024460c4b5f2"
     },
-    "creationDate": 1764673761129,
+    "creationDate": 1765535927498,
     "decisionMetadata": {
       "appealNumber": "23/07828",
       "additionalTermsToAnnotate": "",
@@ -8858,7 +8858,7 @@
       "sommaire": ""
     },
     "documentNumber": 841365293,
-    "externalId": "692ec8e169a83f77e209bf5c",
+    "externalId": "693bf0b7ae502cb4e8ff17bf",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -9034,13 +9034,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680324189
+    "updateDate": 1765538920012
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5c7"
+      "$oid": "693bf5a45dde024460c4b5f5"
     },
-    "creationDate": 1764673761006,
+    "creationDate": 1765535927189,
     "decisionMetadata": {
       "appealNumber": "25/00190",
       "additionalTermsToAnnotate": "",
@@ -9086,7 +9086,7 @@
       "sommaire": ""
     },
     "documentNumber": 848474470,
-    "externalId": "692ec8e169a83f77e209bf56",
+    "externalId": "693bf0b7ae502cb4e8ff17b5",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -9262,13 +9262,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675240929
+    "updateDate": 1765537708155
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5ca"
+      "$oid": "693bf5a45dde024460c4b5f8"
     },
-    "creationDate": 1764673760890,
+    "creationDate": 1765535926675,
     "decisionMetadata": {
       "appealNumber": "23/01687",
       "additionalTermsToAnnotate": "",
@@ -9303,7 +9303,7 @@
       "sommaire": ""
     },
     "documentNumber": 2302330308,
-    "externalId": "692ec8e069a83f77e209bf50",
+    "externalId": "693bf0b6ae502cb4e8ff17ab",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -9479,13 +9479,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680346710
+    "updateDate": 1765538884516
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5cd"
+      "$oid": "693bf5a45dde024460c4b5fb"
     },
-    "creationDate": 1764673760765,
+    "creationDate": 1765535926302,
     "decisionMetadata": {
       "appealNumber": "25/01904",
       "additionalTermsToAnnotate": "",
@@ -9520,7 +9520,7 @@
       "sommaire": ""
     },
     "documentNumber": 420345606,
-    "externalId": "692ec8e069a83f77e209bf4a",
+    "externalId": "693bf0b6ae502cb4e8ff17a1",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -9696,13 +9696,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675017154
+    "updateDate": 1765538866995
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5d0"
+      "$oid": "693bf5a45dde024460c4b5fe"
     },
-    "creationDate": 1764673760609,
+    "creationDate": 1765535925966,
     "decisionMetadata": {
       "appealNumber": "21/03011",
       "additionalTermsToAnnotate": "",
@@ -9737,7 +9737,7 @@
       "sommaire": ""
     },
     "documentNumber": 2895828320,
-    "externalId": "692ec8e069a83f77e209bf44",
+    "externalId": "693bf0b6ae502cb4e8ff1797",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -9913,13 +9913,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680375310
+    "updateDate": 1765537734445
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5d3"
+      "$oid": "693bf5a45dde024460c4b601"
     },
-    "creationDate": 1764673760494,
+    "creationDate": 1765535925577,
     "decisionMetadata": {
       "appealNumber": "25/00115",
       "additionalTermsToAnnotate": "",
@@ -9954,7 +9954,7 @@
       "sommaire": ""
     },
     "documentNumber": 3070008501,
-    "externalId": "692ec8e069a83f77e209bf3e",
+    "externalId": "693bf0b5ae502cb4e8ff178d",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -10130,13 +10130,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680309054
+    "updateDate": 1765537696797
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5d6"
+      "$oid": "693bf5a45dde024460c4b604"
     },
-    "creationDate": 1764673760380,
+    "creationDate": 1765535925214,
     "decisionMetadata": {
       "appealNumber": "25/00870",
       "additionalTermsToAnnotate": "",
@@ -10171,7 +10171,7 @@
       "sommaire": ""
     },
     "documentNumber": 512358004,
-    "externalId": "692ec8e069a83f77e209bf38",
+    "externalId": "693bf0b5ae502cb4e8ff1783",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -10347,13 +10347,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680325899
+    "updateDate": 1765538919094
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5d9"
+      "$oid": "693bf5a45dde024460c4b607"
     },
-    "creationDate": 1764673760269,
+    "creationDate": 1765535924923,
     "decisionMetadata": {
       "appealNumber": "25/20061",
       "additionalTermsToAnnotate": "",
@@ -10388,7 +10388,7 @@
       "sommaire": ""
     },
     "documentNumber": 285068614,
-    "externalId": "692ec8e069a83f77e209bf32",
+    "externalId": "693bf0b5ae502cb4e8ff1779",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -10564,13 +10564,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680330717
+    "updateDate": 1765537713404
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5dc"
+      "$oid": "693bf5a45dde024460c4b60a"
     },
-    "creationDate": 1764673760162,
+    "creationDate": 1765535924600,
     "decisionMetadata": {
       "appealNumber": "24/08602",
       "additionalTermsToAnnotate": "",
@@ -10605,7 +10605,7 @@
       "sommaire": ""
     },
     "documentNumber": 2041242292,
-    "externalId": "692ec8e069a83f77e209bf2c",
+    "externalId": "693bf0b4ae502cb4e8ff176f",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -10781,13 +10781,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675234751
+    "updateDate": 1765538861228
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5df"
+      "$oid": "693bf5a45dde024460c4b60d"
     },
-    "creationDate": 1764673760049,
+    "creationDate": 1765535924299,
     "decisionMetadata": {
       "appealNumber": "25/00216",
       "additionalTermsToAnnotate": "",
@@ -10822,7 +10822,7 @@
       "sommaire": ""
     },
     "documentNumber": 268266477,
-    "externalId": "692ec8e069a83f77e209bf26",
+    "externalId": "693bf0b4ae502cb4e8ff1765",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -10998,13 +10998,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675047759
+    "updateDate": 1765537699825
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5e2"
+      "$oid": "693bf5a45dde024460c4b610"
     },
-    "creationDate": 1764673759937,
+    "creationDate": 1765535923980,
     "decisionMetadata": {
       "appealNumber": "24/01010",
       "additionalTermsToAnnotate": "",
@@ -11039,7 +11039,7 @@
       "sommaire": ""
     },
     "documentNumber": 2043910044,
-    "externalId": "692ec8df69a83f77e209bf20",
+    "externalId": "693bf0b4ae502cb4e8ff175b",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -11215,13 +11215,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680335093
+    "updateDate": 1765538936096
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5e5"
+      "$oid": "693bf5a45dde024460c4b613"
     },
-    "creationDate": 1764673759832,
+    "creationDate": 1765535923632,
     "decisionMetadata": {
       "appealNumber": "24/07097",
       "additionalTermsToAnnotate": "",
@@ -11256,7 +11256,7 @@
       "sommaire": ""
     },
     "documentNumber": 2804554754,
-    "externalId": "692ec8df69a83f77e209bf1a",
+    "externalId": "693bf0b3ae502cb4e8ff1750",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -11432,13 +11432,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680369684
+    "updateDate": 1765538868103
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5e8"
+      "$oid": "693bf5a45dde024460c4b616"
     },
-    "creationDate": 1764673759715,
+    "creationDate": 1765535923317,
     "decisionMetadata": {
       "appealNumber": "23/02551",
       "additionalTermsToAnnotate": "",
@@ -11473,7 +11473,7 @@
       "sommaire": ""
     },
     "documentNumber": 4174016771,
-    "externalId": "692ec8df69a83f77e209bf14",
+    "externalId": "693bf0b3ae502cb4e8ff1746",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -11649,13 +11649,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675249298
+    "updateDate": 1765538886943
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5eb"
+      "$oid": "693bf5a45dde024460c4b619"
     },
-    "creationDate": 1764673759595,
+    "creationDate": 1765535923062,
     "decisionMetadata": {
       "appealNumber": "25/00066",
       "additionalTermsToAnnotate": "",
@@ -11690,7 +11690,7 @@
       "sommaire": ""
     },
     "documentNumber": 2944370018,
-    "externalId": "692ec8df69a83f77e209bf0e",
+    "externalId": "693bf0b3ae502cb4e8ff173c",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -11866,13 +11866,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680347885
+    "updateDate": 1765537723855
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5ee"
+      "$oid": "693bf5a45dde024460c4b61c"
     },
-    "creationDate": 1764673759471,
+    "creationDate": 1765535922583,
     "decisionMetadata": {
       "appealNumber": "25/00355",
       "additionalTermsToAnnotate": "",
@@ -11907,7 +11907,7 @@
       "sommaire": ""
     },
     "documentNumber": 3315203942,
-    "externalId": "692ec8df69a83f77e209bf08",
+    "externalId": "693bf0b2ae502cb4e8ff1732",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -12083,13 +12083,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675041065
+    "updateDate": 1765538912378
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5f1"
+      "$oid": "693bf5a45dde024460c4b61f"
     },
-    "creationDate": 1764673759354,
+    "creationDate": 1765535922291,
     "decisionMetadata": {
       "appealNumber": "24/11165",
       "additionalTermsToAnnotate": "",
@@ -12124,7 +12124,7 @@
       "sommaire": ""
     },
     "documentNumber": 3100798207,
-    "externalId": "692ec8df69a83f77e209bf02",
+    "externalId": "693bf0b2ae502cb4e8ff1728",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -12300,13 +12300,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674995506
+    "updateDate": 1765537709239
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5f4"
+      "$oid": "693bf5a45dde024460c4b622"
     },
-    "creationDate": 1764673759238,
+    "creationDate": 1765535921954,
     "decisionMetadata": {
       "appealNumber": "24/00004",
       "additionalTermsToAnnotate": "",
@@ -12341,7 +12341,7 @@
       "sommaire": ""
     },
     "documentNumber": 1718782017,
-    "externalId": "692ec8df69a83f77e209befc",
+    "externalId": "693bf0b2ae502cb4e8ff171e",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -12517,13 +12517,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675034018
+    "updateDate": 1765538873595
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5f7"
+      "$oid": "693bf5a55dde024460c4b625"
     },
-    "creationDate": 1764673759126,
+    "creationDate": 1765535921582,
     "decisionMetadata": {
       "appealNumber": "25/01282",
       "additionalTermsToAnnotate": "",
@@ -12558,7 +12558,7 @@
       "sommaire": ""
     },
     "documentNumber": 78317384,
-    "externalId": "692ec8df69a83f77e209bef5",
+    "externalId": "693bf0b1ae502cb4e8ff1714",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -12734,13 +12734,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675001394
+    "updateDate": 1765537673509
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5fa"
+      "$oid": "693bf5a55dde024460c4b628"
     },
-    "creationDate": 1764673759013,
+    "creationDate": 1765535921258,
     "decisionMetadata": {
       "appealNumber": "25/02414",
       "additionalTermsToAnnotate": "",
@@ -12775,7 +12775,7 @@
       "sommaire": ""
     },
     "documentNumber": 1311547053,
-    "externalId": "692ec8df69a83f77e209beee",
+    "externalId": "693bf0b1ae502cb4e8ff170a",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -12951,13 +12951,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675039777
+    "updateDate": 1765538888834
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f5fd"
+      "$oid": "693bf5a55dde024460c4b62b"
     },
-    "creationDate": 1764673758896,
+    "creationDate": 1765535920978,
     "decisionMetadata": {
       "appealNumber": "24/06268",
       "additionalTermsToAnnotate": "",
@@ -12992,7 +12992,7 @@
       "sommaire": ""
     },
     "documentNumber": 2415780321,
-    "externalId": "692ec8de69a83f77e209bee6",
+    "externalId": "693bf0b1ae502cb4e8ff1700",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -13168,13 +13168,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675006082
+    "updateDate": 1765538929101
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f600"
+      "$oid": "693bf5a55dde024460c4b62e"
     },
-    "creationDate": 1764673758775,
+    "creationDate": 1765535920604,
     "decisionMetadata": {
       "appealNumber": "21/01611",
       "additionalTermsToAnnotate": "",
@@ -13209,7 +13209,7 @@
       "sommaire": ""
     },
     "documentNumber": 1592167319,
-    "externalId": "692ec8de69a83f77e209bedf",
+    "externalId": "693bf0b0ae502cb4e8ff16f5",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -13385,13 +13385,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675014282
+    "updateDate": 1765537680306
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f603"
+      "$oid": "693bf5a55dde024460c4b631"
     },
-    "creationDate": 1764673758664,
+    "creationDate": 1765535920299,
     "decisionMetadata": {
       "appealNumber": "21/15512",
       "additionalTermsToAnnotate": "",
@@ -13426,7 +13426,7 @@
       "sommaire": ""
     },
     "documentNumber": 3460418762,
-    "externalId": "692ec8de69a83f77e209bed8",
+    "externalId": "693bf0b0ae502cb4e8ff16ea",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -13602,13 +13602,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680274389
+    "updateDate": 1765537692474
   },
   {
     "_id": {
-      "$oid": "692ec99fade165818980f606"
+      "$oid": "693bf5a55dde024460c4b634"
     },
-    "creationDate": 1764673758550,
+    "creationDate": 1765535919980,
     "decisionMetadata": {
       "appealNumber": "25/00540",
       "additionalTermsToAnnotate": "",
@@ -13643,7 +13643,7 @@
       "sommaire": ""
     },
     "documentNumber": 3811204004,
-    "externalId": "692ec8de69a83f77e209bed2",
+    "externalId": "693bf0b0ae502cb4e8ff16e0",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -13819,13 +13819,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680256702
+    "updateDate": 1765537735323
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f609"
+      "$oid": "693bf5a55dde024460c4b637"
     },
-    "creationDate": 1764673758436,
+    "creationDate": 1765535919661,
     "decisionMetadata": {
       "appealNumber": "24/00204",
       "additionalTermsToAnnotate": "",
@@ -13860,7 +13860,7 @@
       "sommaire": ""
     },
     "documentNumber": 1266965961,
-    "externalId": "692ec8de69a83f77e209becc",
+    "externalId": "693bf0afae502cb4e8ff16d6",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -14036,13 +14036,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680266922
+    "updateDate": 1765538920895
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f60c"
+      "$oid": "693bf5a55dde024460c4b63a"
     },
-    "creationDate": 1764673758305,
+    "creationDate": 1765535919372,
     "decisionMetadata": {
       "appealNumber": "24/04788",
       "additionalTermsToAnnotate": "",
@@ -14077,7 +14077,7 @@
       "sommaire": ""
     },
     "documentNumber": 1265600928,
-    "externalId": "692ec8de69a83f77e209bec6",
+    "externalId": "693bf0afae502cb4e8ff16cc",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -14253,13 +14253,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675065526
+    "updateDate": 1765538887905
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f60f"
+      "$oid": "693bf5a55dde024460c4b63d"
     },
-    "creationDate": 1764673758192,
+    "creationDate": 1765535918946,
     "decisionMetadata": {
       "appealNumber": "22/02572",
       "additionalTermsToAnnotate": "",
@@ -14294,7 +14294,7 @@
       "sommaire": ""
     },
     "documentNumber": 529033510,
-    "externalId": "692ec8de69a83f77e209bec0",
+    "externalId": "693bf0afae502cb4e8ff16c2",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -14470,13 +14470,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675239425
+    "updateDate": 1765537718253
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f612"
+      "$oid": "693bf5a55dde024460c4b640"
     },
-    "creationDate": 1764673758073,
+    "creationDate": 1765535918646,
     "decisionMetadata": {
       "appealNumber": "24/01024",
       "additionalTermsToAnnotate": "",
@@ -14511,7 +14511,7 @@
       "sommaire": ""
     },
     "documentNumber": 624349426,
-    "externalId": "692ec8de69a83f77e209beba",
+    "externalId": "693bf0aeae502cb4e8ff16b4",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -14687,13 +14687,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680249965
+    "updateDate": 1765537707102
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f615"
+      "$oid": "693bf5a55dde024460c4b643"
     },
-    "creationDate": 1764673757966,
+    "creationDate": 1765535918339,
     "decisionMetadata": {
       "appealNumber": "24/05694",
       "additionalTermsToAnnotate": "",
@@ -14728,7 +14728,7 @@
       "sommaire": ""
     },
     "documentNumber": 687294564,
-    "externalId": "692ec8de69a83f77e209beb4",
+    "externalId": "693bf0aeae502cb4e8ff16a8",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -14904,13 +14904,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680305950
+    "updateDate": 1765537747937
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f618"
+      "$oid": "693bf5a55dde024460c4b646"
     },
-    "creationDate": 1764673757846,
+    "creationDate": 1765535918072,
     "decisionMetadata": {
       "appealNumber": "24/04373",
       "additionalTermsToAnnotate": "",
@@ -14945,7 +14945,7 @@
       "sommaire": ""
     },
     "documentNumber": 50258758,
-    "externalId": "692ec8dd69a83f77e209beae",
+    "externalId": "693bf0aeae502cb4e8ff169e",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -15121,13 +15121,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680365499
+    "updateDate": 1765537736163
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f61b"
+      "$oid": "693bf5a55dde024460c4b649"
     },
-    "creationDate": 1764673757723,
+    "creationDate": 1765535917764,
     "decisionMetadata": {
       "appealNumber": "24/00417",
       "additionalTermsToAnnotate": "",
@@ -15162,7 +15162,7 @@
       "sommaire": ""
     },
     "documentNumber": 3368971203,
-    "externalId": "692ec8dd69a83f77e209bea8",
+    "externalId": "693bf0adae502cb4e8ff1693",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -15338,13 +15338,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680345494
+    "updateDate": 1765538856353
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f61e"
+      "$oid": "693bf5a55dde024460c4b64c"
     },
-    "creationDate": 1764673757605,
+    "creationDate": 1765535917485,
     "decisionMetadata": {
       "appealNumber": "24/00822",
       "additionalTermsToAnnotate": "",
@@ -15379,7 +15379,7 @@
       "sommaire": ""
     },
     "documentNumber": 1878912838,
-    "externalId": "692ec8dd69a83f77e209bea2",
+    "externalId": "693bf0adae502cb4e8ff1689",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -15555,13 +15555,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680283365
+    "updateDate": 1765537728973
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f621"
+      "$oid": "693bf5a55dde024460c4b64f"
     },
-    "creationDate": 1764673757491,
+    "creationDate": 1765535917207,
     "decisionMetadata": {
       "appealNumber": "23/03760",
       "additionalTermsToAnnotate": "",
@@ -15596,7 +15596,7 @@
       "sommaire": ""
     },
     "documentNumber": 3092472488,
-    "externalId": "692ec8dd69a83f77e209be9c",
+    "externalId": "693bf0adae502cb4e8ff167f",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -15772,13 +15772,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675213521
+    "updateDate": 1765538878367
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f624"
+      "$oid": "693bf5a55dde024460c4b652"
     },
-    "creationDate": 1764673757379,
+    "creationDate": 1765535916933,
     "decisionMetadata": {
       "appealNumber": "23/11437",
       "additionalTermsToAnnotate": "",
@@ -15813,7 +15813,7 @@
       "sommaire": ""
     },
     "documentNumber": 3302776749,
-    "externalId": "692ec8dd69a83f77e209be95",
+    "externalId": "693bf0adae502cb4e8ff1675",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -15989,13 +15989,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675247777
+    "updateDate": 1765538921855
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f627"
+      "$oid": "693bf5a55dde024460c4b655"
     },
-    "creationDate": 1764673757261,
+    "creationDate": 1765535916659,
     "decisionMetadata": {
       "appealNumber": "23/01776",
       "additionalTermsToAnnotate": "",
@@ -16030,7 +16030,7 @@
       "sommaire": ""
     },
     "documentNumber": 2925054477,
-    "externalId": "692ec8dd69a83f77e209be8f",
+    "externalId": "693bf0acae502cb4e8ff166b",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -16206,13 +16206,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680255036
+    "updateDate": 1765538890581
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f62a"
+      "$oid": "693bf5a55dde024460c4b658"
     },
-    "creationDate": 1764673757126,
+    "creationDate": 1765535916397,
     "decisionMetadata": {
       "appealNumber": "25/00243",
       "additionalTermsToAnnotate": "",
@@ -16247,7 +16247,7 @@
       "sommaire": ""
     },
     "documentNumber": 365246155,
-    "externalId": "692ec8dd69a83f77e209be89",
+    "externalId": "693bf0acae502cb4e8ff1661",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -16423,13 +16423,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680373668
+    "updateDate": 1765537739513
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f62d"
+      "$oid": "693bf5a55dde024460c4b65b"
     },
-    "creationDate": 1764673756996,
+    "creationDate": 1765535916051,
     "decisionMetadata": {
       "appealNumber": "24/11154",
       "additionalTermsToAnnotate": "",
@@ -16464,7 +16464,7 @@
       "sommaire": ""
     },
     "documentNumber": 1690503100,
-    "externalId": "692ec8dd69a83f77e209be83",
+    "externalId": "693bf0acae502cb4e8ff1657",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -16640,13 +16640,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680286285
+    "updateDate": 1765537729864
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f630"
+      "$oid": "693bf5a55dde024460c4b65e"
     },
-    "creationDate": 1764673756853,
+    "creationDate": 1765535915825,
     "decisionMetadata": {
       "appealNumber": "25/00136",
       "additionalTermsToAnnotate": "",
@@ -16681,7 +16681,7 @@
       "sommaire": ""
     },
     "documentNumber": 2120767293,
-    "externalId": "692ec8dc69a83f77e209be7d",
+    "externalId": "693bf0abae502cb4e8ff164d",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -16857,13 +16857,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675015671
+    "updateDate": 1765537687064
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f633"
+      "$oid": "693bf5a65dde024460c4b661"
     },
-    "creationDate": 1764673756715,
+    "creationDate": 1765535915472,
     "decisionMetadata": {
       "appealNumber": "24/01303",
       "additionalTermsToAnnotate": "",
@@ -16898,7 +16898,7 @@
       "sommaire": ""
     },
     "documentNumber": 770864330,
-    "externalId": "692ec8dc69a83f77e209be77",
+    "externalId": "693bf0abae502cb4e8ff1643",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -17074,13 +17074,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675003178
+    "updateDate": 1765538891401
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f636"
+      "$oid": "693bf5a65dde024460c4b664"
     },
-    "creationDate": 1764673756591,
+    "creationDate": 1765535915170,
     "decisionMetadata": {
       "appealNumber": "24/00213",
       "additionalTermsToAnnotate": "",
@@ -17126,7 +17126,7 @@
       "sommaire": ""
     },
     "documentNumber": 1678447463,
-    "externalId": "692ec8dc69a83f77e209be71",
+    "externalId": "693bf0abae502cb4e8ff1639",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -17302,13 +17302,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675008842
+    "updateDate": 1765538885910
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f639"
+      "$oid": "693bf5a65dde024460c4b667"
     },
-    "creationDate": 1764673756464,
+    "creationDate": 1765535914805,
     "decisionMetadata": {
       "appealNumber": "24/01548",
       "additionalTermsToAnnotate": "",
@@ -17354,7 +17354,7 @@
       "sommaire": ""
     },
     "documentNumber": 3661029506,
-    "externalId": "692ec8dc69a83f77e209be6b",
+    "externalId": "693bf0abae502cb4e8ff162f",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -17530,13 +17530,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680313689
+    "updateDate": 1765537746984
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f63c"
+      "$oid": "693bf5a65dde024460c4b66a"
     },
-    "creationDate": 1764673756363,
+    "creationDate": 1765535914534,
     "decisionMetadata": {
       "appealNumber": "22/11585",
       "additionalTermsToAnnotate": "",
@@ -17571,7 +17571,7 @@
       "sommaire": ""
     },
     "documentNumber": 3586844098,
-    "externalId": "692ec8dc69a83f77e209be65",
+    "externalId": "693bf0aaae502cb4e8ff1625",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -17747,13 +17747,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680349184
+    "updateDate": 1765538883203
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f63f"
+      "$oid": "693bf5a65dde024460c4b66d"
     },
-    "creationDate": 1764673756252,
+    "creationDate": 1765535914254,
     "decisionMetadata": {
       "appealNumber": "24/00874",
       "additionalTermsToAnnotate": "",
@@ -17788,7 +17788,7 @@
       "sommaire": ""
     },
     "documentNumber": 2166957422,
-    "externalId": "692ec8dc69a83f77e209be5f",
+    "externalId": "693bf0aaae502cb4e8ff161b",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -17964,13 +17964,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675218801
+    "updateDate": 1765537703960
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f642"
+      "$oid": "693bf5a65dde024460c4b670"
     },
-    "creationDate": 1764673756148,
+    "creationDate": 1765535913968,
     "decisionMetadata": {
       "appealNumber": "24/02887",
       "additionalTermsToAnnotate": "",
@@ -18005,7 +18005,7 @@
       "sommaire": ""
     },
     "documentNumber": 1147477895,
-    "externalId": "692ec8dc69a83f77e209be59",
+    "externalId": "693bf0aaae502cb4e8ff1611",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -18181,13 +18181,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680312284
+    "updateDate": 1765538910257
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f645"
+      "$oid": "693bf5a65dde024460c4b673"
     },
-    "creationDate": 1764673756030,
+    "creationDate": 1765535913695,
     "decisionMetadata": {
       "appealNumber": "24/08876",
       "additionalTermsToAnnotate": "",
@@ -18222,7 +18222,7 @@
       "sommaire": ""
     },
     "documentNumber": 2757134507,
-    "externalId": "692ec8dc69a83f77e209be53",
+    "externalId": "693bf0a9ae502cb4e8ff1606",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -18398,13 +18398,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680340620
+    "updateDate": 1765538877426
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f648"
+      "$oid": "693bf5a65dde024460c4b676"
     },
-    "creationDate": 1764673755925,
+    "creationDate": 1765535913404,
     "decisionMetadata": {
       "appealNumber": "23/10819",
       "additionalTermsToAnnotate": "",
@@ -18439,7 +18439,7 @@
       "sommaire": ""
     },
     "documentNumber": 132781153,
-    "externalId": "692ec8db69a83f77e209be4d",
+    "externalId": "693bf0a9ae502cb4e8ff15fc",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -18615,13 +18615,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680284776
+    "updateDate": 1765538864914
   },
   {
     "_id": {
-      "$oid": "692ec9a0ade165818980f64b"
+      "$oid": "693bf5a65dde024460c4b679"
     },
-    "creationDate": 1764673755803,
+    "creationDate": 1765535913064,
     "decisionMetadata": {
       "appealNumber": "24/03118",
       "additionalTermsToAnnotate": "",
@@ -18656,7 +18656,7 @@
       "sommaire": ""
     },
     "documentNumber": 1231812015,
-    "externalId": "692ec8db69a83f77e209be47",
+    "externalId": "693bf0a9ae502cb4e8ff15f2",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -18832,13 +18832,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675037930
+    "updateDate": 1765537668646
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f64e"
+      "$oid": "693bf5a65dde024460c4b67c"
     },
-    "creationDate": 1764673755693,
+    "creationDate": 1765535912746,
     "decisionMetadata": {
       "appealNumber": "24/08359",
       "additionalTermsToAnnotate": "",
@@ -18873,7 +18873,7 @@
       "sommaire": ""
     },
     "documentNumber": 4195316482,
-    "externalId": "692ec8db69a83f77e209be41",
+    "externalId": "693bf0a8ae502cb4e8ff15e8",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -19049,13 +19049,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680342579
+    "updateDate": 1765537682698
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f651"
+      "$oid": "693bf5a65dde024460c4b67f"
     },
-    "creationDate": 1764673755567,
+    "creationDate": 1765535912478,
     "decisionMetadata": {
       "appealNumber": "19/06153",
       "additionalTermsToAnnotate": "",
@@ -19090,7 +19090,7 @@
       "sommaire": ""
     },
     "documentNumber": 1023563460,
-    "externalId": "692ec8db69a83f77e209be3b",
+    "externalId": "693bf0a8ae502cb4e8ff15de",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -19266,13 +19266,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680279950
+    "updateDate": 1765538876504
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f654"
+      "$oid": "693bf5a65dde024460c4b682"
     },
-    "creationDate": 1764673755456,
+    "creationDate": 1765535912144,
     "decisionMetadata": {
       "appealNumber": "24/03682",
       "additionalTermsToAnnotate": "",
@@ -19307,7 +19307,7 @@
       "sommaire": ""
     },
     "documentNumber": 2212607055,
-    "externalId": "692ec8db69a83f77e209be35",
+    "externalId": "693bf0a8ae502cb4e8ff15d4",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -19483,13 +19483,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675062899
+    "updateDate": 1765537732499
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f657"
+      "$oid": "693bf5a65dde024460c4b685"
     },
-    "creationDate": 1764673755338,
+    "creationDate": 1765535911801,
     "decisionMetadata": {
       "appealNumber": "22/06340",
       "additionalTermsToAnnotate": "",
@@ -19524,7 +19524,7 @@
       "sommaire": ""
     },
     "documentNumber": 2225721003,
-    "externalId": "692ec8db69a83f77e209be2f",
+    "externalId": "693bf0a7ae502cb4e8ff15ca",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -19700,13 +19700,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675043610
+    "updateDate": 1765537675622
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f65a"
+      "$oid": "693bf5a65dde024460c4b688"
     },
-    "creationDate": 1764673755218,
+    "creationDate": 1765535911494,
     "decisionMetadata": {
       "appealNumber": "24/01206",
       "additionalTermsToAnnotate": "",
@@ -19741,7 +19741,7 @@
       "sommaire": ""
     },
     "documentNumber": 2014634280,
-    "externalId": "692ec8db69a83f77e209be29",
+    "externalId": "693bf0a7ae502cb4e8ff15c0",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -19917,11 +19917,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674989889
+    "updateDate": 1765537714370
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f65d"
+      "$oid": "693bf5a65dde024460c4b68b"
     },
     "creationDate": 1764329003250,
     "decisionMetadata": {
@@ -19968,7 +19968,7 @@
       "sommaire": ""
     },
     "documentNumber": 2535831,
-    "externalId": "692ec8d969a83f77e209bdc8",
+    "externalId": "693bf0a3ae502cb4e8ff1516",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -20017,12 +20017,12 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673953481
+    "status": "free",
+    "updateDate": 1765537190819
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f660"
+      "$oid": "693bf5a65dde024460c4b68e"
     },
     "creationDate": 1764329003165,
     "decisionMetadata": {
@@ -20056,7 +20056,7 @@
       "sommaire": ""
     },
     "documentNumber": 2558182,
-    "externalId": "692ec8d969a83f77e209bdc3",
+    "externalId": "693bf0a3ae502cb4e8ff150d",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -20105,12 +20105,12 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673953527
+    "status": "free",
+    "updateDate": 1765537190861
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f663"
+      "$oid": "693bf5a65dde024460c4b691"
     },
     "creationDate": 1764329003081,
     "decisionMetadata": {
@@ -20144,7 +20144,7 @@
       "sommaire": ""
     },
     "documentNumber": 2598372,
-    "externalId": "692ec8d969a83f77e209bdbe",
+    "externalId": "693bf0a3ae502cb4e8ff1504",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -20193,12 +20193,12 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673953604
+    "status": "free",
+    "updateDate": 1765537190980
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f666"
+      "$oid": "693bf5a75dde024460c4b694"
     },
     "creationDate": 1764329002997,
     "decisionMetadata": {
@@ -20232,7 +20232,7 @@
       "sommaire": ""
     },
     "documentNumber": 2598530,
-    "externalId": "692ec8d969a83f77e209bdb9",
+    "externalId": "693bf0a3ae502cb4e8ff14fb",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -20281,12 +20281,12 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673953645
+    "status": "free",
+    "updateDate": 1765537191019
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f669"
+      "$oid": "693bf5a75dde024460c4b697"
     },
     "creationDate": 1764329002915,
     "decisionMetadata": {
@@ -20320,7 +20320,7 @@
       "sommaire": ""
     },
     "documentNumber": 2606944,
-    "externalId": "692ec8d969a83f77e209bdb4",
+    "externalId": "693bf0a3ae502cb4e8ff14f2",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -20369,12 +20369,12 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673953678
+    "status": "free",
+    "updateDate": 1765537191056
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f66c"
+      "$oid": "693bf5a75dde024460c4b69a"
     },
     "creationDate": 1764329002830,
     "decisionMetadata": {
@@ -20408,7 +20408,7 @@
       "sommaire": ""
     },
     "documentNumber": 2608280,
-    "externalId": "692ec8d969a83f77e209bdaf",
+    "externalId": "693bf0a3ae502cb4e8ff14e9",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -20457,12 +20457,12 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673953719
+    "status": "free",
+    "updateDate": 1765537191097
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f66f"
+      "$oid": "693bf5a75dde024460c4b69d"
     },
     "creationDate": 1764329002742,
     "decisionMetadata": {
@@ -20496,7 +20496,7 @@
       "sommaire": ""
     },
     "documentNumber": 2616506,
-    "externalId": "692ec8d969a83f77e209bdaa",
+    "externalId": "693bf0a3ae502cb4e8ff14e0",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -20545,12 +20545,12 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673953764
+    "status": "free",
+    "updateDate": 1765537191138
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f672"
+      "$oid": "693bf5a75dde024460c4b6a0"
     },
     "creationDate": 1764329002655,
     "decisionMetadata": {
@@ -20584,7 +20584,7 @@
       "sommaire": ""
     },
     "documentNumber": 2632056,
-    "externalId": "692ec8d969a83f77e209bda5",
+    "externalId": "693bf0a2ae502cb4e8ff14d7",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -20633,12 +20633,12 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673953825
+    "status": "free",
+    "updateDate": 1765537191175
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f675"
+      "$oid": "693bf5a75dde024460c4b6a3"
     },
     "creationDate": 1764329002568,
     "decisionMetadata": {
@@ -20672,7 +20672,7 @@
       "sommaire": ""
     },
     "documentNumber": 2637718,
-    "externalId": "692ec8d969a83f77e209bda0",
+    "externalId": "693bf0a2ae502cb4e8ff14ce",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -20721,12 +20721,12 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673953881
+    "status": "free",
+    "updateDate": 1765537191212
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f678"
+      "$oid": "693bf5a75dde024460c4b6a6"
     },
     "creationDate": 1764329002481,
     "decisionMetadata": {
@@ -20760,7 +20760,7 @@
       "sommaire": ""
     },
     "documentNumber": 2647082,
-    "externalId": "692ec8d969a83f77e209bd9b",
+    "externalId": "693bf0a2ae502cb4e8ff14c5",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -20809,12 +20809,12 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673953920
+    "status": "free",
+    "updateDate": 1765537191250
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f67b"
+      "$oid": "693bf5a75dde024460c4b6a9"
     },
     "creationDate": 1764329002394,
     "decisionMetadata": {
@@ -20848,7 +20848,7 @@
       "sommaire": ""
     },
     "documentNumber": 2652152,
-    "externalId": "692ec8d969a83f77e209bd96",
+    "externalId": "693bf0a2ae502cb4e8ff14bc",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -20897,12 +20897,12 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673953970
+    "status": "free",
+    "updateDate": 1765537191289
   },
   {
     "_id": {
-      "$oid": "692ec9a1ade165818980f67e"
+      "$oid": "693bf5a75dde024460c4b6ac"
     },
     "creationDate": 1764329002306,
     "decisionMetadata": {
@@ -20936,7 +20936,7 @@
       "sommaire": ""
     },
     "documentNumber": 2666262,
-    "externalId": "692ec8d969a83f77e209bd91",
+    "externalId": "693bf0a2ae502cb4e8ff14b3",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -20985,12 +20985,12 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673954017
+    "status": "free",
+    "updateDate": 1765537191340
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f681"
+      "$oid": "693bf5a75dde024460c4b6af"
     },
     "creationDate": 1764329002222,
     "decisionMetadata": {
@@ -21024,7 +21024,7 @@
       "sommaire": ""
     },
     "documentNumber": 2677092,
-    "externalId": "692ec8d869a83f77e209bd8c",
+    "externalId": "693bf0a2ae502cb4e8ff14aa",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -21073,12 +21073,12 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673954062
+    "status": "free",
+    "updateDate": 1765537191381
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f684"
+      "$oid": "693bf5a75dde024460c4b6b2"
     },
     "creationDate": 1764329002113,
     "decisionMetadata": {
@@ -21112,7 +21112,7 @@
       "sommaire": ""
     },
     "documentNumber": 2677604,
-    "externalId": "692ec8d869a83f77e209bd87",
+    "externalId": "693bf0a2ae502cb4e8ff14a1",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -21161,12 +21161,12 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673954099
+    "status": "free",
+    "updateDate": 1765537191420
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f687"
+      "$oid": "693bf5a75dde024460c4b6b5"
     },
     "creationDate": 1764329002022,
     "decisionMetadata": {
@@ -21200,7 +21200,7 @@
       "sommaire": ""
     },
     "documentNumber": 2678421,
-    "externalId": "692ec8d869a83f77e209bd82",
+    "externalId": "693bf0a2ae502cb4e8ff1498",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -21249,12 +21249,12 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673954134
+    "status": "free",
+    "updateDate": 1765537191460
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f68a"
+      "$oid": "693bf5a75dde024460c4b6b8"
     },
     "creationDate": 1764329001925,
     "decisionMetadata": {
@@ -21288,7 +21288,7 @@
       "sommaire": ""
     },
     "documentNumber": 2678426,
-    "externalId": "692ec8d869a83f77e209bd7d",
+    "externalId": "693bf0a1ae502cb4e8ff148f",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -21338,11 +21338,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674960251
+    "updateDate": 1765537667639
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f68d"
+      "$oid": "693bf5a75dde024460c4b6bb"
     },
     "creationDate": 1764329001819,
     "decisionMetadata": {
@@ -21376,7 +21376,7 @@
       "sommaire": ""
     },
     "documentNumber": 2681413,
-    "externalId": "692ec8d869a83f77e209bd78",
+    "externalId": "693bf0a1ae502cb4e8ff1486",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -21426,11 +21426,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680252982
+    "updateDate": 1765537681514
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f690"
+      "$oid": "693bf5a75dde024460c4b6be"
     },
     "creationDate": 1764329001729,
     "decisionMetadata": {
@@ -21464,7 +21464,7 @@
       "sommaire": ""
     },
     "documentNumber": 2694605,
-    "externalId": "692ec8d869a83f77e209bd73",
+    "externalId": "693bf0a1ae502cb4e8ff147d",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -21514,11 +21514,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675029914
+    "updateDate": 1765538916247
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f693"
+      "$oid": "693bf5a75dde024460c4b6c1"
     },
     "creationDate": 1764329001633,
     "decisionMetadata": {
@@ -21552,7 +21552,7 @@
       "sommaire": ""
     },
     "documentNumber": 2696278,
-    "externalId": "692ec8d869a83f77e209bd6e",
+    "externalId": "693bf0a1ae502cb4e8ff1474",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -21602,11 +21602,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680359453
+    "updateDate": 1765538882162
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f696"
+      "$oid": "693bf5a75dde024460c4b6c4"
     },
     "creationDate": 1764329001545,
     "decisionMetadata": {
@@ -21640,7 +21640,7 @@
       "sommaire": ""
     },
     "documentNumber": 2698979,
-    "externalId": "692ec8d869a83f77e209bd69",
+    "externalId": "693bf0a1ae502cb4e8ff146b",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -21690,11 +21690,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674998322
+    "updateDate": 1765537677842
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f699"
+      "$oid": "693bf5a75dde024460c4b6c7"
     },
     "creationDate": 1764329001454,
     "decisionMetadata": {
@@ -21728,7 +21728,7 @@
       "sommaire": ""
     },
     "documentNumber": 2702327,
-    "externalId": "692ec8d869a83f77e209bd64",
+    "externalId": "693bf0a1ae502cb4e8ff1462",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -21778,11 +21778,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675217489
+    "updateDate": 1765538893975
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f69c"
+      "$oid": "693bf5a75dde024460c4b6ca"
     },
     "creationDate": 1764329001367,
     "decisionMetadata": {
@@ -21816,7 +21816,7 @@
       "sommaire": ""
     },
     "documentNumber": 2704330,
-    "externalId": "692ec8d869a83f77e209bd5f",
+    "externalId": "693bf0a1ae502cb4e8ff1459",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -21866,11 +21866,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680269262
+    "updateDate": 1765538933890
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f69f"
+      "$oid": "693bf5a75dde024460c4b6cd"
     },
     "creationDate": 1764329001266,
     "decisionMetadata": {
@@ -21904,7 +21904,7 @@
       "sommaire": ""
     },
     "documentNumber": 2704647,
-    "externalId": "692ec8d869a83f77e209bd5a",
+    "externalId": "693bf0a1ae502cb4e8ff1450",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -21954,11 +21954,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675042376
+    "updateDate": 1765538913334
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f6a2"
+      "$oid": "693bf5a75dde024460c4b6d0"
     },
     "creationDate": 1764329001173,
     "decisionMetadata": {
@@ -21992,7 +21992,7 @@
       "sommaire": ""
     },
     "documentNumber": 2707823,
-    "externalId": "692ec8d869a83f77e209bd55",
+    "externalId": "693bf0a1ae502cb4e8ff1447",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -22042,11 +22042,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675018602
+    "updateDate": 1765537700867
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f6a5"
+      "$oid": "693bf5a75dde024460c4b6d3"
     },
     "creationDate": 1764329001085,
     "decisionMetadata": {
@@ -22093,7 +22093,7 @@
       "sommaire": ""
     },
     "documentNumber": 2710739,
-    "externalId": "692ec8d869a83f77e209bd50",
+    "externalId": "693bf0a0ae502cb4e8ff143e",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -22143,11 +22143,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680368220
+    "updateDate": 1765538871442
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f6a8"
+      "$oid": "693bf5a75dde024460c4b6d6"
     },
     "creationDate": 1764329000997,
     "decisionMetadata": {
@@ -22181,7 +22181,7 @@
       "sommaire": ""
     },
     "documentNumber": 2715604,
-    "externalId": "692ec8d869a83f77e209bd4a",
+    "externalId": "693bf0a0ae502cb4e8ff1435",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -22231,11 +22231,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674993847
+    "updateDate": 1765537716306
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f6ab"
+      "$oid": "693bf5a75dde024460c4b6d9"
     },
     "creationDate": 1764329000881,
     "decisionMetadata": {
@@ -22269,7 +22269,7 @@
       "sommaire": ""
     },
     "documentNumber": 2719294,
-    "externalId": "692ec8d869a83f77e209bd45",
+    "externalId": "693bf0a0ae502cb4e8ff142c",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -22319,11 +22319,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675004695
+    "updateDate": 1765537691367
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f6ae"
+      "$oid": "693bf5a75dde024460c4b6dc"
     },
     "creationDate": 1764329000795,
     "decisionMetadata": {
@@ -22357,7 +22357,7 @@
       "sommaire": ""
     },
     "documentNumber": 2722172,
-    "externalId": "692ec8d869a83f77e209bd40",
+    "externalId": "693bf0a0ae502cb4e8ff1423",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -22407,11 +22407,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680366812
+    "updateDate": 1765538915236
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f6b1"
+      "$oid": "693bf5a85dde024460c4b6df"
     },
     "creationDate": 1764329000708,
     "decisionMetadata": {
@@ -22445,7 +22445,7 @@
       "sommaire": ""
     },
     "documentNumber": 2724426,
-    "externalId": "692ec8d869a83f77e209bd3b",
+    "externalId": "693bf0a0ae502cb4e8ff141a",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -22495,11 +22495,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674969425
+    "updateDate": 1765537652604
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f6b4"
+      "$oid": "693bf5a85dde024460c4b6e2"
     },
     "creationDate": 1764329000623,
     "decisionMetadata": {
@@ -22533,7 +22533,7 @@
       "sommaire": ""
     },
     "documentNumber": 2773367,
-    "externalId": "692ec8d869a83f77e209bd36",
+    "externalId": "693bf0a0ae502cb4e8ff1411",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -22583,11 +22583,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680289734
+    "updateDate": 1765537679122
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f6b7"
+      "$oid": "693bf5a85dde024460c4b6e5"
     },
     "creationDate": 1764329000534,
     "decisionMetadata": {
@@ -22621,7 +22621,7 @@
       "sommaire": ""
     },
     "documentNumber": 2776277,
-    "externalId": "692ec8d869a83f77e209bd31",
+    "externalId": "693bf0a0ae502cb4e8ff1407",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -22671,11 +22671,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674966767
+    "updateDate": 1765537664737
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f6ba"
+      "$oid": "693bf5a85dde024460c4b6e8"
     },
     "creationDate": 1764329000420,
     "decisionMetadata": {
@@ -22709,7 +22709,7 @@
       "sommaire": ""
     },
     "documentNumber": 2781587,
-    "externalId": "692ec8d869a83f77e209bd2c",
+    "externalId": "693bf09fae502cb4e8ff13fe",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -22759,11 +22759,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674999801
+    "updateDate": 1765538879306
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f6bd"
+      "$oid": "693bf5a85dde024460c4b6eb"
     },
     "creationDate": 1764329000330,
     "decisionMetadata": {
@@ -22797,7 +22797,7 @@
       "sommaire": ""
     },
     "documentNumber": 2803237,
-    "externalId": "692ec8d869a83f77e209bd27",
+    "externalId": "693bf09fae502cb4e8ff13f5",
     "loss": null,
     "priority": 2,
     "publicationCategory": [
@@ -22847,11 +22847,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674981288
+    "updateDate": 1765537651199
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f6c0"
+      "$oid": "693bf5a85dde024460c4b6ee"
     },
     "creationDate": 1764329000243,
     "decisionMetadata": {
@@ -22885,7 +22885,7 @@
       "sommaire": ""
     },
     "documentNumber": 2804025,
-    "externalId": "692ec8d869a83f77e209bd22",
+    "externalId": "693bf09fae502cb4e8ff13ec",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -22935,11 +22935,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680362563
+    "updateDate": 1765538927851
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f6c3"
+      "$oid": "693bf5a85dde024460c4b6f1"
     },
     "creationDate": 1764329000152,
     "decisionMetadata": {
@@ -22973,7 +22973,7 @@
       "sommaire": ""
     },
     "documentNumber": 2813453,
-    "externalId": "692ec8d869a83f77e209bd1d",
+    "externalId": "693bf09fae502cb4e8ff13e3",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -23023,11 +23023,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680294669
+    "updateDate": 1765537743129
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f6c6"
+      "$oid": "693bf5a85dde024460c4b6f4"
     },
     "creationDate": 1764329000070,
     "decisionMetadata": {
@@ -23061,7 +23061,7 @@
       "sommaire": ""
     },
     "documentNumber": 2819214,
-    "externalId": "692ec8d869a83f77e209bd18",
+    "externalId": "693bf09fae502cb4e8ff13da",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -23111,11 +23111,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675026751
+    "updateDate": 1765537726849
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f6c9"
+      "$oid": "693bf5a85dde024460c4b6f7"
     },
     "creationDate": 1764328999985,
     "decisionMetadata": {
@@ -23149,7 +23149,7 @@
       "sommaire": ""
     },
     "documentNumber": 2824546,
-    "externalId": "692ec8d869a83f77e209bd13",
+    "externalId": "693bf09fae502cb4e8ff13d1",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -23199,11 +23199,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680355237
+    "updateDate": 1765538937258
   },
   {
     "_id": {
-      "$oid": "692ec9a2ade165818980f6cc"
+      "$oid": "693bf5a85dde024460c4b6fa"
     },
     "creationDate": 1764328999901,
     "decisionMetadata": {
@@ -23237,7 +23237,7 @@
       "sommaire": ""
     },
     "documentNumber": 2824926,
-    "externalId": "692ec8d869a83f77e209bd0e",
+    "externalId": "693bf09fae502cb4e8ff13c8",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -23287,11 +23287,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680288165
+    "updateDate": 1765538853591
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6cf"
+      "$oid": "693bf5a85dde024460c4b6fd"
     },
     "creationDate": 1764328999817,
     "decisionMetadata": {
@@ -23325,7 +23325,7 @@
       "sommaire": ""
     },
     "documentNumber": 2837897,
-    "externalId": "692ec8d869a83f77e209bd09",
+    "externalId": "693bf09fae502cb4e8ff13bf",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -23375,11 +23375,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675231770
+    "updateDate": 1765537683840
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6d2"
+      "$oid": "693bf5a85dde024460c4b700"
     },
     "creationDate": 1764328999733,
     "decisionMetadata": {
@@ -23413,7 +23413,7 @@
       "sommaire": ""
     },
     "documentNumber": 2839124,
-    "externalId": "692ec8d869a83f77e209bd04",
+    "externalId": "693bf09fae502cb4e8ff13b6",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -23463,11 +23463,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680246687
+    "updateDate": 1765537685968
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6d5"
+      "$oid": "693bf5a85dde024460c4b703"
     },
     "creationDate": 1764328999651,
     "decisionMetadata": {
@@ -23501,7 +23501,7 @@
       "sommaire": ""
     },
     "documentNumber": 2841993,
-    "externalId": "692ec8d869a83f77e209bcff",
+    "externalId": "693bf09fae502cb4e8ff13ad",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -23551,11 +23551,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680265398
+    "updateDate": 1765538930101
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6d8"
+      "$oid": "693bf5a85dde024460c4b706"
     },
     "creationDate": 1764328999546,
     "decisionMetadata": {
@@ -23589,7 +23589,7 @@
       "sommaire": ""
     },
     "documentNumber": 2843312,
-    "externalId": "692ec8d769a83f77e209bcfa",
+    "externalId": "693bf09eae502cb4e8ff13a4",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -23639,11 +23639,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680292902
+    "updateDate": 1765537738514
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6db"
+      "$oid": "693bf5a85dde024460c4b709"
     },
     "creationDate": 1764328999441,
     "decisionMetadata": {
@@ -23677,7 +23677,7 @@
       "sommaire": ""
     },
     "documentNumber": 2849196,
-    "externalId": "692ec8d769a83f77e209bcf5",
+    "externalId": "693bf09eae502cb4e8ff139b",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -23727,11 +23727,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675010302
+    "updateDate": 1765537722853
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6de"
+      "$oid": "693bf5a85dde024460c4b70c"
     },
     "creationDate": 1764328999324,
     "decisionMetadata": {
@@ -23765,7 +23765,7 @@
       "sommaire": ""
     },
     "documentNumber": 2854368,
-    "externalId": "692ec8d769a83f77e209bcf0",
+    "externalId": "693bf09eae502cb4e8ff1392",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -23815,11 +23815,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680310621
+    "updateDate": 1765537676723
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6e1"
+      "$oid": "693bf5a85dde024460c4b70f"
     },
     "creationDate": 1764328999225,
     "decisionMetadata": {
@@ -23853,7 +23853,7 @@
       "sommaire": ""
     },
     "documentNumber": 2861273,
-    "externalId": "692ec8d769a83f77e209bceb",
+    "externalId": "693bf09eae502cb4e8ff1389",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -23903,11 +23903,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675046218
+    "updateDate": 1765538855012
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6e4"
+      "$oid": "693bf5a85dde024460c4b712"
     },
     "creationDate": 1764328999099,
     "decisionMetadata": {
@@ -23941,7 +23941,7 @@
       "sommaire": ""
     },
     "documentNumber": 2868806,
-    "externalId": "692ec8d769a83f77e209bce6",
+    "externalId": "693bf09eae502cb4e8ff1380",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -23991,11 +23991,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680259733
+    "updateDate": 1765538926729
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6e7"
+      "$oid": "693bf5a85dde024460c4b715"
     },
     "creationDate": 1764328998988,
     "decisionMetadata": {
@@ -24029,7 +24029,7 @@
       "sommaire": ""
     },
     "documentNumber": 2874588,
-    "externalId": "692ec8d769a83f77e209bce1",
+    "externalId": "693bf09eae502cb4e8ff1377",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -24079,11 +24079,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680344018
+    "updateDate": 1765538934944
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6ea"
+      "$oid": "693bf5a85dde024460c4b718"
     },
     "creationDate": 1764328998895,
     "decisionMetadata": {
@@ -24117,7 +24117,7 @@
       "sommaire": ""
     },
     "documentNumber": 2912856,
-    "externalId": "692ec8d769a83f77e209bcdc",
+    "externalId": "693bf09dae502cb4e8ff136e",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -24167,11 +24167,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675220401
+    "updateDate": 1765537733496
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6ed"
+      "$oid": "693bf5a85dde024460c4b71b"
     },
     "creationDate": 1764328998810,
     "decisionMetadata": {
@@ -24205,7 +24205,7 @@
       "sommaire": ""
     },
     "documentNumber": 2913558,
-    "externalId": "692ec8d769a83f77e209bcd7",
+    "externalId": "693bf09dae502cb4e8ff1365",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -24255,11 +24255,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675237902
+    "updateDate": 1765538863769
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6f0"
+      "$oid": "693bf5a85dde024460c4b71e"
     },
     "creationDate": 1764328998721,
     "decisionMetadata": {
@@ -24293,7 +24293,7 @@
       "sommaire": ""
     },
     "documentNumber": 2915936,
-    "externalId": "692ec8d769a83f77e209bcd2",
+    "externalId": "693bf09dae502cb4e8ff135c",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -24343,11 +24343,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675252713
+    "updateDate": 1765537705031
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6f3"
+      "$oid": "693bf5a85dde024460c4b721"
     },
     "creationDate": 1764328998635,
     "decisionMetadata": {
@@ -24381,7 +24381,7 @@
       "sommaire": ""
     },
     "documentNumber": 2919615,
-    "externalId": "692ec8d769a83f77e209bccd",
+    "externalId": "693bf09dae502cb4e8ff1353",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -24431,11 +24431,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675242465
+    "updateDate": 1765537695673
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6f6"
+      "$oid": "693bf5a95dde024460c4b724"
     },
     "creationDate": 1764328998541,
     "decisionMetadata": {
@@ -24469,7 +24469,7 @@
       "sommaire": ""
     },
     "documentNumber": 2922491,
-    "externalId": "692ec8d769a83f77e209bcc8",
+    "externalId": "693bf09dae502cb4e8ff134a",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -24519,11 +24519,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680281597
+    "updateDate": 1765537710326
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6f9"
+      "$oid": "693bf5a95dde024460c4b727"
     },
     "creationDate": 1764328998442,
     "decisionMetadata": {
@@ -24557,7 +24557,7 @@
       "sommaire": ""
     },
     "documentNumber": 2923529,
-    "externalId": "692ec8d769a83f77e209bcc3",
+    "externalId": "693bf09dae502cb4e8ff1341",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -24603,15 +24603,15 @@
       }
     ],
     "reviewStatus": {
-      "viewerNames": [],
-      "hasBeenAmended": true
+      "hasBeenAmended": false,
+      "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675200799
+    "updateDate": 1765537693532
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6fc"
+      "$oid": "693bf5a95dde024460c4b72a"
     },
     "creationDate": 1764328998320,
     "decisionMetadata": {
@@ -24645,7 +24645,7 @@
       "sommaire": ""
     },
     "documentNumber": 2927537,
-    "externalId": "692ec8d769a83f77e209bcbe",
+    "externalId": "693bf09cae502cb4e8ff1336",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -24695,11 +24695,11 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680377126
+    "updateDate": 1765537674540
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f6ff"
+      "$oid": "693bf5a95dde024460c4b72d"
     },
     "creationDate": 1764328998224,
     "decisionMetadata": {
@@ -24733,7 +24733,7 @@
       "sommaire": ""
     },
     "documentNumber": 2927823,
-    "externalId": "692ec8d769a83f77e209bcb9",
+    "externalId": "693bf09cae502cb4e8ff132d",
     "loss": null,
     "priority": 0,
     "publicationCategory": [
@@ -24783,13 +24783,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680329182
+    "updateDate": 1765537694576
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f702"
+      "$oid": "693bf5a95dde024460c4b730"
     },
-    "creationDate": 1764673774792,
+    "creationDate": 1765535964134,
     "decisionMetadata": {
       "appealNumber": "2024J00315",
       "additionalTermsToAnnotate": "",
@@ -24821,7 +24821,7 @@
       "sommaire": ""
     },
     "documentNumber": 2511741197,
-    "externalId": "692ec8ee69a83f77e209c180",
+    "externalId": "693bf0dcae502cb4e8ff1ba2",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -24862,7 +24862,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -24890,14 +24890,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673955817
+    "status": "free",
+    "updateDate": 1765537193266
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f705"
+      "$oid": "693bf5a95dde024460c4b733"
     },
-    "creationDate": 1764673774677,
+    "creationDate": 1765535963846,
     "decisionMetadata": {
       "appealNumber": "2024004620",
       "additionalTermsToAnnotate": "",
@@ -24929,7 +24929,7 @@
       "sommaire": ""
     },
     "documentNumber": 2057439731,
-    "externalId": "692ec8ee69a83f77e209c17b",
+    "externalId": "693bf0dbae502cb4e8ff1b98",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -24970,7 +24970,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -24998,14 +24998,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673955850
+    "status": "free",
+    "updateDate": 1765537193344
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f708"
+      "$oid": "693bf5a95dde024460c4b736"
     },
-    "creationDate": 1764673774567,
+    "creationDate": 1765535963557,
     "decisionMetadata": {
       "appealNumber": "2025F01298",
       "additionalTermsToAnnotate": "",
@@ -25037,7 +25037,7 @@
       "sommaire": ""
     },
     "documentNumber": 2679176274,
-    "externalId": "692ec8ee69a83f77e209c176",
+    "externalId": "693bf0dbae502cb4e8ff1b8f",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -25078,7 +25078,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -25106,14 +25106,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673955883
+    "status": "free",
+    "updateDate": 1765537193383
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f70b"
+      "$oid": "693bf5a95dde024460c4b739"
     },
-    "creationDate": 1764673774442,
+    "creationDate": 1765535963285,
     "decisionMetadata": {
       "appealNumber": "2025F01163",
       "additionalTermsToAnnotate": "",
@@ -25145,7 +25145,7 @@
       "sommaire": ""
     },
     "documentNumber": 1394441977,
-    "externalId": "692ec8ee69a83f77e209c171",
+    "externalId": "693bf0dbae502cb4e8ff1b86",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -25186,7 +25186,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -25214,14 +25214,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673955919
+    "status": "free",
+    "updateDate": 1765537193422
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f70e"
+      "$oid": "693bf5a95dde024460c4b73c"
     },
-    "creationDate": 1764673774332,
+    "creationDate": 1765535962886,
     "decisionMetadata": {
       "appealNumber": "2025RG02297",
       "additionalTermsToAnnotate": "",
@@ -25253,7 +25253,7 @@
       "sommaire": ""
     },
     "documentNumber": 1368320623,
-    "externalId": "692ec8ee69a83f77e209c16c",
+    "externalId": "693bf0dbae502cb4e8ff1b7d",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -25294,7 +25294,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -25322,14 +25322,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673955955
+    "status": "free",
+    "updateDate": 1765537193460
   },
   {
     "_id": {
-      "$oid": "692ec9a3ade165818980f711"
+      "$oid": "693bf5a95dde024460c4b73f"
     },
-    "creationDate": 1764673774208,
+    "creationDate": 1765535962324,
     "decisionMetadata": {
       "appealNumber": "2023007763",
       "additionalTermsToAnnotate": "",
@@ -25361,7 +25361,7 @@
       "sommaire": ""
     },
     "documentNumber": 2296257733,
-    "externalId": "692ec8ee69a83f77e209c167",
+    "externalId": "693bf0daae502cb4e8ff1b74",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -25402,7 +25402,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -25430,14 +25430,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673955993
+    "status": "free",
+    "updateDate": 1765537193491
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f714"
+      "$oid": "693bf5a95dde024460c4b742"
     },
-    "creationDate": 1764673774092,
+    "creationDate": 1765535961793,
     "decisionMetadata": {
       "appealNumber": "2025L00541",
       "additionalTermsToAnnotate": "",
@@ -25469,7 +25469,7 @@
       "sommaire": ""
     },
     "documentNumber": 2036190836,
-    "externalId": "692ec8ee69a83f77e209c162",
+    "externalId": "693bf0d9ae502cb4e8ff1b6b",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -25510,7 +25510,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -25538,14 +25538,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673956028
+    "status": "free",
+    "updateDate": 1765537193532
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f717"
+      "$oid": "693bf5a95dde024460c4b745"
     },
-    "creationDate": 1764673773987,
+    "creationDate": 1765535961420,
     "decisionMetadata": {
       "appealNumber": "2024F00438",
       "additionalTermsToAnnotate": "",
@@ -25577,7 +25577,7 @@
       "sommaire": ""
     },
     "documentNumber": 2938376857,
-    "externalId": "692ec8ee69a83f77e209c15d",
+    "externalId": "693bf0d9ae502cb4e8ff1b62",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -25618,7 +25618,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -25646,14 +25646,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673956064
+    "status": "free",
+    "updateDate": 1765537193566
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f71a"
+      "$oid": "693bf5a95dde024460c4b748"
     },
-    "creationDate": 1764673773890,
+    "creationDate": 1765535961063,
     "decisionMetadata": {
       "appealNumber": "2024F00252",
       "additionalTermsToAnnotate": "",
@@ -25685,7 +25685,7 @@
       "sommaire": ""
     },
     "documentNumber": 1622404141,
-    "externalId": "692ec8ed69a83f77e209c158",
+    "externalId": "693bf0d9ae502cb4e8ff1b59",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -25726,7 +25726,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -25754,14 +25754,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673956099
+    "status": "free",
+    "updateDate": 1765537193596
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f71d"
+      "$oid": "693bf5a95dde024460c4b74b"
     },
-    "creationDate": 1764673773805,
+    "creationDate": 1765535960738,
     "decisionMetadata": {
       "appealNumber": "2024F00220",
       "additionalTermsToAnnotate": "",
@@ -25793,7 +25793,7 @@
       "sommaire": ""
     },
     "documentNumber": 13925290,
-    "externalId": "692ec8ed69a83f77e209c153",
+    "externalId": "693bf0d8ae502cb4e8ff1b4f",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -25834,7 +25834,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -25862,14 +25862,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673956144
+    "status": "free",
+    "updateDate": 1765537193644
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f720"
+      "$oid": "693bf5a95dde024460c4b74e"
     },
-    "creationDate": 1764673773713,
+    "creationDate": 1765535960313,
     "decisionMetadata": {
       "appealNumber": "2024F00064",
       "additionalTermsToAnnotate": "",
@@ -25901,7 +25901,7 @@
       "sommaire": ""
     },
     "documentNumber": 3271199790,
-    "externalId": "692ec8ed69a83f77e209c14e",
+    "externalId": "693bf0d8ae502cb4e8ff1b45",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -25942,7 +25942,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -25970,14 +25970,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673956182
+    "status": "free",
+    "updateDate": 1765537193682
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f723"
+      "$oid": "693bf5a95dde024460c4b751"
     },
-    "creationDate": 1764673773587,
+    "creationDate": 1765535959976,
     "decisionMetadata": {
       "appealNumber": "2024F00007",
       "additionalTermsToAnnotate": "",
@@ -26009,7 +26009,7 @@
       "sommaire": ""
     },
     "documentNumber": 273544490,
-    "externalId": "692ec8ed69a83f77e209c149",
+    "externalId": "693bf0d8ae502cb4e8ff1b3c",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -26050,7 +26050,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -26078,14 +26078,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673956217
+    "status": "free",
+    "updateDate": 1765537193720
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f726"
+      "$oid": "693bf5a95dde024460c4b754"
     },
-    "creationDate": 1764673773492,
+    "creationDate": 1765535959566,
     "decisionMetadata": {
       "appealNumber": "2022F00291",
       "additionalTermsToAnnotate": "",
@@ -26117,7 +26117,7 @@
       "sommaire": ""
     },
     "documentNumber": 3544345739,
-    "externalId": "692ec8ed69a83f77e209c144",
+    "externalId": "693bf0d7ae502cb4e8ff1b33",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -26158,7 +26158,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -26186,14 +26186,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673956252
+    "status": "free",
+    "updateDate": 1765537193746
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f729"
+      "$oid": "693bf5a95dde024460c4b757"
     },
-    "creationDate": 1764673773351,
+    "creationDate": 1765535959207,
     "decisionMetadata": {
       "appealNumber": "2025001805",
       "additionalTermsToAnnotate": "",
@@ -26225,7 +26225,7 @@
       "sommaire": ""
     },
     "documentNumber": 3752735502,
-    "externalId": "692ec8ed69a83f77e209c13f",
+    "externalId": "693bf0d7ae502cb4e8ff1b2a",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -26257,14 +26257,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673956288
+    "status": "free",
+    "updateDate": 1765537193779
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f72c"
+      "$oid": "693bf5a95dde024460c4b75a"
     },
-    "creationDate": 1764673773229,
+    "creationDate": 1765535958828,
     "decisionMetadata": {
       "appealNumber": "2024007701",
       "additionalTermsToAnnotate": "",
@@ -26296,7 +26296,7 @@
       "sommaire": ""
     },
     "documentNumber": 235429415,
-    "externalId": "692ec8ed69a83f77e209c13a",
+    "externalId": "693bf0d6ae502cb4e8ff1b1d",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -26328,14 +26328,14 @@
       "hasBeenAmended": false,
       "viewerNames": []
     },
-    "status": "blocked",
-    "updateDate": 1764673956321
+    "status": "free",
+    "updateDate": 1765537193812
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f72f"
+      "$oid": "693bf5a95dde024460c4b75d"
     },
-    "creationDate": 1764673773112,
+    "creationDate": 1765535958542,
     "decisionMetadata": {
       "appealNumber": "2024F02509",
       "additionalTermsToAnnotate": "",
@@ -26367,7 +26367,7 @@
       "sommaire": ""
     },
     "documentNumber": 4109890483,
-    "externalId": "692ec8ed69a83f77e209c135",
+    "externalId": "693bf0d6ae502cb4e8ff1b12",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -26408,7 +26408,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -26437,13 +26437,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680307565
+    "updateDate": 1765538857478
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f732"
+      "$oid": "693bf5a95dde024460c4b760"
     },
-    "creationDate": 1764673773014,
+    "creationDate": 1765535958178,
     "decisionMetadata": {
       "appealNumber": "2025F00180",
       "additionalTermsToAnnotate": "",
@@ -26475,7 +26475,7 @@
       "sommaire": ""
     },
     "documentNumber": 1054006564,
-    "externalId": "692ec8ed69a83f77e209c130",
+    "externalId": "693bf0d6ae502cb4e8ff1b09",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -26516,7 +26516,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -26545,13 +26545,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680248350
+    "updateDate": 1765537717282
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f735"
+      "$oid": "693bf5a95dde024460c4b763"
     },
-    "creationDate": 1764673772897,
+    "creationDate": 1765535957898,
     "decisionMetadata": {
       "appealNumber": "2024002444",
       "additionalTermsToAnnotate": "",
@@ -26583,7 +26583,7 @@
       "sommaire": ""
     },
     "documentNumber": 4266444324,
-    "externalId": "692ec8ec69a83f77e209c12b",
+    "externalId": "693bf0d5ae502cb4e8ff1aff",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -26616,13 +26616,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675007538
+    "updateDate": 1765537721935
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f738"
+      "$oid": "693bf5a95dde024460c4b766"
     },
-    "creationDate": 1764673772787,
+    "creationDate": 1765535957595,
     "decisionMetadata": {
       "appealNumber": "2024002220",
       "additionalTermsToAnnotate": "",
@@ -26654,7 +26654,7 @@
       "sommaire": ""
     },
     "documentNumber": 1995182108,
-    "externalId": "692ec8ec69a83f77e209c126",
+    "externalId": "693bf0d5ae502cb4e8ff1af6",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -26687,13 +26687,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675057121
+    "updateDate": 1765537669618
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f73b"
+      "$oid": "693bf5a95dde024460c4b769"
     },
-    "creationDate": 1764673772677,
+    "creationDate": 1765535957326,
     "decisionMetadata": {
       "appealNumber": "2024003898",
       "additionalTermsToAnnotate": "",
@@ -26725,7 +26725,7 @@
       "sommaire": ""
     },
     "documentNumber": 1374493219,
-    "externalId": "692ec8ec69a83f77e209c121",
+    "externalId": "693bf0d5ae502cb4e8ff1aed",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -26766,7 +26766,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -26795,13 +26795,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675246185
+    "updateDate": 1765537725785
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f73e"
+      "$oid": "693bf5aa5dde024460c4b76c"
     },
-    "creationDate": 1764673772577,
+    "creationDate": 1765535956860,
     "decisionMetadata": {
       "appealNumber": "2024001351",
       "additionalTermsToAnnotate": "",
@@ -26833,7 +26833,7 @@
       "sommaire": ""
     },
     "documentNumber": 2907066598,
-    "externalId": "692ec8ec69a83f77e209c11c",
+    "externalId": "693bf0d5ae502cb4e8ff1ae4",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -26874,7 +26874,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -26903,13 +26903,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675031346
+    "updateDate": 1765537688128
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f741"
+      "$oid": "693bf5aa5dde024460c4b76f"
     },
-    "creationDate": 1764673772463,
+    "creationDate": 1765535956416,
     "decisionMetadata": {
       "appealNumber": "2025R00135",
       "additionalTermsToAnnotate": "",
@@ -26941,7 +26941,7 @@
       "sommaire": ""
     },
     "documentNumber": 925904935,
-    "externalId": "692ec8ec69a83f77e209c116",
+    "externalId": "693bf0d4ae502cb4e8ff1adb",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -26982,7 +26982,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -27011,13 +27011,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680296350
+    "updateDate": 1765538931098
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f744"
+      "$oid": "693bf5aa5dde024460c4b772"
     },
-    "creationDate": 1764673772367,
+    "creationDate": 1765535956063,
     "decisionMetadata": {
       "appealNumber": "2025R00121",
       "additionalTermsToAnnotate": "",
@@ -27049,7 +27049,7 @@
       "sommaire": ""
     },
     "documentNumber": 705133417,
-    "externalId": "692ec8ec69a83f77e209c111",
+    "externalId": "693bf0d4ae502cb4e8ff1ad2",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -27090,7 +27090,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -27119,13 +27119,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674991618
+    "updateDate": 1765538870210
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f747"
+      "$oid": "693bf5aa5dde024460c4b775"
     },
-    "creationDate": 1764673772282,
+    "creationDate": 1765535955758,
     "decisionMetadata": {
       "appealNumber": "2025R00104",
       "additionalTermsToAnnotate": "",
@@ -27157,7 +27157,7 @@
       "sommaire": ""
     },
     "documentNumber": 776743111,
-    "externalId": "692ec8ec69a83f77e209c10c",
+    "externalId": "693bf0d3ae502cb4e8ff1ac9",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -27198,7 +27198,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -27227,13 +27227,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675020322
+    "updateDate": 1765537740495
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f74a"
+      "$oid": "693bf5aa5dde024460c4b778"
     },
-    "creationDate": 1764673772198,
+    "creationDate": 1765535955502,
     "decisionMetadata": {
       "appealNumber": "2024R01690",
       "additionalTermsToAnnotate": "",
@@ -27265,7 +27265,7 @@
       "sommaire": ""
     },
     "documentNumber": 1091344876,
-    "externalId": "692ec8ec69a83f77e209c107",
+    "externalId": "693bf0d3ae502cb4e8ff1ac0",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -27306,7 +27306,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -27335,13 +27335,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680291205
+    "updateDate": 1765537712380
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f74d"
+      "$oid": "693bf5aa5dde024460c4b77b"
     },
-    "creationDate": 1764673772094,
+    "creationDate": 1765535955073,
     "decisionMetadata": {
       "appealNumber": "2024R01343",
       "additionalTermsToAnnotate": "",
@@ -27373,7 +27373,7 @@
       "sommaire": ""
     },
     "documentNumber": 2145974057,
-    "externalId": "692ec8ec69a83f77e209c102",
+    "externalId": "693bf0d3ae502cb4e8ff1ab7",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -27414,7 +27414,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -27443,13 +27443,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675028266
+    "updateDate": 1765537742167
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f750"
+      "$oid": "693bf5aa5dde024460c4b77e"
     },
-    "creationDate": 1764673772010,
+    "creationDate": 1765535954725,
     "decisionMetadata": {
       "appealNumber": "J2025000072",
       "additionalTermsToAnnotate": "",
@@ -27481,7 +27481,7 @@
       "sommaire": ""
     },
     "documentNumber": 577770945,
-    "externalId": "692ec8ec69a83f77e209c0fd",
+    "externalId": "693bf0d2ae502cb4e8ff1aae",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -27522,7 +27522,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -27551,13 +27551,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680321884
+    "updateDate": 1765538869140
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f753"
+      "$oid": "693bf5aa5dde024460c4b781"
     },
-    "creationDate": 1764673771923,
+    "creationDate": 1765535954369,
     "decisionMetadata": {
       "appealNumber": "J2025000038",
       "additionalTermsToAnnotate": "",
@@ -27589,7 +27589,7 @@
       "sommaire": ""
     },
     "documentNumber": 3575929007,
-    "externalId": "692ec8eb69a83f77e209c0f8",
+    "externalId": "693bf0d2ae502cb4e8ff1aa5",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -27630,7 +27630,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -27659,13 +27659,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680364172
+    "updateDate": 1765538914271
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f756"
+      "$oid": "693bf5aa5dde024460c4b784"
     },
-    "creationDate": 1764673771785,
+    "creationDate": 1765535954055,
     "decisionMetadata": {
       "appealNumber": "2025000768",
       "additionalTermsToAnnotate": "",
@@ -27697,7 +27697,7 @@
       "sommaire": ""
     },
     "documentNumber": 1937552518,
-    "externalId": "692ec8eb69a83f77e209c0f3",
+    "externalId": "693bf0d2ae502cb4e8ff1a9c",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -27738,7 +27738,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -27767,13 +27767,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675021962
+    "updateDate": 1765537744172
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f759"
+      "$oid": "693bf5aa5dde024460c4b787"
     },
-    "creationDate": 1764673771650,
+    "creationDate": 1765535953694,
     "decisionMetadata": {
       "appealNumber": "2024F00608",
       "additionalTermsToAnnotate": "",
@@ -27805,7 +27805,7 @@
       "sommaire": ""
     },
     "documentNumber": 3330793666,
-    "externalId": "692ec8eb69a83f77e209c0ee",
+    "externalId": "693bf0d1ae502cb4e8ff1a92",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -27846,7 +27846,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -27875,13 +27875,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680352038
+    "updateDate": 1765538862622
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f75c"
+      "$oid": "693bf5aa5dde024460c4b78a"
     },
-    "creationDate": 1764673771506,
+    "creationDate": 1765535953263,
     "decisionMetadata": {
       "appealNumber": "2024004398",
       "additionalTermsToAnnotate": "",
@@ -27913,7 +27913,7 @@
       "sommaire": ""
     },
     "documentNumber": 552171244,
-    "externalId": "692ec8eb69a83f77e209c0e9",
+    "externalId": "693bf0d1ae502cb4e8ff1a89",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -27954,7 +27954,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -27983,13 +27983,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675058457
+    "updateDate": 1765538858559
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f75f"
+      "$oid": "693bf5aa5dde024460c4b78d"
     },
-    "creationDate": 1764673771328,
+    "creationDate": 1765535952968,
     "decisionMetadata": {
       "appealNumber": "2023003111",
       "additionalTermsToAnnotate": "",
@@ -28021,7 +28021,7 @@
       "sommaire": ""
     },
     "documentNumber": 1521063058,
-    "externalId": "692ec8eb69a83f77e209c0e4",
+    "externalId": "693bf0d1ae502cb4e8ff1a80",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -28054,13 +28054,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680270806
+    "updateDate": 1765537745089
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f762"
+      "$oid": "693bf5aa5dde024460c4b790"
     },
-    "creationDate": 1764673771152,
+    "creationDate": 1765535952677,
     "decisionMetadata": {
       "appealNumber": "2022001969",
       "additionalTermsToAnnotate": "",
@@ -28092,7 +28092,7 @@
       "sommaire": ""
     },
     "documentNumber": 2845696533,
-    "externalId": "692ec8eb69a83f77e209c0df",
+    "externalId": "693bf0d0ae502cb4e8ff1a77",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -28125,13 +28125,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680338699
+    "updateDate": 1765538892258
   },
   {
     "_id": {
-      "$oid": "692ec9a4ade165818980f765"
+      "$oid": "693bf5aa5dde024460c4b793"
     },
-    "creationDate": 1764673770851,
+    "creationDate": 1765535952366,
     "decisionMetadata": {
       "appealNumber": "2025J00005",
       "additionalTermsToAnnotate": "",
@@ -28163,7 +28163,7 @@
       "sommaire": ""
     },
     "documentNumber": 310631550,
-    "externalId": "692ec8eb69a83f77e209c0da",
+    "externalId": "693bf0d0ae502cb4e8ff1a6e",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -28196,13 +28196,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680258270
+    "updateDate": 1765537730783
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f768"
+      "$oid": "693bf5aa5dde024460c4b796"
     },
-    "creationDate": 1764673770609,
+    "creationDate": 1765535952089,
     "decisionMetadata": {
       "appealNumber": "2025F00362",
       "additionalTermsToAnnotate": "",
@@ -28234,7 +28234,7 @@
       "sommaire": ""
     },
     "documentNumber": 3922893552,
-    "externalId": "692ec8ea69a83f77e209c0d5",
+    "externalId": "693bf0d0ae502cb4e8ff1a65",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -28275,7 +28275,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -28304,13 +28304,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680264038
+    "updateDate": 1765537672473
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f76b"
+      "$oid": "693bf5aa5dde024460c4b799"
     },
-    "creationDate": 1764673770459,
+    "creationDate": 1765535951714,
     "decisionMetadata": {
       "appealNumber": "2025F00328",
       "additionalTermsToAnnotate": "",
@@ -28342,7 +28342,7 @@
       "sommaire": ""
     },
     "documentNumber": 1562486942,
-    "externalId": "692ec8ea69a83f77e209c0d0",
+    "externalId": "693bf0cfae502cb4e8ff1a5c",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -28383,7 +28383,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -28412,13 +28412,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675011642
+    "updateDate": 1765538889705
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f76e"
+      "$oid": "693bf5aa5dde024460c4b79c"
     },
-    "creationDate": 1764673770309,
+    "creationDate": 1765535951277,
     "decisionMetadata": {
       "appealNumber": "2025F00125",
       "additionalTermsToAnnotate": "",
@@ -28450,7 +28450,7 @@
       "sommaire": ""
     },
     "documentNumber": 3323439157,
-    "externalId": "692ec8ea69a83f77e209c0cb",
+    "externalId": "693bf0cfae502cb4e8ff1a53",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -28491,7 +28491,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -28520,13 +28520,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675229640
+    "updateDate": 1765537698805
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f771"
+      "$oid": "693bf5aa5dde024460c4b79f"
     },
-    "creationDate": 1764673769986,
+    "creationDate": 1765535950894,
     "decisionMetadata": {
       "appealNumber": "2025F00120",
       "additionalTermsToAnnotate": "",
@@ -28558,7 +28558,7 @@
       "sommaire": ""
     },
     "documentNumber": 3441214512,
-    "externalId": "692ec8ea69a83f77e209c0c6",
+    "externalId": "693bf0cfae502cb4e8ff1a4a",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -28599,7 +28599,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -28628,13 +28628,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675055594
+    "updateDate": 1765537670558
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f774"
+      "$oid": "693bf5aa5dde024460c4b7a2"
     },
-    "creationDate": 1764673769859,
+    "creationDate": 1765535950501,
     "decisionMetadata": {
       "appealNumber": "2024J00212",
       "additionalTermsToAnnotate": "",
@@ -28666,7 +28666,7 @@
       "sommaire": ""
     },
     "documentNumber": 3306043161,
-    "externalId": "692ec8e969a83f77e209c0c1",
+    "externalId": "693bf0ceae502cb4e8ff1a3f",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -28699,13 +28699,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675221846
+    "updateDate": 1765538932974
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f777"
+      "$oid": "693bf5aa5dde024460c4b7a5"
     },
-    "creationDate": 1764673769735,
+    "creationDate": 1765535950111,
     "decisionMetadata": {
       "appealNumber": "2024J00185",
       "additionalTermsToAnnotate": "",
@@ -28737,7 +28737,7 @@
       "sommaire": ""
     },
     "documentNumber": 3002916404,
-    "externalId": "692ec8e969a83f77e209c0bc",
+    "externalId": "693bf0ceae502cb4e8ff1a36",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -28770,13 +28770,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680278276
+    "updateDate": 1765538875557
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f77a"
+      "$oid": "693bf5aa5dde024460c4b7a8"
     },
-    "creationDate": 1764673769593,
+    "creationDate": 1765535949814,
     "decisionMetadata": {
       "appealNumber": "2024F01614",
       "additionalTermsToAnnotate": "",
@@ -28808,7 +28808,7 @@
       "sommaire": ""
     },
     "documentNumber": 81933462,
-    "externalId": "692ec8e969a83f77e209c0b7",
+    "externalId": "693bf0cdae502cb4e8ff1a2d",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -28849,7 +28849,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -28878,13 +28878,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680261187
+    "updateDate": 1765538893137
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f77d"
+      "$oid": "693bf5aa5dde024460c4b7ab"
     },
-    "creationDate": 1764673769451,
+    "creationDate": 1765535949568,
     "decisionMetadata": {
       "appealNumber": "2024F01128",
       "additionalTermsToAnnotate": "",
@@ -28916,7 +28916,7 @@
       "sommaire": ""
     },
     "documentNumber": 926629590,
-    "externalId": "692ec8e969a83f77e209c0b2",
+    "externalId": "693bf0cdae502cb4e8ff1a24",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -28957,7 +28957,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -28986,13 +28986,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675036618
+    "updateDate": 1765537701870
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f780"
+      "$oid": "693bf5ab5dde024460c4b7ae"
     },
-    "creationDate": 1764673769336,
+    "creationDate": 1765535949114,
     "decisionMetadata": {
       "appealNumber": "2024F00819",
       "additionalTermsToAnnotate": "",
@@ -29024,7 +29024,7 @@
       "sommaire": ""
     },
     "documentNumber": 3318718064,
-    "externalId": "692ec8e969a83f77e209c0ad",
+    "externalId": "693bf0cdae502cb4e8ff1a1b",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -29065,7 +29065,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -29094,13 +29094,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680361037
+    "updateDate": 1765538918195
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f783"
+      "$oid": "693bf5ab5dde024460c4b7b1"
     },
-    "creationDate": 1764673769194,
+    "creationDate": 1765535948867,
     "decisionMetadata": {
       "appealNumber": "2025001492",
       "additionalTermsToAnnotate": "",
@@ -29132,7 +29132,7 @@
       "sommaire": ""
     },
     "documentNumber": 3858061803,
-    "externalId": "692ec8e969a83f77e209c0a8",
+    "externalId": "693bf0ccae502cb4e8ff1a0e",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -29165,13 +29165,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680262727
+    "updateDate": 1765537697798
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f786"
+      "$oid": "693bf5ab5dde024460c4b7b4"
     },
-    "creationDate": 1764673769076,
+    "creationDate": 1765535948695,
     "decisionMetadata": {
       "appealNumber": "2025001262",
       "additionalTermsToAnnotate": "",
@@ -29203,7 +29203,7 @@
       "sommaire": ""
     },
     "documentNumber": 2582761134,
-    "externalId": "692ec8e969a83f77e209c0a1",
+    "externalId": "693bf0ccae502cb4e8ff1a04",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -29236,13 +29236,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674986394
+    "updateDate": 1765538852075
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f789"
+      "$oid": "693bf5ab5dde024460c4b7b7"
     },
-    "creationDate": 1764673768930,
+    "creationDate": 1765535948455,
     "decisionMetadata": {
       "appealNumber": "2023001174",
       "additionalTermsToAnnotate": "",
@@ -29274,7 +29274,7 @@
       "sommaire": ""
     },
     "documentNumber": 3413981435,
-    "externalId": "692ec8e969a83f77e209c09b",
+    "externalId": "693bf0ccae502cb4e8ff19fa",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -29307,13 +29307,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675023833
+    "updateDate": 1765537737767
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f78c"
+      "$oid": "693bf5ab5dde024460c4b7ba"
     },
-    "creationDate": 1764673768824,
+    "creationDate": 1765535948298,
     "decisionMetadata": {
       "appealNumber": "2023001004",
       "additionalTermsToAnnotate": "",
@@ -29345,7 +29345,7 @@
       "sommaire": ""
     },
     "documentNumber": 910375482,
-    "externalId": "692ec8e869a83f77e209c095",
+    "externalId": "693bf0ccae502cb4e8ff19f1",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -29378,13 +29378,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675228097
+    "updateDate": 1765538872558
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f78f"
+      "$oid": "693bf5ab5dde024460c4b7bd"
     },
-    "creationDate": 1764673768729,
+    "creationDate": 1765535948125,
     "decisionMetadata": {
       "appealNumber": "2024R00031",
       "additionalTermsToAnnotate": "",
@@ -29416,7 +29416,7 @@
       "sommaire": ""
     },
     "documentNumber": 4124126340,
-    "externalId": "692ec8e869a83f77e209c08e",
+    "externalId": "693bf0ccae502cb4e8ff19e8",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -29457,7 +29457,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -29486,13 +29486,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675035314
+    "updateDate": 1765537690120
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f792"
+      "$oid": "693bf5ab5dde024460c4b7c0"
     },
-    "creationDate": 1764673768609,
+    "creationDate": 1765535947978,
     "decisionMetadata": {
       "appealNumber": "2025004007",
       "additionalTermsToAnnotate": "",
@@ -29524,7 +29524,7 @@
       "sommaire": ""
     },
     "documentNumber": 1217237803,
-    "externalId": "692ec8e869a83f77e209c089",
+    "externalId": "693bf0ccae502cb4e8ff19de",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -29557,13 +29557,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680303918
+    "updateDate": 1765537741310
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f795"
+      "$oid": "693bf5ab5dde024460c4b7c3"
     },
-    "creationDate": 1764673768501,
+    "creationDate": 1765535947823,
     "decisionMetadata": {
       "appealNumber": "2025000547",
       "additionalTermsToAnnotate": "",
@@ -29595,7 +29595,7 @@
       "sommaire": ""
     },
     "documentNumber": 3807377899,
-    "externalId": "692ec8e869a83f77e209c084",
+    "externalId": "693bf0cbae502cb4e8ff19d5",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -29628,13 +29628,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675060159
+    "updateDate": 1765538874616
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f798"
+      "$oid": "693bf5ab5dde024460c4b7c6"
     },
-    "creationDate": 1764673768333,
+    "creationDate": 1765535947605,
     "decisionMetadata": {
       "appealNumber": "2025007851",
       "additionalTermsToAnnotate": "",
@@ -29666,7 +29666,7 @@
       "sommaire": ""
     },
     "documentNumber": 3188905731,
-    "externalId": "692ec8e869a83f77e209c07f",
+    "externalId": "693bf0cbae502cb4e8ff19cc",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -29699,13 +29699,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675012922
+    "updateDate": 1765538917254
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f79b"
+      "$oid": "693bf5ab5dde024460c4b7c9"
     },
-    "creationDate": 1764673768200,
+    "creationDate": 1765535947498,
     "decisionMetadata": {
       "appealNumber": "2025001743",
       "additionalTermsToAnnotate": "",
@@ -29749,7 +29749,7 @@
       "sommaire": ""
     },
     "documentNumber": 2265991529,
-    "externalId": "692ec8e869a83f77e209c07a",
+    "externalId": "693bf0cbae502cb4e8ff19c3",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -29790,7 +29790,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -29819,13 +29819,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680272876
+    "updateDate": 1765537746033
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f79e"
+      "$oid": "693bf5ab5dde024460c4b7cc"
     },
-    "creationDate": 1764673768061,
+    "creationDate": 1765535946910,
     "decisionMetadata": {
       "appealNumber": "2023006848",
       "additionalTermsToAnnotate": "",
@@ -29857,7 +29857,7 @@
       "sommaire": ""
     },
     "documentNumber": 2248987162,
-    "externalId": "692ec8e869a83f77e209c075",
+    "externalId": "693bf0caae502cb4e8ff19ba",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -29890,13 +29890,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680356764
+    "updateDate": 1765537684877
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f7a1"
+      "$oid": "693bf5ab5dde024460c4b7cf"
     },
-    "creationDate": 1764673767929,
+    "creationDate": 1765535945850,
     "decisionMetadata": {
       "appealNumber": "2022000256",
       "additionalTermsToAnnotate": "",
@@ -29928,7 +29928,7 @@
       "sommaire": ""
     },
     "documentNumber": 1043931615,
-    "externalId": "692ec8e769a83f77e209c070",
+    "externalId": "693bf0c9ae502cb4e8ff19b1",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -29961,13 +29961,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675233129
+    "updateDate": 1765537719213
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f7a4"
+      "$oid": "693bf5ab5dde024460c4b7d2"
     },
-    "creationDate": 1764673767801,
+    "creationDate": 1765535944652,
     "decisionMetadata": {
       "appealNumber": "2025R00101",
       "additionalTermsToAnnotate": "",
@@ -29999,7 +29999,7 @@
       "sommaire": ""
     },
     "documentNumber": 2088376239,
-    "externalId": "692ec8e769a83f77e209c06b",
+    "externalId": "693bf0c8ae502cb4e8ff19a8",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -30040,7 +30040,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -30069,13 +30069,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764674988415
+    "updateDate": 1765538923508
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f7a7"
+      "$oid": "693bf5ab5dde024460c4b7d5"
     },
-    "creationDate": 1764673767688,
+    "creationDate": 1765535944095,
     "decisionMetadata": {
       "appealNumber": "2024F00609",
       "additionalTermsToAnnotate": "",
@@ -30107,7 +30107,7 @@
       "sommaire": ""
     },
     "documentNumber": 150583393,
-    "externalId": "692ec8e769a83f77e209c066",
+    "externalId": "693bf0c8ae502cb4e8ff199f",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -30148,7 +30148,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -30177,13 +30177,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680372293
+    "updateDate": 1765537671532
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f7aa"
+      "$oid": "693bf5ab5dde024460c4b7d8"
     },
-    "creationDate": 1764673767586,
+    "creationDate": 1765535943779,
     "decisionMetadata": {
       "appealNumber": "2024F00128",
       "additionalTermsToAnnotate": "",
@@ -30215,7 +30215,7 @@
       "sommaire": ""
     },
     "documentNumber": 3686035811,
-    "externalId": "692ec8e769a83f77e209c061",
+    "externalId": "693bf0c7ae502cb4e8ff1995",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -30256,7 +30256,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -30285,13 +30285,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675061538
+    "updateDate": 1765537721058
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f7ad"
+      "$oid": "693bf5ab5dde024460c4b7db"
     },
-    "creationDate": 1764673767473,
+    "creationDate": 1765535943409,
     "decisionMetadata": {
       "appealNumber": "2025J08006",
       "additionalTermsToAnnotate": "",
@@ -30323,7 +30323,7 @@
       "sommaire": ""
     },
     "documentNumber": 2025800282,
-    "externalId": "692ec8e769a83f77e209c05c",
+    "externalId": "693bf0c7ae502cb4e8ff198c",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -30356,13 +30356,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675211809
+    "updateDate": 1765538931998
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f7b0"
+      "$oid": "693bf5ab5dde024460c4b7de"
     },
-    "creationDate": 1764673767387,
+    "creationDate": 1765535943053,
     "decisionMetadata": {
       "appealNumber": "2025F00208",
       "additionalTermsToAnnotate": "",
@@ -30394,7 +30394,7 @@
       "sommaire": ""
     },
     "documentNumber": 3911315319,
-    "externalId": "692ec8e769a83f77e209c056",
+    "externalId": "693bf0c7ae502cb4e8ff1983",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -30435,7 +30435,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -30464,13 +30464,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675215321
+    "updateDate": 1765538865934
   },
   {
     "_id": {
-      "$oid": "692ec9a5ade165818980f7b3"
+      "$oid": "693bf5ab5dde024460c4b7e1"
     },
-    "creationDate": 1764673767275,
+    "creationDate": 1765535942768,
     "decisionMetadata": {
       "appealNumber": "2025F00147",
       "additionalTermsToAnnotate": "",
@@ -30502,7 +30502,7 @@
       "sommaire": ""
     },
     "documentNumber": 3084727537,
-    "externalId": "692ec8e769a83f77e209c051",
+    "externalId": "693bf0c6ae502cb4e8ff197a",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -30543,7 +30543,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -30572,13 +30572,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680358164
+    "updateDate": 1765538881219
   },
   {
     "_id": {
-      "$oid": "692ec9a6ade165818980f7b6"
+      "$oid": "693bf5ab5dde024460c4b7e4"
     },
-    "creationDate": 1764673767172,
+    "creationDate": 1765535942514,
     "decisionMetadata": {
       "appealNumber": "2024F01710",
       "additionalTermsToAnnotate": "",
@@ -30610,7 +30610,7 @@
       "sommaire": ""
     },
     "documentNumber": 3821025626,
-    "externalId": "692ec8e769a83f77e209c04c",
+    "externalId": "693bf0c6ae502cb4e8ff1971",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -30651,7 +30651,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -30680,13 +30680,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675250889
+    "updateDate": 1765538880308
   },
   {
     "_id": {
-      "$oid": "692ec9a6ade165818980f7b9"
+      "$oid": "693bf5ab5dde024460c4b7e7"
     },
-    "creationDate": 1764673767068,
+    "creationDate": 1765535942230,
     "decisionMetadata": {
       "appealNumber": "2023F01543",
       "additionalTermsToAnnotate": "",
@@ -30718,7 +30718,7 @@
       "sommaire": ""
     },
     "documentNumber": 1314765705,
-    "externalId": "692ec8e769a83f77e209c047",
+    "externalId": "693bf0c6ae502cb4e8ff1968",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -30759,7 +30759,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -30788,13 +30788,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675226729
+    "updateDate": 1765537702916
   },
   {
     "_id": {
-      "$oid": "692ec9a6ade165818980f7bc"
+      "$oid": "693bf5ac5dde024460c4b7ea"
     },
-    "creationDate": 1764673766956,
+    "creationDate": 1765535941932,
     "decisionMetadata": {
       "appealNumber": "2022F01667",
       "additionalTermsToAnnotate": "",
@@ -30826,7 +30826,7 @@
       "sommaire": ""
     },
     "documentNumber": 414691974,
-    "externalId": "692ec8e769a83f77e209c042",
+    "externalId": "693bf0c6ae502cb4e8ff195f",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -30867,7 +30867,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -30896,13 +30896,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680327596
+    "updateDate": 1765538922724
   },
   {
     "_id": {
-      "$oid": "692ec9a6ade165818980f7bf"
+      "$oid": "693bf5ac5dde024460c4b7ed"
     },
-    "creationDate": 1764673766787,
+    "creationDate": 1765535941555,
     "decisionMetadata": {
       "appealNumber": "2025001182",
       "additionalTermsToAnnotate": "",
@@ -30934,7 +30934,7 @@
       "sommaire": ""
     },
     "documentNumber": 628989256,
-    "externalId": "692ec8e669a83f77e209c03d",
+    "externalId": "693bf0c5ae502cb4e8ff1956",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -30967,13 +30967,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680251342
+    "updateDate": 1765537728008
   },
   {
     "_id": {
-      "$oid": "692ec9a6ade165818980f7c2"
+      "$oid": "693bf5ac5dde024460c4b7f0"
     },
-    "creationDate": 1764673766681,
+    "creationDate": 1765535941295,
     "decisionMetadata": {
       "appealNumber": "2025001032",
       "additionalTermsToAnnotate": "",
@@ -31005,7 +31005,7 @@
       "sommaire": ""
     },
     "documentNumber": 3428867147,
-    "externalId": "692ec8e669a83f77e209c038",
+    "externalId": "693bf0c5ae502cb4e8ff194d",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -31038,13 +31038,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680276302
+    "updateDate": 1765537731660
   },
   {
     "_id": {
-      "$oid": "692ec9a6ade165818980f7c5"
+      "$oid": "693bf5ac5dde024460c4b7f3"
     },
-    "creationDate": 1764673766588,
+    "creationDate": 1765535940987,
     "decisionMetadata": {
       "appealNumber": "2025L00052",
       "additionalTermsToAnnotate": "",
@@ -31076,7 +31076,7 @@
       "sommaire": ""
     },
     "documentNumber": 620348342,
-    "externalId": "692ec8e669a83f77e209c033",
+    "externalId": "693bf0c5ae502cb4e8ff1944",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -31117,7 +31117,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -31146,13 +31146,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675236305
+    "updateDate": 1765537715329
   },
   {
     "_id": {
-      "$oid": "692ec9a6ade165818980f7c8"
+      "$oid": "693bf5ac5dde024460c4b7f6"
     },
-    "creationDate": 1764673766479,
+    "creationDate": 1765535940696,
     "decisionMetadata": {
       "appealNumber": "2025F00003",
       "additionalTermsToAnnotate": "",
@@ -31184,7 +31184,7 @@
       "sommaire": ""
     },
     "documentNumber": 3361897178,
-    "externalId": "692ec8e669a83f77e209c02e",
+    "externalId": "693bf0c4ae502cb4e8ff1939",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -31225,7 +31225,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -31254,13 +31254,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680353468
+    "updateDate": 1765538924700
   },
   {
     "_id": {
-      "$oid": "692ec9a6ade165818980f7cb"
+      "$oid": "693bf5ac5dde024460c4b7f9"
     },
-    "creationDate": 1764673766368,
+    "creationDate": 1765535940087,
     "decisionMetadata": {
       "appealNumber": "2024L02129",
       "additionalTermsToAnnotate": "",
@@ -31292,7 +31292,7 @@
       "sommaire": ""
     },
     "documentNumber": 340606039,
-    "externalId": "692ec8e669a83f77e209c029",
+    "externalId": "693bf0c4ae502cb4e8ff1930",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -31333,7 +31333,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -31362,13 +31362,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764680370969
+    "updateDate": 1765537711360
   },
   {
     "_id": {
-      "$oid": "692ec9a6ade165818980f7ce"
+      "$oid": "693bf5ac5dde024460c4b7fc"
     },
-    "creationDate": 1764673766237,
+    "creationDate": 1765535939737,
     "decisionMetadata": {
       "appealNumber": "2024L02089",
       "additionalTermsToAnnotate": "",
@@ -31412,7 +31412,7 @@
       "sommaire": ""
     },
     "documentNumber": 2646659996,
-    "externalId": "692ec8e669a83f77e209c024",
+    "externalId": "693bf0c3ae502cb4e8ff1927",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -31453,7 +31453,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -31482,13 +31482,13 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675244249
+    "updateDate": 1765537720150
   },
   {
     "_id": {
-      "$oid": "692ec9a6ade165818980f7d1"
+      "$oid": "693bf5ac5dde024460c4b7ff"
     },
-    "creationDate": 1764673766116,
+    "creationDate": 1765535939381,
     "decisionMetadata": {
       "appealNumber": "2024F00154",
       "additionalTermsToAnnotate": "",
@@ -31520,7 +31520,7 @@
       "sommaire": ""
     },
     "documentNumber": 3622408396,
-    "externalId": "692ec8e669a83f77e209c01f",
+    "externalId": "693bf0c3ae502cb4e8ff191e",
     "loss": null,
     "priority": 0,
     "publicationCategory": [],
@@ -31561,7 +31561,7 @@
         "composition": null
       },
       "visa": null,
-      "is_public": 2,
+      "is_public": -1,
       "is_public_text": [
         "statuant publiquement"
       ],
@@ -31590,6 +31590,6 @@
       "viewerNames": []
     },
     "status": "done",
-    "updateDate": 1764675032705
+    "updateDate": 1765537736950
   }
 ]

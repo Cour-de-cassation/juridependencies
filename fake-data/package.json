@@ -1,7 +1,7 @@
 {
-  "name": "api-dbsder",
+  "name": "juridependencies",
   "version": "0.0.1",
-  "description": "API DBSDER",
+  "description": "Juridependencies fake datas",
   "author": "Cour de Cassation",
   "private": true,
   "license": "MIT",

@@ -43,11 +43,11 @@ async function listAll(name, continuationToken) {
       ContinuationToken: continuationToken,
     })
   );
-  if (result.IsTruncated)
+  if (result.IsTruncated){
     return [
       ...(result.Contents ?? []),
-      ...listAll(name, result.NextContinuationToken),
-    ];
+      ...await listAll(name, result.NextContinuationToken),
+    ];}
   return result.Contents ?? [];
 }
 

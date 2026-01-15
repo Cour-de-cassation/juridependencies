@@ -1,0 +1,4425 @@
+[
+  {
+    "_id": {
+      "$oid": "69303e5e40c68bd9643ddef0"
+    },
+    "path": "TJ_FAKE_658b289e2c4a0d96dcda526f.wpd",
+    "metadatas": {
+      "nomJuridiction": "Paris",
+      "idJuridiction": "TJ75056",
+      "codeJuridiction": "00915273",
+      "numeroRegistre": ".",
+      "numeroRoleGeneral": "23/06292",
+      "codeService": "K2",
+      "libelleService": "PCP JCP ACR fond",
+      "dateDecision": "20231222",
+      "codeDecision": "44D",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs en accordant des délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande en paiement des loyers et des charges et/ou tendant à faire prononcer ou constater la résiliation pour défaut de paiement  ou défaut d'assurance et ordonner l'expulsion Y compris les demandes tendant à la fixation et au paiement des indemnités d'occupation et à l'expulsion. Y compris les demandes dirigées contre la caution du locataire.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2025-12-03T13:34:08.070Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e5e40c68bd9643ddef1"
+    },
+    "path": "TJ_FAKE_65b7f5a1858823c56e097f67.wpd",
+    "metadatas": {
+      "nomJuridiction": "BOBIGNY",
+      "idJuridiction": "TJ93008",
+      "codeJuridiction": "00100210",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "23/08781",
+      "numeroMesureInstruction": [
+        "2300008781"
+      ],
+      "codeService": "61",
+      "libelleService": "Chambre 21",
+      "dateDecision": "20240124",
+      "codeDecision": "E06",
+      "libelleCodeDecision": "Autres décisions ne dessaisissant pas la juridiction",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en réparation des dommages causés par l'activité médicale ou para-médicale Dommages causés par une faute (dans la prescription ou dans l'exécution), que l'action soit exercée contre le professionnel lui-même (médecin, infirmier, kinésithérapeute), ou contre l'établissement qui l'emploie, ou contre les deux. Lorsque les dommages sont causés par un produit, un médicament ou par du matériel défectueux, coder 61B.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2025-12-03T13:34:08.069Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e5e40c68bd9643ddef2"
+    },
+    "path": "TJ_FAKE_65b7fa4e858823c56e0cfcdf.wpd",
+    "metadatas": {
+      "nomJuridiction": "MARSEILLE",
+      "idJuridiction": "TJ13055",
+      "codeJuridiction": "00100059",
+      "numeroRegistre": "V",
+      "numeroRoleGeneral": "23/00100",
+      "codeService": "AD",
+      "libelleService": "Adjudications",
+      "dateDecision": "20240124",
+      "codeDecision": "C54",
+      "libelleCodeDecision": "Ventes - renvoi à 8 semaines",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande tendant à la vente immobilière et à la distribution du prix Procédures introduites avant le 1er janvier 2007 : art. 688 CPC (ancien). Procédures introduites après le 1er janvier 2007 : art. R.322-4, R.322-6 et R.322-10 du C. pr. exéc. Y compris demande de vente aux enchères ordonnée par le juge commissaire. Y compris demande de vente aux enchères ordonnée dans le cadre d'un rétablissement personnel.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2025-12-03T13:34:08.069Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e5e40c68bd9643ddef3"
+    },
+    "path": "TJ_FAKE_65c3d95ac432ce7d11a6cdc7.wpd",
+    "metadatas": {
+      "nomJuridiction": "Paris",
+      "idJuridiction": "TJ75056",
+      "codeJuridiction": "00915273",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "22/03329",
+      "codeService": "I8",
+      "libelleService": "18° chambre 2ème section",
+      "dateDecision": "20240129",
+      "codeDecision": "C33",
+      "libelleCodeDecision": "MEE : Renvoi avec ordonnance de clôture et renvoi en plaidoirie",
+      "codeNAC": "22A",
+      "libelleNAC": "Autres demandes en matière de baux commerciaux",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2025-12-03T13:34:08.069Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e5e40c68bd9643ddef4"
+    },
+    "path": "TJ_FAKE_65d64ab987daf743d9a4d804.wpd",
+    "metadatas": {
+      "nomJuridiction": "LILLE",
+      "idJuridiction": "TJ59350",
+      "codeJuridiction": "00100146",
+      "numeroRegistre": "8",
+      "numeroRoleGeneral": "24/00202",
+      "codeService": "06",
+      "libelleService": "Juge libertés & détention",
+      "dateDecision": "20240129",
+      "codeDecision": "69B",
+      "libelleCodeDecision": "Mainlevée de la mesure de rétention administrative",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'autorisation de prolongation des mesures de rétention prises à l'encontre des étrangers en situation irrégulière Art. L. 552-1 et s. du CESEDA Pour les demandes visant à déclarer l'appel suspensif, coder 14Q et PP5L. Pour les demandes de mainlevée de la rétention formées devant le JLD par l'étranger, hors des audiences prévues aux articles R.552-9 et R.552.15 ( art.552-17 de CESEDA), coder 14H.",
+      "codeNature": "  ",
+      "libelleNature": "",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2025-12-03T13:34:08.071Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e5e40c68bd9643ddef5"
+    },
+    "path": "TJ_FAKE_65dce5436f3a33381eb5e385.wpd",
+    "metadatas": {
+      "nomJuridiction": "Paris",
+      "idJuridiction": "TJ75056",
+      "codeJuridiction": "00915273",
+      "numeroRegistre": "^",
+      "numeroRoleGeneral": "22/01964",
+      "codeService": "T1",
+      "libelleService": "PS ctx protection soc 1",
+      "dateDecision": "20240125",
+      "codeDecision": "44A",
+      "libelleCodeDecision": "Fait droit à l'ensemble des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Autres demandes contre un organisme",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2025-12-03T13:34:08.069Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e5e40c68bd9643ddef6"
+    },
+    "path": "TJ_FAKE_65de3217b88678c04aba5b15.wpd",
+    "metadatas": {
+      "nomJuridiction": "BORDEAUX",
+      "idJuridiction": "TJ33063",
+      "codeJuridiction": "00100094",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "21/05419",
+      "codeService": "V4",
+      "libelleService": "CABINET JAF 3",
+      "dateDecision": "20240208",
+      "codeDecision": "66U",
+      "libelleCodeDecision": "Prononce le divorce pour altération définitive du lien conjugal",
+      "codeNAC": "22A",
+      "libelleNAC": "Art. 751 du CPC - Demande en divorce autre que par consentement mutuel Art. 251 du C. civ. Saisines post-ONC antérieures à la réforme introduite par la  L. n° 2019-222 du 23 mars 2019. Requêtes en divorce enregistrées avant le  1er janvier 2021.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": false,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2025-12-03T13:34:08.074Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e5e40c68bd9643ddef7"
+    },
+    "path": "TJ_FAKE_65e7715079d7e316eba79b23.wpd",
+    "metadatas": {
+      "nomJuridiction": "Paris",
+      "idJuridiction": "TJ75056",
+      "codeJuridiction": "00915273",
+      "numeroRegistre": "4",
+      "numeroRoleGeneral": "23/39885",
+      "codeService": "G5",
+      "libelleService": "JAF section 2 cab 5",
+      "dateDecision": "20240305",
+      "codeDecision": "66U",
+      "libelleCodeDecision": "Prononce le divorce pour altération définitive du lien conjugal",
+      "codeNAC": "22A",
+      "libelleNAC": "Art. 1107 CPC - Demande en divorce autre que par consentement mutuel Art. 251 du C. civ. Assignations postérieures à l'entrée en vigueur de la L. n° 2019-222 du 23 mars 2019. Art.1107 du CPC - demandes formées à compter du 1er janvier 2021.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": false,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2025-12-03T13:34:08.070Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e5e40c68bd9643ddef8"
+    },
+    "path": "TJ_FAKE_65ef3398790a24340de8a0b9.wpd",
+    "metadatas": {
+      "nomJuridiction": "ST DENIS",
+      "idJuridiction": "TJ97411",
+      "codeJuridiction": "00100217",
+      "numeroRegistre": ")",
+      "numeroRoleGeneral": "24/00001",
+      "codeService": "11",
+      "libelleService": "CIVIL TP SAINT BENOIT",
+      "dateDecision": "20240304",
+      "codeDecision": "449",
+      "libelleCodeDecision": "Expulsion \"conditionnelle\" ordonnée au fond avec suspension des effets de la clause résolutoire",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande en paiement des loyers et des charges et/ou tendant à faire prononcer ou constater la résiliation pour défaut de paiement  ou défaut d'assurance et ordonner l'expulsion Y compris les demandes tendant à la fixation et au paiement des indemnités d’occupation et à l’expulsion. Y compris les demandes dirigées contre la caution du locataire.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2025-12-03T13:34:08.070Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e5e40c68bd9643ddef9"
+    },
+    "path": "TJ_FAKE_65f9e05b419bca6fe58788cd.wpd",
+    "metadatas": {
+      "nomJuridiction": "BOBIGNY",
+      "idJuridiction": "TJ93008",
+      "codeJuridiction": "00100210",
+      "numeroRegistre": "M",
+      "numeroRoleGeneral": "23/02462",
+      "codeService": "WU",
+      "libelleService": "Chambre 27 / Proxi fond",
+      "dateDecision": "20240314",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en paiement des charges ou des contributions Pour les indemnités qui peuvent être réclamées à un copropriétaire à raison de troubles ou de violations du règlement, coder 72C ou 72D. Pour les demandes en paiement de provisions ou sommes exigibles présentée devant le Président du TJ statuant selon la procédure accélérée au fond (art. 19-2 et 41-15 de L. 1965), coder 72I.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2025-12-03T13:34:08.069Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e5e40c68bd9643ddefa"
+    },
+    "path": "TJ_FAKE_65fb3a4bf10d505339f5d099.wpd",
+    "metadatas": {
+      "nomJuridiction": "RENNES",
+      "idJuridiction": "TJ35238",
+      "codeJuridiction": "00100098",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "22/08667",
+      "codeService": "02",
+      "libelleService": "2ème Chambre civile",
+      "dateDecision": "20240319",
+      "codeDecision": "33D",
+      "libelleCodeDecision": "Déboute le ou les demandeurs de l'ensemble de leurs demandes",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'annulation d'une mise en demeure ou d'une contrainte Ex : différents régimes de contrainte : par exemple L. 133-4, R. 133-3, L. 244-9 ou L. 161-1-5 du C. de Séc. soc.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2025-12-03T13:34:08.074Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e5e40c68bd9643ddefb"
+    },
+    "path": "TJ_FAKE_6616d33763271232b2e43dd7.wpd",
+    "metadatas": {
+      "nomJuridiction": "BOBIGNY",
+      "idJuridiction": "TJ93008",
+      "codeJuridiction": "00100210",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "23/08571",
+      "codeService": "13",
+      "libelleService": "Chambre 1/Section 3",
+      "dateDecision": "20240318",
+      "codeDecision": "44A",
+      "libelleCodeDecision": "Fait droit à l'ensemble des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'adoption plénière Art. 243 du C. civ.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": false,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2025-12-03T13:34:08.070Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e5e40c68bd9643ddefc"
+    },
+    "path": "TJ_FAKE_6633da46c0d3e3fe99d17a14.wpd",
+    "metadatas": {
+      "nomJuridiction": "Paris",
+      "idJuridiction": "TJ75056",
+      "codeJuridiction": "00915273",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "23/10623",
+      "codeService": "CC",
+      "libelleService": "Charges de copropriété",
+      "dateDecision": "20240424",
+      "codeDecision": "22B",
+      "libelleCodeDecision": "Constate ou prononce le désistement d'instance et/ou d'action",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en paiement des charges ou des contributions Pour les indemnités qui peuvent être réclamées à un copropriétaire à raison de troubles ou de violations du règlement, coder 72C ou 72D. Pour les demandes en paiement de provisions ou sommes exigibles présentée devant le Président du TJ statuant selon la procédure accélérée au fond (art. 19-2 et 41-15 de L. 1965), coder 72I.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2025-12-03T13:34:08.077Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e5f40c68bd9643ddefd"
+    },
+    "path": "TJ_FAKE_6644f7ccff05552387a90c9c.wpd",
+    "metadatas": {
+      "nomJuridiction": "BOBIGNY",
+      "idJuridiction": "TJ93008",
+      "codeJuridiction": "00100210",
+      "numeroRegistre": "0",
+      "numeroRoleGeneral": "24/03716",
+      "codeService": "JH",
+      "libelleService": "J.L.D. HSC",
+      "dateDecision": "20240514",
+      "codeDecision": "67A",
+      "libelleCodeDecision": "Maintien de la mesure de soins psychiatriques",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande de contrôle obligatoire périodique de la nécessité d'une mesure d'hospitalisation complète",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2025-12-03T13:34:08.082Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e5f40c68bd9643ddefe"
+    },
+    "path": "TJ_FAKE_6650d9fb9d5614ec4f7d65bc.wpd",
+    "metadatas": {
+      "nomJuridiction": "MARSEILLE",
+      "idJuridiction": "TJ13055",
+      "codeJuridiction": "00100059",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "23/05936",
+      "codeService": "A3",
+      "libelleService": "4ème Chambre Cab E",
+      "dateDecision": "20240524",
+      "codeDecision": "66T",
+      "libelleCodeDecision": "Prononce le divorce accepté",
+      "codeNAC": "22A",
+      "libelleNAC": "Art. 1107 CPC - Demande en divorce autre que par consentement mutuel Art. 251 du C. civ. Assignations postérieures à l'entrée en vigueur de la L. n° 2019-222 du 23 mars 2019. Art.1107 du CPC - demandes formées à compter du 1er janvier 2021.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": false,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2025-12-03T13:34:08.071Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012dcd"
+    },
+    "path": "TJ_FAKE_6654cf67f31ecb9d932752b0.wpd",
+    "metadatas": {
+      "nomJuridiction": "Paris",
+      "idJuridiction": "TJ75056",
+      "codeJuridiction": "00915273",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "23/05389",
+      "codeService": "6B",
+      "libelleService": "6ème chambre 2ème section",
+      "dateDecision": "20240502",
+      "codeDecision": "22B",
+      "libelleCodeDecision": "Constate ou prononce le désistement d'instance et/ou d'action",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'exécution de travaux, ou de dommages-intérêts, formée par le maître de l'ouvrage contre le constructeur ou son garant, ou contre le fabricant d'un élément de construction Que cette demande soit formée dans le cadre de la garantie de parfait achèvement (art. 1792-6 du C. civ.), des garanties décennales ou biennales (art. 1792 à 1792-4 du C. civ.) ou sur le fondement de la responsabilité contractuelle du droit commun, y compris les demandes formées par l'assureur du maître de l'ouvrage.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.900Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012dce"
+    },
+    "path": "TJ_FAKE_6658bf646ef03ef1fcfe6d82.wpd",
+    "metadatas": {
+      "nomJuridiction": "BORDEAUX",
+      "idJuridiction": "TJ33063",
+      "codeJuridiction": "00100094",
+      "numeroRegistre": "D",
+      "numeroRoleGeneral": "24/00275",
+      "codeService": "PP",
+      "libelleService": "PPP Contentieux général",
+      "dateDecision": "20240409",
+      "codeDecision": "44A",
+      "libelleCodeDecision": "Fait droit à l'ensemble des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande en paiement des loyers et des charges et/ou tendant à faire prononcer ou constater la résiliation pour défaut de paiement  ou défaut d'assurance et ordonner l'expulsion Y compris les demandes tendant à la fixation et au paiement des indemnités d'occupation et à l'expulsion. Y compris les demandes dirigées contre la caution du locataire.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.900Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012dcf"
+    },
+    "path": "TJ_FAKE_6661f8b5d07d032eddad9e78.wpd",
+    "metadatas": {
+      "nomJuridiction": "BOBIGNY",
+      "idJuridiction": "TJ93008",
+      "codeJuridiction": "00100210",
+      "numeroRegistre": "0",
+      "numeroRoleGeneral": "24/04407",
+      "codeService": "JH",
+      "libelleService": "J.L.D. HSC",
+      "dateDecision": "20240606",
+      "codeDecision": "67A",
+      "libelleCodeDecision": "Maintien de la mesure de soins psychiatriques",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande de contrôle obligatoire périodique de la nécessité d'une mesure d'hospitalisation complète",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.902Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012dd0"
+    },
+    "path": "TJ_FAKE_6661fac9d07d032eddaddb42.wpd",
+    "metadatas": {
+      "nomJuridiction": "LILLE",
+      "idJuridiction": "TJ59350",
+      "codeJuridiction": "00100146",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "24/00660",
+      "numeroMesureInstruction": [
+        "2400000457"
+      ],
+      "codeService": "41",
+      "libelleService": "Référés expertises",
+      "dateDecision": "20240528",
+      "codeDecision": "55D",
+      "libelleCodeDecision": "Désigne un expert ou un autre technicien",
+      "codeNAC": "22A",
+      "libelleNAC": "Autres demandes  tendant à faire sanctionner l'inexécution des obligations du vendeur Ex : demande tendant à faire sanctionner le manquement du vendeur à son obligation de renseignements.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.903Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012dd1"
+    },
+    "path": "TJ_FAKE_6661fb0ad07d032eddaddc75.wpd",
+    "metadatas": {
+      "nomJuridiction": "LILLE",
+      "idJuridiction": "TJ59350",
+      "codeJuridiction": "00100146",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "22/06879",
+      "codeService": "32",
+      "libelleService": "Chambre 03 cab 02",
+      "dateDecision": "20240606",
+      "codeDecision": "66T",
+      "libelleCodeDecision": "Prononce le divorce accepté",
+      "codeNAC": "22A",
+      "libelleNAC": "Art. 1107 CPC - Demande en divorce autre que par consentement mutuel Art. 251 du C. civ. Assignations postérieures à l'entrée en vigueur de la L. n° 2019-222 du 23 mars 2019. Art.1107 du CPC - demandes formées à compter du 1er janvier 2021.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": false,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.902Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012dd2"
+    },
+    "path": "TJ_FAKE_6675bf00f3cd3feff4387444.wpd",
+    "metadatas": {
+      "nomJuridiction": "BOBIGNY",
+      "idJuridiction": "TJ93008",
+      "codeJuridiction": "00100210",
+      "numeroRegistre": "M",
+      "numeroRoleGeneral": "24/02365",
+      "codeService": "WU",
+      "libelleService": "Chambre 27 / Proxi fond",
+      "dateDecision": "20240617",
+      "codeDecision": "448",
+      "libelleCodeDecision": "Expulsion \"ferme\" ordonnée au fond (sans suspension des effets de la clause résolutoire)",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande en paiement des loyers et des charges et/ou tendant à faire prononcer ou constater la résiliation pour défaut de paiement  ou défaut d'assurance et ordonner l'expulsion Y compris les demandes tendant à la fixation et au paiement des indemnités d'occupation et à l'expulsion. Y compris les demandes dirigées contre la caution du locataire.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.903Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012dd3"
+    },
+    "path": "TJ_FAKE_667f0b0a2127374c3458cb35.wpd",
+    "metadatas": {
+      "nomJuridiction": "EVRY",
+      "idJuridiction": "TJ91228",
+      "codeJuridiction": "00100208",
+      "numeroRegistre": "(",
+      "numeroRoleGeneral": "24/00485",
+      "codeService": "PF",
+      "libelleService": "PPROX_FOND",
+      "dateDecision": "20240624",
+      "codeDecision": "22B",
+      "libelleCodeDecision": "Constate ou prononce le désistement d'instance et/ou d'action",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en paiement des charges ou des contributions Pour les indemnités qui peuvent être réclamées à un copropriétaire à raison de troubles ou de violations du règlement, coder 72C ou 72D. Pour les demandes en paiement de provisions ou sommes exigibles présentée devant le Président du TJ statuant selon la procédure accélérée au fond (art. 19-2 et 41-15 de L. 1965), coder 72I.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.903Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012dd4"
+    },
+    "path": "TJ_FAKE_66ad3412d5af8a921ecdddd0.wpd",
+    "metadatas": {
+      "idDecision": "TJ06088051216103",
+      "nomJuridiction": "NICE",
+      "idJuridiction": "TJ06088",
+      "codeJuridiction": "00100049",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "24/00947",
+      "numeroMesureInstruction": [
+        "2400000832"
+      ],
+      "codeService": "RF",
+      "libelleService": "Chambre des référés",
+      "dateDecision": "20240801",
+      "codeDecision": "55D",
+      "libelleCodeDecision": "Désigne un expert ou un autre technicien",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en paiement de l'indemnité d'assurance dans une assurance de personnes Assurance vie, retraite, incapacité, chômage, etc.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.902Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012dd5"
+    },
+    "path": "TJ_FAKE_66d8a07031dc191d0235e618.wpd",
+    "metadatas": {
+      "idDecision": "TJ33063083612001",
+      "nomJuridiction": "BORDEAUX",
+      "idJuridiction": "TJ33063",
+      "codeJuridiction": "00100094",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "24/07288",
+      "codeService": "06",
+      "libelleService": "6ème CHAMBRE CIVILE",
+      "dateDecision": "20240903",
+      "codeDecision": "22C",
+      "libelleCodeDecision": "Déclare l'acte de saisine caduc ou le commandement valant saisie immobilière",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en réparation des dommages causés par l'activité médicale ou para-médicale Dommages causés par une faute (dans la prescription ou dans l'exécution), que l'action soit exercée contre le professionnel lui-même (médecin, infirmier, kinésithérapeute), ou contre l'établissement qui l'emploie, ou contre les deux. Lorsque les dommages sont causés par un produit, un médicament ou par du matériel défectueux, coder 61B.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.904Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012dd6"
+    },
+    "path": "TJ_FAKE_66df4adf9b56f16fd33df823.wpd",
+    "metadatas": {
+      "idDecision": "TJ77284003385501",
+      "nomJuridiction": "LE MESNIL-AMELOT",
+      "idJuridiction": "TJ77284",
+      "codeJuridiction": "",
+      "numeroRegistre": "L",
+      "numeroRoleGeneral": "24/01277",
+      "codeService": "JD",
+      "libelleService": "JLD",
+      "dateDecision": "20240711",
+      "codeDecision": "33D",
+      "libelleCodeDecision": "Déboute le ou les demandeurs de l'ensemble de leurs demandes",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'autorisation de prolongation des mesures de rétention prises à l'encontre des étrangers en situation irrégulière Art. L. 552-1 et s. du CESEDA Pour les demandes visant à déclarer l'appel suspensif, coder 14Q et PP5L. Pour les demandes de mainlevée de la rétention formées devant le JLD par l'étranger, hors des audiences prévues aux articles R.552-9 et R.552.15 ( art.552-17 de CESEDA), coder 14H.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.901Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012dd7"
+    },
+    "path": "TJ_FAKE_66e1eec738db413efec1ca60.wpd",
+    "metadatas": {
+      "idDecision": "TJ44109043405901",
+      "nomJuridiction": "NANTES",
+      "idJuridiction": "TJ44109",
+      "codeJuridiction": "00100114",
+      "numeroRegistre": "I",
+      "numeroRoleGeneral": "24/01648",
+      "codeService": "JL",
+      "libelleService": "Juge libertés & détention",
+      "dateDecision": "20240910",
+      "codeDecision": "67A",
+      "libelleCodeDecision": "Maintien de la mesure de soins psychiatriques",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande de contrôle obligatoire périodique de la nécessité d'une mesure d'hospitalisation complète",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.909Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012dd8"
+    },
+    "path": "TJ_FAKE_66e494275c68642d1f00b92d.wpd",
+    "metadatas": {
+      "idDecision": "TJ92050075208605",
+      "nomJuridiction": "NANTERRE",
+      "idJuridiction": "TJ92050",
+      "codeJuridiction": "00100209",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "21/08261",
+      "codeService": "02",
+      "libelleService": "2ème Chambre",
+      "dateDecision": "20240912",
+      "codeDecision": "33D",
+      "libelleCodeDecision": "Déboute le ou les demandeurs de l'ensemble de leurs demandes",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en garantie des vices cachés ou tendant à faire sanctionner un défaut de conformité Demandes en restitution ou en réduction du prix (art. 1641 du C. civ.) ; défaut de conformité (art. 1604 du C. civ.). Si le vice de la chose a causé un dommage à une personne ou à un bien autre que le bien vicié, coder 61B.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.901Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012dd9"
+    },
+    "path": "TJ_FAKE_66e9c75da94e1874b4dfa939.wpd",
+    "metadatas": {
+      "idDecision": "TJ13055095272702",
+      "nomJuridiction": "MARSEILLE",
+      "idJuridiction": "TJ13055",
+      "codeJuridiction": "00100059",
+      "numeroRegistre": "V",
+      "numeroRoleGeneral": "24/00127",
+      "codeService": "AD",
+      "libelleService": "Adjudications",
+      "dateDecision": "20240917",
+      "codeDecision": "C69",
+      "libelleCodeDecision": "Saisie immobilière - Ordonne la vente forcée",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande tendant à la vente immobilière et à la distribution du prix Procédures introduites avant le 1er janvier 2007 : art. 688 CPC (ancien). Procédures introduites après le 1er janvier 2007 : art. R.322-4, R.322-6 et R.322-10 du C. pr. exéc. Y compris demande de vente aux enchères ordonnée par le juge commissaire. Y compris demande de vente aux enchères ordonnée dans le cadre d'un rétablissement personnel.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.904Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012dda"
+    },
+    "path": "TJ_FAKE_66f1abacdcc4c981629cee01.wpd",
+    "metadatas": {
+      "idDecision": "TJ93008078987505",
+      "nomJuridiction": "BOBIGNY",
+      "idJuridiction": "TJ93008",
+      "codeJuridiction": "00100210",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "23/09346",
+      "codeService": "63",
+      "libelleService": "Chambre 6/Section 3",
+      "dateDecision": "20240923",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en garantie des vices cachés ou tendant à faire sanctionner un défaut de conformité Demandes en restitution ou en réduction du prix (art. 1641 du C. civ.) ; défaut de conformité (art. 1604 du C. civ.). Si le vice de la chose a causé un dommage à une personne ou à un bien autre que le bien vicié, coder 61B.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "decisionAssociee": {
+        "idDecision": "TJ93008078987503",
+        "idJuridiction": "TJ93008",
+        "numeroRegistre": "1",
+        "date": "20240221",
+        "numeroRoleGeneral": "23/09346"
+      },
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.905Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012ddb"
+    },
+    "path": "TJ_FAKE_66f5a4dfe43dad81fb8dd706.wpd",
+    "metadatas": {
+      "idDecision": "TJ13055077202416",
+      "nomJuridiction": "MARSEILLE",
+      "idJuridiction": "TJ13055",
+      "codeJuridiction": "00100059",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "20/04500",
+      "codeService": "33",
+      "libelleService": "3ème Chbre Cab A3",
+      "dateDecision": "20240926",
+      "codeDecision": "33D",
+      "libelleCodeDecision": "Déboute le ou les demandeurs de l'ensemble de leurs demandes",
+      "codeNAC": "22A",
+      "libelleNAC": "Autres demandes relatives à un contrat de réalisation de travaux de construction Ex : demande de désignation d'une personne qualifiée pour constater l'achèvement d'un immeuble vendu à terme (art. R. 261-2 et R. 662-1 du CCH).",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.907Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012ddc"
+    },
+    "path": "TJ_FAKE_670ec57c1c3411ff34590e50.wpd",
+    "metadatas": {
+      "idDecision": "TJ95500044760104",
+      "nomJuridiction": "PONTOISE",
+      "idJuridiction": "TJ95500",
+      "codeJuridiction": "00100212",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "24/01206",
+      "codeService": "30",
+      "libelleService": "Chambre JEX",
+      "dateDecision": "20241011",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en nullité et/ou en mainlevée, en suspension ou en exécution d'une saisie mobilière Saisie attribution (art. R.211-10 et s.), saisie vente (art. R.221-40, R.221-50 et R.221-54), saisie appréhension (art. R.222-14), saisie revendication (art. R.222-18), saisie de véhicule par déclaration ou immobilisation (art. R.223-3 et R.223-9 et s.), saisie des droits d'associé et des valeurs mobilières (art. R.223-7) et saisie des biens placés dans un coffre fort (art. R.224-3, 6° et R.224-10, 6°).",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.906Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012ddd"
+    },
+    "path": "TJ_FAKE_6723d509db4703236dd94955.wpd",
+    "metadatas": {
+      "idDecision": "TJ59350073337404",
+      "nomJuridiction": "LILLE",
+      "idJuridiction": "TJ59350",
+      "codeJuridiction": "00100146",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "22/06340",
+      "codeService": "01",
+      "libelleService": "Chambre 01",
+      "dateDecision": "20241031",
+      "codeDecision": "44A",
+      "libelleCodeDecision": "Fait droit à l'ensemble des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande tendant à contester l'enregistrement ou le refus d'enregistrement d'une déclaration de nationalité Art. 26-3 et 26-4 du C. civ.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": false,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.909Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012dde"
+    },
+    "path": "TJ_FAKE_6723e8f67ca60c73b6cdffb7.wpd",
+    "metadatas": {
+      "idDecision": "TJ06088052429602",
+      "nomJuridiction": "NICE",
+      "idJuridiction": "TJ06088",
+      "codeJuridiction": "00100049",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "24/03682",
+      "codeService": "JX",
+      "libelleService": "Jex",
+      "dateDecision": "20241031",
+      "codeDecision": "33D",
+      "libelleCodeDecision": "Déboute le ou les demandeurs de l'ensemble de leurs demandes",
+      "codeNAC": "22A",
+      "libelleNAC": "Autres demandes relatives à la saisie mobilière Ex : - demande d'autorisation formée par un commissaire de justice (art. R.151-1). - demande tendant à condamner le tiers saisi ou le tiers détenteur au paiement des sommes dues au créancier et/ou à des dommages et intérêts (art. R.211-5, R.211-9 et art. R.221-21 al. 3).",
+      "codeNature": "5H",
+      "libelleNature": "Demande de délai ou de réduction de délai pour l'exécution d'une mesure d'expulsion Art. L. 412-1 à 412-4 du C. pr. exéc.",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.911Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9698204c826e012ddf"
+    },
+    "path": "TJ_FAKE_672bc19a1ebad4fe786aa9b3.wpd",
+    "metadatas": {
+      "idDecision": "TJ75056259462902",
+      "nomJuridiction": "Paris",
+      "idJuridiction": "TJ75056",
+      "codeJuridiction": "00915273",
+      "numeroRegistre": "^",
+      "numeroRoleGeneral": "19/06153",
+      "codeService": "T8",
+      "libelleService": "PS ctx technique",
+      "dateDecision": "20240321",
+      "codeDecision": "33D",
+      "libelleCodeDecision": "Déboute le ou les demandeurs de l'ensemble de leurs demandes",
+      "codeNAC": "22A",
+      "libelleNAC": "Autres demandes contre un organisme",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.909Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012de0"
+    },
+    "path": "TJ_FAKE_672e5eaf50af6f5fd344d118.wpd",
+    "metadatas": {
+      "idDecision": "TJ93008084507703",
+      "nomJuridiction": "BOBIGNY",
+      "idJuridiction": "TJ93008",
+      "codeJuridiction": "00100210",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "24/08359",
+      "codeService": "82",
+      "libelleService": "Chambre 8/Section 2",
+      "dateDecision": "20241030",
+      "codeDecision": "22C",
+      "libelleCodeDecision": "Déclare l'acte de saisine caduc ou le commandement valant saisie immobilière",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande du  locataire ou de l'ancien locataire tendant au maintien dans les lieux Demande formée par le locataire après le commandement de payer (demande de délais ou de  suspension de la clause résolutoire) ou contestattion de la validité du congé.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.905Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012de1"
+    },
+    "path": "TJ_FAKE_673e63113cb93e8a7cd63504.wpd",
+    "metadatas": {
+      "idDecision": "TJ31555062500901",
+      "nomJuridiction": "TOULOUSE",
+      "idJuridiction": "TJ31555",
+      "codeJuridiction": "00100092",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "24/03118",
+      "codeService": "46",
+      "libelleService": "PROCEDURES SIMPLIFIEES",
+      "dateDecision": "20241106",
+      "codeDecision": "22B",
+      "libelleCodeDecision": "Constate ou prononce le désistement d'instance et/ou d'action",
+      "codeNAC": "22A",
+      "libelleNAC": "Autres demandes relatives au contrat de transport Ex : demande d'expertise sur des marchandises transportées (art. L. 133-4 du C.  du commerce).",
+      "codeNature": "2D",
+      "libelleNature": "Demande de réinscription après retrait du rôle Art. 383 du CPC.",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.905Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012de2"
+    },
+    "path": "TJ_FAKE_675b31ab336df169666d82e9.wpd",
+    "metadatas": {
+      "idDecision": "TJ93008079742806",
+      "nomJuridiction": "BOBIGNY",
+      "idJuridiction": "TJ93008",
+      "codeJuridiction": "00100210",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "23/10819",
+      "codeService": "71",
+      "libelleService": "Chambre 7/Section 1",
+      "dateDecision": "20241212",
+      "codeDecision": "C27",
+      "libelleCodeDecision": "Renvoi à la mise en état avec révocation de l'ord. de clôture",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en garantie des vices cachés ou tendant à faire sanctionner un défaut de conformité Demandes en restitution ou en réduction du prix (art. 1641 du C. civ.) ; défaut de conformité (art. 1604 du C. civ.). Si le vice de la chose a causé un dommage à une personne ou à un bien autre que le bien vicié, coder 61B.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.907Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012de3"
+    },
+    "path": "TJ_FAKE_675b399fb6df0bb978739d59.wpd",
+    "metadatas": {
+      "idDecision": "TJ35238037098001",
+      "nomJuridiction": "RENNES",
+      "idJuridiction": "TJ35238",
+      "codeJuridiction": "00100098",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "24/08876",
+      "codeService": "05",
+      "libelleService": "JLD",
+      "dateDecision": "20241212",
+      "codeDecision": "44A",
+      "libelleCodeDecision": "Fait droit à l'ensemble des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'autorisation de prolongation des mesures de rétention prises à l'encontre des étrangers en situation irrégulière Art. L. 552-1 et s. du CESEDA Pour les demandes visant à déclarer l'appel suspensif, coder 14Q et PP5L. Pour les demandes de mainlevée de la rétention formées devant le JLD par l'étranger, hors des audiences prévues aux articles R.552-9 et R.552.15 ( art.552-17 de CESEDA), coder 14H.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.904Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012de4"
+    },
+    "path": "TJ_FAKE_6761d5d679e6ebb15676f963.wpd",
+    "metadatas": {
+      "idDecision": "TJ01053022385002",
+      "nomJuridiction": "BOURG EN BRESSE",
+      "idJuridiction": "TJ01053",
+      "codeJuridiction": "00100039",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "24/02887",
+      "codeService": "01",
+      "libelleService": "Chambre Civile",
+      "dateDecision": "20241212",
+      "codeDecision": "33D",
+      "libelleCodeDecision": "Déboute le ou les demandeurs de l'ensemble de leurs demandes",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en paiement de l'indemnité d'assurance dans une assurance de personnes Assurance vie, retraite, incapacité, chômage, etc.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.909Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012de5"
+    },
+    "path": "TJ_FAKE_6761df3979e6ebb1567751f1.wpd",
+    "metadatas": {
+      "idDecision": "TJ06088051396904",
+      "nomJuridiction": "NICE",
+      "idJuridiction": "TJ06088",
+      "codeJuridiction": "00100049",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "24/00874",
+      "codeService": "RF",
+      "libelleService": "Chambre des référés",
+      "dateDecision": "20241217",
+      "codeDecision": "44D",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs en accordant des délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en paiement des loyers et charges et/ou tendant à la  résiliation du bail et/ou à l'expulsion Chacune de ces demandes peut être formée à titre unique : demande en paiement seule, demande en résiliation seule quelle qu'en soit la cause, demande en expulsion seule.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.906Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012de6"
+    },
+    "path": "TJ_FAKE_6765c3a31ba1f209137ba827.wpd",
+    "metadatas": {
+      "idDecision": "TJ75056287989109",
+      "nomJuridiction": "Paris",
+      "idJuridiction": "TJ75056",
+      "codeJuridiction": "00915273",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "22/11585",
+      "codeService": "2B",
+      "libelleService": "2ème chambre 2ème section",
+      "dateDecision": "20241219",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande relative à l'exécution d'une promesse unilatérale de vente ou d'un pacte de préférence ou d'un compromis de vente Il peut s'agir d'une demande tendant à la constatation de la réalisation d'une vente, de dommages et intérêts ou de demande de restitution d'acomptes, d'arrhes ou d'indemnités d'immobilisation.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.907Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012de7"
+    },
+    "path": "TJ_FAKE_6765ccb11ba1f209137c01d5.wpd",
+    "metadatas": {
+      "idDecision": "TJ94028069805702",
+      "nomJuridiction": "Créteil",
+      "idJuridiction": "TJ94028",
+      "codeJuridiction": "00100211",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "24/01548",
+      "codeService": "CR",
+      "libelleService": "Section des Référés",
+      "dateDecision": "20241219",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Prêt - Demande en remboursement du prêt Ex. : prêt viager hypothécaire. Demande en remboursement du prêt personnel dit \"Expresso\" et d'un crédit affecté.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "aucune",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.913Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012de8"
+    },
+    "path": "TJ_FAKE_677d7d60b032d83cfd3e73e0.wpd",
+    "metadatas": {
+      "idDecision": "TJ13055096991502",
+      "nomJuridiction": "MARSEILLE",
+      "idJuridiction": "TJ13055",
+      "codeJuridiction": "00100059",
+      "numeroRegistre": "V",
+      "numeroRoleGeneral": "24/00213",
+      "codeService": "AD",
+      "libelleService": "Adjudications",
+      "dateDecision": "20250107",
+      "codeDecision": "C69",
+      "libelleCodeDecision": "Saisie immobilière - Ordonne la vente forcée",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande tendant à la vente immobilière et à la distribution du prix Procédures introduites avant le 1er janvier 2007 : art. 688 CPC (ancien). Procédures introduites après le 1er janvier 2007 : art. R.322-4, R.322-6 et R.322-10 du C. pr. exéc. Y compris demande de vente aux enchères ordonnée par le juge commissaire. Y compris demande de vente aux enchères ordonnée dans le cadre d'un rétablissement personnel.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "aucune",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.909Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012de9"
+    },
+    "path": "TJ_FAKE_677d8d8cb032d83cfd3e9b7b.wpd",
+    "metadatas": {
+      "idDecision": "TJ44109042435303",
+      "nomJuridiction": "NANTES",
+      "idJuridiction": "TJ44109",
+      "codeJuridiction": "00100114",
+      "numeroRegistre": "P",
+      "numeroRoleGeneral": "24/01303",
+      "codeService": "PO",
+      "libelleService": "7eme chambre-Proc orales",
+      "dateDecision": "20250107",
+      "codeDecision": "33D",
+      "libelleCodeDecision": "Déboute le ou les demandeurs de l'ensemble de leurs demandes",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en garantie des vices cachés ou tendant à faire sanctionner un défaut de conformité Demandes en restitution ou en réduction du prix (art. 1641 du C. civ.) ; défaut de conformité (art. 1604 du C. civ.). Si le vice de la chose a causé un dommage à une personne ou à un bien autre que le bien vicié, coder 61B.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.906Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012dea"
+    },
+    "path": "TJ_FAKE_678ad9de5289c7662ca340aa.wpd",
+    "metadatas": {
+      "idDecision": "TJ31555064539001",
+      "nomJuridiction": "TOULOUSE",
+      "idJuridiction": "TJ31555",
+      "codeJuridiction": "00100092",
+      "numeroRegistre": "M",
+      "numeroRoleGeneral": "25/00136",
+      "codeService": "JL",
+      "libelleService": "J.L.D.",
+      "dateDecision": "20250117",
+      "codeDecision": "69A",
+      "libelleCodeDecision": "Maintien de la mesure de rétention administrative",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'autorisation de prolongation des mesures de rétention prises à l'encontre des étrangers en situation irrégulière Art. L. 552-1 et s. du CESEDA Pour les demandes visant à déclarer l'appel suspensif, coder 14Q et PP5L. Pour les demandes de mainlevée de la rétention formées devant le JLD par l'étranger, hors des audiences prévues aux articles R.552-9 et R.552.15 ( art.552-17 de CESEDA), coder 14H.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.948Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012deb"
+    },
+    "path": "TJ_FAKE_678e9c32bfd75b73b3e3da37.wpd",
+    "metadatas": {
+      "idDecision": "TJ93008086161602",
+      "nomJuridiction": "BOBIGNY",
+      "idJuridiction": "TJ93008",
+      "codeJuridiction": "00100210",
+      "numeroRegistre": "M",
+      "numeroRoleGeneral": "24/11154",
+      "codeService": "X2",
+      "libelleService": "Chambre 28 / Proxi fond",
+      "dateDecision": "20250116",
+      "codeDecision": "449",
+      "libelleCodeDecision": "Expulsion \"conditionnelle\" ordonnée au fond avec suspension des effets de la clause résolutoire",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande en paiement des loyers et des charges et/ou tendant à faire prononcer ou constater la résiliation pour défaut de paiement  ou défaut d'assurance et ordonner l'expulsion Y compris les demandes tendant à la fixation et au paiement des indemnités d'occupation et à l'expulsion. Y compris les demandes dirigées contre la caution du locataire.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.905Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012dec"
+    },
+    "path": "TJ_FAKE_678ff10a51b02779572a1968.wpd",
+    "metadatas": {
+      "idDecision": "TJ69123086044901",
+      "nomJuridiction": "LYON",
+      "idJuridiction": "TJ69123",
+      "codeJuridiction": "00100167",
+      "numeroRegistre": "W",
+      "numeroRoleGeneral": "25/00243",
+      "codeService": "33",
+      "libelleService": "J.L.D.",
+      "dateDecision": "20250121",
+      "codeDecision": "69A",
+      "libelleCodeDecision": "Maintien de la mesure de rétention administrative",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'autorisation de prolongation des mesures de rétention prises à l'encontre des étrangers en situation irrégulière Art. L. 552-1 et s. du CESEDA Pour les demandes visant à déclarer l'appel suspensif, coder 14Q et PP5L. Pour les demandes de mainlevée de la rétention formées devant le JLD par l'étranger, hors des audiences prévues aux articles R.552-9 et R.552.15 ( art.552-17 de CESEDA), coder 14H.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.907Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012ded"
+    },
+    "path": "TJ_FAKE_679bdfaa43b3d977d8ccf529.wpd",
+    "metadatas": {
+      "idDecision": "TJ77284219666610",
+      "nomJuridiction": "MEAUX",
+      "idJuridiction": "TJ77284",
+      "codeJuridiction": "00100184",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "23/01776",
+      "codeService": "12",
+      "libelleService": "1ère ch. - Sect. 2",
+      "dateDecision": "20250124",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en paiement du prix ou tendant à faire sanctionner le non-paiement du prix Ex :  demande en résolution pour non-paiement du prix.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.905Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012dee"
+    },
+    "path": "TJ_FAKE_679d204c0ed4f7c53edd109e.wpd",
+    "metadatas": {
+      "idDecision": "TJ59350078144004",
+      "nomJuridiction": "LILLE",
+      "idJuridiction": "TJ59350",
+      "codeJuridiction": "00100146",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "23/11437",
+      "codeService": "HJ",
+      "libelleService": "JCP",
+      "dateDecision": "20250127",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande en paiement des loyers et des charges et/ou tendant à faire prononcer ou constater la résiliation pour défaut de paiement  ou défaut d'assurance et ordonner l'expulsion Y compris les demandes tendant à la fixation et au paiement des indemnités d'occupation et à l'expulsion. Y compris les demandes dirigées contre la caution du locataire.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.913Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012def"
+    },
+    "path": "TJ_FAKE_679d28850ed4f7c53edd28f8.wpd",
+    "metadatas": {
+      "idDecision": "TJ78646057091307",
+      "nomJuridiction": "Versailles",
+      "idJuridiction": "TJ78646",
+      "codeJuridiction": "00100186",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "23/03760",
+      "codeService": "21",
+      "libelleService": "JAF Cabinet 1",
+      "dateDecision": "20250130",
+      "codeDecision": "66T",
+      "libelleCodeDecision": "Prononce le divorce accepté",
+      "codeNAC": "22A",
+      "libelleNAC": "Art. 1107 CPC - Demande en divorce autre que par consentement mutuel Art. 251 du C. civ. Assignations postérieures à l'entrée en vigueur de la L. n° 2019-222 du 23 mars 2019. Art.1107 du CPC - demandes formées à compter du 1er janvier 2021.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": false,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.926Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012df0"
+    },
+    "path": "TJ_FAKE_67abba5bea06f3cad90bb726.wpd",
+    "metadatas": {
+      "idDecision": "TJ42218028061002",
+      "nomJuridiction": "SAINT-ETIENNE",
+      "idJuridiction": "TJ42218",
+      "codeJuridiction": "00100112",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "24/00822",
+      "codeService": "09",
+      "libelleService": "Service des référés",
+      "dateDecision": "20250206",
+      "codeDecision": "558",
+      "libelleCodeDecision": "Expulsion \"ferme\" ordonnée en référé (sans suspension des effets de la clause résolutoire)",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en paiement formée contre le loueur et/ou le locataire-gérant Ex : demande en responsabilité solidaire du loueur et du locataire-gérant ; demande de déchéance du terme pour les dettes du loueur.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.906Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012df1"
+    },
+    "path": "TJ_FAKE_67af98f0ac839fdebfb115b2.wpd",
+    "metadatas": {
+      "idDecision": "TJ75056300595904",
+      "nomJuridiction": "Paris",
+      "idJuridiction": "TJ75056",
+      "codeJuridiction": "00915273",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "24/00417",
+      "codeService": "LC",
+      "libelleService": "Loyers commerciaux",
+      "dateDecision": "20250214",
+      "codeDecision": "33B",
+      "libelleCodeDecision": "Se déclare incompétent",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande de fixation du prix du bail révisé ou renouvelé Art. L.145-56 et R.145-23 et s. du C. commerce.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.910Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012df2"
+    },
+    "path": "TJ_FAKE_67afc522ac839fdebfb1aca1.wpd",
+    "metadatas": {
+      "idDecision": "TJ31555063971501",
+      "nomJuridiction": "TOULOUSE",
+      "idJuridiction": "TJ31555",
+      "codeJuridiction": "00100092",
+      "numeroRegistre": "P",
+      "numeroRoleGeneral": "24/04373",
+      "codeService": "47",
+      "libelleService": "JCP REFERES",
+      "dateDecision": "20250214",
+      "codeDecision": "22B",
+      "libelleCodeDecision": "Constate ou prononce le désistement d'instance et/ou d'action",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande en paiement des loyers et des charges et/ou tendant à faire prononcer ou constater la résiliation pour défaut de paiement  ou défaut d'assurance et ordonner l'expulsion Y compris les demandes tendant à la fixation et au paiement des indemnités d'occupation et à l'expulsion. Y compris les demandes dirigées contre la caution du locataire.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.930Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012df3"
+    },
+    "path": "TJ_FAKE_67b4d9eeed8a3b5a0dab80a3.wpd",
+    "metadatas": {
+      "idDecision": "TJ33063083011904",
+      "nomJuridiction": "BORDEAUX",
+      "idJuridiction": "TJ33063",
+      "codeJuridiction": "00100094",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "24/05694",
+      "codeService": "30",
+      "libelleService": "JEX DROIT COMMUN",
+      "dateDecision": "20250218",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Autres demandes relatives à une mesure conservatoire Ex : suspension d'exécution d'opérations portant sur des sommes suspectées d'origine illicite.",
+      "codeNature": "5C",
+      "libelleNature": "Demande de délai de grâce et/ou de réaménagement de la dette Y compris les demandes formées devant le JEX hors expulsion (art. 1343-5 du C.civ.,  art. L. 3252-13 du C. trav. et R. 121-1 du C. pr. exéc.).",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.929Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012df4"
+    },
+    "path": "TJ_FAKE_67be14c110bc47488bc85dd1.wpd",
+    "metadatas": {
+      "idDecision": "TJ33063082528403",
+      "nomJuridiction": "BORDEAUX",
+      "idJuridiction": "TJ33063",
+      "codeJuridiction": "00100094",
+      "numeroRegistre": "F",
+      "numeroRoleGeneral": "24/01024",
+      "codeService": "RF",
+      "libelleService": "PPP Référés",
+      "dateDecision": "20250131",
+      "codeDecision": "559",
+      "libelleCodeDecision": "Expulsion \"conditionnelle\" ordonnée en référé avec suspension des effets de la clause résolutoire",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande en paiement des loyers et des charges et/ou tendant à faire prononcer ou constater la résiliation pour défaut de paiement  ou défaut d'assurance et ordonner l'expulsion Y compris les demandes tendant à la fixation et au paiement des indemnités d'occupation et à l'expulsion. Y compris les demandes dirigées contre la caution du locataire.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.933Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012df5"
+    },
+    "path": "TJ_FAKE_67d3383abc3ec610466a0d86.wpd",
+    "metadatas": {
+      "idDecision": "TJ01053019877407",
+      "nomJuridiction": "BOURG EN BRESSE",
+      "idJuridiction": "TJ01053",
+      "codeJuridiction": "00100039",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "22/02572",
+      "codeService": "3 ",
+      "libelleService": "Chambre famille CAB 1",
+      "dateDecision": "20240617",
+      "codeDecision": "66U",
+      "libelleCodeDecision": "Prononce le divorce pour altération définitive du lien conjugal",
+      "codeNAC": "22A",
+      "libelleNAC": "Art. 1107 CPC - Demande en divorce autre que par consentement mutuel Art. 251 du C. civ. Assignations postérieures à l'entrée en vigueur de la L. n° 2019-222 du 23 mars 2019. Art.1107 du CPC - demandes formées à compter du 1er janvier 2021.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": false,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.932Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012df6"
+    },
+    "path": "TJ_FAKE_67d48499a68a7746ee74cd03.wpd",
+    "metadatas": {
+      "idDecision": "TJ13055096975702",
+      "nomJuridiction": "MARSEILLE",
+      "idJuridiction": "TJ13055",
+      "codeJuridiction": "00100059",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "24/04788",
+      "numeroMesureInstruction": [
+        "2500000982"
+      ],
+      "codeService": "G3",
+      "libelleService": "Référés  Cabinet 3",
+      "dateDecision": "20250314",
+      "codeDecision": "55E",
+      "libelleCodeDecision": "Accorde une provision et désigne un expert ou un autre technicien",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en réparation des dommages causés par des véhicules terrestres à moteur Il s'agit d'accident impliquant au moins un véhicule terrestre à moteur (art. 1 de la L. du 5 juillet 1985). Y compris les demandes de remboursement formées par le fonds de garantie contre l'assureur (art. 421-68 du C. assur.).",
+      "codeNature": "5D",
+      "libelleNature": "Demande relative à l'octroi, l'arrêt ou l'aménagement de l'exécution provisoire Y compris les demandes de sursis à exécution d'une décision rendue par le juge de l'exécution formées devant la cour d'appel (art. R. 121-21 et R. 121-22 du C. pr. exéc.). Ex : - demande de sursis à exécution contre une décision de l'autorité de régulation des télécommunications (art. R. 11-6 du code des postes et des communications électroniques), - demande de poursuite de l'exécution provisoire en cas d'appel de la décision (art. R. 142-26 du C. séc. soc.). Pour les demandes tendant à voir déclarer l'appel suspensif, coder 5L.",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.931Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012df7"
+    },
+    "path": "TJ_FAKE_67d4ae46a68a7746ee7537b5.wpd",
+    "metadatas": {
+      "idDecision": "TJ67482041040304",
+      "nomJuridiction": "STRASBOURG",
+      "idJuridiction": "TJ67482",
+      "codeJuridiction": "00100164",
+      "numeroRegistre": "S",
+      "numeroRoleGeneral": "24/00204",
+      "codeService": "TS",
+      "libelleService": "CTX PROTECTION SOCIALE",
+      "dateDecision": "20250226",
+      "codeDecision": "44A",
+      "libelleCodeDecision": "Fait droit à l'ensemble des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en paiement de prestations Ex : demande de versement d'indemnités journalières ou de prestations en nature au titre de l'assurance-maladie du régime général ou d'un autre régime de sécurité sociale, demande de versement de prestations familiales, demande de versement de prestations vieillesse, demande de versement d'allocations-chômage, etc.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.934Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012df8"
+    },
+    "path": "TJ_FAKE_67d4af34a68a7746ee753a8f.wpd",
+    "metadatas": {
+      "idDecision": "TJ31555064878202",
+      "nomJuridiction": "TOULOUSE",
+      "idJuridiction": "TJ31555",
+      "codeJuridiction": "00100092",
+      "numeroRegistre": "P",
+      "numeroRoleGeneral": "25/00540",
+      "codeService": "47",
+      "libelleService": "JCP REFERES",
+      "dateDecision": "20250314",
+      "codeDecision": "558",
+      "libelleCodeDecision": "Expulsion \"ferme\" ordonnée en référé (sans suspension des effets de la clause résolutoire)",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'expulsion et/ou d'indemnités dirigée contre les occupants des lieux Ces demandes ne concernent que les occupants entrés sans autorisation dans les lieux (squatters) ou qui s'y sont maintenus (anciens occupants de logement de fonction, anciens propriétaires), y compris les demandes d'expulsion des gens du voyage. Pour les demandes d'expulsion formées contre les anciens locataires, coder 51A. Pour les expulsions de grévistes, coder 85A.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.933Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012df9"
+    },
+    "path": "TJ_FAKE_67db1a3398e0f075865877da.wpd",
+    "metadatas": {
+      "idDecision": "TJ75056280679317",
+      "nomJuridiction": "Paris",
+      "idJuridiction": "TJ75056",
+      "codeJuridiction": "00915273",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "21/15512",
+      "codeService": "3C",
+      "libelleService": "3ème chambre 3ème section",
+      "dateDecision": "20250319",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en contrefaçon de marque française ou internationale Art L. 716-1 du C. propr. Intell.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.938Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012dfa"
+    },
+    "path": "TJ_FAKE_67dc6963d9f47d8f02629151.wpd",
+    "metadatas": {
+      "idDecision": "TJ69123072212103",
+      "nomJuridiction": "LYON",
+      "idJuridiction": "TJ69123",
+      "codeJuridiction": "00100167",
+      "numeroRegistre": "$",
+      "numeroRoleGeneral": "21/01611",
+      "codeService": "TS",
+      "libelleService": "CTX PROTECTION SOCIALE",
+      "dateDecision": "20250319",
+      "codeDecision": "D36",
+      "libelleCodeDecision": "Expertise",
+      "codeNAC": "22A",
+      "libelleNAC": "A.T.M.P. : demande de prise en charge au titre des A.T.M.P. et/ou contestation relative au taux d'incapacité Y compris demande relative à une rente Y compris aides accessoires (matérielle ou tierce personne). Pour les recours formés par l'employeur, coder 89E.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.935Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012dfb"
+    },
+    "path": "TJ_FAKE_67dde88a8962745b78e4d963.wpd",
+    "metadatas": {
+      "idDecision": "TJ67482042198303",
+      "nomJuridiction": "STRASBOURG",
+      "idJuridiction": "TJ67482",
+      "codeJuridiction": "00100164",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "24/06268",
+      "codeService": "55",
+      "libelleService": "11ème civ. S3",
+      "dateDecision": "20250321",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande en paiement des loyers et des charges et/ou tendant à faire prononcer ou constater la résiliation pour défaut de paiement  ou défaut d'assurance et ordonner l'expulsion Y compris les demandes tendant à la fixation et au paiement des indemnités d’occupation et à l’expulsion. Y compris les demandes dirigées contre la caution du locataire.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.939Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012dfc"
+    },
+    "path": "TJ_FAKE_67e3058590a9a68b98828bd7.wpd",
+    "metadatas": {
+      "idDecision": "TJ35238037708201",
+      "nomJuridiction": "RENNES",
+      "idJuridiction": "TJ35238",
+      "codeJuridiction": "00100098",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "25/02414",
+      "codeService": "05",
+      "libelleService": "JLD",
+      "dateDecision": "20250325",
+      "codeDecision": "22L",
+      "libelleCodeDecision": "Autres décisions constatant le dessaisissement en mettant fin à l'instance et à l'action",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande de contrôle obligatoire périodique de la nécessité d'une mesure d'hospitalisation complète",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": false,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.936Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012dfd"
+    },
+    "path": "TJ_FAKE_67e469c304bd026099a159c6.wpd",
+    "metadatas": {
+      "idDecision": "TJ621603349437001",
+      "nomJuridiction": "Boulogne sur mer",
+      "idJuridiction": "TJ62160",
+      "codeJuridiction": "00100155",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "25/01282",
+      "codeService": "85",
+      "libelleService": "JLD",
+      "dateDecision": "20250326",
+      "codeDecision": "69A",
+      "libelleCodeDecision": "Maintien de la mesure de rétention administrative",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'autorisation de prolongation des mesures de rétention prises à l'encontre des étrangers en situation irrégulière Art. L. 552-1 et s. du CESEDA Pour les demandes visant à déclarer l'appel suspensif, coder 14Q et PP5L. Pour les demandes de mainlevée de la rétention formées devant le JLD par l'étranger, hors des audiences prévues aux articles R.552-9 et R.552.15 ( art.552-17 de CESEDA), coder 14H.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.941Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012dfe"
+    },
+    "path": "TJ_FAKE_67f00b4802fc178212f087f2.wpd",
+    "metadatas": {
+      "idDecision": "TJ97411021993807",
+      "nomJuridiction": "ST DENIS",
+      "idJuridiction": "TJ97411",
+      "codeJuridiction": "00100217",
+      "numeroRegistre": "_",
+      "numeroRoleGeneral": "24/00004",
+      "codeService": "13",
+      "libelleService": "CIVIL TP SAINT DENIS",
+      "dateDecision": "20250401",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Autres demandes relatives à un bail rural Ex : - demande tendant à la révision du montant des fermages ou à la fixation du montant des fermages d'un bail renouvelé (art. L.411-11 et L.411-13 du C. rur.). - demande d'autorisation de vente d'un élément du bien donné à bail (art. L.431-7 du C. rur.).",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.939Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012dff"
+    },
+    "path": "TJ_FAKE_67f56a41bbf04ef7857bb136.wpd",
+    "metadatas": {
+      "idDecision": "TJ75056309715402",
+      "nomJuridiction": "Paris",
+      "idJuridiction": "TJ75056",
+      "codeJuridiction": "00915273",
+      "numeroRegistre": ".",
+      "numeroRoleGeneral": "24/11165",
+      "codeService": "K3",
+      "libelleService": "PCP JCP ACR référé",
+      "dateDecision": "20250403",
+      "codeDecision": "44D",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs en accordant des délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande en paiement des loyers et des charges et/ou tendant à faire prononcer ou constater la résiliation pour défaut de paiement  ou défaut d'assurance et ordonner l'expulsion Y compris les demandes tendant à la fixation et au paiement des indemnités d'occupation et à l'expulsion. Y compris les demandes dirigées contre la caution du locataire.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.942Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e00"
+    },
+    "path": "TJ_FAKE_67f6b96aa9d5adc26061e8c5.wpd",
+    "metadatas": {
+      "idDecision": "TJ69123086263802",
+      "nomJuridiction": "LYON",
+      "idJuridiction": "TJ69123",
+      "codeJuridiction": "00100167",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "25/00355",
+      "numeroMesureInstruction": [
+        "2500000841"
+      ],
+      "codeService": "60",
+      "libelleService": "Référés civils",
+      "dateDecision": "20250408",
+      "codeDecision": "55D",
+      "libelleCodeDecision": "Désigne un expert ou un autre technicien",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'exécution de travaux, ou de dommages-intérêts, formée par le maître de l'ouvrage contre le constructeur ou son garant, ou contre le fabricant d'un élément de construction Que cette demande soit formée dans le cadre de la garantie de parfait achèvement (art. 1792-6 du C. civ.), des garanties décennales ou biennales (art. 1792 à 1792-4 du C. civ.) ou sur le fondement de la responsabilité contractuelle du droit commun, y compris les demandes formées par l'assureur du maître de l'ouvrage.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.940Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e01"
+    },
+    "path": "TJ_FAKE_67f966ec0ea89248182a8136.wpd",
+    "metadatas": {
+      "idDecision": "TJ28085021203002",
+      "nomJuridiction": "CHARTRES",
+      "idJuridiction": "TJ28085",
+      "codeJuridiction": "00100085",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "25/00066",
+      "codeService": "06",
+      "libelleService": "REFERES",
+      "dateDecision": "20250407",
+      "codeDecision": "D34",
+      "libelleCodeDecision": "Injonction de rencontre d'un médiateur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande formée par le propriétaire de démolition d'une construction ou d'enlèvement d'une plantation faite par un tiers sur son terrain Art. 555 du C. civ. Pour les demandes formées à l'expiration d'un bail, coder 51B. Pour les demandes  formées à l'extinction d'un usufruit, coder 73A ou 73B.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.941Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e02"
+    },
+    "path": "TJ_FAKE_67f98b420ea89248182afd58.wpd",
+    "metadatas": {
+      "idDecision": "TJ31555058807809",
+      "nomJuridiction": "TOULOUSE",
+      "idJuridiction": "TJ31555",
+      "codeJuridiction": "00100092",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "23/02551",
+      "codeService": "41",
+      "libelleService": "POLE CIVIL - Fil 6",
+      "dateDecision": "20250411",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en paiement de l'indemnité d'assurance dans une assurance de dommages Assurances contre l'incendie, contre le vol, des risques de catastrophes naturelles, de protection juridique, etc. Y compris assurance dommage pour perte d'exploitation.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.943Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e03"
+    },
+    "path": "TJ_FAKE_67fd504de85d0474bddb39ec.wpd",
+    "metadatas": {
+      "idDecision": "TJ59350080319002",
+      "nomJuridiction": "LILLE",
+      "idJuridiction": "TJ59350",
+      "codeJuridiction": "00100146",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "24/07097",
+      "codeService": "HC",
+      "libelleService": "Chambre 10",
+      "dateDecision": "20250401",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en paiement du prix, ou des honoraires formée contre le client et/ou tendant à faire sanctionner le non-paiement du prix, ou des honoraires",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.942Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e04"
+    },
+    "path": "TJ_FAKE_67fd5359e85d0474bddb5234.wpd",
+    "metadatas": {
+      "idDecision": "TJ75056300944901",
+      "nomJuridiction": "Paris",
+      "idJuridiction": "TJ75056",
+      "codeJuridiction": "00915273",
+      "numeroRegistre": ".",
+      "numeroRoleGeneral": "24/01010",
+      "codeService": "K1",
+      "libelleService": "PCP JCP fond",
+      "dateDecision": "20240315",
+      "codeDecision": "22B",
+      "libelleCodeDecision": "Constate ou prononce le désistement d'instance et/ou d'action",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande en paiement des loyers et des charges et/ou tendant à faire prononcer ou constater la résiliation pour défaut de paiement  ou défaut d'assurance et ordonner l'expulsion Y compris les demandes tendant à la fixation et au paiement des indemnités d'occupation et à l'expulsion. Y compris les demandes dirigées contre la caution du locataire.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.943Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e05"
+    },
+    "path": "TJ_FAKE_67fea2667a459da3dcdea227.wpd",
+    "metadatas": {
+      "idDecision": "TJ69123085509802",
+      "nomJuridiction": "LYON",
+      "idJuridiction": "TJ69123",
+      "codeJuridiction": "00100167",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "25/00216",
+      "codeService": "60",
+      "libelleService": "Référés civils",
+      "dateDecision": "20250331",
+      "codeDecision": "55J",
+      "libelleCodeDecision": "Ordonne de faire ou de ne pas faire quelque chose avec ou sans astreinte",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en paiement des loyers et charges et/ou tendant à la  résiliation du bail et/ou à l'expulsion Chacune de ces demandes peut être formée à titre unique : demande en paiement seule, demande en résiliation seule quelle qu'en soit la cause, demande en expulsion seule.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.944Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e06"
+    },
+    "path": "TJ_FAKE_680a8248c9134b6bc8ff4898.wpd",
+    "metadatas": {
+      "idDecision": "TJ75056307555603",
+      "nomJuridiction": "Paris",
+      "idJuridiction": "TJ75056",
+      "codeJuridiction": "00915273",
+      "numeroRegistre": ".",
+      "numeroRoleGeneral": "24/08602",
+      "codeService": "K2",
+      "libelleService": "PCP JCP ACR fond",
+      "dateDecision": "20250424",
+      "codeDecision": "449",
+      "libelleCodeDecision": "Expulsion \"conditionnelle\" ordonnée au fond avec suspension des effets de la clause résolutoire",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande en paiement des loyers et des charges et/ou tendant à faire prononcer ou constater la résiliation pour défaut de paiement  ou défaut d'assurance et ordonner l'expulsion Y compris les demandes tendant à la fixation et au paiement des indemnités d'occupation et à l'expulsion. Y compris les demandes dirigées contre la caution du locataire.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.944Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e07"
+    },
+    "path": "TJ_FAKE_680ff5f04509cc68c186f36e.wpd",
+    "metadatas": {
+      "idDecision": "TJ37261031249802",
+      "nomJuridiction": "TOURS",
+      "idJuridiction": "TJ37261",
+      "codeJuridiction": "00100101",
+      "numeroRegistre": "2",
+      "numeroRoleGeneral": "25/20061",
+      "codeService": "02",
+      "libelleService": "REFERES",
+      "dateDecision": "20250422",
+      "codeDecision": "C05",
+      "libelleCodeDecision": "Délibéré pour mise à disposition de la décision",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande tendant à l'exécution des autres obligations du locataire et/ou tendant à faire prononcer  la résiliation pour inexécution de ces obligations et ordonner l'expulsion Ex : - mauvaise utilisation des lieux loués, dégradations, défaut d'entretien, transformation des lieux sans accord du bailleur, demande visant à la remise en état des lieux en cours de bail, défaut de meubles suffisants pour garnir les lieux loués, etc. - non respect des déclarations des preneurs de locaux fournis par le service municipal de logement (art. L. 621-6 du CCH).",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.945Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e08"
+    },
+    "path": "TJ_FAKE_681d09f70bffc8ac951b5022.wpd",
+    "metadatas": {
+      "idDecision": "TJ95500047240901",
+      "nomJuridiction": "PONTOISE",
+      "idJuridiction": "TJ95500",
+      "codeJuridiction": "00100212",
+      "numeroRegistre": "¤",
+      "numeroRoleGeneral": "25/00870",
+      "codeService": "70",
+      "libelleService": "JLD",
+      "dateDecision": "20250507",
+      "codeDecision": "67A",
+      "libelleCodeDecision": "Maintien de la mesure de soins psychiatriques",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande de contrôle obligatoire périodique de la nécessité d'une mesure d'hospitalisation complète",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.946Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e09"
+    },
+    "path": "TJ_FAKE_6824dd27b351f8463a00b4ff.wpd",
+    "metadatas": {
+      "idDecision": "TJ61001008935501",
+      "nomJuridiction": "Alençon",
+      "idJuridiction": "TJ61001",
+      "codeJuridiction": "00100151",
+      "numeroRegistre": "B",
+      "numeroRoleGeneral": "25/00115",
+      "codeService": "19",
+      "libelleService": "JLD CIVIL",
+      "dateDecision": "20250514",
+      "codeDecision": "67B",
+      "libelleCodeDecision": "Mainlevée de la mesure de soins psychiatriques",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande de contrôle obligatoire périodique de la nécessité d'une mesure d'hospitalisation complète",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.946Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e0a"
+    },
+    "path": "TJ_FAKE_682b9ae22ae1fd67df753601.wpd",
+    "metadatas": {
+      "idDecision": "TJ34172043324012",
+      "nomJuridiction": "MONTPELLIER",
+      "idJuridiction": "TJ34172",
+      "codeJuridiction": "00100097",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "21/03011",
+      "codeService": "06",
+      "libelleService": "Pôle Civil section 2",
+      "dateDecision": "20250515",
+      "codeDecision": "44A",
+      "libelleCodeDecision": "Fait droit à l'ensemble des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en garantie des vices cachés ou tendant à faire sanctionner un défaut de conformité Demandes en restitution ou en réduction du prix (art. 1641 du C. civ.) ; défaut de conformité (art. 1604 du C. civ.). Si le vice de la chose a causé un dommage à une personne ou à un bien autre que le bien vicié, coder 61B.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.947Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e0b"
+    },
+    "path": "TJ_FAKE_682e186500b520043632f923.wpd",
+    "metadatas": {
+      "idDecision": "TJ69123087738201",
+      "nomJuridiction": "LYON",
+      "idJuridiction": "TJ69123",
+      "codeJuridiction": "00100167",
+      "numeroRegistre": "W",
+      "numeroRoleGeneral": "25/01904",
+      "codeService": "33",
+      "libelleService": "J.L.D.",
+      "dateDecision": "20250521",
+      "codeDecision": "69B",
+      "libelleCodeDecision": "Mainlevée de la mesure de rétention administrative",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'autorisation de prolongation des mesures de rétention prises à l'encontre des étrangers en situation irrégulière Art. L. 552-1 et s. du CESEDA Pour les demandes visant à déclarer l'appel suspensif, coder 14Q et PP5L. Pour les demandes de mainlevée de la rétention formées devant le JLD par l'étranger, hors des audiences prévues aux articles R.552-9 et R.552.15 ( art.552-17 de CESEDA), coder 14H.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.947Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e0c"
+    },
+    "path": "TJ_FAKE_6830bdd06b8b4c741e13e07f.wpd",
+    "metadatas": {
+      "idDecision": "TJ75056294852407",
+      "nomJuridiction": "Paris",
+      "idJuridiction": "TJ75056",
+      "codeJuridiction": "00915273",
+      "numeroRegistre": "^",
+      "numeroRoleGeneral": "23/01687",
+      "codeService": "T1",
+      "libelleService": "PS ctx protection soc 1",
+      "dateDecision": "20250515",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'annulation d'une mise en demeure ou d'une contrainte Ex : différents régimes de contrainte : par exemple L. 133-4, R. 133-3, L. 244-9 ou L. 161-1-5 du C. de Séc. soc.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.948Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e0d"
+    },
+    "path": "TJ_FAKE_683f5cf98f105e58d1ae9b83.wpd",
+    "metadatas": {
+      "idDecision": "TJ63113032651102",
+      "nomJuridiction": "CLERMONT-FERRAND",
+      "idJuridiction": "TJ63113",
+      "codeJuridiction": "00100157",
+      "numeroRegistre": "¹",
+      "numeroRoleGeneral": "25/00190",
+      "codeService": "JP",
+      "libelleService": "JCP- Juge Ctx Protection",
+      "dateDecision": "20250522",
+      "codeDecision": "449",
+      "libelleCodeDecision": "Expulsion \"conditionnelle\" ordonnée au fond avec suspension des effets de la clause résolutoire",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande en paiement des loyers et des charges et/ou tendant à faire prononcer ou constater la résiliation pour défaut de paiement  ou défaut d'assurance et ordonner l'expulsion Y compris les demandes tendant à la fixation et au paiement des indemnités d’occupation et à l’expulsion. Y compris les demandes dirigées contre la caution du locataire.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "aucune",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.949Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e0e"
+    },
+    "path": "TJ_FAKE_6841f2cde1aa44555aaa033a.wpd",
+    "metadatas": {
+      "idDecision": "TJ92050080820305",
+      "nomJuridiction": "NANTERRE",
+      "idJuridiction": "TJ92050",
+      "codeJuridiction": "00100209",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "23/07828",
+      "codeService": "P3",
+      "libelleService": "Pôle Famille 3ème section",
+      "dateDecision": "20250306",
+      "codeDecision": "44A",
+      "libelleCodeDecision": "Fait droit à l'ensemble des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en partage, ou contestations relatives au partage Art. 815 du C. civ. Contentieux sur les modalités du partage, demande d'annulation, de rescision pour lésion, d'opposition des créanciers, d'homologation de partage, demande d'attribution préférentielle d'un bien, etc. Dette de la succession, quelle que soit la nature de la dette (salaire, etc.). Remplacement d'un juge ou d'un notaire en cours de partage. Alsace-Moselle - ouverture d'une procédure de partage judiciaire, art. 220 à 242 de la Loi du 1er juin 1924.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.949Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e0f"
+    },
+    "path": "TJ_FAKE_6851b55b5dbd1b5d65c06a67.wpd",
+    "metadatas": {
+      "idDecision": "TJ13055099138102",
+      "nomJuridiction": "MARSEILLE",
+      "idJuridiction": "TJ13055",
+      "codeJuridiction": "00100059",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "25/04125",
+      "codeService": "91",
+      "libelleService": "JEX",
+      "dateDecision": "20250617",
+      "codeDecision": "33D",
+      "libelleCodeDecision": "Déboute le ou les demandeurs de l'ensemble de leurs demandes",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en nullité et/ou en mainlevée, en suspension ou en exécution d'une saisie mobilière Saisie attribution (art. R.211-10 et s.), saisie vente (art. R.221-40, R.221-50 et R.221-54), saisie appréhension (art. R.222-14), saisie revendication (art. R.222-18), saisie de véhicule par déclaration ou immobilisation (art. R.223-3 et R.223-9 et s.), saisie des droits d'associé et des valeurs mobilières (art. R.223-7) et saisie des biens placés dans un coffre fort (art. R.224-3, 6° et R.224-10, 6°).",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.953Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e10"
+    },
+    "path": "TJ_FAKE_6866c82ad33109fd079ab001.wpd",
+    "metadatas": {
+      "idDecision": "TJ61001008934702",
+      "nomJuridiction": "Alençon",
+      "idJuridiction": "TJ61001",
+      "codeJuridiction": "00100151",
+      "numeroRegistre": "0",
+      "numeroRoleGeneral": "25/00217",
+      "codeService": "26",
+      "libelleService": "CREDITS CONSOMMATION",
+      "dateDecision": "20250703",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Prêt - Demande en remboursement du prêt Ex. : prêt viager hypothécaire. Demande en remboursement du prêt personnel dit \"Expresso\" et d'un crédit affecté.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.951Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e11"
+    },
+    "path": "TJ_FAKE_6876a8e9e74401da7f35ae25.wpd",
+    "metadatas": {
+      "idDecision": "TJ91228056013801",
+      "nomJuridiction": "EVRY",
+      "idJuridiction": "TJ91228",
+      "codeJuridiction": "00100208",
+      "numeroRegistre": "M",
+      "numeroRoleGeneral": "25/00480",
+      "codeService": "35",
+      "libelleService": "J.L.D-35 BIS",
+      "dateDecision": "20250715",
+      "codeDecision": "69B",
+      "libelleCodeDecision": "Mainlevée de la mesure de rétention administrative",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'autorisation de prolongation des mesures de rétention prises à l'encontre des étrangers en situation irrégulière Art. L. 552-1 et s. du CESEDA Pour les demandes visant à déclarer l'appel suspensif, coder 14Q et PP5L. Pour les demandes de mainlevée de la rétention formées par l'étranger, hors des audiences prévues aux articles R.552-9 et R.552.15 ( art.552-17 de CESEDA), coder 14H.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.950Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e12"
+    },
+    "path": "TJ_FAKE_6876c2b0e74401da7f3608aa.wpd",
+    "metadatas": {
+      "idDecision": "TJ54395029313103",
+      "nomJuridiction": "NANCY",
+      "idJuridiction": "TJ54395",
+      "codeJuridiction": "00100132",
+      "numeroRegistre": "R",
+      "numeroRoleGeneral": "24/00025",
+      "codeService": "05",
+      "libelleService": "Surendettement",
+      "dateDecision": "20250711",
+      "codeDecision": "33F",
+      "libelleCodeDecision": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
+      "codeNAC": "22A",
+      "libelleNAC": "Recours contre les décisions statuant sur la recevabilité prononcées par les commissions de surendettement des particuliers Art. R. 722-2 C. consom.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.951Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e13"
+    },
+    "path": "TJ_FAKE_687eacd841388e7853ac63c0.wpd",
+    "metadatas": {
+      "idDecision": "TJ30189033805007",
+      "nomJuridiction": "Nîmes",
+      "idJuridiction": "TJ30189",
+      "codeJuridiction": "00100090",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "24/00738",
+      "codeService": "01",
+      "libelleService": "1ère Chambre Civile",
+      "dateDecision": "20250721",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en réparation des dommages causés par l'activité des auxiliaires de justice L'expression \"auxiliaire de justice\" doit être entendue au sens large et désigne les professionnels suivants : avocats, conseils en propriété industrielle, experts, greffiers de commerce, commissaire de justice, conciliateurs, médiateurs interprêtes, notaires, sachants, traducteurs, etc. Sont également comprises,  les demandes formées contre les auxiliaires de justice en raison de  l'exécution ou de l'inexécution dommageable des mesures d'exécution forcée ou conservatoires (art. L. 213-6 du COJ). Pour les demandes formées contre les auxiliaires de justice dans les procédures collectives, coder 4IE.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.950Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e14"
+    },
+    "path": "TJ_FAKE_687fe50a249b152198e81b21.wpd",
+    "metadatas": {
+      "idDecision": "TJ77284222390403",
+      "nomJuridiction": "MEAUX",
+      "idJuridiction": "TJ77284",
+      "codeJuridiction": "00100184",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "25/01044",
+      "codeService": "JC",
+      "libelleService": "Ctx Gen JCP",
+      "dateDecision": "20250716",
+      "codeDecision": "44A",
+      "libelleCodeDecision": "Fait droit à l'ensemble des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande en paiement des loyers et des charges et/ou tendant à faire prononcer ou constater la résiliation pour défaut de paiement  ou défaut d'assurance et ordonner l'expulsion Y compris les demandes tendant à la fixation et au paiement des indemnités d’occupation et à l’expulsion. Y compris les demandes dirigées contre la caution du locataire.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.952Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e15"
+    },
+    "path": "TJ_FAKE_68a381cead24789c3b808504.wpd",
+    "metadatas": {
+      "idDecision": "TJ92050083279502",
+      "nomJuridiction": "NANTERRE",
+      "idJuridiction": "TJ92050",
+      "codeJuridiction": "00100209",
+      "numeroRegistre": "U",
+      "numeroRoleGeneral": "24/00946",
+      "codeService": "TS",
+      "libelleService": "CTX Protection sociale",
+      "dateDecision": "20250729",
+      "codeDecision": "33D",
+      "libelleCodeDecision": "Déboute le ou les demandeurs de l'ensemble de leurs demandes",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'annulation d'une mise en demeure ou d'une contrainte Ex : différents régimes de contrainte : par exemple L. 133-4, R. 133-3, L. 244-9 ou L. 161-1-5 du C. de Séc. soc.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.952Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e16"
+    },
+    "path": "TJ_FAKE_68a4d6d04a24c6addadc1245.wpd",
+    "metadatas": {
+      "idDecision": "TJ621603349905301",
+      "nomJuridiction": "Boulogne sur mer",
+      "idJuridiction": "TJ62160",
+      "codeJuridiction": "00100155",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "25/03479",
+      "codeService": "85",
+      "libelleService": "JLD",
+      "dateDecision": "20250819",
+      "codeDecision": "69A",
+      "libelleCodeDecision": "Maintien de la mesure de rétention administrative",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'autorisation de prolongation des mesures de rétention prises à l'encontre des étrangers en situation irrégulière Art. L. 552-1 et s. du CESEDA Pour les demandes visant à déclarer l'appel suspensif, coder 14Q et PP5L. Pour les demandes de mainlevée de la rétention formées par l'étranger, hors des audiences prévues aux articles R.552-9 et R.552.15 ( art.552-17 de CESEDA), coder 14H.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.953Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e17"
+    },
+    "path": "TJ_FAKE_68a7966af68e27f214e9307a.wpd",
+    "metadatas": {
+      "idDecision": "TJ56121307260903",
+      "nomJuridiction": "LORIENT",
+      "idJuridiction": "TJ56121",
+      "codeJuridiction": "00100135",
+      "numeroRegistre": "R",
+      "numeroRoleGeneral": "25/00120",
+      "codeService": "20",
+      "libelleService": "13CH JCP CIVIL",
+      "dateDecision": "20250717",
+      "codeDecision": "448",
+      "libelleCodeDecision": "Expulsion \"ferme\" ordonnée au fond (sans suspension des effets de la clause résolutoire)",
+      "codeNAC": "22A",
+      "libelleNAC": "Baux d'habitation - Demande du bailleur tendant à faire constater la validité du congé et à ordonner l'expulsion Dans  les cas où le congé est lié à une inexécution des obligations du locataire, coder 5AA ou 5AB.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.954Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e18"
+    },
+    "path": "TJ_FAKE_68af62d14bcaacdd63b181a9.wpd",
+    "metadatas": {
+      "idDecision": "TJ621603349927201",
+      "nomJuridiction": "Boulogne sur mer",
+      "idJuridiction": "TJ62160",
+      "codeJuridiction": "00100155",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "25/03609",
+      "codeService": "85",
+      "libelleService": "JLD",
+      "dateDecision": "20250827",
+      "codeDecision": "69B",
+      "libelleCodeDecision": "Mainlevée de la mesure de rétention administrative",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande d'autorisation de prolongation des mesures de rétention prises à l'encontre des étrangers en situation irrégulière Art. L. 552-1 et s. du CESEDA Pour les demandes visant à déclarer l'appel suspensif, coder 14Q et PP5L. Pour les demandes de mainlevée de la rétention formées par l'étranger, hors des audiences prévues aux articles R.552-9 et R.552.15 ( art.552-17 de CESEDA), coder 14H.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.955Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e19"
+    },
+    "path": "TJ_FAKE_68af6e144bcaacdd63b2488c.wpd",
+    "metadatas": {
+      "idDecision": "TJ38544009915812",
+      "nomJuridiction": "VIENNE",
+      "idJuridiction": "TJ38544",
+      "codeJuridiction": "00100104",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "23/00122",
+      "codeService": "11",
+      "libelleService": "Chambre 1 Cabinet 1",
+      "dateDecision": "20250627",
+      "codeDecision": "33D",
+      "libelleCodeDecision": "Déboute le ou les demandeurs de l'ensemble de leurs demandes",
+      "codeNAC": "22A",
+      "libelleNAC": "Prêt - Demande en remboursement du prêt Ex. : prêt viager hypothécaire. Demande en remboursement du prêt personnel dit \"Expresso\" et d'un crédit affecté.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "aucune",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.955Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9798204c826e012e1a"
+    },
+    "path": "TJ_FAKE_68c08b78e7f54efd010b004c.wpd",
+    "metadatas": {
+      "idDecision": "TJ50147012182405",
+      "nomJuridiction": "Coutances",
+      "idJuridiction": "TJ50147",
+      "codeJuridiction": "00100126",
+      "numeroRegistre": "Y",
+      "numeroRoleGeneral": "24/00102",
+      "codeService": "04",
+      "libelleService": "CIVIL - 10 000 COUTANCES",
+      "dateDecision": "20250904",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Autres demandes relatives à la vente Pour les demandes relatives aux contrats - cadres qui impliquent des relations commerciales habituelles entre les deux parties - (concession, franchise, contrat de fourniture), voir postes 59A à 59C.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.955Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9898204c826e012e1b"
+    },
+    "path": "TJ_FAKE_68cc4f3b9da368950468a02a.wpd",
+    "metadatas": {
+      "idDecision": "TJ75056258108205",
+      "nomJuridiction": "Paris",
+      "idJuridiction": "TJ75056",
+      "codeJuridiction": "00915273",
+      "numeroRegistre": "^",
+      "numeroRoleGeneral": "19/01169",
+      "codeService": "T8",
+      "libelleService": "PS ctx technique",
+      "dateDecision": "20250916",
+      "codeDecision": "44A",
+      "libelleCodeDecision": "Fait droit à l'ensemble des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "A.T.M.P. : demande d'un employeur contestant une décision d'une caisse Ex : demande d'un employeur en inopposabilité d'une prise en charge au titre des A.T.M.P.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.957Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9898204c826e012e1c"
+    },
+    "path": "TJ_FAKE_68f2af55e97b8c182997b406.wpd",
+    "metadatas": {
+      "idDecision": "TJ34172045508111",
+      "nomJuridiction": "MONTPELLIER",
+      "idJuridiction": "TJ34172",
+      "codeJuridiction": "00100097",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "22/04514",
+      "codeService": "08",
+      "libelleService": "Pôle Civil section 3",
+      "dateDecision": "20251008",
+      "codeDecision": "C39",
+      "libelleCodeDecision": "Réouverture des débats",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en réparation des dommages causés par des véhicules terrestres à moteur Il s'agit d'accident impliquant au moins un véhicule terrestre à moteur (art. 1 de la L. du 5 juillet 1985). Y compris les demandes de remboursement formées par le fonds de garantie contre l'assureur (art. 421-68 du C. assur.).",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.956Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9898204c826e012e1d"
+    },
+    "path": "TJ_FAKE_68f2b6cce97b8c182998310c.wpd",
+    "metadatas": {
+      "idDecision": "TJ31555067257001",
+      "nomJuridiction": "TOULOUSE",
+      "idJuridiction": "TJ31555",
+      "codeJuridiction": "00100092",
+      "numeroRegistre": "Ù",
+      "numeroRoleGeneral": "25/01687",
+      "codeService": "JL",
+      "libelleService": "J.L.D.",
+      "dateDecision": "20251017",
+      "codeDecision": "67A",
+      "libelleCodeDecision": "Maintien de la mesure de soins psychiatriques",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande de contrôle obligatoire périodique de la nécessité d'une mesure d'hospitalisation complète",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.956Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9898204c826e012e1e"
+    },
+    "path": "TJ_FAKE_68f92c55de0ebe408da9f1cf.wpd",
+    "metadatas": {
+      "idDecision": "TJ83050027771325",
+      "nomJuridiction": "Draguignan",
+      "idJuridiction": "TJ83050",
+      "codeJuridiction": "00100195",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "19/05386",
+      "codeService": "07",
+      "libelleService": "VENTES",
+      "dateDecision": "20251017",
+      "codeDecision": "C64",
+      "libelleCodeDecision": "Saisie immobilière - Adjuge le bien à un enchérisseur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande tendant à la vente immobilière et à la distribution du prix Procédures introduites avant le 1er janvier 2007 : art. 688 CPC (ancien). Procédures introduites après le 1er janvier 2007 : art. R.322-4, R.322-6 et R.322-10 du C. pr. exéc. Y compris demande de vente aux enchères ordonnée par le juge commissaire. Y compris demande de vente aux enchères ordonnée dans le cadre d'un rétablissement personnel. Alsace-Moselle - exécution forcée immobilière, art. 141 à 219 de la loi du 1er juin 1924.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "decisionAssociee": {
+        "idDecision": "TJ83050027771324",
+        "idJuridiction": "TJ83050",
+        "numeroRegistre": "1",
+        "date": "20250704",
+        "numeroRoleGeneral": "19/05386"
+      },
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.958Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9898204c826e012e1f"
+    },
+    "path": "TJ_FAKE_68f9335ade0ebe408daa8272.wpd",
+    "metadatas": {
+      "idDecision": "TJ11069010981908",
+      "nomJuridiction": "CARCASSONNE",
+      "idJuridiction": "TJ11069",
+      "codeJuridiction": "00100054",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "23/02167",
+      "codeService": "01",
+      "libelleService": "1ère Chambre",
+      "dateDecision": "20250826",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande en dommages-intérêts contre le prestataire de services pour mauvaise exécution Pour les demandes relatives aux dommages causés par l'activité professionnelle de certaines personnes qualifiées, voir postes 63.",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "parties": null,
+      "recommandationOccultation": "aucune",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.959Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9898204c826e012e20"
+    },
+    "path": "TJ_FAKE_690d24811f8a20b9100257a7.wpd",
+    "metadatas": {
+      "idDecision": "TJ37261028757709",
+      "nomJuridiction": "TOURS",
+      "idJuridiction": "TJ37261",
+      "codeJuridiction": "00100101",
+      "numeroRegistre": "1",
+      "numeroRoleGeneral": "23/01891",
+      "codeService": "01",
+      "libelleService": "PREMIERE CHAMBRE",
+      "dateDecision": "20251106",
+      "codeDecision": "44C",
+      "libelleCodeDecision": "Fait droit à une partie des demandes du ou des demandeurs sans accorder de délais d'exécution au défendeur",
+      "codeNAC": "22A",
+      "libelleNAC": "Autres demandes relatives à la copropriété",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.987Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69303e9898204c826e012e21"
+    },
+    "path": "TJ_FAKE_691c52468b6588a4f8996d37.wpd",
+    "metadatas": {
+      "idDecision": "TJ33063088538302",
+      "nomJuridiction": "BORDEAUX",
+      "idJuridiction": "TJ33063",
+      "codeJuridiction": "00100094",
+      "numeroRegistre": "J",
+      "numeroRoleGeneral": "25/03636",
+      "codeService": "JL",
+      "libelleService": "Juge Libertés Détention",
+      "dateDecision": "20251110",
+      "codeDecision": "67A",
+      "libelleCodeDecision": "Maintien de la mesure de soins psychiatriques",
+      "codeNAC": "22A",
+      "libelleNAC": "Demande de contrôle obligatoire périodique de la nécessité d'une mesure d'hospitalisation complète",
+      "codeNature": "0A",
+      "libelleNature": "Sans procédure particulière",
+      "president": null,
+      "parties": null,
+      "recommandationOccultation": "conforme",
+      "selection": false,
+      "matiereDeterminee": false,
+      "pourvoiLocal": false,
+      "pourvoiCourDeCassation": false,
+      "decisionPublique": true,
+      "debatPublic": true,
+      "indicateurQPC": false
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": null
+      },
+      {
+        "type": "normalized",
+        "date": {
+          "$date": "2025-12-03T13:29:17.987Z"
+        }
+      }
+    ]
+  }
+]

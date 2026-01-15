@@ -1,19 +1,22 @@
-const { MongoClient } = require('mongodb')
-const { resolve } = require("path")
+const { MongoClient } = require("mongodb");
+const { resolve } = require("path");
 
-if (!process.env.NODE_ENV) require('dotenv').config({ path: resolve(__dirname, '..', '..', '.env') })
+if (!process.env.NODE_ENV)
+  require("dotenv").config({ path: resolve(__dirname, "..", "..", ".env") });
 
 async function main() {
-  const client = new MongoClient(`mongodb://localhost:${process.env.LABELDB_PORT}/${process.env.LABELDB_DATABASE}`)
-  await client.connect()
+  const client = new MongoClient(
+    `mongodb://localhost:${process.env.LABELDB_PORT}/${process.env.LABELDB_DATABASE}`
+  );
+  await client.connect();
 
-  const dbCollections = await client.db().collections()
-  const collections = dbCollections.flat()
+  const dbCollections = await client.db().collections();
+  const collections = dbCollections.flat();
 
-  return Promise.all(collections.map((_) => _.drop()))
+  return Promise.all(collections.map((_) => _.drop()));
 }
 
 main()
-  .then(console.log)
+  .then(() => console.log("label deleted"))
   .catch(console.error)
-  .finally((_) => process.exit())
+  .finally(() => process.exit());

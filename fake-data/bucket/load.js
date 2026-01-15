@@ -4,7 +4,10 @@ const { readdir, readFile } = require("fs/promises");
 const { resolve } = require("path");
 
 if (!process.env.NODE_ENV)
-  require("dotenv").config({ path: resolve(__dirname, "..", "..", ".env") });
+  require("dotenv").config({
+    path: resolve(__dirname, "..", "..", ".env"),
+    quiet: true,
+  });
 
 const {
   BUCKET_ACCESS_KEY,
@@ -43,8 +46,8 @@ async function main() {
   const tcomPaths = await readdir(resolve(__dirname, "tcom"));
   const cphPaths = await readdir(resolve(__dirname, "cph"));
 
-  const tcomPdf = tcomPaths.filter(_ => _.endsWith('.pdf')) 
-  const tcomJson = tcomPaths.filter(_ => _.endsWith('.json')) 
+  const tcomPdf = tcomPaths.filter((_) => _.endsWith(".pdf"));
+  const tcomJson = tcomPaths.filter((_) => _.endsWith(".json"));
 
   return Promise.all([
     Promise.all(
@@ -75,6 +78,6 @@ async function main() {
 }
 
 main()
-  .then(console.log)
+  .then(() => console.log("buckets loaded"))
   .catch(console.error)
-  .finally((_) => process.exit());
+  .finally(() => process.exit());

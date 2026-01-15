@@ -3,7 +3,8 @@ const { writeFile } = require("fs/promises");
 const { existsSync, mkdirSync } = require("fs");
 const { resolve } = require("path");
 
-if (!process.env.NODE_ENV) require("dotenv").config({ path: resolve(__dirname, '..', '..', '.env') });
+if (!process.env.NODE_ENV)
+  require("dotenv").config({ path: resolve(__dirname, "..", "..", ".env") });
 
 async function exportCollection(collection) {
   const { collectionName } = collection;
@@ -12,11 +13,17 @@ async function exportCollection(collection) {
 
   if (!existsSync(dirPath)) mkdirSync(dirPath);
 
-  return writeFile(resolve(dirPath, `${collectionName}.json`), BSON.EJSON.stringify(raw, null, 2), 'utf8')
+  return writeFile(
+    resolve(dirPath, `${collectionName}.json`),
+    BSON.EJSON.stringify(raw, null, 2),
+    "utf8"
+  );
 }
 
 async function main() {
-  const client = new MongoClient(`mongodb://localhost:${process.env.LABELDB_PORT}/${process.env.LABELDB_DATABASE}`);
+  const client = new MongoClient(
+    `mongodb://localhost:${process.env.LABELDB_PORT}/${process.env.LABELDB_DATABASE}`
+  );
   await client.connect();
 
   const dbCollections = await client.db().collections();
@@ -26,5 +33,6 @@ async function main() {
 }
 
 main()
+  .then(() => console.log("label saved"))
   .catch(console.error)
-  .finally((_) => process.exit());
+  .finally(() => process.exit());

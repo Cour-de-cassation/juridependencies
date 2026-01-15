@@ -7,7 +7,10 @@ const {
 const { resolve } = require("path");
 
 if (!process.env.NODE_ENV)
-  require("dotenv").config({ path: resolve(__dirname, "..", "..", ".env") });
+  require("dotenv").config({
+    path: resolve(__dirname, "..", "..", ".env"),
+    quiet: true,
+  });
 
 const {
   BUCKET_ACCESS_KEY,
@@ -42,11 +45,12 @@ async function listAll(name, continuationToken) {
       ContinuationToken: continuationToken,
     })
   );
-  if (result.IsTruncated){
+  if (result.IsTruncated) {
     return [
       ...(result.Contents ?? []),
-      ...await listAll(name, result.NextContinuationToken),
-    ];}
+      ...(await listAll(name, result.NextContinuationToken)),
+    ];
+  }
   return result.Contents ?? [];
 }
 
@@ -80,6 +84,6 @@ async function main() {
 }
 
 main()
-  .then(console.log)
+  .then(() => console.log("buckets deleted"))
   .catch(console.error)
-  .finally((_) => process.exit());
+  .finally(() => process.exit());

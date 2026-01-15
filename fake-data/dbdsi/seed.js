@@ -5,7 +5,10 @@ const { JurinetOracle } = require("./tables/jurinet-oracle");
 const { JuricaOracle } = require("./tables/jurica-oracle");
 
 if (!process.env.NODE_ENV)
-  require("dotenv").config({ path: resolve(__dirname, "..", "..", ".env") });
+  require("dotenv").config({
+    path: resolve(__dirname, "..", "..", ".env"),
+    quiet: true,
+  });
 
 async function seeds(source, files) {
   await source.connect();
@@ -48,5 +51,5 @@ async function main() {
 }
 
 main()
-  .then((_) => console.dir(_, { depth: null }))
+  .then(() => console.log("dbdsi loaded"))
   .catch((_) => console.dir(_, { depth: null }));

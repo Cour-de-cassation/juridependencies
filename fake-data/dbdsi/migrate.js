@@ -7,7 +7,10 @@ const { JuricaOracle } = require("./tables/jurica-oracle");
 const { GRCOMOracle } = require("./tables/grcom-oracle");
 
 if (!process.env.NODE_ENV)
-  require("dotenv").config({ path: resolve(__dirname, '..', '..', '.env') });
+  require("dotenv").config({
+    path: resolve(__dirname, "..", "..", ".env"),
+    quiet: true,
+  });
 
 function splitQueries(queryString) {
   return queryString.replaceAll(";", "").split(/^\n/gm);

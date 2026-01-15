@@ -1,18 +1,24 @@
-const { MongoClient } = require('mongodb')
-const { resolve } = require("path")
+const { MongoClient } = require("mongodb");
+const { resolve } = require("path");
 
-if (!process.env.NODE_ENV) require('dotenv').config({ path: resolve(__dirname, '..', '..', '.env') })
+if (!process.env.NODE_ENV)
+  require("dotenv").config({
+    path: resolve(__dirname, "..", "..", ".env"),
+    quiet: true,
+  });
 
 async function main() {
-  const client = new MongoClient(`mongodb://localhost:${process.env.DBSDER_PORT}/rawFiles`)
-  await client.connect()
+  const client = new MongoClient(
+    `mongodb://localhost:${process.env.DBSDER_PORT}/rawFiles`
+  );
+  await client.connect();
 
-  const collections = await client.db().collections()
+  const collections = await client.db().collections();
 
-  return Promise.all(collections.map((_) => _.drop()))
+  return Promise.all(collections.map((_) => _.drop()));
 }
 
 main()
-  .then(console.log)
+  .then(() => console.log("rawFiles deleted"))
   .catch(console.error)
-  .finally((_) => process.exit())
+  .finally(() => process.exit());

@@ -1,23 +1,39 @@
-const { readFile, writeFile, readdir } = require('fs/promises');
-const { resolve } = require('path');
+const { readFile, writeFile, readdir } = require("fs/promises");
+const { resolve } = require("path");
 
-if (!process.env.DB_TABLE_JURICA || !process.env.DB_TABLE) require('dotenv').config({ path: resolve(__dirname, '..', '..', '.env') });
+if (!process.env.DB_TABLE_JURICA || !process.env.DB_TABLE)
+  require("dotenv").config({
+    path: resolve(__dirname, "..", "..", ".env"),
+    quiet: true,
+  });
 
 async function replaceEnv(filePath) {
-  const file = await readFile(filePath, 'utf8');
+  const file = await readFile(filePath, "utf8");
   const content = file.replace(/\$\{[^}]+\}/g, (pattern) => {
     return process.env[pattern.match(/[^${}]+/)[0]];
   });
-  return writeFile(resolve(__dirname, filePath.replace('_template', '')), content, 'utf8');
+  return writeFile(
+    resolve(__dirname, filePath.replace("_template", "")),
+    content,
+    "utf8"
+  );
 }
 
 async function main() {
   try {
-    const migrationsfilenames = (await readdir(resolve(__dirname, 'migrations'))).map(_ => resolve(__dirname, 'migrations', _));
-    const seedsfilenames = (await readdir(resolve(__dirname, 'seeds'))).map(_ => resolve(__dirname, 'seeds', _));
-    const oracleInitTemplate = resolve(__dirname, 'oracle_init_template.sql');
+    const migrationsfilenames = (
+      await readdir(resolve(__dirname, "migrations"))
+    ).map((_) => resolve(__dirname, "migrations", _));
+    const seedsfilenames = (await readdir(resolve(__dirname, "seeds"))).map(
+      (_) => resolve(__dirname, "seeds", _)
+    );
+    const oracleInitTemplate = resolve(__dirname, "oracle_init_template.sql");
 
-    const templates = [oracleInitTemplate, ...migrationsfilenames, ...seedsfilenames].filter((_) => _.endsWith('_template.sql'))
+    const templates = [
+      oracleInitTemplate,
+      ...migrationsfilenames,
+      ...seedsfilenames,
+    ].filter((_) => _.endsWith("_template.sql"));
 
     Promise.all(templates.map((_) => replaceEnv(_)));
   } catch (_) {

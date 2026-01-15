@@ -22,5 +22,6 @@ async function main() {
 }
 
 main()
+  .then(() => console.log("judilibre-index saved"))
   .catch(console.error)
-  .finally((_) => process.exit());
+  .finally(() => process.exit());

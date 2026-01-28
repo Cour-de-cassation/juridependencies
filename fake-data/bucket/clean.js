@@ -28,7 +28,7 @@ const {
 } = process.env;
 
 const S3Options = {
-  endpoint: `${BUCKET_HOST}:${BUCKET_PORT}`,
+  endpoint: `http://${BUCKET_HOST}:${BUCKET_PORT}`,
   forcePathStyle: true,
   region: "us-east-1",
   credentials: {

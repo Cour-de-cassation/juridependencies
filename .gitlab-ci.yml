@@ -22,7 +22,7 @@ build_docker_image:
         -t $docker_image_name -f fake-data/Dockerfile .
     - docker push $docker_image_name
   rules:
-  - if: $CI_COMMIT_BRANCH == "main" | $CI_COMMIT_BRANCH == "local" 
+    - if: $CI_COMMIT_BRANCH == "main" || $CI_COMMIT_BRANCH == "local" 
   tags:
     - docker
 
@@ -42,7 +42,7 @@ deploy_dev:
       -i ansible/inventory/$inventaire.yml ansible/deploy-pod.yml 
       --vault-password-file=$ANSIBLE_VAULT_PASS
   rules:
-  - if: $CI_COMMIT_BRANCH == "main" | $CI_COMMIT_BRANCH == "local"
+    - if: $CI_COMMIT_BRANCH == "main" || $CI_COMMIT_BRANCH == "local"
   tags:
     - docker
   dependencies:

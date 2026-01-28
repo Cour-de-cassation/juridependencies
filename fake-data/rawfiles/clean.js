@@ -9,7 +9,7 @@ if (!process.env.NODE_ENV)
 
 async function main() {
   const client = new MongoClient(
-    `mongodb://localhost:${process.env.DBSDER_PORT}/rawFiles`
+    `mongodb://${process.env.DBSDER_HOST}:${process.env.DBSDER_PORT}/rawFiles`
   );
   await client.connect();
 

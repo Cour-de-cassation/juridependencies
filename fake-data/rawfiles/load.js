@@ -29,7 +29,7 @@ async function saveCollections(client, { collectionName, path }) {
 
 async function main() {
   const client = new MongoClient(
-    `mongodb://localhost:${process.env.DBSDER_PORT}/rawFiles`
+    `mongodb://${process.env.DBSDER_HOST}:${process.env.DBSDER_PORT}/rawFiles`
   );
   await client.connect();
 

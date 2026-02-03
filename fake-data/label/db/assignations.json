@@ -1,2552 +1,692 @@
 [
   {
     "_id": {
-      "$oid": "692ecd7e0428908f0a12e6de"
+      "$oid": "6942838cfa7f202240f000b2"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99cade165818980f513"
+      "$oid": "694282e2acf641e3d2ebe107"
     },
     "treatmentId": {
-      "$oid": "692ecd7e0428908f0a12e6dd"
+      "$oid": "6942838cfa7f202240f000b1"
     },
-    "assignationDate": 1764674942788
+    "assignationDate": 1765966732028
   },
   {
     "_id": {
-      "$oid": "692ecd7e0428908f0a12e6e1"
+      "$oid": "6942838efa7f202240f000b8"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99cade165818980f522"
+      "$oid": "694282ddacf641e3d2ebdf93"
     },
     "treatmentId": {
-      "$oid": "692ecd7e0428908f0a12e6e0"
+      "$oid": "6942838efa7f202240f000b7"
     },
-    "assignationDate": 1764674942797
+    "assignationDate": 1765966734731
   },
   {
     "_id": {
-      "$oid": "692ecd7e0428908f0a12e6e4"
+      "$oid": "69428399fa7f202240f000d6"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99dade165818980f543"
+      "$oid": "694282e2acf641e3d2ebe0e0"
     },
     "treatmentId": {
-      "$oid": "692ecd7e0428908f0a12e6e3"
+      "$oid": "69428399fa7f202240f000d5"
     },
-    "assignationDate": 1764674942805
+    "assignationDate": 1765966745401
   },
   {
     "_id": {
-      "$oid": "692ecd810428908f0a12e6e7"
+      "$oid": "6942839cfa7f202240f000df"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99dade165818980f531"
+      "$oid": "694282e2acf641e3d2ebe0fe"
     },
     "treatmentId": {
-      "$oid": "692ecd810428908f0a12e6e6"
+      "$oid": "6942839cfa7f202240f000de"
     },
-    "assignationDate": 1764674945705
+    "assignationDate": 1765966748520
   },
   {
     "_id": {
-      "$oid": "692ecd830428908f0a12e6ea"
+      "$oid": "6942839dfa7f202240f000e2"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99eade165818980f585"
+      "$oid": "694282dfacf641e3d2ebe00e"
     },
     "treatmentId": {
-      "$oid": "692ecd830428908f0a12e6e9"
+      "$oid": "6942839dfa7f202240f000e1"
     },
-    "assignationDate": 1764674947772
+    "assignationDate": 1765966749552
   },
   {
     "_id": {
-      "$oid": "692ecd850428908f0a12e6ed"
+      "$oid": "6942839efa7f202240f000e5"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99eade165818980f57f"
+      "$oid": "694282e2acf641e3d2ebe0ef"
     },
     "treatmentId": {
-      "$oid": "692ecd850428908f0a12e6ec"
+      "$oid": "6942839efa7f202240f000e4"
     },
-    "assignationDate": 1764674949557
+    "assignationDate": 1765966750621
   },
   {
     "_id": {
-      "$oid": "692ecd870428908f0a12e6f0"
+      "$oid": "6942839ffa7f202240f000e8"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99dade165818980f534"
+      "$oid": "694282e4acf641e3d2ebe194"
     },
     "treatmentId": {
-      "$oid": "692ecd870428908f0a12e6ef"
+      "$oid": "6942839ffa7f202240f000e7"
     },
-    "assignationDate": 1764674951158
+    "assignationDate": 1765966751706
   },
   {
     "_id": {
-      "$oid": "692ecd890428908f0a12e6f3"
+      "$oid": "694283a4fa7f202240f000f4"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a2ade165818980f68a"
+      "$oid": "694282dfacf641e3d2ebe01d"
     },
     "treatmentId": {
-      "$oid": "692ecd890428908f0a12e6f2"
+      "$oid": "694283a4fa7f202240f000f3"
     },
-    "assignationDate": 1764674953037
+    "assignationDate": 1765966756363
   },
   {
     "_id": {
-      "$oid": "692ecd8b0428908f0a12e6f6"
+      "$oid": "694283a6fa7f202240f000fa"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99dade165818980f546"
+      "$oid": "694282e4acf641e3d2ebe188"
     },
     "treatmentId": {
-      "$oid": "692ecd8b0428908f0a12e6f5"
+      "$oid": "694283a6fa7f202240f000f9"
     },
-    "assignationDate": 1764674955576
+    "assignationDate": 1765966758506
   },
   {
     "_id": {
-      "$oid": "692ecd8d0428908f0a12e6f9"
+      "$oid": "694283aafa7f202240f00103"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99cade165818980f516"
+      "$oid": "694282e4acf641e3d2ebe1a0"
     },
     "treatmentId": {
-      "$oid": "692ecd8d0428908f0a12e6f8"
+      "$oid": "694283aafa7f202240f00102"
     },
-    "assignationDate": 1764674957183
+    "assignationDate": 1765966762369
   },
   {
     "_id": {
-      "$oid": "692ecd900428908f0a12e6fc"
+      "$oid": "694283acfa7f202240f00109"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99dade165818980f549"
+      "$oid": "694282e2acf641e3d2ebe0e9"
     },
     "treatmentId": {
-      "$oid": "692ecd900428908f0a12e6fb"
+      "$oid": "694283acfa7f202240f00108"
     },
-    "assignationDate": 1764674960357
+    "assignationDate": 1765966764757
   },
   {
     "_id": {
-      "$oid": "692ecd920428908f0a12e6ff"
+      "$oid": "694283b3fa7f202240f0011b"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a2ade165818980f6b7"
+      "$oid": "694282dfacf641e3d2ebe020"
     },
     "treatmentId": {
-      "$oid": "692ecd920428908f0a12e6fe"
+      "$oid": "694283b3fa7f202240f0011a"
     },
-    "assignationDate": 1764674962367
+    "assignationDate": 1765966771734
   },
   {
     "_id": {
-      "$oid": "692ecd940428908f0a12e702"
+      "$oid": "694283b4fa7f202240f0011e"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99dade165818980f55b"
+      "$oid": "694282dfacf641e3d2ebe026"
     },
     "treatmentId": {
-      "$oid": "692ecd940428908f0a12e701"
+      "$oid": "694283b4fa7f202240f0011d"
     },
-    "assignationDate": 1764674964092
+    "assignationDate": 1765966772832
   },
   {
     "_id": {
-      "$oid": "692ecd950428908f0a12e705"
+      "$oid": "694283b5fa7f202240f00121"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a2ade165818980f6b1"
+      "$oid": "694282dfacf641e3d2ebe032"
     },
     "treatmentId": {
-      "$oid": "692ecd950428908f0a12e704"
+      "$oid": "694283b5fa7f202240f00120"
     },
-    "assignationDate": 1764674965415
+    "assignationDate": 1765966773882
   },
   {
     "_id": {
-      "$oid": "692ecd960428908f0a12e708"
+      "$oid": "694283bbfa7f202240f0012d"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99dade165818980f573"
+      "$oid": "694282e4acf641e3d2ebe18b"
     },
     "treatmentId": {
-      "$oid": "692ecd960428908f0a12e707"
+      "$oid": "694283bbfa7f202240f0012c"
     },
-    "assignationDate": 1764674966880
+    "assignationDate": 1765966779948
   },
   {
     "_id": {
-      "$oid": "692ecd980428908f0a12e70b"
+      "$oid": "694283bdfa7f202240f00130"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99dade165818980f528"
+      "$oid": "694282e4acf641e3d2ebe191"
     },
     "treatmentId": {
-      "$oid": "692ecd980428908f0a12e70a"
+      "$oid": "694283bdfa7f202240f0012f"
     },
-    "assignationDate": 1764674968191
+    "assignationDate": 1765966781984
   },
   {
     "_id": {
-      "$oid": "692ecd990428908f0a12e70e"
+      "$oid": "694283c1fa7f202240f00139"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99cade165818980f51f"
+      "$oid": "694282e4acf641e3d2ebe185"
     },
     "treatmentId": {
-      "$oid": "692ecd990428908f0a12e70d"
+      "$oid": "694283c1fa7f202240f00138"
     },
-    "assignationDate": 1764674969507
+    "assignationDate": 1765966785876
   },
   {
     "_id": {
-      "$oid": "692ecd9a0428908f0a12e711"
+      "$oid": "694283c5fa7f202240f00142"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99dade165818980f53d"
+      "$oid": "694282e4acf641e3d2ebe1a3"
     },
     "treatmentId": {
-      "$oid": "692ecd9a0428908f0a12e710"
+      "$oid": "694283c5fa7f202240f00141"
     },
-    "assignationDate": 1764674970706
+    "assignationDate": 1765966789542
   },
   {
     "_id": {
-      "$oid": "692ecd9c0428908f0a12e714"
+      "$oid": "694283cafa7f202240f0014b"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99dade165818980f540"
+      "$oid": "694282e2acf641e3d2ebe0e6"
     },
     "treatmentId": {
-      "$oid": "692ecd9c0428908f0a12e713"
+      "$oid": "694283cafa7f202240f0014a"
     },
-    "assignationDate": 1764674972015
+    "assignationDate": 1765966794020
   },
   {
     "_id": {
-      "$oid": "692ecd9d0428908f0a12e717"
+      "$oid": "694283cefa7f202240f00157"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99dade165818980f561"
+      "$oid": "694282dfacf641e3d2ebe035"
     },
     "treatmentId": {
-      "$oid": "692ecd9d0428908f0a12e716"
+      "$oid": "694283cefa7f202240f00156"
     },
-    "assignationDate": 1764674973955
+    "assignationDate": 1765966798945
   },
   {
     "_id": {
-      "$oid": "692ecd9f0428908f0a12e71a"
+      "$oid": "694283d2fa7f202240f00160"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99dade165818980f567"
+      "$oid": "694282dfacf641e3d2ebe01a"
     },
     "treatmentId": {
-      "$oid": "692ecd9f0428908f0a12e719"
+      "$oid": "694283d2fa7f202240f0015f"
     },
-    "assignationDate": 1764674975278
+    "assignationDate": 1765966802543
   },
   {
     "_id": {
-      "$oid": "692ecda00428908f0a12e71d"
+      "$oid": "694283ddfa7f202240f00175"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a2ade165818980f6bd"
+      "$oid": "694282e4acf641e3d2ebe19d"
     },
     "treatmentId": {
-      "$oid": "692ecda00428908f0a12e71c"
+      "$oid": "694283ddfa7f202240f00174"
     },
-    "assignationDate": 1764674976621
+    "assignationDate": 1765966813847
   },
   {
     "_id": {
-      "$oid": "692ecda10428908f0a12e720"
+      "$oid": "694283defa7f202240f00178"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99dade165818980f54f"
+      "$oid": "694282e2acf641e3d2ebe0f2"
     },
     "treatmentId": {
-      "$oid": "692ecda10428908f0a12e71f"
+      "$oid": "694283defa7f202240f00177"
     },
-    "assignationDate": 1764674977833
+    "assignationDate": 1765966814846
   },
   {
     "_id": {
-      "$oid": "692ecda30428908f0a12e723"
+      "$oid": "694283e4fa7f202240f00187"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99dade165818980f52e"
+      "$oid": "694282e4acf641e3d2ebe18e"
     },
     "treatmentId": {
-      "$oid": "692ecda30428908f0a12e722"
+      "$oid": "694283e4fa7f202240f00186"
     },
-    "assignationDate": 1764674979087
+    "assignationDate": 1765966820874
   },
   {
     "_id": {
-      "$oid": "692ecda50428908f0a12e726"
+      "$oid": "694283e6fa7f202240f0018a"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a5ade165818980f786"
+      "$oid": "694282e4acf641e3d2ebe19a"
     },
     "treatmentId": {
-      "$oid": "692ecda50428908f0a12e725"
+      "$oid": "694283e5fa7f202240f00189"
     },
-    "assignationDate": 1764674981406
+    "assignationDate": 1765966822000
   },
   {
     "_id": {
-      "$oid": "692ecda60428908f0a12e729"
+      "$oid": "694283ebfa7f202240f00196"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a5ade165818980f7a4"
+      "$oid": "694282e2acf641e3d2ebe0ec"
     },
     "treatmentId": {
-      "$oid": "692ecda60428908f0a12e728"
+      "$oid": "694283ebfa7f202240f00195"
     },
-    "assignationDate": 1764674982769
+    "assignationDate": 1765966827337
   },
   {
     "_id": {
-      "$oid": "692ecda80428908f0a12e72c"
+      "$oid": "694283f0fa7f202240f0019f"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a1ade165818980f65a"
+      "$oid": "694282e2acf641e3d2ebe0f5"
     },
     "treatmentId": {
-      "$oid": "692ecda80428908f0a12e72b"
+      "$oid": "694283f0fa7f202240f0019e"
     },
-    "assignationDate": 1764674984967
+    "assignationDate": 1765966832773
   },
   {
     "_id": {
-      "$oid": "692ecdaa0428908f0a12e72f"
+      "$oid": "694283f3fa7f202240f001a5"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a4ade165818980f744"
+      "$oid": "694282e2acf641e3d2ebe0fb"
     },
     "treatmentId": {
-      "$oid": "692ecdaa0428908f0a12e72e"
+      "$oid": "694283f3fa7f202240f001a4"
     },
-    "assignationDate": 1764674986481
+    "assignationDate": 1765966835868
   },
   {
     "_id": {
-      "$oid": "692ecdac0428908f0a12e732"
+      "$oid": "694283fdfa7f202240f001bd"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a2ade165818980f6a8"
+      "$oid": "694282e2acf641e3d2ebe104"
     },
     "treatmentId": {
-      "$oid": "692ecdac0428908f0a12e731"
+      "$oid": "694283fdfa7f202240f001bc"
     },
-    "assignationDate": 1764674988562
+    "assignationDate": 1765966845574
   },
   {
     "_id": {
-      "$oid": "692ecdae0428908f0a12e735"
+      "$oid": "694283fefa7f202240f001c0"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99fade165818980f5f1"
+      "$oid": "694282e4acf641e3d2ebe1a6"
     },
     "treatmentId": {
-      "$oid": "692ecdae0428908f0a12e734"
+      "$oid": "694283fefa7f202240f001bf"
     },
-    "assignationDate": 1764674990014
+    "assignationDate": 1765966846769
   },
   {
     "_id": {
-      "$oid": "692ecdaf0428908f0a12e738"
+      "$oid": "69428401fa7f202240f001c6"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99eade165818980f5be"
+      "$oid": "694282dfacf641e3d2ebe014"
     },
     "treatmentId": {
-      "$oid": "692ecdaf0428908f0a12e737"
+      "$oid": "69428401fa7f202240f001c5"
     },
-    "assignationDate": 1764674991738
+    "assignationDate": 1765966849114
   },
   {
     "_id": {
-      "$oid": "692ecdb10428908f0a12e73b"
+      "$oid": "69428407fa7f202240f001d5"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a2ade165818980f696"
+      "$oid": "694282dfacf641e3d2ebe023"
     },
     "treatmentId": {
-      "$oid": "692ecdb10428908f0a12e73a"
+      "$oid": "69428407fa7f202240f001d4"
     },
-    "assignationDate": 1764674993983
+    "assignationDate": 1765966855179
   },
   {
     "_id": {
-      "$oid": "692ecdb30428908f0a12e73e"
+      "$oid": "6942842cbbaa9436ee04b8ee"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a2ade165818980f6ba"
+      "$oid": "694282dfacf641e3d2ebe02c"
     },
     "treatmentId": {
-      "$oid": "692ecdb30428908f0a12e73d"
+      "$oid": "6942842cbbaa9436ee04b8ed"
     },
-    "assignationDate": 1764674995618
+    "assignationDate": 1765966892036
   },
   {
     "_id": {
-      "$oid": "692ecdb50428908f0a12e741"
+      "$oid": "69428435bbaa9436ee04b903"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99fade165818980f5f7"
+      "$oid": "694282e2acf641e3d2ebe10a"
     },
     "treatmentId": {
-      "$oid": "692ecdb50428908f0a12e740"
+      "$oid": "69428435bbaa9436ee04b902"
     },
-    "assignationDate": 1764674997086
+    "assignationDate": 1765966901152
   },
   {
     "_id": {
-      "$oid": "692ecdb60428908f0a12e744"
+      "$oid": "69428436bbaa9436ee04b906"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a0ade165818980f633"
+      "$oid": "694282dfacf641e3d2ebe029"
     },
     "treatmentId": {
-      "$oid": "692ecdb60428908f0a12e743"
+      "$oid": "69428436bbaa9436ee04b905"
     },
-    "assignationDate": 1764674998449
+    "assignationDate": 1765966902293
   },
   {
     "_id": {
-      "$oid": "692ecdb70428908f0a12e747"
+      "$oid": "69428437bbaa9436ee04b909"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a2ade165818980f6ab"
+      "$oid": "694282e2acf641e3d2ebe101"
     },
     "treatmentId": {
-      "$oid": "692ecdb70428908f0a12e746"
+      "$oid": "69428437bbaa9436ee04b908"
     },
-    "assignationDate": 1764674999933
+    "assignationDate": 1765966903399
   },
   {
     "_id": {
-      "$oid": "692ecdb90428908f0a12e74a"
+      "$oid": "69428443bbaa9436ee04b924"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99fade165818980f5fd"
+      "$oid": "694282e4acf641e3d2ebe197"
     },
     "treatmentId": {
-      "$oid": "692ecdb90428908f0a12e749"
+      "$oid": "69428443bbaa9436ee04b923"
     },
-    "assignationDate": 1764675001499
+    "assignationDate": 1765966915282
   },
   {
     "_id": {
-      "$oid": "692ecdbb0428908f0a12e74d"
+      "$oid": "69428444bbaa9436ee04b927"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a4ade165818980f735"
+      "$oid": "694282dfacf641e3d2ebe038"
     },
     "treatmentId": {
-      "$oid": "692ecdbb0428908f0a12e74c"
+      "$oid": "69428444bbaa9436ee04b926"
     },
-    "assignationDate": 1764675003297
+    "assignationDate": 1765966916459
   },
   {
     "_id": {
-      "$oid": "692ecdbc0428908f0a12e750"
+      "$oid": "69428445bbaa9436ee04b92a"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a0ade165818980f636"
+      "$oid": "694282e2acf641e3d2ebe0f8"
     },
     "treatmentId": {
-      "$oid": "692ecdbc0428908f0a12e74f"
+      "$oid": "69428445bbaa9436ee04b929"
     },
-    "assignationDate": 1764675004806
+    "assignationDate": 1765966917528
   },
   {
     "_id": {
-      "$oid": "692ecdbe0428908f0a12e753"
+      "$oid": "6942844fbbaa9436ee04b942"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a3ade165818980f6db"
+      "$oid": "694282dfacf641e3d2ebe02f"
     },
     "treatmentId": {
-      "$oid": "692ecdbe0428908f0a12e752"
+      "$oid": "6942844fbbaa9436ee04b941"
     },
-    "assignationDate": 1764675006194
+    "assignationDate": 1765966927809
   },
   {
     "_id": {
-      "$oid": "692ecdbf0428908f0a12e756"
+      "$oid": "69428456bbaa9436ee04b94b"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a5ade165818980f76b"
+      "$oid": "694282e4acf641e3d2ebe1af"
     },
     "treatmentId": {
-      "$oid": "692ecdbf0428908f0a12e755"
+      "$oid": "69428456bbaa9436ee04b94a"
     },
-    "assignationDate": 1764675007647
+    "assignationDate": 1765966934944
   },
   {
     "_id": {
-      "$oid": "692ecdc00428908f0a12e759"
+      "$oid": "69428458bbaa9436ee04b94e"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a5ade165818980f798"
+      "$oid": "694282dfacf641e3d2ebe011"
     },
     "treatmentId": {
-      "$oid": "692ecdc00428908f0a12e758"
+      "$oid": "69428458bbaa9436ee04b94d"
     },
-    "assignationDate": 1764675008978
+    "assignationDate": 1765966936295
   },
   {
     "_id": {
-      "$oid": "692ecdc20428908f0a12e75c"
+      "$oid": "69428462bbaa9436ee04b951"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99fade165818980f600"
+      "$oid": "694282e2acf641e3d2ebe0e3"
     },
     "treatmentId": {
-      "$oid": "692ecdc20428908f0a12e75b"
+      "$oid": "69428462bbaa9436ee04b950"
     },
-    "assignationDate": 1764675010414
+    "assignationDate": 1765966946139
   },
   {
     "_id": {
-      "$oid": "692ecdc30428908f0a12e75f"
+      "$oid": "69428465bbaa9436ee04b957"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a0ade165818980f630"
+      "$oid": "694282e4acf641e3d2ebe1ac"
     },
     "treatmentId": {
-      "$oid": "692ecdc30428908f0a12e75e"
+      "$oid": "69428465bbaa9436ee04b956"
     },
-    "assignationDate": 1764675011772
+    "assignationDate": 1765966949581
   },
   {
     "_id": {
-      "$oid": "692ecdc50428908f0a12e762"
+      "$oid": "69428467bbaa9436ee04b95d"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec99fade165818980f5cd"
+      "$oid": "694282dfacf641e3d2ebe017"
     },
     "treatmentId": {
-      "$oid": "692ecdc50428908f0a12e761"
+      "$oid": "69428467bbaa9436ee04b95c"
     },
-    "assignationDate": 1764675013056
+    "assignationDate": 1765966951743
   },
   {
     "_id": {
-      "$oid": "692ecdc60428908f0a12e765"
+      "$oid": "69428468bbaa9436ee04b960"
     },
     "userId": {
       "$oid": "692ecd730428908f0a12e6db"
     },
     "documentId": {
-      "$oid": "692ec9a2ade165818980f6a2"
+      "$oid": "694282e4acf641e3d2ebe1a9"
     },
     "treatmentId": {
-      "$oid": "692ecdc60428908f0a12e764"
+      "$oid": "69428468bbaa9436ee04b95f"
     },
-    "assignationDate": 1764675014422
-  },
-  {
-    "_id": {
-      "$oid": "692ecdc70428908f0a12e768"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f747"
-    },
-    "treatmentId": {
-      "$oid": "692ecdc70428908f0a12e767"
-    },
-    "assignationDate": 1764675015812
-  },
-  {
-    "_id": {
-      "$oid": "692ecdc90428908f0a12e76b"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f756"
-    },
-    "treatmentId": {
-      "$oid": "692ecdc90428908f0a12e76a"
-    },
-    "assignationDate": 1764675017267
-  },
-  {
-    "_id": {
-      "$oid": "692ecdca0428908f0a12e76e"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f789"
-    },
-    "treatmentId": {
-      "$oid": "692ecdca0428908f0a12e76d"
-    },
-    "assignationDate": 1764675018746
-  },
-  {
-    "_id": {
-      "$oid": "692ecdcc0428908f0a12e771"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5c1"
-    },
-    "treatmentId": {
-      "$oid": "692ecdcc0428908f0a12e770"
-    },
-    "assignationDate": 1764675020447
-  },
-  {
-    "_id": {
-      "$oid": "692ecdce0428908f0a12e774"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a2ade165818980f6c6"
-    },
-    "treatmentId": {
-      "$oid": "692ecdce0428908f0a12e773"
-    },
-    "assignationDate": 1764675022065
-  },
-  {
-    "_id": {
-      "$oid": "692ecdcf0428908f0a12e777"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f74d"
-    },
-    "treatmentId": {
-      "$oid": "692ecdcf0428908f0a12e776"
-    },
-    "assignationDate": 1764675023960
-  },
-  {
-    "_id": {
-      "$oid": "692ecdd10428908f0a12e77a"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a2ade165818980f690"
-    },
-    "treatmentId": {
-      "$oid": "692ecdd10428908f0a12e779"
-    },
-    "assignationDate": 1764675025424
-  },
-  {
-    "_id": {
-      "$oid": "692ecdd20428908f0a12e77d"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f73e"
-    },
-    "treatmentId": {
-      "$oid": "692ecdd20428908f0a12e77c"
-    },
-    "assignationDate": 1764675026881
-  },
-  {
-    "_id": {
-      "$oid": "692ecdd40428908f0a12e780"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a6ade165818980f7d1"
-    },
-    "treatmentId": {
-      "$oid": "692ecdd40428908f0a12e77f"
-    },
-    "assignationDate": 1764675028364
-  },
-  {
-    "_id": {
-      "$oid": "692ecdd60428908f0a12e783"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5f4"
-    },
-    "treatmentId": {
-      "$oid": "692ecdd60428908f0a12e782"
-    },
-    "assignationDate": 1764675030080
-  },
-  {
-    "_id": {
-      "$oid": "692ecdd70428908f0a12e786"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f78f"
-    },
-    "treatmentId": {
-      "$oid": "692ecdd70428908f0a12e785"
-    },
-    "assignationDate": 1764675031491
-  },
-  {
-    "_id": {
-      "$oid": "692ecdd80428908f0a12e789"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f77d"
-    },
-    "treatmentId": {
-      "$oid": "692ecdd80428908f0a12e788"
-    },
-    "assignationDate": 1764675032838
-  },
-  {
-    "_id": {
-      "$oid": "692ecdda0428908f0a12e78c"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f64b"
-    },
-    "treatmentId": {
-      "$oid": "692ecdda0428908f0a12e78b"
-    },
-    "assignationDate": 1764675034152
-  },
-  {
-    "_id": {
-      "$oid": "692ecddb0428908f0a12e78f"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5fa"
-    },
-    "treatmentId": {
-      "$oid": "692ecddb0428908f0a12e78e"
-    },
-    "assignationDate": 1764675035422
-  },
-  {
-    "_id": {
-      "$oid": "692ecddc0428908f0a12e792"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5ee"
-    },
-    "treatmentId": {
-      "$oid": "692ecddc0428908f0a12e791"
-    },
-    "assignationDate": 1764675036741
-  },
-  {
-    "_id": {
-      "$oid": "692ecdde0428908f0a12e795"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a2ade165818980f69f"
-    },
-    "treatmentId": {
-      "$oid": "692ecdde0428908f0a12e794"
-    },
-    "assignationDate": 1764675038065
-  },
-  {
-    "_id": {
-      "$oid": "692ecddf0428908f0a12e798"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a1ade165818980f657"
-    },
-    "treatmentId": {
-      "$oid": "692ecddf0428908f0a12e797"
-    },
-    "assignationDate": 1764675039880
-  },
-  {
-    "_id": {
-      "$oid": "692ecde10428908f0a12e79b"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6e1"
-    },
-    "treatmentId": {
-      "$oid": "692ecde10428908f0a12e79a"
-    },
-    "assignationDate": 1764675041192
-  },
-  {
-    "_id": {
-      "$oid": "692ecde20428908f0a12e79e"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5df"
-    },
-    "treatmentId": {
-      "$oid": "692ecde20428908f0a12e79d"
-    },
-    "assignationDate": 1764675042526
-  },
-  {
-    "_id": {
-      "$oid": "692ecde30428908f0a12e7a1"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f771"
-    },
-    "treatmentId": {
-      "$oid": "692ecde30428908f0a12e7a0"
-    },
-    "assignationDate": 1764675043752
-  },
-  {
-    "_id": {
-      "$oid": "692ecde60428908f0a12e7a4"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f738"
-    },
-    "treatmentId": {
-      "$oid": "692ecde60428908f0a12e7a3"
-    },
-    "assignationDate": 1764675046376
-  },
-  {
-    "_id": {
-      "$oid": "692ecde70428908f0a12e7a7"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f75c"
-    },
-    "treatmentId": {
-      "$oid": "692ecde70428908f0a12e7a6"
-    },
-    "assignationDate": 1764675047899
-  },
-  {
-    "_id": {
-      "$oid": "692ecdef0428908f0a12e7aa"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f795"
-    },
-    "treatmentId": {
-      "$oid": "692ecdef0428908f0a12e7a9"
-    },
-    "assignationDate": 1764675055713
-  },
-  {
-    "_id": {
-      "$oid": "692ecdf10428908f0a12e7ad"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f7aa"
-    },
-    "treatmentId": {
-      "$oid": "692ecdf10428908f0a12e7ac"
-    },
-    "assignationDate": 1764675057208
-  },
-  {
-    "_id": {
-      "$oid": "692ecdf20428908f0a12e7b0"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a1ade165818980f654"
-    },
-    "treatmentId": {
-      "$oid": "692ecdf20428908f0a12e7af"
-    },
-    "assignationDate": 1764675058591
-  },
-  {
-    "_id": {
-      "$oid": "692ecdf40428908f0a12e7b3"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f60c"
-    },
-    "treatmentId": {
-      "$oid": "692ecdf40428908f0a12e7b2"
-    },
-    "assignationDate": 1764675060297
-  },
-  {
-    "_id": {
-      "$oid": "692ecdf50428908f0a12e7b6"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6f9"
-    },
-    "treatmentId": {
-      "$oid": "692ecdf50428908f0a12e7b5"
-    },
-    "assignationDate": 1764675061675
-  },
-  {
-    "_id": {
-      "$oid": "692ecdf70428908f0a12e7b9"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f7ad"
-    },
-    "treatmentId": {
-      "$oid": "692ecdf70428908f0a12e7b8"
-    },
-    "assignationDate": 1764675063032
-  },
-  {
-    "_id": {
-      "$oid": "692ecdf90428908f0a12e7bc"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f621"
-    },
-    "treatmentId": {
-      "$oid": "692ecdf90428908f0a12e7bb"
-    },
-    "assignationDate": 1764675065679
-  },
-  {
-    "_id": {
-      "$oid": "692ece800428908f0a12e7bf"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f7b0"
-    },
-    "treatmentId": {
-      "$oid": "692ece800428908f0a12e7be"
-    },
-    "assignationDate": 1764675200947
-  },
-  {
-    "_id": {
-      "$oid": "692ece8b0428908f0a12e7c2"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a2ade165818980f699"
-    },
-    "treatmentId": {
-      "$oid": "692ece8b0428908f0a12e7c1"
-    },
-    "assignationDate": 1764675211954
-  },
-  {
-    "_id": {
-      "$oid": "692ece8d0428908f0a12e7c5"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f63f"
-    },
-    "treatmentId": {
-      "$oid": "692ece8d0428908f0a12e7c4"
-    },
-    "assignationDate": 1764675213641
-  },
-  {
-    "_id": {
-      "$oid": "692ece8f0428908f0a12e7c8"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6ea"
-    },
-    "treatmentId": {
-      "$oid": "692ece8f0428908f0a12e7c7"
-    },
-    "assignationDate": 1764675215430
-  },
-  {
-    "_id": {
-      "$oid": "692ece910428908f0a12e7cb"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f774"
-    },
-    "treatmentId": {
-      "$oid": "692ece910428908f0a12e7ca"
-    },
-    "assignationDate": 1764675217656
-  },
-  {
-    "_id": {
-      "$oid": "692ece920428908f0a12e7ce"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99eade165818980f5bb"
-    },
-    "treatmentId": {
-      "$oid": "692ece920428908f0a12e7cd"
-    },
-    "assignationDate": 1764675218941
-  },
-  {
-    "_id": {
-      "$oid": "692ece940428908f0a12e7d1"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99eade165818980f5b8"
-    },
-    "treatmentId": {
-      "$oid": "692ece940428908f0a12e7d0"
-    },
-    "assignationDate": 1764675220548
-  },
-  {
-    "_id": {
-      "$oid": "692ece950428908f0a12e7d4"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a6ade165818980f7b9"
-    },
-    "treatmentId": {
-      "$oid": "692ece950428908f0a12e7d3"
-    },
-    "assignationDate": 1764675221972
-  },
-  {
-    "_id": {
-      "$oid": "692ece970428908f0a12e7d7"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f78c"
-    },
-    "treatmentId": {
-      "$oid": "692ece970428908f0a12e7d6"
-    },
-    "assignationDate": 1764675223424
-  },
-  {
-    "_id": {
-      "$oid": "692ece990428908f0a12e7da"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f76e"
-    },
-    "treatmentId": {
-      "$oid": "692ece990428908f0a12e7d9"
-    },
-    "assignationDate": 1764675225372
-  },
-  {
-    "_id": {
-      "$oid": "692ece9a0428908f0a12e7dd"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6cf"
-    },
-    "treatmentId": {
-      "$oid": "692ece9a0428908f0a12e7dc"
-    },
-    "assignationDate": 1764675226863
-  },
-  {
-    "_id": {
-      "$oid": "692ece9c0428908f0a12e7e0"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f7a1"
-    },
-    "treatmentId": {
-      "$oid": "692ece9c0428908f0a12e7df"
-    },
-    "assignationDate": 1764675228263
-  },
-  {
-    "_id": {
-      "$oid": "692ece9d0428908f0a12e7e3"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5dc"
-    },
-    "treatmentId": {
-      "$oid": "692ece9d0428908f0a12e7e2"
-    },
-    "assignationDate": 1764675229731
-  },
-  {
-    "_id": {
-      "$oid": "692ece9f0428908f0a12e7e6"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a6ade165818980f7c5"
-    },
-    "treatmentId": {
-      "$oid": "692ece9f0428908f0a12e7e5"
-    },
-    "assignationDate": 1764675231912
-  },
-  {
-    "_id": {
-      "$oid": "692ecea10428908f0a12e7e9"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6ed"
-    },
-    "treatmentId": {
-      "$oid": "692ecea10428908f0a12e7e8"
-    },
-    "assignationDate": 1764675233261
-  },
-  {
-    "_id": {
-      "$oid": "692ecea20428908f0a12e7ec"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f60f"
-    },
-    "treatmentId": {
-      "$oid": "692ecea20428908f0a12e7eb"
-    },
-    "assignationDate": 1764675234882
-  },
-  {
-    "_id": {
-      "$oid": "692ecea40428908f0a12e7ef"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5c7"
-    },
-    "treatmentId": {
-      "$oid": "692ecea40428908f0a12e7ee"
-    },
-    "assignationDate": 1764675236416
-  },
-  {
-    "_id": {
-      "$oid": "692ecea60428908f0a12e7f2"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6f3"
-    },
-    "treatmentId": {
-      "$oid": "692ecea60428908f0a12e7f1"
-    },
-    "assignationDate": 1764675238017
-  },
-  {
-    "_id": {
-      "$oid": "692ecea70428908f0a12e7f5"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a6ade165818980f7ce"
-    },
-    "treatmentId": {
-      "$oid": "692ecea70428908f0a12e7f4"
-    },
-    "assignationDate": 1764675239553
-  },
-  {
-    "_id": {
-      "$oid": "692ecea90428908f0a12e7f8"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f73b"
-    },
-    "treatmentId": {
-      "$oid": "692ecea90428908f0a12e7f7"
-    },
-    "assignationDate": 1764675241055
-  },
-  {
-    "_id": {
-      "$oid": "692eceaa0428908f0a12e7fb"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f624"
-    },
-    "treatmentId": {
-      "$oid": "692eceaa0428908f0a12e7fa"
-    },
-    "assignationDate": 1764675242593
-  },
-  {
-    "_id": {
-      "$oid": "692eceac0428908f0a12e7fe"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5e8"
-    },
-    "treatmentId": {
-      "$oid": "692eceac0428908f0a12e7fd"
-    },
-    "assignationDate": 1764675244363
-  },
-  {
-    "_id": {
-      "$oid": "692eceae0428908f0a12e801"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a6ade165818980f7b6"
-    },
-    "treatmentId": {
-      "$oid": "692eceae0428908f0a12e800"
-    },
-    "assignationDate": 1764675246290
-  },
-  {
-    "_id": {
-      "$oid": "692eceaf0428908f0a12e804"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6f0"
-    },
-    "treatmentId": {
-      "$oid": "692eceaf0428908f0a12e803"
-    },
-    "assignationDate": 1764675247891
-  },
-  {
-    "_id": {
-      "$oid": "692eceb10428908f0a12e807"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6d2"
-    },
-    "treatmentId": {
-      "$oid": "692eceb10428908f0a12e806"
-    },
-    "assignationDate": 1764675249416
-  },
-  {
-    "_id": {
-      "$oid": "692eceb20428908f0a12e80a"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f732"
-    },
-    "treatmentId": {
-      "$oid": "692eceb20428908f0a12e809"
-    },
-    "assignationDate": 1764675250992
-  },
-  {
-    "_id": {
-      "$oid": "692ee2330428908f0a12e810"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f612"
-    },
-    "treatmentId": {
-      "$oid": "692ee2330428908f0a12e80f"
-    },
-    "assignationDate": 1764680243649
-  },
-  {
-    "_id": {
-      "$oid": "692ee2360428908f0a12e813"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a6ade165818980f7bf"
-    },
-    "treatmentId": {
-      "$oid": "692ee2360428908f0a12e812"
-    },
-    "assignationDate": 1764680246826
-  },
-  {
-    "_id": {
-      "$oid": "692ee2380428908f0a12e816"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a2ade165818980f68d"
-    },
-    "treatmentId": {
-      "$oid": "692ee2380428908f0a12e815"
-    },
-    "assignationDate": 1764680248467
-  },
-  {
-    "_id": {
-      "$oid": "692ee23a0428908f0a12e819"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f627"
-    },
-    "treatmentId": {
-      "$oid": "692ee23a0428908f0a12e818"
-    },
-    "assignationDate": 1764680250077
-  },
-  {
-    "_id": {
-      "$oid": "692ee23b0428908f0a12e81c"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f606"
-    },
-    "treatmentId": {
-      "$oid": "692ee23b0428908f0a12e81b"
-    },
-    "assignationDate": 1764680251447
-  },
-  {
-    "_id": {
-      "$oid": "692ee23d0428908f0a12e81f"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f765"
-    },
-    "treatmentId": {
-      "$oid": "692ee23d0428908f0a12e81e"
-    },
-    "assignationDate": 1764680253136
-  },
-  {
-    "_id": {
-      "$oid": "692ee23f0428908f0a12e822"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6e4"
-    },
-    "treatmentId": {
-      "$oid": "692ee23f0428908f0a12e821"
-    },
-    "assignationDate": 1764680255129
-  },
-  {
-    "_id": {
-      "$oid": "692ee2400428908f0a12e825"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f77a"
-    },
-    "treatmentId": {
-      "$oid": "692ee2400428908f0a12e824"
-    },
-    "assignationDate": 1764680256839
-  },
-  {
-    "_id": {
-      "$oid": "692ee2420428908f0a12e828"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f783"
-    },
-    "treatmentId": {
-      "$oid": "692ee2420428908f0a12e827"
-    },
-    "assignationDate": 1764680258421
-  },
-  {
-    "_id": {
-      "$oid": "692ee2430428908f0a12e82b"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f768"
-    },
-    "treatmentId": {
-      "$oid": "692ee2430428908f0a12e82a"
-    },
-    "assignationDate": 1764680259879
-  },
-  {
-    "_id": {
-      "$oid": "692ee2450428908f0a12e82e"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6d5"
-    },
-    "treatmentId": {
-      "$oid": "692ee2450428908f0a12e82d"
-    },
-    "assignationDate": 1764680261319
-  },
-  {
-    "_id": {
-      "$oid": "692ee2460428908f0a12e831"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f609"
-    },
-    "treatmentId": {
-      "$oid": "692ee2460428908f0a12e830"
-    },
-    "assignationDate": 1764680262831
-  },
-  {
-    "_id": {
-      "$oid": "692ee2480428908f0a12e834"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a2ade165818980f69c"
-    },
-    "treatmentId": {
-      "$oid": "692ee2480428908f0a12e833"
-    },
-    "assignationDate": 1764680264191
-  },
-  {
-    "_id": {
-      "$oid": "692ee2490428908f0a12e837"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f75f"
-    },
-    "treatmentId": {
-      "$oid": "692ee2490428908f0a12e836"
-    },
-    "assignationDate": 1764680265553
-  },
-  {
-    "_id": {
-      "$oid": "692ee24b0428908f0a12e83a"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f79b"
-    },
-    "treatmentId": {
-      "$oid": "692ee24b0428908f0a12e839"
-    },
-    "assignationDate": 1764680267051
-  },
-  {
-    "_id": {
-      "$oid": "692ee24d0428908f0a12e83d"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f603"
-    },
-    "treatmentId": {
-      "$oid": "692ee24d0428908f0a12e83c"
-    },
-    "assignationDate": 1764680269397
-  },
-  {
-    "_id": {
-      "$oid": "692ee24e0428908f0a12e840"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a6ade165818980f7c2"
-    },
-    "treatmentId": {
-      "$oid": "692ee24e0428908f0a12e83f"
-    },
-    "assignationDate": 1764680270949
-  },
-  {
-    "_id": {
-      "$oid": "692ee2510428908f0a12e843"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f777"
-    },
-    "treatmentId": {
-      "$oid": "692ee2510428908f0a12e842"
-    },
-    "assignationDate": 1764680273017
-  },
-  {
-    "_id": {
-      "$oid": "692ee2520428908f0a12e846"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a1ade165818980f651"
-    },
-    "treatmentId": {
-      "$oid": "692ee2520428908f0a12e845"
-    },
-    "assignationDate": 1764680274547
-  },
-  {
-    "_id": {
-      "$oid": "692ee2540428908f0a12e849"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6f6"
-    },
-    "treatmentId": {
-      "$oid": "692ee2540428908f0a12e848"
-    },
-    "assignationDate": 1764680276442
-  },
-  {
-    "_id": {
-      "$oid": "692ee2560428908f0a12e84c"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f61e"
-    },
-    "treatmentId": {
-      "$oid": "692ee2560428908f0a12e84b"
-    },
-    "assignationDate": 1764680278420
-  },
-  {
-    "_id": {
-      "$oid": "692ee2580428908f0a12e84f"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f648"
-    },
-    "treatmentId": {
-      "$oid": "692ee2580428908f0a12e84e"
-    },
-    "assignationDate": 1764680280046
-  },
-  {
-    "_id": {
-      "$oid": "692ee2590428908f0a12e852"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f62d"
-    },
-    "treatmentId": {
-      "$oid": "692ee2590428908f0a12e851"
-    },
-    "assignationDate": 1764680281763
-  },
-  {
-    "_id": {
-      "$oid": "692ee25b0428908f0a12e855"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a2ade165818980f6cc"
-    },
-    "treatmentId": {
-      "$oid": "692ee25b0428908f0a12e854"
-    },
-    "assignationDate": 1764680283520
-  },
-  {
-    "_id": {
-      "$oid": "692ee25c0428908f0a12e858"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a2ade165818980f6b4"
-    },
-    "treatmentId": {
-      "$oid": "692ee25c0428908f0a12e857"
-    },
-    "assignationDate": 1764680284897
-  },
-  {
-    "_id": {
-      "$oid": "692ee25e0428908f0a12e85b"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f74a"
-    },
-    "treatmentId": {
-      "$oid": "692ee25e0428908f0a12e85a"
-    },
-    "assignationDate": 1764680286383
-  },
-  {
-    "_id": {
-      "$oid": "692ee2600428908f0a12e85e"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6d8"
-    },
-    "treatmentId": {
-      "$oid": "692ee2600428908f0a12e85d"
-    },
-    "assignationDate": 1764680288301
-  },
-  {
-    "_id": {
-      "$oid": "692ee2610428908f0a12e861"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a2ade165818980f6c3"
-    },
-    "treatmentId": {
-      "$oid": "692ee2610428908f0a12e860"
-    },
-    "assignationDate": 1764680289919
-  },
-  {
-    "_id": {
-      "$oid": "692ee2630428908f0a12e864"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f741"
-    },
-    "treatmentId": {
-      "$oid": "692ee2630428908f0a12e863"
-    },
-    "assignationDate": 1764680291350
-  },
-  {
-    "_id": {
-      "$oid": "692ee2650428908f0a12e867"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f792"
-    },
-    "treatmentId": {
-      "$oid": "692ee2650428908f0a12e866"
-    },
-    "assignationDate": 1764680293077
-  },
-  {
-    "_id": {
-      "$oid": "692ee2660428908f0a12e86a"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f615"
-    },
-    "treatmentId": {
-      "$oid": "692ee2660428908f0a12e869"
-    },
-    "assignationDate": 1764680294820
-  },
-  {
-    "_id": {
-      "$oid": "692ee2680428908f0a12e86d"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f72f"
-    },
-    "treatmentId": {
-      "$oid": "692ee2680428908f0a12e86c"
-    },
-    "assignationDate": 1764680296486
-  },
-  {
-    "_id": {
-      "$oid": "692ee2700428908f0a12e870"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5d3"
-    },
-    "treatmentId": {
-      "$oid": "692ee2700428908f0a12e86f"
-    },
-    "assignationDate": 1764680304036
-  },
-  {
-    "_id": {
-      "$oid": "692ee2720428908f0a12e873"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6de"
-    },
-    "treatmentId": {
-      "$oid": "692ee2720428908f0a12e872"
-    },
-    "assignationDate": 1764680306061
-  },
-  {
-    "_id": {
-      "$oid": "692ee2730428908f0a12e876"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f642"
-    },
-    "treatmentId": {
-      "$oid": "692ee2730428908f0a12e875"
-    },
-    "assignationDate": 1764680307685
-  },
-  {
-    "_id": {
-      "$oid": "692ee2750428908f0a12e879"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f639"
-    },
-    "treatmentId": {
-      "$oid": "692ee2750428908f0a12e878"
-    },
-    "assignationDate": 1764680309221
-  },
-  {
-    "_id": {
-      "$oid": "692ee2760428908f0a12e87c"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f750"
-    },
-    "treatmentId": {
-      "$oid": "692ee2760428908f0a12e87b"
-    },
-    "assignationDate": 1764680310779
-  },
-  {
-    "_id": {
-      "$oid": "692ee2780428908f0a12e87f"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5c4"
-    },
-    "treatmentId": {
-      "$oid": "692ee2780428908f0a12e87e"
-    },
-    "assignationDate": 1764680312391
-  },
-  {
-    "_id": {
-      "$oid": "692ee2790428908f0a12e882"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5d6"
-    },
-    "treatmentId": {
-      "$oid": "692ee2790428908f0a12e881"
-    },
-    "assignationDate": 1764680313814
-  },
-  {
-    "_id": {
-      "$oid": "692ee2820428908f0a12e885"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a6ade165818980f7bc"
-    },
-    "treatmentId": {
-      "$oid": "692ee2820428908f0a12e884"
-    },
-    "assignationDate": 1764680322016
-  },
-  {
-    "_id": {
-      "$oid": "692ee2840428908f0a12e888"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6ff"
-    },
-    "treatmentId": {
-      "$oid": "692ee2840428908f0a12e887"
-    },
-    "assignationDate": 1764680324330
-  },
-  {
-    "_id": {
-      "$oid": "692ee2860428908f0a12e88b"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5d9"
-    },
-    "treatmentId": {
-      "$oid": "692ee2860428908f0a12e88a"
-    },
-    "assignationDate": 1764680326046
-  },
-  {
-    "_id": {
-      "$oid": "692ee2870428908f0a12e88e"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5e2"
-    },
-    "treatmentId": {
-      "$oid": "692ee2870428908f0a12e88d"
-    },
-    "assignationDate": 1764680327737
-  },
-  {
-    "_id": {
-      "$oid": "692ee2890428908f0a12e891"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f762"
-    },
-    "treatmentId": {
-      "$oid": "692ee2890428908f0a12e890"
-    },
-    "assignationDate": 1764680329290
-  },
-  {
-    "_id": {
-      "$oid": "692ee28a0428908f0a12e894"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f645"
-    },
-    "treatmentId": {
-      "$oid": "692ee28a0428908f0a12e893"
-    },
-    "assignationDate": 1764680330845
-  },
-  {
-    "_id": {
-      "$oid": "692ee28f0428908f0a12e897"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a1ade165818980f64e"
-    },
-    "treatmentId": {
-      "$oid": "692ee28f0428908f0a12e896"
-    },
-    "assignationDate": 1764680335196
-  },
-  {
-    "_id": {
-      "$oid": "692ee2920428908f0a12e89a"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6e7"
-    },
-    "treatmentId": {
-      "$oid": "692ee2920428908f0a12e899"
-    },
-    "assignationDate": 1764680338825
-  },
-  {
-    "_id": {
-      "$oid": "692ee2940428908f0a12e89d"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f61b"
-    },
-    "treatmentId": {
-      "$oid": "692ee2940428908f0a12e89c"
-    },
-    "assignationDate": 1764680340753
-  },
-  {
-    "_id": {
-      "$oid": "692ee2960428908f0a12e8a0"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5ca"
-    },
-    "treatmentId": {
-      "$oid": "692ee2960428908f0a12e89f"
-    },
-    "assignationDate": 1764680342662
-  },
-  {
-    "_id": {
-      "$oid": "692ee2980428908f0a12e8a3"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5eb"
-    },
-    "treatmentId": {
-      "$oid": "692ee2980428908f0a12e8a2"
-    },
-    "assignationDate": 1764680344174
-  },
-  {
-    "_id": {
-      "$oid": "692ee2990428908f0a12e8a6"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f63c"
-    },
-    "treatmentId": {
-      "$oid": "692ee2990428908f0a12e8a5"
-    },
-    "assignationDate": 1764680345598
-  },
-  {
-    "_id": {
-      "$oid": "692ee29a0428908f0a12e8a9"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f759"
-    },
-    "treatmentId": {
-      "$oid": "692ee29a0428908f0a12e8a8"
-    },
-    "assignationDate": 1764680346846
-  },
-  {
-    "_id": {
-      "$oid": "692ee29c0428908f0a12e8ac"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a6ade165818980f7c8"
-    },
-    "treatmentId": {
-      "$oid": "692ee29c0428908f0a12e8ab"
-    },
-    "assignationDate": 1764680348020
-  },
-  {
-    "_id": {
-      "$oid": "692ee29d0428908f0a12e8af"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a2ade165818980f6c9"
-    },
-    "treatmentId": {
-      "$oid": "692ee29d0428908f0a12e8ae"
-    },
-    "assignationDate": 1764680349303
-  },
-  {
-    "_id": {
-      "$oid": "692ee2a00428908f0a12e8b2"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f79e"
-    },
-    "treatmentId": {
-      "$oid": "692ee2a00428908f0a12e8b1"
-    },
-    "assignationDate": 1764680352167
-  },
-  {
-    "_id": {
-      "$oid": "692ee2a10428908f0a12e8b5"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f7b3"
-    },
-    "treatmentId": {
-      "$oid": "692ee2a10428908f0a12e8b4"
-    },
-    "assignationDate": 1764680353566
-  },
-  {
-    "_id": {
-      "$oid": "692ee2a30428908f0a12e8b8"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a2ade165818980f693"
-    },
-    "treatmentId": {
-      "$oid": "692ee2a30428908f0a12e8b7"
-    },
-    "assignationDate": 1764680355364
-  },
-  {
-    "_id": {
-      "$oid": "692ee2a40428908f0a12e8bb"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f780"
-    },
-    "treatmentId": {
-      "$oid": "692ee2a40428908f0a12e8ba"
-    },
-    "assignationDate": 1764680356880
-  },
-  {
-    "_id": {
-      "$oid": "692ee2a60428908f0a12e8be"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a2ade165818980f6c0"
-    },
-    "treatmentId": {
-      "$oid": "692ee2a60428908f0a12e8bd"
-    },
-    "assignationDate": 1764680358275
-  },
-  {
-    "_id": {
-      "$oid": "692ee2a70428908f0a12e8c1"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a4ade165818980f753"
-    },
-    "treatmentId": {
-      "$oid": "692ee2a70428908f0a12e8c0"
-    },
-    "assignationDate": 1764680359615
-  },
-  {
-    "_id": {
-      "$oid": "692ee2a90428908f0a12e8c4"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f618"
-    },
-    "treatmentId": {
-      "$oid": "692ee2a90428908f0a12e8c3"
-    },
-    "assignationDate": 1764680361179
-  },
-  {
-    "_id": {
-      "$oid": "692ee2aa0428908f0a12e8c7"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a2ade165818980f6ae"
-    },
-    "treatmentId": {
-      "$oid": "692ee2aa0428908f0a12e8c6"
-    },
-    "assignationDate": 1764680362657
-  },
-  {
-    "_id": {
-      "$oid": "692ee2ac0428908f0a12e8ca"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a2ade165818980f6a5"
-    },
-    "treatmentId": {
-      "$oid": "692ee2ac0428908f0a12e8c9"
-    },
-    "assignationDate": 1764680364289
-  },
-  {
-    "_id": {
-      "$oid": "692ee2ad0428908f0a12e8cd"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5e5"
-    },
-    "treatmentId": {
-      "$oid": "692ee2ad0428908f0a12e8cc"
-    },
-    "assignationDate": 1764680365629
-  },
-  {
-    "_id": {
-      "$oid": "692ee2ae0428908f0a12e8d0"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a6ade165818980f7cb"
-    },
-    "treatmentId": {
-      "$oid": "692ee2ae0428908f0a12e8cf"
-    },
-    "assignationDate": 1764680366919
-  },
-  {
-    "_id": {
-      "$oid": "692ee2b00428908f0a12e8d3"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a5ade165818980f7a7"
-    },
-    "treatmentId": {
-      "$oid": "692ee2b00428908f0a12e8d2"
-    },
-    "assignationDate": 1764680368368
-  },
-  {
-    "_id": {
-      "$oid": "692ee2b10428908f0a12e8d6"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a0ade165818980f62a"
-    },
-    "treatmentId": {
-      "$oid": "692ee2b10428908f0a12e8d5"
-    },
-    "assignationDate": 1764680369847
-  },
-  {
-    "_id": {
-      "$oid": "692ee2b30428908f0a12e8d9"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec99fade165818980f5d0"
-    },
-    "treatmentId": {
-      "$oid": "692ee2b30428908f0a12e8d8"
-    },
-    "assignationDate": 1764680371088
-  },
-  {
-    "_id": {
-      "$oid": "692ee2b40428908f0a12e8dc"
-    },
-    "userId": {
-      "$oid": "692ecd730428908f0a12e6db"
-    },
-    "documentId": {
-      "$oid": "692ec9a3ade165818980f6fc"
-    },
-    "treatmentId": {
-      "$oid": "692ee2b40428908f0a12e8db"
-    },
-    "assignationDate": 1764680372418
+    "assignationDate": 1765966952752
   }
 ]

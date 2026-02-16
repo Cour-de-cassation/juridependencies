@@ -1,0 +1,8549 @@
+[
+  {
+    "_id": {
+      "$oid": "69427fdca141e55cf9aa6490"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fdc62345a940dcc7cc1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdca141e55cf9aa6491"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fdc62345a940dcc7cca"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdca141e55cf9aa6492"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fdc62345a940dcc7cd3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdca141e55cf9aa6493"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fdc62345a940dcc7cdc"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdca141e55cf9aa6494"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fdc62345a940dcc7ce5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdca141e55cf9aa6495"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fdc62345a940dcc7cee"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdca141e55cf9aa6496"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fdc62345a940dcc7cf7"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdca141e55cf9aa6497"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fdc62345a940dcc7d00"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdca141e55cf9aa6498"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fdc62345a940dcc7d0a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdda141e55cf9aa6499"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fdc62345a940dcc7d13"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdda141e55cf9aa649a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fdd62345a940dcc7d1c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdda141e55cf9aa649b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fdd62345a940dcc7d25"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdda141e55cf9aa649c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fdd62345a940dcc7d2e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdda141e55cf9aa649d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fdd62345a940dcc7d37"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdda141e55cf9aa649e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fdd62345a940dcc7d40"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdda141e55cf9aa649f"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[L]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[X]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[U]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[J]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[B]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fdd62345a940dcc7d49"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdda141e55cf9aa64a0"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[H]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[D]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[R]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fdd62345a940dcc7d52"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdda141e55cf9aa64a1"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[A]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[J]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[D]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[P]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fdd62345a940dcc7d5b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdda141e55cf9aa64a2"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[T]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[B]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[Z]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fdd62345a940dcc7d64"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdea141e55cf9aa64a3"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[Z]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[J]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[I]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fde62345a940dcc7d6d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdea141e55cf9aa64a4"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[L]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[O]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[T]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[W]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fde62345a940dcc7d76"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdea141e55cf9aa64a5"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[Z]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[C]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[J]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[H]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fde62345a940dcc7d7f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdea141e55cf9aa64a6"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[L]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[O]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[H]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fde62345a940dcc7d88"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdea141e55cf9aa64a7"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[H]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[P]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[R]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[X]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fde62345a940dcc7d91"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdea141e55cf9aa64a8"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[A]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[B]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[Z]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fde62345a940dcc7d9a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdea141e55cf9aa64a9"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[X]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[F]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[A]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fde62345a940dcc7da3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdfa141e55cf9aa64aa"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[G]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[C]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[Z]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fdf62345a940dcc7dac"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdfa141e55cf9aa64ab"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[T]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[P]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[Z]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fdf62345a940dcc7db5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fdfa141e55cf9aa64ac"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[H]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[G]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[O]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fdf62345a940dcc7dbe"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe0a141e55cf9aa64ad"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[D]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[O]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[I]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe062345a940dcc7dc7"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe0a141e55cf9aa64ae"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[G]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[E]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[J]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe062345a940dcc7dd0"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe0a141e55cf9aa64af"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[Q]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[E]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[B]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe062345a940dcc7dd9"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe0a141e55cf9aa64b0"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[R]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[G]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[B]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[P]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe062345a940dcc7de2"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe0a141e55cf9aa64b1"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[U]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[E]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[C]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe062345a940dcc7deb"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe0a141e55cf9aa64b2"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[R]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[D]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[G]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[Z]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe062345a940dcc7df4"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe0a141e55cf9aa64b3"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[P]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[W]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[D]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[T]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe062345a940dcc7dfd"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe0a141e55cf9aa64b4"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[U]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[W]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[Z]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[E]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[T]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe062345a940dcc7e06"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe1a141e55cf9aa64b5"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[Q]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[R]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[F]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[I]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe162345a940dcc7e0f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe1a141e55cf9aa64b6"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[T]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[G]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[F]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[O]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe162345a940dcc7e18"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe1a141e55cf9aa64b7"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_philippe",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Philippe"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_dominique",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "Dominique"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_jean",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "Jean"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_antoinette",
+        "replacementTerm": "[J]",
+        "originalTextInstances": [
+          "Antoinette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_seguin",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "Seguin"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe162345a940dcc7e21"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe1a141e55cf9aa64b8"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe162345a940dcc7e2a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe1a141e55cf9aa64b9"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe162345a940dcc7e33"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe1a141e55cf9aa64ba"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe162345a940dcc7e3c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe1a141e55cf9aa64bb"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe162345a940dcc7e45"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe1a141e55cf9aa64bc"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe162345a940dcc7e4f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe1a141e55cf9aa64bd"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe162345a940dcc7e5d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe1a141e55cf9aa64be"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe162345a940dcc7e67"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe1a141e55cf9aa64bf"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe162345a940dcc7e70"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe2a141e55cf9aa64c0"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe262345a940dcc7e79"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe2a141e55cf9aa64c1"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe262345a940dcc7e82"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe2a141e55cf9aa64c2"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe262345a940dcc7e8b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe2a141e55cf9aa64c3"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe262345a940dcc7e94"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe2a141e55cf9aa64c4"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe262345a940dcc7e9d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe3a141e55cf9aa64c5"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe362345a940dcc7ea6"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe3a141e55cf9aa64c6"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe362345a940dcc7eaf"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe3a141e55cf9aa64c7"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe362345a940dcc7eb8"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe3a141e55cf9aa64c8"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe362345a940dcc7ec1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe3a141e55cf9aa64c9"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe362345a940dcc7eca"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe3a141e55cf9aa64ca"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe362345a940dcc7ed3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe4a141e55cf9aa64cb"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe462345a940dcc7edc"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe4a141e55cf9aa64cc"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe462345a940dcc7ee5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe4a141e55cf9aa64cd"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe462345a940dcc7eee"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe4a141e55cf9aa64ce"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe462345a940dcc7ef7"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe4a141e55cf9aa64cf"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe462345a940dcc7f00"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe5a141e55cf9aa64d0"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe562345a940dcc7f0a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe5a141e55cf9aa64d1"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe562345a940dcc7f14"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe5a141e55cf9aa64d2"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe562345a940dcc7f1f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe5a141e55cf9aa64d3"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe562345a940dcc7f28"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe5a141e55cf9aa64d4"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe562345a940dcc7f31"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe6a141e55cf9aa64d5"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe662345a940dcc7f3a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe6a141e55cf9aa64d6"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe662345a940dcc7f45"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe6a141e55cf9aa64d7"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe662345a940dcc7f4e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe6a141e55cf9aa64d8"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe662345a940dcc7f57"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe6a141e55cf9aa64d9"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe662345a940dcc7f60"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe6a141e55cf9aa64da"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe662345a940dcc7f69"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe6a141e55cf9aa64db"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe662345a940dcc7f72"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe7a141e55cf9aa64dc"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe662345a940dcc7f7d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe7a141e55cf9aa64dd"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe762345a940dcc7f86"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe7a141e55cf9aa64de"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe762345a940dcc7f8f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe7a141e55cf9aa64df"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe762345a940dcc7f98"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe7a141e55cf9aa64e0"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe762345a940dcc7fa1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe8a141e55cf9aa64e1"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe862345a940dcc7faa"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe8a141e55cf9aa64e2"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe862345a940dcc7fb3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe8a141e55cf9aa64e3"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe862345a940dcc7fbc"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe8a141e55cf9aa64e4"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fe862345a940dcc7fc5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe8a141e55cf9aa64e5"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[W]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[X]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe862345a940dcc7fce"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe8a141e55cf9aa64e6"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[H]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[P]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe862345a940dcc7fd7"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe8a141e55cf9aa64e7"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[T]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[C]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[Z]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe862345a940dcc7fe0"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe9a141e55cf9aa64e8"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[D]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[F]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe962345a940dcc7fe9"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe9a141e55cf9aa64e9"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[U]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[L]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[R]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe962345a940dcc7ff2"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe9a141e55cf9aa64ea"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[H]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[Q]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe962345a940dcc7ffb"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe9a141e55cf9aa64eb"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[H]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[X]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe962345a940dcc8004"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe9a141e55cf9aa64ec"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[D]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[X]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[L]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe962345a940dcc800d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe9a141e55cf9aa64ed"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe962345a940dcc8016"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fe9a141e55cf9aa64ee"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[B]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe962345a940dcc801f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feaa141e55cf9aa64ef"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[R]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[E]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fe962345a940dcc8028"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feaa141e55cf9aa64f0"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[L]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[C]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[D]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fea62345a940dcc8031"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feaa141e55cf9aa64f1"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[C]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[J]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[H]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fea62345a940dcc803a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feba141e55cf9aa64f2"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[E]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fea62345a940dcc8043"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feba141e55cf9aa64f3"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[L]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[E]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427feb62345a940dcc804c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feba141e55cf9aa64f4"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[H]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[D]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427feb62345a940dcc8055"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feba141e55cf9aa64f5"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[W]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[I]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427feb62345a940dcc805f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feba141e55cf9aa64f6"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[H]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427feb62345a940dcc8069"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feca141e55cf9aa64f7"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[P]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[I]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[D]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fec62345a940dcc8072"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feca141e55cf9aa64f8"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[C]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fec62345a940dcc807b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feca141e55cf9aa64f9"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[J]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[R]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[O]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fec62345a940dcc8084"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feca141e55cf9aa64fa"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[W]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[L]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[U]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fec62345a940dcc808d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feca141e55cf9aa64fb"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[Q]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[U]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fec62345a940dcc8096"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feca141e55cf9aa64fc"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[U]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fec62345a940dcc809f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feca141e55cf9aa64fd"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_gilles",
+        "replacementTerm": "[H]",
+        "originalTextInstances": [
+          "Gilles"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_bernadette",
+        "replacementTerm": "[P]",
+        "originalTextInstances": [
+          "Bernadette"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_96, avenue guillot",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "96, avenue Guillot"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_56257 hernandez",
+        "replacementTerm": "[Localité 1]",
+        "originalTextInstances": [
+          "56257 Hernandez"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_49, chemin maurice boutin",
+        "replacementTerm": "[Adresse 2]",
+        "originalTextInstances": [
+          "49, chemin Maurice Boutin"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_04452 saint andree",
+        "replacementTerm": "[Localité 2]",
+        "originalTextInstances": [
+          "04452 Saint Andrée"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_rue guilbert",
+        "replacementTerm": "[Adresse 3]",
+        "originalTextInstances": [
+          "rue Guilbert"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_74994 hamonbourg",
+        "replacementTerm": "[Localité 3]",
+        "originalTextInstances": [
+          "74994 HamonBourg"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "personnePhysique_edith",
+        "replacementTerm": "[L]",
+        "originalTextInstances": [
+          "Édith"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "adresse_2, avenue de baudry",
+        "replacementTerm": "[Adresse 4]",
+        "originalTextInstances": [
+          "2, avenue de Baudry"
+        ],
+        "category": "adresse"
+      },
+      {
+        "entityId": "localite_68219 mace",
+        "replacementTerm": "[Localité 4]",
+        "originalTextInstances": [
+          "68219 Mace"
+        ],
+        "category": "localite"
+      },
+      {
+        "entityId": "adresse_commission de surendettement des particuliers de la cote d'or",
+        "replacementTerm": "[Adresse 5]",
+        "originalTextInstances": [
+          "commission de surendettement des particuliers de la Côte d'Or"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fec62345a940dcc80a8"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feda141e55cf9aa64fe"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fec62345a940dcc80b1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feda141e55cf9aa64ff"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fed62345a940dcc80ba"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feda141e55cf9aa6500"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fed62345a940dcc80c3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feda141e55cf9aa6501"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fed62345a940dcc80cc"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feda141e55cf9aa6502"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fed62345a940dcc80d5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feda141e55cf9aa6503"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fed62345a940dcc80de"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feda141e55cf9aa6504"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fed62345a940dcc80e7"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feea141e55cf9aa6505"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fee62345a940dcc80f0"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feea141e55cf9aa6506"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fee62345a940dcc80f9"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feea141e55cf9aa6507"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fee62345a940dcc8102"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feea141e55cf9aa6508"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fee62345a940dcc810b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feea141e55cf9aa6509"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fee62345a940dcc8114"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feea141e55cf9aa650a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fee62345a940dcc811d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427feea141e55cf9aa650b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fee62345a940dcc8126"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fefa141e55cf9aa650c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fef62345a940dcc8130"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fefa141e55cf9aa650d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fef62345a940dcc813a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fefa141e55cf9aa650e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fef62345a940dcc8145"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fefa141e55cf9aa650f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fef62345a940dcc814e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fefa141e55cf9aa6510"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fef62345a940dcc8157"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fefa141e55cf9aa6511"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427fef62345a940dcc8160"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff0a141e55cf9aa6512"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff062345a940dcc8169"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff0a141e55cf9aa6513"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff062345a940dcc8172"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff0a141e55cf9aa6514"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff062345a940dcc817b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff0a141e55cf9aa6515"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff062345a940dcc8184"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff0a141e55cf9aa6516"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff062345a940dcc818d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff0a141e55cf9aa6517"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff062345a940dcc8196"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff0a141e55cf9aa6518"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff062345a940dcc819f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff1a141e55cf9aa6519"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff162345a940dcc81aa"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff1a141e55cf9aa651a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff162345a940dcc81b3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff1a141e55cf9aa651b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff162345a940dcc81bc"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff1a141e55cf9aa651c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff162345a940dcc81c7"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff1a141e55cf9aa651d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff162345a940dcc81d1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff2a141e55cf9aa651e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff262345a940dcc81db"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff2a141e55cf9aa651f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff262345a940dcc81e5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff2a141e55cf9aa6520"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff262345a940dcc81ef"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff2a141e55cf9aa6521"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff262345a940dcc81f9"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff3a141e55cf9aa6522"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff362345a940dcc8203"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff3a141e55cf9aa6523"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff362345a940dcc820d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff3a141e55cf9aa6524"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff362345a940dcc8217"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff3a141e55cf9aa6525"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff362345a940dcc8221"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff3a141e55cf9aa6526"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff362345a940dcc822b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff4a141e55cf9aa6527"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff462345a940dcc8235"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff4a141e55cf9aa6528"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff462345a940dcc823f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff4a141e55cf9aa6529"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff462345a940dcc8249"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff4a141e55cf9aa652a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "69427ff462345a940dcc8253"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff4a141e55cf9aa652b"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[C]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[O]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[R]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff462345a940dcc825d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff5a141e55cf9aa652c"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[Q]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff562345a940dcc8267"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff5a141e55cf9aa652d"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[I]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[O]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff562345a940dcc8271"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff5a141e55cf9aa652e"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[B]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[D]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[R]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff562345a940dcc827c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff6a141e55cf9aa652f"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[Q]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[W]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[L]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff662345a940dcc8287"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff6a141e55cf9aa6530"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[G]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[I]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[F]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[X]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff662345a940dcc8291"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff6a141e55cf9aa6531"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[U]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[C]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[D]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff662345a940dcc829b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff6a141e55cf9aa6532"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[L]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[E]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[G]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff662345a940dcc82a5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff7a141e55cf9aa6533"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[F]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[E]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff762345a940dcc82af"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff7a141e55cf9aa6534"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[W]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[C]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[F]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff762345a940dcc82b9"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff7a141e55cf9aa6535"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[P]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[O]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff762345a940dcc82c3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff8a141e55cf9aa6536"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[Z]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[B]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[P]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff862345a940dcc82cd"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff8a141e55cf9aa6537"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[H]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[E]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[J]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[I]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff862345a940dcc82d7"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff8a141e55cf9aa6538"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[T]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[J]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff862345a940dcc82e1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff9a141e55cf9aa6539"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[U]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[O]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[F]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[B]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff962345a940dcc82ec"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff9a141e55cf9aa653a"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[J]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[D]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[C]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff962345a940dcc82f7"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ff9a141e55cf9aa653b"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[I]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[B]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[O]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ff962345a940dcc8303"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ffaa141e55cf9aa653c"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[E]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[L]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ffa62345a940dcc830d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ffaa141e55cf9aa653d"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[J]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ffa62345a940dcc8317"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ffaa141e55cf9aa653e"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[T]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ffa62345a940dcc8321"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ffba141e55cf9aa653f"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[C]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[X]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ffb62345a940dcc832d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ffba141e55cf9aa6540"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[G]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[F]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[W]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ffb62345a940dcc8337"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ffba141e55cf9aa6541"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[L]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[W]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[T]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ffb62345a940dcc8341"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ffca141e55cf9aa6542"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[G]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[J]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[R]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ffc62345a940dcc834b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ffca141e55cf9aa6543"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[Z]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[X]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[D]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ffc62345a940dcc8355"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ffca141e55cf9aa6544"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[W]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ffc62345a940dcc835f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ffda141e55cf9aa6545"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[Z]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[O]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[H]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[X]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ffd62345a940dcc8369"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ffda141e55cf9aa6546"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[R]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[I]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[B]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ffd62345a940dcc8373"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ffda141e55cf9aa6547"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[E]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[F]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[T]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[X]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ffd62345a940dcc837d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ffea141e55cf9aa6548"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[F]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[P]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[W]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[G]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ffe62345a940dcc8387"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427ffea141e55cf9aa6549"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[G]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[O]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[X]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ffe62345a940dcc8391"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fffa141e55cf9aa654a"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[A]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[Q]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[I]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427ffe62345a940dcc839b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fffa141e55cf9aa654b"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fff62345a940dcc83a5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69427fffa141e55cf9aa654c"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[G]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[C]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[F]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[L]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "69427fff62345a940dcc83af"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428000a141e55cf9aa654d"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[X]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[M]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[W]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942800062345a940dcc83bb"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428000a141e55cf9aa654e"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[P]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[C]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[W]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[K]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942800062345a940dcc83c5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428000a141e55cf9aa654f"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[F]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[S]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[A]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[I]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942800062345a940dcc83cf"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428001a141e55cf9aa6550"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[A]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[N]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[H]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[J]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942800062345a940dcc83d9"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428001a141e55cf9aa6551"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[L]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[E]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[Q]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[F]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942800162345a940dcc83e3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428001a141e55cf9aa6552"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "personnePhysique_k",
+        "replacementTerm": "[P]",
+        "originalTextInstances": [
+          "K"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_g",
+        "replacementTerm": "[Y]",
+        "originalTextInstances": [
+          "G"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_alain",
+        "replacementTerm": "[V]",
+        "originalTextInstances": [
+          "Alain"
+        ],
+        "category": "personnePhysique"
+      },
+      {
+        "entityId": "personnePhysique_josette",
+        "replacementTerm": "[O]",
+        "originalTextInstances": [
+          "Josette"
+        ],
+        "category": "personnePhysique"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942800162345a940dcc83ed"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428002a141e55cf9aa6553"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800262345a940dcc83f7"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428002a141e55cf9aa6554"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800262345a940dcc8401"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428003a141e55cf9aa6555"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800362345a940dcc840b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428003a141e55cf9aa6556"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800362345a940dcc8419"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428003a141e55cf9aa6557"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800362345a940dcc8423"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428004a141e55cf9aa6558"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800462345a940dcc842d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428004a141e55cf9aa6559"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800462345a940dcc8437"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428004a141e55cf9aa655a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800462345a940dcc8441"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428005a141e55cf9aa655b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800562345a940dcc844d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428005a141e55cf9aa655c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800562345a940dcc8457"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428005a141e55cf9aa655d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800562345a940dcc8461"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428006a141e55cf9aa655e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800662345a940dcc846b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428006a141e55cf9aa655f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800662345a940dcc8475"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428007a141e55cf9aa6560"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800762345a940dcc847f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428007a141e55cf9aa6561"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800762345a940dcc8489"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428007a141e55cf9aa6562"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800762345a940dcc8493"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428008a141e55cf9aa6563"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800862345a940dcc849d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428008a141e55cf9aa6564"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800862345a940dcc84a7"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428008a141e55cf9aa6565"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800862345a940dcc84b1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428009a141e55cf9aa6566"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800962345a940dcc84bb"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428009a141e55cf9aa6567"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800962345a940dcc84c5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942800aa141e55cf9aa6568"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800962345a940dcc84d1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942800aa141e55cf9aa6569"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800a62345a940dcc84db"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942800aa141e55cf9aa656a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800a62345a940dcc84e5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942800ba141e55cf9aa656b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800b62345a940dcc84ef"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942800ba141e55cf9aa656c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800b62345a940dcc84f9"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942800ca141e55cf9aa656d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800b62345a940dcc8503"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942800da141e55cf9aa656e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800d62345a940dcc8511"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942800ea141e55cf9aa656f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800e62345a940dcc851b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942800fa141e55cf9aa6570"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942800f62345a940dcc8527"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428010a141e55cf9aa6571"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801062345a940dcc8530"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428014a141e55cf9aa6572"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801462345a940dcc853b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428014a141e55cf9aa6573"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801462345a940dcc8544"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428014a141e55cf9aa6574"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801462345a940dcc854d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428014a141e55cf9aa6575"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801462345a940dcc8556"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428014a141e55cf9aa6576"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801462345a940dcc855f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428014a141e55cf9aa6577"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801462345a940dcc8568"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428014a141e55cf9aa6578"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801462345a940dcc8571"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428015a141e55cf9aa6579"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801562345a940dcc857a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428015a141e55cf9aa657a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801562345a940dcc8583"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428015a141e55cf9aa657b"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801562345a940dcc858c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428015a141e55cf9aa657c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801562345a940dcc8595"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428015a141e55cf9aa657d"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801562345a940dcc859e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428016a141e55cf9aa657e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801562345a940dcc85a7"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428016a141e55cf9aa657f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801662345a940dcc85b0"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428016a141e55cf9aa6580"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801662345a940dcc85b9"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428016a141e55cf9aa6581"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801662345a940dcc85c2"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428017a141e55cf9aa6582"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801762345a940dcc85cb"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428017a141e55cf9aa6583"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801762345a940dcc85d6"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428017a141e55cf9aa6584"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801762345a940dcc85e1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428017a141e55cf9aa6585"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801762345a940dcc85ea"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428017a141e55cf9aa6586"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801762345a940dcc85f3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428018a141e55cf9aa6587"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801862345a940dcc85fc"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428018a141e55cf9aa6588"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801862345a940dcc8605"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428018a141e55cf9aa6589"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801862345a940dcc860e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428018a141e55cf9aa658a"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801862345a940dcc8618"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428019a141e55cf9aa658b"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801962345a940dcc8622"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428019a141e55cf9aa658c"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801962345a940dcc862b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428019a141e55cf9aa658d"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801962345a940dcc8634"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428019a141e55cf9aa658e"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801962345a940dcc863d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801aa141e55cf9aa658f"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801a62345a940dcc8646"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801aa141e55cf9aa6590"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801a62345a940dcc864f"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801ba141e55cf9aa6591"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801b62345a940dcc8658"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801ba141e55cf9aa6592"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801b62345a940dcc8661"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801ca141e55cf9aa6593"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801b62345a940dcc866a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801da141e55cf9aa6594"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801d62345a940dcc8673"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801da141e55cf9aa6595"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801d62345a940dcc867c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801da141e55cf9aa6596"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801d62345a940dcc8685"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801da141e55cf9aa6597"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801d62345a940dcc868e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801da141e55cf9aa6598"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801d62345a940dcc8697"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801da141e55cf9aa6599"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801d62345a940dcc86a0"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801da141e55cf9aa659a"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801d62345a940dcc86aa"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801da141e55cf9aa659b"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801d62345a940dcc86b4"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801ea141e55cf9aa659c"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801e62345a940dcc86bd"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801ea141e55cf9aa659d"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801e62345a940dcc86c6"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801ea141e55cf9aa659e"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801e62345a940dcc86cf"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801ea141e55cf9aa659f"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801e62345a940dcc86d8"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801ea141e55cf9aa65a0"
+    },
+    "replacementTerms": [
+      {
+        "entityId": "adresse_3 rue des eglantines",
+        "replacementTerm": "[Adresse 1]",
+        "originalTextInstances": [
+          "3 rue des églantines"
+        ],
+        "category": "adresse"
+      }
+    ],
+    "decisionIds": [
+      {
+        "$oid": "6942801e62345a940dcc86e1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801ea141e55cf9aa65a1"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801e62345a940dcc86ea"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801fa141e55cf9aa65a2"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801f62345a940dcc86f3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801fa141e55cf9aa65a3"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801f62345a940dcc86fc"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "6942801fa141e55cf9aa65a4"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801f62345a940dcc8705"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428020a141e55cf9aa65a5"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942801f62345a940dcc870e"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428020a141e55cf9aa65a6"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802062345a940dcc8717"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428020a141e55cf9aa65a7"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802062345a940dcc8720"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428020a141e55cf9aa65a8"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802062345a940dcc8729"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428021a141e55cf9aa65a9"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802162345a940dcc8732"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428021a141e55cf9aa65aa"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802162345a940dcc873d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428021a141e55cf9aa65ab"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802162345a940dcc8748"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428021a141e55cf9aa65ac"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802162345a940dcc8751"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428022a141e55cf9aa65ad"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802262345a940dcc875a"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428022a141e55cf9aa65ae"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802262345a940dcc8763"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428022a141e55cf9aa65af"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802262345a940dcc876c"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428022a141e55cf9aa65b0"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802262345a940dcc8775"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428023a141e55cf9aa65b1"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802362345a940dcc8780"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428023a141e55cf9aa65b2"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802362345a940dcc8789"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428023a141e55cf9aa65b3"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802362345a940dcc8792"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428023a141e55cf9aa65b4"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802362345a940dcc879b"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428024a141e55cf9aa65b5"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802462345a940dcc87a4"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428024a141e55cf9aa65b6"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802462345a940dcc87ad"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428024a141e55cf9aa65b7"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802462345a940dcc87b6"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428024a141e55cf9aa65b8"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802462345a940dcc87bf"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428025a141e55cf9aa65b9"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802562345a940dcc87c8"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428025a141e55cf9aa65ba"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802562345a940dcc87d1"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428025a141e55cf9aa65bb"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802562345a940dcc87da"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428025a141e55cf9aa65bc"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802562345a940dcc87e3"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428026a141e55cf9aa65bd"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802662345a940dcc87ec"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428026a141e55cf9aa65be"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802662345a940dcc87f5"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428026a141e55cf9aa65bf"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802662345a940dcc87fe"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428027a141e55cf9aa65c0"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802662345a940dcc8807"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428027a141e55cf9aa65c1"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802762345a940dcc8810"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428027a141e55cf9aa65c2"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802762345a940dcc8819"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428027a141e55cf9aa65c3"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802762345a940dcc8823"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428028a141e55cf9aa65c4"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802862345a940dcc882d"
+      }
+    ],
+    "documentAssocieIds": []
+  },
+  {
+    "_id": {
+      "$oid": "69428028a141e55cf9aa65c5"
+    },
+    "replacementTerms": [],
+    "decisionIds": [
+      {
+        "$oid": "6942802862345a940dcc8836"
+      }
+    ],
+    "documentAssocieIds": []
+  }
+]

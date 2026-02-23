@@ -30,7 +30,7 @@ const {
 const S3Options = {
   endpoint: `http://${BUCKET_HOST}:${BUCKET_PORT}`,
   forcePathStyle: true,
-  region: "us-east-1",
+  region: "eu-west-paris-1",
   credentials: {
     accessKeyId: BUCKET_ACCESS_KEY,
     secretAccessKey: BUCKET_ACCESS_SECRET,

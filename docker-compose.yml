@@ -2,7 +2,7 @@ name: opendata
 
 services:
   dbsder:
-    image: mongo:4.4
+    image: mongo:7.0.4
     environment:
       - MONGO_INITDB_DATABASE=${DBSDER_DATABASE}
     command: mongod --port ${DBSDER_PORT}
@@ -12,7 +12,7 @@ services:
       - ${DBSDER_PORT}:${DBSDER_PORT}
 
   labeldb:
-    image: mongo:4.4
+    image: mongo:7.0.4
     environment:
       - MONGO_INITDB_DATABASE=${LABELDB_DATABASE}
     command: mongod --port ${LABELDB_PORT}

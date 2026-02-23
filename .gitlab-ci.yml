@@ -36,8 +36,8 @@ deploy_dev:
     - cat $KNOWN_HOSTS > /root/.ssh/known_hosts
     - chmod 600 /root/.ssh/id_rsa
     - chmod 600 /root/.ssh/known_hosts
-    - ansible-playbook -e docker_image_name=$docker_image_name   
-      -i ansible/inventory/$inventaire.yml ansible/deploy-pod.yml 
+    - ansible-playbook -e docker_image_name=$docker_image_name
+      -i ansible/inventory/dev.yml ansible/deploy-pod.yml
       --vault-password-file=$ANSIBLE_VAULT_PASS
   rules:
     - if: '$CI_COMMIT_BRANCH == "master" || $CI_COMMIT_BRANCH == "local" || $CI_COMMIT_BRANCH == "feature/deploy-fake-data-seeder"'

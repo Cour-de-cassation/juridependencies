@@ -77,12 +77,14 @@ services:
         /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_PDF2TEXT_SUCCESS} && 
         /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_PDF2TEXT_FAILED} && 
         /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_DELETION} && 
+        /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_DELETION_PROCESSED} && 
         /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_PDF} && 
         /usr/bin/mc policy download myminio/${BUCKET_JURITCOM_NAME_RAW} && 
         /usr/bin/mc policy download myminio/${BUCKET_JURITCOM_NAME_NORMALIZED} &&
         /usr/bin/mc policy download myminio/${BUCKET_JURITCOM_NAME_PDF2TEXT_SUCCESS} &&
         /usr/bin/mc policy download myminio/${BUCKET_JURITCOM_NAME_PDF2TEXT_FAILED} &&
         /usr/bin/mc policy download myminio/${BUCKET_JURITCOM_NAME_DELETION} &&
+        /usr/bin/mc policy download myminio/${BUCKET_JURITCOM_NAME_DELETION_PROCESSED} &&
         /usr/bin/mc policy download myminio/${BUCKET_JURITCOM_NAME_PDF} &&
         /usr/bin/mc mb --ignore-existing myminio/${BUCKET_PORTALIS_COLLECT_NAME} && 
         /usr/bin/mc policy download myminio/${BUCKET_PORTALIS_COLLECT_NAME} && 

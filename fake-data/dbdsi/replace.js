@@ -1,7 +1,7 @@
 const { readFile, writeFile, readdir } = require("fs/promises");
 const { resolve } = require("path");
 
-if (!process.env.DB_TABLE_JURICA || !process.env.DB_TABLE)
+if (!process.env.DBDSI_TABLE_JURICA || !process.env.DBDSI_TABLE_JURINET)
   require("dotenv").config({
     path: resolve(__dirname, "..", "..", ".env"),
     quiet: true,

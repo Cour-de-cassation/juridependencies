@@ -23,6 +23,7 @@ services:
 
   dbdsi:
     image: oracle/database:18.4.0-xe
+    shm_size: 1gb
     ports:
       - ${DBDSI_EXTERNAL_PORT}:1521
     environment:
@@ -34,9 +35,10 @@ services:
 
   dbelastic:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.17.24
+    container_name: ${DB_ELASTIC_HOST}
     environment:
       - discovery.type=single-node
-      - ES_JAVA_OPTS=-Xms2048m -Xmx2048m
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m
     ports:
       - ${DB_ELASTIC_EXTERNAL_PORT}:9200
     volumes:
@@ -48,6 +50,8 @@ services:
       - 5601:5601
     depends_on:
       - dbelastic
+    environment:
+      - ELASTICSEARCH_HOSTS=http://${DB_ELASTIC_HOST}:${DB_ELASTIC_EXTERNAL_PORT}
     volumes:
       - ./.kibana/config:/usr/share/kibana/config
 

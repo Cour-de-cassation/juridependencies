@@ -46,7 +46,7 @@ Contient des scripts d'aide courant, notamment pour rebuild les images docker de
 
 Contient des scripts JS facilitant les migrations de schéma SQL ainsi que toute l'hydrataion des fausses données en SQL et Mongo.
 On y retrouve des fausses données pour:
-- DBSDSI (oracle: jurica et jurinet)
+- DBDSI (oracle: jurica et jurinet)
 - DBSDER (mongo)
 - INDEX (mongo: judilibre-index)
 - LABEL (mongo: labeldb)

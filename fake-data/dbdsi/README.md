@@ -1,3 +1,9 @@
+<!--
+    Installer libaio1 ou libaio1t64 pour faire tourner les scripts ?
+    Lien symbolique "sudo ln -s /usr/lib/x86_64-linux-gnu/libaio.so.1t64 /usr/lib/x86_64-linux-gnu/libaio.so.1"
+    MAJ cache librairies `sudo ldconfig`
+-->
+
 # Initialisation locale de la base de donnée Oracle 
 
 ## A quoi ça sert ?

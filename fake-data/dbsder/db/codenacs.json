@@ -1,6 +1,56 @@
 [
   {
     "_id": {
+      "$oid": "699c1c114b293303781d7ee1"
+    },
+    "codeNAC": "00A",
+    "libelleNAC": "[FACTICE] test codenac portalis cph",
+    "chapitre": {
+      "code": "0",
+      "libelle": "[FACTICE] portalis test"
+    },
+    "sousChapitre": {
+      "code": "00",
+      "libelle": "[FACTICE] Sous-chapitre portalis test"
+    },
+    "dateDebutValidite": {
+      "$date": "2026-02-22T09:21:21.552Z"
+    },
+    "dateFinValidite": null,
+    "routeRelecture": "aleatoireSensible",
+    "blocOccultation": 3,
+    "categoriesToOmit": {
+      "suivi": [
+        "professionnelMagistratGreffier",
+        "personneMorale",
+        "numeroSiretSiren"
+      ],
+      "nonSuivi": [
+        "adresse",
+        "cadastre",
+        "personneMorale",
+        "professionnelMagistratGreffier",
+        "dateNaissance",
+        "dateDeces",
+        "dateMariage",
+        "numeroIdentifiant",
+        "plaqueImmatriculation",
+        "compteBancaire",
+        "localite",
+        "numeroSiretSiren",
+        "annotationSupplementaire",
+        "siteWebSensible",
+        "etablissement",
+        "telephoneFax",
+        "email"
+      ]
+    },
+    "decisionsPubliques": null,
+    "debatsPublics": "débats publics",
+    "codeUsageNonConseille": false
+  },
+  {
+    "_id": {
       "$oid": "699c1c114b293303781d7ee3"
     },
     "codeNAC": "80W",

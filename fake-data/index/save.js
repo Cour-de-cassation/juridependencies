@@ -14,7 +14,7 @@ async function exportCollection(collection) {
 }
 
 async function main() {
-  const client = new MongoClient(`mongodb://localhost:${process.env.DBSDER_PORT}/${process.env.INDEX_DATABASE}`)
+  const client = new MongoClient(`mongodb://${process.env.DBSDER_HOST}:${process.env.DBSDER_PORT}/${process.env.INDEX_DATABASE}`)
   await client.connect();
   const dbCollections = await client.db().collections();
   const collections = dbCollections.flat();

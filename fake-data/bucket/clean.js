@@ -13,6 +13,7 @@ if (!process.env.NODE_ENV)
   });
 
 const {
+  BUCKET_HOST,
   BUCKET_ACCESS_KEY,
   BUCKET_ACCESS_SECRET,
   BUCKET_PORT,
@@ -22,14 +23,15 @@ const {
   BUCKET_JURITCOM_NAME_PDF2TEXT_SUCCESS,
   BUCKET_JURITCOM_NAME_DECISION_FAILED,
   BUCKET_JURITCOM_NAME_DELETION,
+  BUCKET_JURITCOM_NAME_DELETION_PROCESSED,
   BUCKET_JURITCOM_NAME_PDF,
   BUCKET_PORTALIS_COLLECT_NAME,
 } = process.env;
 
 const S3Options = {
-  endpoint: "http://localhost:" + BUCKET_PORT,
+  endpoint: `http://${BUCKET_HOST}:${BUCKET_PORT}`,
   forcePathStyle: true,
-  region: "us-east-1",
+  region: "eu-west-paris-1",
   credentials: {
     accessKeyId: BUCKET_ACCESS_KEY,
     secretAccessKey: BUCKET_ACCESS_SECRET,
@@ -76,6 +78,7 @@ async function main() {
     BUCKET_JURITCOM_NAME_PDF2TEXT_SUCCESS,
     BUCKET_JURITCOM_NAME_DECISION_FAILED,
     BUCKET_JURITCOM_NAME_DELETION,
+    BUCKET_JURITCOM_NAME_DELETION_PROCESSED,
     BUCKET_JURITCOM_NAME_PDF,
     BUCKET_PORTALIS_COLLECT_NAME,
   ];

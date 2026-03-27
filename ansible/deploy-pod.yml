@@ -1,0 +1,7 @@
+---
+- hosts: k3s_master
+  roles:
+    - role: deploy-seeder
+      gather_facts: true
+
+...

@@ -26,7 +26,7 @@ async function saveCollections(client, { collectionName, path }) {
 
 async function main() {
   const client = new MongoClient(
-    `mongodb://localhost:${process.env.LABELDB_PORT}/${process.env.LABELDB_DATABASE}`
+    `mongodb://${process.env.LABELDB_HOST}:${process.env.LABELDB_PORT}/${process.env.LABELDB_DATABASE}`
   );
   await client.connect();
 

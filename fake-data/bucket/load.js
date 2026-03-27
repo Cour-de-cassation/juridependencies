@@ -10,6 +10,7 @@ if (!process.env.NODE_ENV)
   });
 
 const {
+  BUCKET_HOST,
   BUCKET_ACCESS_KEY,
   BUCKET_ACCESS_SECRET,
   BUCKET_PORT,
@@ -20,9 +21,9 @@ const {
 } = process.env;
 
 const S3Options = {
-  endpoint: "http://localhost:" + BUCKET_PORT,
+  endpoint: `http://${BUCKET_HOST}:${BUCKET_PORT}`,
   forcePathStyle: true,
-  region: "us-east-1",
+  region: "eu-west-paris-1",
   credentials: {
     accessKeyId: BUCKET_ACCESS_KEY,
     secretAccessKey: BUCKET_ACCESS_SECRET,

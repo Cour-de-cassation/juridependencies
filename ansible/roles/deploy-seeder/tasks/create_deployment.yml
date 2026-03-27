@@ -1,0 +1,38 @@
+---
+- name: Creation Javascript Runner Deployment
+  k8s:
+    apply: true
+    state: present
+    verify_ssl: true
+    definition:
+      apiVersion: apps/v1
+      kind: Deployment
+      metadata:
+        name: "{{ namespace }}-fake-data-seeder"
+        namespace: "{{ namespace }}"
+      spec:
+        replicas: 1
+        selector:
+          matchLabels:
+            app: "{{ namespace }}"
+            component: javascript
+        template:
+          metadata:
+            labels:
+              app: "{{ namespace }}"
+              component: javascript
+          spec:
+            containers:
+              - name: fake-data-seeder
+                image: "{{ docker_image_name }}"
+                # Pod "idle" → reste en vie en attendant tes exec
+                command: ["sleep", "infinity"]
+
+                resources:
+                  limits:
+                    memory: "2Gi"
+                    cpu: "1000m"
+
+                envFrom:
+                  - secretRef:
+                      name: "{{ namespace }}-secret"

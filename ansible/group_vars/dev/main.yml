@@ -1,0 +1,41 @@
+ansible_user: iliasaaguida
+ansible_python_interpreter: "/home/{{ ansible_user }}/ansible_venv/bin/python"
+
+HTTP_PROXY: "{{ vault_http_proxy }}"
+HTTPS_PROXY: "{{ vault_https_proxy }}"
+
+NODE_ENV: "DEV"
+
+DBSDER_HOST: "{{ vault_dbsder_host }}"
+DBSDER_PORT: "{{ vault_dbsder_port }}"
+DBSDER_DATABASE: "{{ vault_dbsder_database }}"
+INDEX_DATABASE: "{{ vault_index_database }}"
+
+DBDSI_HOST: "{{ vault_dbdsi_host }}"
+DBDSI_USER_JURICA: "{{ vault_dbdsi_user_jurica }}"
+DBDSI_PASS_JURICA: "{{ vault_dbdsi_pass_jurica }}"
+DBDSI_USER_JURINET: "{{ vault_dbdsi_user_jurinet }}"
+DBDSI_PASS_JURINET: "{{ vault_dbdsi_pass_jurinet }}"
+DBDSI_USER_PENAL: "{{ vault_dbdsi_user_penal }}"
+DBDSI_PASS_PENAL: "{{ vault_dbdsi_pass_penal }}"
+DBDSI_USER_GRCOM: "{{ vault_dbdsi_user_grcom }}"
+DBDSI_PASS_GRCOM: "{{ vault_dbdsi_pass_grcom }}"
+DB_TABLE: "{{ vault_db_table }}"
+DB_TABLE_JURICA: "{{ vault_db_table_jurica }}"
+
+LABELDB_HOST: "{{ vault_labeldb_host }}"
+LABELDB_PORT: "{{ vault_labeldb_port }}"
+LABELDB_DATABASE: "{{ vault_labeldb_database }}"
+
+BUCKET_HOST: "{{ vault_bucket_host }}"
+BUCKET_PORT: "{{ vault_bucket_port }}"
+BUCKET_JURITJ_NAME_RAW: "{{ vault_bucket_juritj_name_raw }}"
+BUCKET_JURITCOM_NAME_NORMALIZED: "{{ vault_bucket_juritcom_name_normalized }}"
+BUCKET_JURITCOM_NAME_RAW: "{{ vault_bucket_juritcom_name_raw }}"
+BUCKET_JURITCOM_NAME_PDF2TEXT_SUCCESS: "{{ vault_bucket_juritcom_name_pdf2text_success }}"
+BUCKET_JURITCOM_NAME_PDF2TEXT_FAILED: "{{ vault_bucket_juritcom_name_pdf2text_failed }}"
+BUCKET_JURITCOM_NAME_DELETION: "{{ vault_bucket_juritcom_name_deletion }}"
+BUCKET_JURITCOM_NAME_PDF: "{{ vault_bucket_juritcom_name_pdf }}"
+BUCKET_PORTALIS_COLLECT_NAME: "{{ vault_bucket_portalis_collect_name }}"
+BUCKET_ACCESS_KEY: "{{ vault_bucket_access_key }}"
+BUCKET_ACCESS_SECRET: " {{ vault_bucket_access_secret }}"

@@ -6,3 +6,5 @@ docker-images
 oracle_init.sql
 *_create_schema.sql
 *_drop_schema.sql
+
+.gitlab-ci-local

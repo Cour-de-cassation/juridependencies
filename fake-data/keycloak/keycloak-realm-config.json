@@ -671,7 +671,7 @@
       "alwaysDisplayInConsole": false,
       "clientAuthenticatorType": "client-secret",
       "redirectUris": [
-        "/realms/label/account/*"
+        "/realms/label/account/*"      
       ],
       "webOrigins": [],
       "notBefore": 0,
@@ -865,10 +865,12 @@
       "alwaysDisplayInConsole": false,
       "clientAuthenticatorType": "client-secret",
       "redirectUris": [
-        "http://localhost:55430/*"
+        "http://localhost:55430/*",
+        "http://host.docker.internal:55430/*"
       ],
       "webOrigins": [
-        "http://localhost:55430"
+        "http://localhost:55430",
+        "http://host.docker.internal:55430/*"
       ],
       "notBefore": 0,
       "bearerOnly": false,

@@ -6,3 +6,5 @@ docker-images
 oracle_init.sql
 *_create_schema.sql
 *_drop_schema.sql
+.idea
+instantclient-basic-linux.x64-23.4.0.24.05.zip

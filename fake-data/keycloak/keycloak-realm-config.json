@@ -673,7 +673,7 @@
       "redirectUris": [
         "/realms/label/account/*"
       ],
-      "webOrigins": [],
+      "webOrigins": ["http://host.docker.internal:55430/*"],
       "notBefore": 0,
       "bearerOnly": false,
       "consentRequired": false,
@@ -718,7 +718,8 @@
       "alwaysDisplayInConsole": false,
       "clientAuthenticatorType": "client-secret",
       "redirectUris": [
-        "/realms/label/account/*"
+        "/realms/label/account/*",
+        "http://host.docker.internal:55430/*"
       ],
       "webOrigins": [],
       "notBefore": 0,

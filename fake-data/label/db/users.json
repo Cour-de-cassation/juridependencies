@@ -6,5 +6,29 @@
     "email": "test.admin@label.fr",
     "name": "Admin Test",
     "role": "admin"
+  },
+  {
+    "_id": {
+      "$oid": "692ecd730428908f0a12e6aa"
+    },
+    "email": "test.annotator@label.fr",
+    "name": "Annotator Test",
+    "role": "annotator"
+  },
+  {
+    "_id": {
+      "$oid": "692ecd730428908f0a12e6bb"
+    },
+    "email": "test.scrutator@label.fr",
+    "name": "Scrutator Test",
+    "role": "scrutator"
+  },
+  {
+    "_id": {
+      "$oid": "692ecd730428908f0a12e6cc"
+    },
+    "email": "test.publicator@label.fr",
+    "name": "Publicator Test",
+    "role": "publicator"
   }
 ]

@@ -58,6 +58,18 @@ Le package.json propose des scripts pour combiner les les différentes actions d
 Ce docker-compose doit permettre de lancer, avec docker, des bases de données et des outils managés ou non par l'ODDJ mais essentiels à son fonctionnement.
 Attention, il est dépendant des applications de data sciences (elles peuvent être installées avec le script d'installation install-data-oddj.sh ou bien commentées).
 
+#### RabbitMQ
+
+Le service rabbitmq expose une interface de management :
+- url : http://localhost:15672
+- identifiants : définis dans les var d'env `RABBITMQ_USER` et `RABBITMQ_PASS`
+
+Un script permet de déplacer tous les messages d'une queue vers une autre queue :
+```
+docker exec -it rabbitmq bash -i
+move-messages.sh nlp.fail nlp.ner
+```
+
 ## SETUP dans un nouveau contexte
 
 ### pré-requis

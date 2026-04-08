@@ -88,18 +88,30 @@ services:
         /usr/bin/mc policy download myminio/${BUCKET_PORTALIS_COLLECT_NAME} && 
         /usr/bin/mc admin user svcacct add --access-key "${BUCKET_ACCESS_KEY}" --secret-key "${BUCKET_ACCESS_SECRET}" myminio root; exit 0; 
       "
-  keycloak:
-    image: quay.io/keycloak/keycloak:26.1.2
-    command: ["start-dev", "--import-realm"]
-    environment:
-      - KC_BOOTSTRAP_ADMIN_USERNAME=admin
-      - KC_BOOTSTRAP_ADMIN_PASSWORD=admin
-    volumes:
-      - ./fake-data/keycloak/keycloak-realm-config.json:/opt/keycloak/data/import/keycloak-realm-config.json
+  # keycloak:
+  #   image: quay.io/keycloak/keycloak:26.1.2
+  #   command: ["start-dev", "--import-realm"]
+  #   environment:
+  #     - KC_BOOTSTRAP_ADMIN_USERNAME=admin
+  #     - KC_BOOTSTRAP_ADMIN_PASSWORD=admin
+  #   volumes:
+  #     - ./fake-data/keycloak/keycloak-realm-config.json:/opt/keycloak/data/import/keycloak-realm-config.json
+  #   ports:
+  #     - "8080:8080"
+  #   networks:
+  #     - default
+
+  rabbitmq:
+    image: rabbitmq:3.13-management
     ports:
-      - "8080:8080"
-    networks:
-      - default
+      - 5672:5672
+      - 15672:15672
+    environment:
+      - RABBITMQ_DEFAULT_USER=${RABBITMQ_USER}
+      - RABBITMQ_DEFAULT_PASS=${RABBITMQ_PASS}
+    volumes:
+      - ./rabbitmq/enabled_plugins:/etc/rabbitmq/enabled_plugins:ro
+      - ./rabbitmq/move-messages.sh:/usr/local/sbin/move-messages.sh:ro
 
   jurizonage-api:
     image: jurizonage-api

@@ -13,14 +13,32 @@ fi
 DIR=$(realpath "$1")
 
 bash "$INSTALLS_DIR/install-docker.sh"
-SETUP_PROJECTS_DEPENDENCIES="git"
 
-if ! dpkg -s $SETUP_PROJECTS_DEPENDENCIES &>/dev/null; then
-    sudo -S apt install $SETUP_PROJECTS_DEPENDENCIES
+install_debian_dependencies() {
+    SETUP_PROJECTS_DEPENDENCIES="git"
+    if ! dpkg -s $SETUP_PROJECTS_DEPENDENCIES &>/dev/null; then
+        sudo -S apt install $SETUP_PROJECTS_DEPENDENCIES
+    fi
+}
+
+install_arch_dependencies() {
+    SETUP_PROJECTS_DEPENDENCIES="git"
+    if ! dpkg -s $SETUP_PROJECTS_DEPENDENCIES &>/dev/null; then
+        sudo pacman -Sy $SETUP_PROJECTS_DEPENDENCIES
+    fi
+}
+
+if grep -q "^ID_LIKE=debian" /etc/os-release || grep -q "^ID=debian" /etc/os-release; then
+    install_debian_dependencies
+elif grep -q "^ID_LIKE=arch" /etc/os-release; then
+else
+    echo "System unknown to install dependencies"
+    return 1
 fi
 
+DIR_PREVIOUS=$(pwd)
+
 update_jurizonage() {
-    DIR_PREVIOUS=$(pwd)
     DIR_JURIZONAGE=$(realpath "$DIR/nlp-jurizonage")
 
     if [ ! -d "$DIR_JURIZONAGE" ]; then

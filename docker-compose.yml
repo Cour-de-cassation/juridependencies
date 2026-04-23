@@ -36,7 +36,8 @@ services:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.17.24
     environment:
       - discovery.type=single-node
-      - ES_JAVA_OPTS=-Xms2048m -Xmx2048m
+      - ES_JAVA_OPTS=-Xms512m -Xmx512m
+    mem_limit: 2g
     ports:
       - ${DB_ELASTIC_EXTERNAL_PORT}:9200
     volumes:
@@ -109,7 +110,8 @@ services:
       - API_PORT=8081
     volumes:
       - ./models:/nlp-api/models
-      - /root/.cache/datalab/models
+      - ./datalab-cache:/root/.cache/datalab/models
+    mem_limit: 24g
 
   # mock-nlp-api:
   #   build:

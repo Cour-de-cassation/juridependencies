@@ -1,1 +1,3863 @@
-[]
+[
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3a1"
+    },
+    "path": "d275eb6f-ea4d-473e-8004-db7bcb79187d-2026-04-23T09:23:43.568Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "0",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:43.568Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3a4"
+    },
+    "path": "3cbf6739-b998-4b49-9aa6-0c45b5468aee-2026-04-23T09:23:44.150Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "11",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.150Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3a2"
+    },
+    "path": "a0cbf5fa-421c-4896-8a15-d57a48f1a230-2026-04-23T09:23:43.797Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "1",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:43.797Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3a6"
+    },
+    "path": "c3891c7e-dd9d-459f-b547-9cd51a9c0bba-2026-04-23T09:23:44.165Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "15",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.165Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3a7"
+    },
+    "path": "7b1e1340-397a-412f-893e-8d5dca5516fd-2026-04-23T09:23:43.897Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "7",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:43.897Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3a8"
+    },
+    "path": "92986b0c-a183-4655-a950-43fd82ae88b0-2026-04-23T09:23:43.875Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "5",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:43.875Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3a9"
+    },
+    "path": "a7060cff-d174-4085-a0ef-9ab12d747efa-2026-04-23T09:23:43.883Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "6",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:43.883Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3a3"
+    },
+    "path": "407f0e72-0962-4802-8d15-b372bd282e83-2026-04-23T09:23:43.846Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "3",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:43.846Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3ab"
+    },
+    "path": "311c08c8-fcfe-4d5a-8f4f-caaba8c37198-2026-04-23T09:23:43.949Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "10",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:43.949Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3ac"
+    },
+    "path": "5587833a-79a3-4060-9472-af5fa83c258c-2026-04-23T09:23:44.173Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "18",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.173Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3ad"
+    },
+    "path": "46ca37b6-d403-4f74-bd5f-6a07b5917de5-2026-04-23T09:23:43.860Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "4",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:43.860Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3a5"
+    },
+    "path": "c6e478c3-02f6-4dde-b650-272c3665b861-2026-04-23T09:23:44.163Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "14",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.163Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3af"
+    },
+    "path": "8e031e29-4a6c-4bb6-8346-ade0365650df-2026-04-23T09:23:44.170Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "17",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.170Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3b0"
+    },
+    "path": "bc5637c5-0441-4da7-bd88-86103dd541ad-2026-04-23T09:23:43.906Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "8",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:43.906Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3b1"
+    },
+    "path": "a41f3206-d23c-42f2-9362-fdbb73c54b1a-2026-04-23T09:23:44.155Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "12",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.155Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3b2"
+    },
+    "path": "b94c9999-090c-4ffe-b5a0-484f8a268d39-2026-04-23T09:23:43.807Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "2",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:43.807Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3b3"
+    },
+    "path": "47203243-137c-4fde-8c35-b203f582d797-2026-04-23T09:23:44.205Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "30",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.205Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3b4"
+    },
+    "path": "f994c23d-8b89-4f81-9dc2-d405f81e8669-2026-04-23T09:23:44.217Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "35",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.217Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3b5"
+    },
+    "path": "f6515b64-c0f6-4783-bccf-7cd1a7d8712a-2026-04-23T09:23:44.197Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "27",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.197Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3b6"
+    },
+    "path": "b25489f1-ccdd-4e7e-b816-d7729f8a3ac5-2026-04-23T09:23:44.219Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "36",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.219Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3b7"
+    },
+    "path": "b2b846d2-dc83-4c93-bcfc-c9ddac31f7cc-2026-04-23T09:23:44.187Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "24",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.187Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3b8"
+    },
+    "path": "d34272d4-4d6f-4cd4-a6fb-5f1fb37de5ac-2026-04-23T09:23:44.192Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "25",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.192Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3b9"
+    },
+    "path": "963db343-1d4c-49af-9f20-9b197ff60fe6-2026-04-23T09:23:44.199Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "28",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.199Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3aa"
+    },
+    "path": "d46f953a-bd26-4835-909a-e2365a8c828c-2026-04-23T09:23:43.925Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "9",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:43.925Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3bb"
+    },
+    "path": "6a9264eb-38f8-4483-99db-f6dd41e88901-2026-04-23T09:23:44.202Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "29",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.202Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3bc"
+    },
+    "path": "94aaac90-0465-44c2-a532-a605f3731751-2026-04-23T09:23:44.184Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "23",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.184Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3bd"
+    },
+    "path": "b4112490-186a-4d13-9bef-3a82ce9ddf4e-2026-04-23T09:23:44.215Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "34",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.215Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3be"
+    },
+    "path": "9d00338b-a210-481a-9c99-1233ba9a8104-2026-04-23T09:23:44.208Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "31",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.208Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3bf"
+    },
+    "path": "7da9821b-346c-41f2-bcf2-dc03571fcd45-2026-04-23T09:23:44.223Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "37",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.223Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3ae"
+    },
+    "path": "9004000d-f218-4342-87b9-d7f22dc15485-2026-04-23T09:23:44.159Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "13",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.159Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3c1"
+    },
+    "path": "9b433ed9-d5f7-4fb4-a50d-dfd810c17d88-2026-04-23T09:23:44.226Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "38",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.226Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3c2"
+    },
+    "path": "b364fb74-761f-4dec-a8bb-18858aca4241-2026-04-23T09:23:44.175Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "19",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.175Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3c3"
+    },
+    "path": "5a01a3a0-f222-4041-867c-dcbcdb893f38-2026-04-23T09:23:44.168Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "16",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.168Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3c4"
+    },
+    "path": "92ec48c3-bbcd-4730-8a09-04c4e7bc143e-2026-04-23T09:23:44.177Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "20",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.177Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3c5"
+    },
+    "path": "a5236e53-d33e-4801-9654-d7bc19277424-2026-04-23T09:23:44.195Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "26",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.195Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3c6"
+    },
+    "path": "0eaa8d1c-4dd8-4e0a-b9ed-be1022d53553-2026-04-23T09:23:44.180Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "21",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.180Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3c7"
+    },
+    "path": "4f522c5f-8dc9-4893-a6ec-5a027d77b25f-2026-04-23T09:23:44.212Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "33",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.212Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3ba"
+    },
+    "path": "f8fc0843-7f11-455e-9be1-6853e7896552-2026-04-23T09:23:44.210Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "32",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.210Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "69e9e5206329e6d6127da3c0"
+    },
+    "path": "6f62162a-457f-4aa7-9964-8c988377b5e9-2026-04-23T09:23:44.182Z.pdf",
+    "metadatas": {
+      "identifiantDecision": "22",
+      "recommandationOccultation": {
+        "suiviRecommandationOccultation": true,
+        "elementsAOcculter": []
+      },
+      "interetParticulier": false,
+      "metadatas": {
+        "decision": {
+          "date": "20250808",
+          "codes_decision": {
+            "code_decision": [
+              {
+                "code": "11A",
+                "libelle": "Retire l'affaire du rôle sur demande conjointe des parties"
+              }
+            ]
+          }
+        },
+        "dossier": {
+          "nature_affaire_civile": {
+            "code": "00A",
+            "libelle": "Sans indication de la nature d'affaire"
+          },
+          "numero": "2025-80004861"
+        },
+        "evenement_porteur": {
+          "caracteristiques": {
+            "caracteristique": [
+              {
+                "mnemo": "ADD",
+                "libelle": "avant dire-droit",
+                "valeur": ""
+              },
+              {
+                "mnemo": "DOFF",
+                "libelle": "d'office",
+                "valeur": ""
+              },
+              {
+                "mnemo": "FORM",
+                "libelle": "formation",
+                "valeur": ""
+              },
+              {
+                "mnemo": "MDISP",
+                "libelle": "mise à disposition au greffe",
+                "valeur": ""
+              },
+              {
+                "mnemo": "NMINU",
+                "libelle": "numéro de minute",
+                "valeur": ""
+              },
+              {
+                "mnemo": "PUB",
+                "libelle": "publicité des débats",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "PUBD",
+                "libelle": "publicité de la décision",
+                "valeur": "audience publique"
+              },
+              {
+                "mnemo": "QUALI",
+                "libelle": "qualification de la décision",
+                "valeur": ""
+              },
+              {
+                "mnemo": "RESS",
+                "libelle": "ressort de la décision",
+                "valeur": ""
+              }
+            ]
+          },
+          "srj_code_evt": "90141"
+        },
+        "juridiction": {
+          "libelle_court": "CPH BORDEAUX",
+          "libelle_long": "Conseil de Prud'hommes de Bordeaux",
+          "code_srj": "101021"
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-04-23T09:23:44.182Z"
+        }
+      }
+    ]
+  }
+]

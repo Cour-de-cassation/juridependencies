@@ -22,56 +22,17 @@ async function sequentialQueries(source, queries) {
   }
 }
 
-async function migrateJurinet(action = "create") {
-  const jurinetSource = new JurinetOracle();
-  await jurinetSource.connect();
+async function migrate(source,  schema) {
+  await source.connect();
 
   const queryString = await readFile(
-    resolve(__dirname, "migrations", `jurinet_${action}_schema.sql`),
+    resolve(__dirname, "migrations", schema),
     "utf8"
   );
   const queries = splitQueries(queryString);
 
-  return sequentialQueries(jurinetSource, queries);
-}
-
-async function migrateJurica(action = "create") {
-  const juricaSource = new JuricaOracle();
-  await juricaSource.connect();
-
-  const queryString = await readFile(
-    resolve(__dirname, "migrations", `jurica_${action}_schema.sql`),
-    "utf8"
-  );
-  const queries = splitQueries(queryString);
-
-  return sequentialQueries(juricaSource, queries);
-}
-
-async function migratePenal(action = "create") {
-  const penalSource = new PenalOracle();
-  await penalSource.connect();
-
-  const queryString = await readFile(
-    resolve(__dirname, "migrations", `penal_${action}_schema.sql`),
-    "utf8"
-  );
-  const queries = splitQueries(queryString);
-
-  return sequentialQueries(penalSource, queries);
-}
-
-async function migrateGrcom(action = "create") {
-  const grcomSource = new GRCOMOracle();
-  await grcomSource.connect();
-
-  const queryString = await readFile(
-    resolve(__dirname, "migrations", `grcom_${action}_schema.sql`),
-    "utf8"
-  );
-  const queries = splitQueries(queryString);
-
-  return sequentialQueries(grcomSource, queries);
+  return sequentialQueries(source, queries)
+    .finally(() => source.close());
 }
 
 async function main() {
@@ -93,10 +54,15 @@ async function main() {
       return;
     }
 
-    await migrateJurinet(command);
-    await migrateJurica(command);
-    await migrateGrcom(command);
-    await migratePenal(command);
+    const jurinetSource = new JurinetOracle();
+    const juricaSource = new JuricaOracle();
+    const penalSource = new PenalOracle();
+    const grcomSource = new GRCOMOracle();
+
+    await migrate(jurinetSource, `jurinet_${command}_schema.sql`);
+    await migrate(juricaSource, `jurica_${command}_schema.sql`);
+    await migrate(penalSource, `penal_${command}_schema.sql`);
+    await migrate(grcomSource, `grcom_${command}_schema.sql`);
 
     console.log("Migrate exit with success");
   } catch (_) {
@@ -104,4 +70,4 @@ async function main() {
   }
 }
 
-main();
+main()

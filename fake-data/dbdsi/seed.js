@@ -28,7 +28,7 @@ async function seeds(source, files) {
           throw _;
         });
     })
-  );
+  ).finally(() => source.close())
 }
 
 async function main() {

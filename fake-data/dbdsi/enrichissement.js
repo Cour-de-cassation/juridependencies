@@ -41,7 +41,7 @@ async function replaceVariables(filePath) {
 
 async function updateDecision(source, id) {
   const now = new Date();
-  const query = `UPDATE ${process.env.DBDSI_TABLE_JURINET} SET DT_MODIF=:date WHERE ID_DOCUMENT=:id`;
+  const query = `UPDATE ${process.env.DBDSI_TABLE_JURINET} SET DT_MODIF=:now WHERE ID_DOCUMENT=:id`;
   await source.connection.execute(query, [now, id], {
     autoCommit: true,
   });
@@ -107,6 +107,9 @@ async function main() {
           });
         }
         await updateDecision(source, options.id);
+        console.log(
+          `Successfully added some "enrichissements" of type "${options.type}" to decision ${options.id}.`,
+        );
       } catch (_) {
         console.error(_);
       }
@@ -123,6 +126,9 @@ async function main() {
           });
         }
         await updateDecision(source, options.id);
+        console.log(
+          `Successfully removed "enrichissements" from decision ${options.id}.`,
+        );
       } catch (_) {
         console.error(_);
       }

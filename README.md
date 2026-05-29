@@ -64,6 +64,8 @@ Attention, il est dépendant des applications de data sciences (elles peuvent ê
 
 ### pré-requis
 
+Si vous lancer pour la première fois ou après une docker clean de tout, il faut d'abord lancer le scripte d'install.sh dans le dossier installs.
+
 Le seul outil nécessaire au démarrage est GIT.
 
 ### clone

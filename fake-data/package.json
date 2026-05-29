@@ -11,6 +11,7 @@
     "dbdsi:migrate:down": "node dbdsi/migrate.js down",
     "dbdsi:seeds": "npm run dbdsi:migrate:down && npm run dbdsi:migrate:up && node dbdsi/seed.js",
     "dbsder:seeds": "node dbsder/clean.js && node dbsder/load.js",
+    "dbsder:enrich:attachments": "node attachments/enrich-with-attachments.js",
     "label:seeds": "node label/clean.js && node label/load.js",
     "index:seeds": "node index/clean.js && node index/load.js",
     "rawfiles:seeds": "node rawfiles/clean.js && node rawfiles/load.js",

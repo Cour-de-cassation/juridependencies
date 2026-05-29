@@ -1,4 +1,4 @@
-# Ajout et suppression a posteriori d'enrichissements (tites et sommaires)
+# Ajout et suppression a posteriori d'enrichissements (titres et sommaires)
 
 ## Contexte
 
@@ -6,9 +6,9 @@ Aucune des décisions CC générées à partir des "fake data" ne contient ce qu
 
 En un sens c'est normal, car ces informations sont saisies dans une application spécifique (distincte de celle qui permet de saisir la décision), la plupart du temps *après* la création de la décision concernée.
 
-Ainsi, dans la grande majorité des cas, une décicion CC est d'abord publiée *sans enrichissement*, puis les enrichissements sont versés en base (tables Oracle `ANALYSE` et `TITREREFERENCE`), ce qui entraîne un changement du champ `DT_MODIF` de la décision, qui se retrouve donc dans le flux des mises à jour à collecter.
+Ainsi, dans la grande majorité des cas, une décicion CC est d'abord publiée *sans enrichissement*, puis les enrichissements sont versés en base (tables Oracle `ANALYSE` et `TITREREFERENCE`), ce qui entraîne un changement du champ `DT_MODIF` de la décision, qui se retrouve donc dans le flux des mises à jour à traiter.
 
-Par conséquent, plutôt que d'ajouter les enrichissements de manière statique et arbitraire dans le jeu de donnée initial, il me paraît plus pertinent de mettre à disposition un script permettant d'ajouter à la volée un jeu significatif de titres et de sommaires à une décision CC donnée (ou de les retirer), ceci afin de pouvoir reproduire dans le temps le workflow réel de publications et de mises à jour successives.
+Par conséquent, plutôt que d'ajouter les enrichissements de manière statique et arbitraire dans le jeu de donnée initial, il me paraît plus pertinent de mettre à disposition un script permettant d'ajouter à la volée un jeu significatif de titres et de sommaires à une décision CC donnée (ou de les retirer), ceci afin de pouvoir reproduire dans le temps le workflow réel de publications et de mises à jour successives, suivant la plupart des scénarios possibles.
 
 ## Utilisation
 

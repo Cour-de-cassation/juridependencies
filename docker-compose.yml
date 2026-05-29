@@ -21,6 +21,16 @@ services:
     ports:
       - ${LABELDB_PORT}:${LABELDB_PORT}
 
+  juripilot:
+    image: mongo:7.0.4
+    environment:
+      - MONGO_INITDB_DATABASE=${JURIPILOT_DATABASE}
+    command: mongod --port ${JURIPILOTDB_PORT}
+    volumes:
+      - juripilotdb-mongo-storage:/data/db
+    ports:
+      - ${JURIPILOTDB_PORT}:${JURIPILOTDB_PORT}
+
   dbdsi:
     image: oracle/database:18.4.0-xe
     ports:
@@ -51,6 +61,31 @@ services:
       - dbelastic
     volumes:
       - ./.kibana/config:/usr/share/kibana/config
+  metabase:
+    image: metabase/metabase:latest
+    container_name: metabase
+    hostname: localhost
+    volumes:
+      - /dev/urandom:/dev/random:ro
+    ports:
+      - 3000:3000
+    environment:
+      - MB_DB_TYPE=${MB_DB_TYPE}
+      - MB_JETTY_PORT=${MB_JETTY_PORT}
+      - MB_DB_DBNAME=${MB_DB_DBNAME}
+      - MB_DB_PORT=${MB_DB_PORT}
+      - MB_DB_USER=${MB_DB_USER}
+      - MB_DB_PASS=${MB_DB_PASS}
+      - MB_DB_HOST=${MB_DB_HOST}
+
+  postgres:
+    image: postgres:latest
+    container_name: postgres
+    hostname: postgres
+    environment:
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
 
   bucket:
     image: minio/minio:RELEASE.2023-02-27T18-10-45Z
@@ -90,28 +125,28 @@ services:
         /usr/bin/mc admin user svcacct add --access-key "${BUCKET_ACCESS_KEY}" --secret-key "${BUCKET_ACCESS_SECRET}" myminio root; exit 0; 
       "
 
-  jurizonage-api:
-    image: jurizonage-api
-    environment:
-      - API_PORT=8090
-    ports:
-      - 8090:8090
+  # jurizonage-api:
+  #   image: jurizonage-api
+  #   environment:
+  #     - API_PORT=8090
+  #   ports:
+  #     - 8090:8090
 
-  nlp-api:
-    image: nlp-api
-    ports:
-      - 8081:8081
-    environment:
-      - MODEL_JURICA=models/${PSEUDO_API_MODEL}
-      - MODEL_JURIDOUTE=models/${MODEL_JURIDOUTE}
-      - TRAIN_VOCAB_JURIDOUTE=models/${TRAIN_VOCAB_JURIDOUTE}
-      - TRAIN_FEATURES_JURIDOUTE=models/${TRAIN_FEATURES_JURIDOUTE}
-      - MINERU_TOOLS_CONFIG_JSON=/nlp-api/models/${MINERU_CONFIG_JSON}
-      - API_PORT=8081
-    volumes:
-      - ./models:/nlp-api/models
-      - ./datalab-cache:/root/.cache/datalab/models
-    mem_limit: 24g
+  # nlp-api:
+  #   image: nlp-api
+  #   ports:
+  #     - 8081:8081
+  #   environment:
+  #     - MODEL_JURICA=models/${PSEUDO_API_MODEL}
+  #     - MODEL_JURIDOUTE=models/${MODEL_JURIDOUTE}
+  #     - TRAIN_VOCAB_JURIDOUTE=models/${TRAIN_VOCAB_JURIDOUTE}
+  #     - TRAIN_FEATURES_JURIDOUTE=models/${TRAIN_FEATURES_JURIDOUTE}
+  #     - MINERU_TOOLS_CONFIG_JSON=/nlp-api/models/${MINERU_CONFIG_JSON}
+  #     - API_PORT=8081
+  #   volumes:
+  #     - ./models:/nlp-api/models
+  #     - ./datalab-cache:/root/.cache/datalab/models
+  #   mem_limit: 24g
 
   # mock-nlp-api:
   #   build:
@@ -125,6 +160,7 @@ services:
 volumes:
   dbsder-mongo-storage:
   label-mongo-storage:
+  juripilotdb-mongo-storage:
   oracle-data:
   bucket-storage:
   elastic-data:

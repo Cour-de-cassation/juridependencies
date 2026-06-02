@@ -1,40 +1,42 @@
-[{
-  "_id": {
-    "$oid": "695e7f5d0bcdc007a079378b"
+[
+  {
+    "_id": {
+      "$oid": "695e7f5d0bcdc007a079378b"
+    },
+    "username": "admin",
+    "password": "$2b$10$lv1VefFkNPBBrp8ZWoAfrunNCLK3xDDtCqjTmdXB.LZk92o8fu5/G",
+    "email": "admin@justice.fr",
+    "role": "admin",
+    "__v": 0
   },
-  "username": "admin",
-  "password": "$2b$10$lv1VefFkNPBBrp8ZWoAfrunNCLK3xDDtCqjTmdXB.LZk92o8fu5/G",
-  "email": "admin@justice.fr",
-  "role": "admin",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "695e7f5d0bcdc007a079378d"
+  {
+    "_id": {
+      "$oid": "695e7f5d0bcdc007a079378d"
+    },
+    "username": "user 1",
+    "password": "$2b$10$1glZzoIhHGPydE9un92UXePIiTkp/gVQGKcmkjFfAr.B4v5wEMXVK",
+    "email": "user@justice.fr",
+    "role": "user",
+    "__v": 0
   },
-  "username": "user",
-  "password": "$2b$10$1glZzoIhHGPydE9un92UXePIiTkp/gVQGKcmkjFfAr.B4v5wEMXVK",
-  "email": "user@justice.fr",
-  "role": "user",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "69cd2976dba522d6b7237ace"
+  {
+    "_id": {
+      "$oid": "69cd2976dba522d6b7237ace"
+    },
+    "username": "magistrat",
+    "password": "$2b$10$B7tUR0RZR8rKfhCbDToYo.c2suKOpxpqnwQeqHvoTxT8nEzTGoKBy",
+    "email": "magistrat@justice.fr",
+    "role": "magistrat",
+    "__v": 0
   },
-  "username": "magistrat",
-  "password": "$2b$10$B7tUR0RZR8rKfhCbDToYo.c2suKOpxpqnwQeqHvoTxT8nEzTGoKBy",
-  "email": "magistrat@justice.fr",
-  "role": "magistrat",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "69f0bd1a4bd5fdff7dde0c07"
-  },
-  "username": "antigone",
-  "password": "$2b$10$otm8ujSgIiFQQKwQYd2DeuMtHXVPfNi3anAeL.jbzW0BYkFDTNzVK",
-  "email": "anti@email.com",
-  "role": "user",
-  "__v": 0
-}]
+  {
+    "_id": {
+      "$oid": "69f0bd1a4bd5fdff7dde0c07"
+    },
+    "username": "antigone",
+    "password": "$2b$10$otm8ujSgIiFQQKwQYd2DeuMtHXVPfNi3anAeL.jbzW0BYkFDTNzVK",
+    "email": "anti@email.com",
+    "role": "user",
+    "__v": 0
+  }
+]

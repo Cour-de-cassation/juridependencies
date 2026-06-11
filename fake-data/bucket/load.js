@@ -14,7 +14,6 @@ const {
   BUCKET_ACCESS_SECRET,
   BUCKET_PORT,
   BUCKET_JURITJ_NAME_RAW,
-  BUCKET_JURITCOM_NAME_RAW,
   BUCKET_JURITCOM_NAME_PDF,
   BUCKET_PORTALIS_COLLECT_NAME,
 } = process.env;
@@ -37,7 +36,7 @@ function saveFile(bucket, name, buffer) {
       Bucket: bucket,
       Key: name,
       Body: buffer,
-    })
+    }),
   );
 }
 
@@ -46,33 +45,24 @@ async function main() {
   const tcomPaths = await readdir(resolve(__dirname, "tcom"));
   const cphPaths = await readdir(resolve(__dirname, "cph"));
 
-  const tcomPdf = tcomPaths.filter((_) => _.endsWith(".pdf"));
-  const tcomJson = tcomPaths.filter((_) => _.endsWith(".json"));
-
   return Promise.all([
     Promise.all(
       tjPaths.map(async (_) => {
         const file = await readFile(resolve(__dirname, "tj", _));
         return saveFile(BUCKET_JURITJ_NAME_RAW, _, file);
-      })
+      }),
     ),
     Promise.all(
-      tcomJson.map(async (_) => {
-        const file = await readFile(resolve(__dirname, "tcom", _));
-        return saveFile(BUCKET_JURITCOM_NAME_RAW, _, file);
-      })
-    ),
-    Promise.all(
-      tcomPdf.map(async (_) => {
+      tcomPaths.map(async (_) => {
         const file = await readFile(resolve(__dirname, "tcom", _));
         return saveFile(BUCKET_JURITCOM_NAME_PDF, _, file);
-      })
+      }),
     ),
     Promise.all(
       cphPaths.map(async (_) => {
         const file = await readFile(resolve(__dirname, "cph", _));
         return saveFile(BUCKET_PORTALIS_COLLECT_NAME, _, file);
-      })
+      }),
     ),
   ]);
 }

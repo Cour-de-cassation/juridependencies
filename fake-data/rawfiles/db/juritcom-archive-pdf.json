@@ -1,0 +1,5102 @@
+[
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022b9a"
+    },
+    "path": "d72c4775-8e53-49f9-983f-0c2e4efaa207.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "7501_2025036329_2025-10-31_6",
+        "idGroupement": "01",
+        "idJuridiction": "7501",
+        "libelleJuridiction": "PARIS",
+        "dateDecision": "20251031",
+        "numeroDossier": "2025036329",
+        "idChambre": "1-9",
+        "libelleChambre": "chambre 1-9",
+        "idMatiere": "A351",
+        "libelleMatiere": "ACTION EN OPPOSITION DES CREANCIERS CONTRE UN PROJET DE FUSION,SCISSION, REDUCTION DU CAPITAL NON MO",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022b9b"
+    },
+    "path": "50ae71a0-8d12-46c1-93ea-0d5e38084f65.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "7501_2025038063_2025-10-30_6",
+        "idGroupement": "01",
+        "idJuridiction": "7501",
+        "libelleJuridiction": "PARIS",
+        "dateDecision": "20251030",
+        "numeroDossier": "2025038063",
+        "idChambre": "1-6",
+        "libelleChambre": "chambre 1-6",
+        "idMatiere": "A5029",
+        "libelleMatiere": "Demande en paiement du prix, ou des honoraires formée contre le client et/ou tendant à faire sanctio",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022b9c"
+    },
+    "path": "1ed66960-fbc9-449f-b123-b171a005501d.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "7501_2025036589_2025-10-03_5",
+        "idGroupement": "01",
+        "idJuridiction": "7501",
+        "libelleJuridiction": "PARIS",
+        "dateDecision": "20251003",
+        "numeroDossier": "2025036589",
+        "idChambre": "1-9",
+        "libelleChambre": "chambre 1-9",
+        "idMatiere": "A380",
+        "libelleMatiere": "CESSION DE TITRES OU DE PARTS",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022b9d"
+    },
+    "path": "c156dc34-55fa-4100-b88f-0652216b0967.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "7501_2025040544_2025-11-03_6",
+        "idGroupement": "01",
+        "idJuridiction": "7501",
+        "libelleJuridiction": "PARIS",
+        "dateDecision": "20251103",
+        "numeroDossier": "2025040544",
+        "idChambre": "1-12",
+        "libelleChambre": "chambre 1-12",
+        "idMatiere": "A502",
+        "libelleMatiere": "DEMANDE DE PAIEMENT DU PRIX OU TENDANT A FAIRE SANCTIONNER LE NON PAIEMENT DU PRIX",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022b9e"
+    },
+    "path": "aeab0fb7-e59a-4f69-be2b-c6c1cd9be882.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8002_2025J00038_2025-04-11_2",
+        "idGroupement": "51",
+        "idJuridiction": "8002",
+        "libelleJuridiction": "AMIENS",
+        "dateDecision": "20250411",
+        "numeroDossier": "2025J00038",
+        "idChambre": "Mise à disposition",
+        "libelleChambre": null,
+        "idMatiere": "NAT_59C",
+        "libelleMatiere": "Demande en exécution ou en dommages-intérêts pour mauvaise exécution d'un autre contrat",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022b9f"
+    },
+    "path": "90b1f590-12b9-4571-8430-80174f7f903e.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8002_2025J00040_2025-04-25_3",
+        "idGroupement": "51",
+        "idJuridiction": "8002",
+        "libelleJuridiction": "AMIENS",
+        "dateDecision": "20250425",
+        "numeroDossier": "2025J00040",
+        "idChambre": "contentieux",
+        "libelleChambre": null,
+        "idMatiere": "NAT_53F",
+        "libelleMatiere": "Crédit-bail ou leasing - Demande en paiement des loyers et/ou en résiliation du crédit-bail",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022ba0"
+    },
+    "path": "cf3cf35b-32a8-4d55-859d-29e7d5dbe14b.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8302_2024000444_2025-10-28_13",
+        "idGroupement": "05",
+        "idJuridiction": "8302",
+        "libelleJuridiction": "DRAGUIGNAN",
+        "dateDecision": "20251028",
+        "numeroDossier": "2024000444",
+        "idChambre": "M",
+        "libelleChambre": "audience ordinaire",
+        "idMatiere": "A502",
+        "libelleMatiere": "ACTION EN PAIEMENT DU PRIX OU EN SANCTION DU NON PAIEMENT",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022ba1"
+    },
+    "path": "bab771f6-fc44-4223-a283-306e18318c93.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8305_2025R00015_2025-04-23_3",
+        "idGroupement": "51",
+        "idJuridiction": "8305",
+        "libelleJuridiction": "TOULON",
+        "dateDecision": "20250423",
+        "numeroDossier": "2025R00015",
+        "idChambre": "Référés",
+        "libelleChambre": null,
+        "idMatiere": "NAT_50B",
+        "libelleMatiere": "Demande en paiement du prix ou tendant à faire sanctionner le non-paiement du prix",
+        "idProcedure": "R",
+        "libelleProcedure": "REFERE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022ba2"
+    },
+    "path": "7c3d4ced-2881-4946-b1fe-9c2d10dc4fa8.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8305_2025R00022_2025-04-23_2",
+        "idGroupement": "51",
+        "idJuridiction": "8305",
+        "libelleJuridiction": "TOULON",
+        "dateDecision": "20250423",
+        "numeroDossier": "2025R00022",
+        "idChambre": "Référés",
+        "libelleChambre": null,
+        "idMatiere": "NAT_59C",
+        "libelleMatiere": "Demande en exécution ou en dommages-intérêts pour mauvaise exécution d'un autre contrat",
+        "idProcedure": "R",
+        "libelleProcedure": "REFERE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022ba3"
+    },
+    "path": "74eb5c1f-6c45-4f4c-a4e8-fb13daed616e.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8401_2021001039_2025-02-28_18",
+        "idGroupement": "05",
+        "idJuridiction": "8401",
+        "libelleJuridiction": "AVIGNON",
+        "dateDecision": "20250228",
+        "numeroDossier": "2021001039",
+        "idChambre": "11",
+        "libelleChambre": "Audience deuxième et troisième chambres (plaidoiries contentieux général)",
+        "idMatiere": "A908",
+        "libelleMatiere": "Appel en cause",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022ba4"
+    },
+    "path": "bbe75315-1b76-4e1a-890c-5a08fbe85295.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8401_2022010578_2025-04-11_16",
+        "idGroupement": "05",
+        "idJuridiction": "8401",
+        "libelleJuridiction": "AVIGNON",
+        "dateDecision": "20250411",
+        "numeroDossier": "2022010578",
+        "idChambre": "11",
+        "libelleChambre": "Audience deuxième et troisième chambres (plaidoiries contentieux général)",
+        "idMatiere": "A609",
+        "libelleMatiere": "ACTION EN DOMMAGES ET INTERETS",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022ba5"
+    },
+    "path": "c8fb243e-5692-4d03-9657-160eab88f920.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8401_2023014969_2025-02-14_8",
+        "idGroupement": "05",
+        "idJuridiction": "8401",
+        "libelleJuridiction": "AVIGNON",
+        "dateDecision": "20250214",
+        "numeroDossier": "2023014969",
+        "idChambre": "11",
+        "libelleChambre": "Audience deuxième et troisième chambres (plaidoiries contentieux général)",
+        "idMatiere": "A502",
+        "libelleMatiere": "ACTION EN PAIEMENT DU PRIX OU EN SANCTION DU NON PAIEMENT",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022ba6"
+    },
+    "path": "67ce3e18-5770-4c83-a9bd-bafd3a5a7541.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8401_2024002116_2025-03-14_6",
+        "idGroupement": "05",
+        "idJuridiction": "8401",
+        "libelleJuridiction": "AVIGNON",
+        "dateDecision": "20250314",
+        "numeroDossier": "2024002116",
+        "idChambre": "11",
+        "libelleChambre": "Audience deuxième et troisième chambres (plaidoiries contentieux général)",
+        "idMatiere": "A502",
+        "libelleMatiere": "ACTION EN PAIEMENT DU PRIX OU EN SANCTION DU NON PAIEMENT",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022ba7"
+    },
+    "path": "265e55ca-5195-49a3-83f1-4d0b07e03954.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8401_2024017621_2025-03-18_6",
+        "idGroupement": "05",
+        "idJuridiction": "8401",
+        "libelleJuridiction": "AVIGNON",
+        "dateDecision": "20250318",
+        "numeroDossier": "2024017621",
+        "idChambre": "3",
+        "libelleChambre": "Audience des référés",
+        "idMatiere": "A992",
+        "libelleMatiere": "EXPERTISE (REFERE)",
+        "idProcedure": "R",
+        "libelleProcedure": "REFERE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022ba8"
+    },
+    "path": "1b4ba9dd-d4b6-4e3a-aa88-117c211735d8.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8401_2024013584_2025-02-10_6",
+        "idGroupement": "05",
+        "idJuridiction": "8401",
+        "libelleJuridiction": "AVIGNON",
+        "dateDecision": "20250210",
+        "numeroDossier": "2024013584",
+        "idChambre": "1",
+        "libelleChambre": "Audience première chambre (contentieux général, instruction)",
+        "idMatiere": "A502",
+        "libelleMatiere": "ACTION EN PAIEMENT DU PRIX OU EN SANCTION DU NON PAIEMENT",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022ba9"
+    },
+    "path": "e47ae0eb-4da8-42cc-989f-e5fe3192fff8.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8501_2023006042_2025-10-07_11",
+        "idGroupement": "02",
+        "idJuridiction": "8501",
+        "libelleJuridiction": "LA ROCHE SUR YON",
+        "dateDecision": "20251007",
+        "numeroDossier": "2023006042",
+        "idChambre": "C1",
+        "libelleChambre": "Chambre 1",
+        "idMatiere": "599",
+        "libelleMatiere": "Contrat non qualifié / Demande en paiement",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022baa"
+    },
+    "path": "3e92145f-968a-47d4-a013-67e405023edf.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8501_2024002427_2025-04-08_8",
+        "idGroupement": "02",
+        "idJuridiction": "8501",
+        "libelleJuridiction": "LA ROCHE SUR YON",
+        "dateDecision": "20250408",
+        "numeroDossier": "2024002427",
+        "idChambre": "C2",
+        "libelleChambre": "chambre C2",
+        "idMatiere": "599",
+        "libelleMatiere": "Contrat non qualifié / Demande en paiement",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bab"
+    },
+    "path": "8b74e725-fb56-40c8-bf84-76f2ffe621b3.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8501_2025000837_2025-10-21_5",
+        "idGroupement": "02",
+        "idJuridiction": "8501",
+        "libelleJuridiction": "LA ROCHE SUR YON",
+        "dateDecision": "20251021",
+        "numeroDossier": "2025000837",
+        "idChambre": "C3",
+        "libelleChambre": "Chambre 3",
+        "idMatiere": "590",
+        "libelleMatiere": "Autres demandes / contrats divers",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bac"
+    },
+    "path": "0ee5116b-62a1-4d8c-9fb7-8c050491ca03.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8501_2025000888_2025-02-19_2",
+        "idGroupement": "02",
+        "idJuridiction": "8501",
+        "libelleJuridiction": "LA ROCHE SUR YON",
+        "dateDecision": "20250219",
+        "numeroDossier": "2025000888",
+        "idChambre": "P3",
+        "libelleChambre": "Chambre Procédures Collectives 3",
+        "idMatiere": "603",
+        "libelleMatiere": "Demande d'ouverture de redressement judiciaire",
+        "idProcedure": "P",
+        "libelleProcedure": "PROCEDURES COLLECTIVES",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bad"
+    },
+    "path": "82c9c881-40df-485b-842d-544e3d8c2422.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8501_2025004718_2025-10-21_4",
+        "idGroupement": "02",
+        "idJuridiction": "8501",
+        "libelleJuridiction": "LA ROCHE SUR YON",
+        "dateDecision": "20251021",
+        "numeroDossier": "2025004718",
+        "idChambre": "C3",
+        "libelleChambre": "Chambre 3",
+        "idMatiere": "599",
+        "libelleMatiere": "Contrat non qualifié / Demande en paiement",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bae"
+    },
+    "path": "04ac6d64-7714-413a-a6d2-a5f52a8a5e22.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "8901_2025000210_2025-04-07_2",
+        "idGroupement": "02",
+        "idJuridiction": "8901",
+        "libelleJuridiction": "AUXERRE",
+        "dateDecision": "20250407",
+        "numeroDossier": "2025000210",
+        "idChambre": "PC",
+        "libelleChambre": "Procédures collectives",
+        "idMatiere": "637",
+        "libelleMatiere": "Demande d'arrêt de plan de redressement",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022baf"
+    },
+    "path": "30f305ab-cc2f-4ae5-9000-6b5fc6ca527c.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "9201_2020L02771_2025-04-09_29",
+        "idGroupement": "01",
+        "idJuridiction": "9201",
+        "libelleJuridiction": "NANTERRE",
+        "dateDecision": "20250409",
+        "numeroDossier": "2020L02771",
+        "idChambre": "10",
+        "libelleChambre": "Chambre des responsabilités et des sanctions",
+        "idMatiere": "471C_14",
+        "libelleMatiere": "Comblement de passif/interdiction de gérer ou faillite perso",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bb0"
+    },
+    "path": "f38b422e-71d9-4765-acca-c8c43c0312c7.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "9201_2023F00841_2025-01-08_23",
+        "idGroupement": "01",
+        "idJuridiction": "9201",
+        "libelleJuridiction": "NANTERRE",
+        "dateDecision": "20250108",
+        "numeroDossier": "2023F00841",
+        "idChambre": "06",
+        "libelleChambre": "6ème chambre",
+        "idMatiere": "561",
+        "libelleMatiere": "Demande paiement prestation/honoraires",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bb1"
+    },
+    "path": "6b0a5ad1-5c4e-4a6e-8550-805b2543be8d.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0202_2024F00057_2025-11-07_21",
+        "idGroupement": "01",
+        "idJuridiction": "0202",
+        "libelleJuridiction": "ST QUENTIN",
+        "dateDecision": "20251107",
+        "numeroDossier": "2024F00057",
+        "idChambre": "01",
+        "libelleChambre": "Chambre de contentieux général",
+        "idMatiere": "502",
+        "libelleMatiere": "Demande en paiement du prix de vente",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bb2"
+    },
+    "path": "62e59dd4-116d-4d24-ac9d-337fc9fcf39f.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0203_2024001745_2025-02-13_10",
+        "idGroupement": "02",
+        "idJuridiction": "0203",
+        "libelleJuridiction": "SOISSONS",
+        "dateDecision": "20250213",
+        "numeroDossier": "2024001745",
+        "idChambre": "1",
+        "libelleChambre": "Première Chambre - Contentieux général et contentieux des procédures collectives",
+        "idMatiere": "590",
+        "libelleMatiere": "Autres demandes / contrats divers",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bb3"
+    },
+    "path": "9ab15b6f-1d10-42ad-aa0f-bbba3f9d4664.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0203_2025000346_2025-03-27_3",
+        "idGroupement": "02",
+        "idJuridiction": "0203",
+        "libelleJuridiction": "SOISSONS",
+        "dateDecision": "20250327",
+        "numeroDossier": "2025000346",
+        "idChambre": "1",
+        "libelleChambre": "Première Chambre - Contentieux général et contentieux des procédures collectives",
+        "idMatiere": "502",
+        "libelleMatiere": "Prix en matière vente (Dde paiement/résolution non paiement)",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bb4"
+    },
+    "path": "bdcf6c81-e624-48ed-b990-78b89e34bedb.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0501_2024F00386_2025-02-19_4",
+        "idGroupement": "51",
+        "idJuridiction": "0501",
+        "libelleJuridiction": "GAP",
+        "dateDecision": "20250219",
+        "numeroDossier": "2024F00386",
+        "idChambre": "Audience de mise à disposition",
+        "libelleChambre": null,
+        "idMatiere": "NAT_MPO",
+        "libelleMatiere": "Maintien de la période d'observation",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bb5"
+    },
+    "path": "4e564abf-e36f-4b19-8de5-a935a28a5dd1.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0501_2025F00040_2025-03-05_3",
+        "idGroupement": "51",
+        "idJuridiction": "0501",
+        "libelleJuridiction": "GAP",
+        "dateDecision": "20250305",
+        "numeroDossier": "2025F00040",
+        "idChambre": "Audience de mise à disposition",
+        "libelleChambre": null,
+        "idMatiere": "NAT_4AF",
+        "libelleMatiere": "Demande d'ouverture de la procédure de LJ",
+        "idProcedure": "P",
+        "libelleProcedure": "PROCEDURES COLLECTIVES",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bb6"
+    },
+    "path": "02e40c24-fbbf-42ce-914c-9c0b1264d4ae.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0605_2023F00407_2025-02-03_17",
+        "idGroupement": "01",
+        "idJuridiction": "0605",
+        "libelleJuridiction": "NICE",
+        "dateDecision": "20250203",
+        "numeroDossier": "2023F00407",
+        "idChambre": "01",
+        "libelleChambre": "Chambre 1 contentieux général",
+        "idMatiere": "599",
+        "libelleMatiere": "Demande / contrat non qualifié",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bb7"
+    },
+    "path": "4117343b-c63f-4a81-b242-65c949035486.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0605_2024F00079_2025-02-03_18",
+        "idGroupement": "03",
+        "idJuridiction": "0605",
+        "libelleJuridiction": "NICE",
+        "dateDecision": "20250203",
+        "numeroDossier": "2024F00079",
+        "idChambre": "01",
+        "libelleChambre": "Chambre 1",
+        "idMatiere": "561",
+        "libelleMatiere": "Demande paiement prestation/honoraires",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bb8"
+    },
+    "path": "aea7b678-ab45-47ad-ac9b-f466d7520ace.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0605_2024F00154_2025-01-20_10",
+        "idGroupement": "01",
+        "idJuridiction": "0605",
+        "libelleJuridiction": "NICE",
+        "dateDecision": "20250120",
+        "numeroDossier": "2024F00154",
+        "idChambre": "01",
+        "libelleChambre": "Chambre 1 contentieux général",
+        "idMatiere": "532",
+        "libelleMatiere": "Demande en remboursement pret./caution",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bb9"
+    },
+    "path": "d6021281-2c17-4c62-afa2-10447086330c.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0605_2024L02089_2025-01-09_3",
+        "idGroupement": "01",
+        "idJuridiction": "0605",
+        "libelleJuridiction": "NICE",
+        "dateDecision": "20250109",
+        "numeroDossier": "2024L02089",
+        "idChambre": null,
+        "libelleChambre": null,
+        "idMatiere": "404",
+        "libelleMatiere": "Demande conversion liquidation judiciaire",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": false,
+          "adresse": false,
+          "dateCivile": false,
+          "plaqueImmatriculation": false,
+          "cadastre": false,
+          "chaineNumeroIdentifiante": false,
+          "coordonneeElectronique": false,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bba"
+    },
+    "path": "7717251a-95bd-4ff7-9bdc-badfa669e776.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0605_2024L02129_2025-01-08_2",
+        "idGroupement": "01",
+        "idJuridiction": "0605",
+        "libelleJuridiction": "NICE",
+        "dateDecision": "20250108",
+        "numeroDossier": "2024L02129",
+        "idChambre": "07",
+        "libelleChambre": "Chambre 7 contentieux liés",
+        "idMatiere": "SA16",
+        "libelleMatiere": "Prolongation de période d'observation",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bbb"
+    },
+    "path": "6b1dd58b-0111-4584-8c15-d80bd20bcdb7.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0605_2025F00003_2025-02-07_3",
+        "idGroupement": "01",
+        "idJuridiction": "0605",
+        "libelleJuridiction": "NICE",
+        "dateDecision": "20250207",
+        "numeroDossier": "2025F00003",
+        "idChambre": "05",
+        "libelleChambre": "Chambre 5 contentieux général",
+        "idMatiere": "561",
+        "libelleMatiere": "Demande paiement prestation/honoraires",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bbc"
+    },
+    "path": "1b7edebd-b1cc-4434-8728-d4bdb23746bc.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0605_2025L00052_2025-02-05_3",
+        "idGroupement": "01",
+        "idJuridiction": "0605",
+        "libelleJuridiction": "NICE",
+        "dateDecision": "20250205",
+        "numeroDossier": "2025L00052",
+        "idChambre": "07",
+        "libelleChambre": "Chambre 7 contentieux liés",
+        "idMatiere": "462",
+        "libelleMatiere": "Demande de poursuite de la période d'observation RJ",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bbd"
+    },
+    "path": "201b8c16-56a3-4f18-b532-c2393ffe63e3.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1203_2025001032_2025-03-11_2",
+        "idGroupement": "05",
+        "idJuridiction": "1203",
+        "libelleJuridiction": "RODEZ",
+        "dateDecision": "20250311",
+        "numeroDossier": "2025001032",
+        "idChambre": "CCF",
+        "libelleChambre": "CHAMBRE DES PROCEDURES COLLECTIVES",
+        "idMatiere": "A250",
+        "libelleMatiere": "Demande d'ouverture d'une procédure de liquidation judiciaire - L640",
+        "idProcedure": "P",
+        "libelleProcedure": "PROCEDURES COLLECTIVES",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bbe"
+    },
+    "path": "500636ea-3520-4863-b94d-996936c89600.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1203_2025001182_2025-03-18_2",
+        "idGroupement": "05",
+        "idJuridiction": "1203",
+        "libelleJuridiction": "RODEZ",
+        "dateDecision": "20250318",
+        "numeroDossier": "2025001182",
+        "idChambre": "CMC",
+        "libelleChambre": "AUDIENCE CONTENTIEUX DU MARDI",
+        "idMatiere": "A598",
+        "libelleMatiere": "ACTION RELATIVE A UN AUTRE CONTRAT",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bbf"
+    },
+    "path": "728d7364-d89b-42d8-af4e-d85a2d67fad8.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1303_2023F01543_2025-03-11_13",
+        "idGroupement": "01",
+        "idJuridiction": "1303",
+        "libelleJuridiction": "MARSEILLE",
+        "dateDecision": "20250311",
+        "numeroDossier": "2023F01543",
+        "idChambre": "06",
+        "libelleChambre": "Chambre 06",
+        "idMatiere": "599",
+        "libelleMatiere": "Demande / contrat non qualifié",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bc0"
+    },
+    "path": "1caeb65a-12d7-45bd-8c8c-87bd71604020.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1303_2022F01667_2025-04-25_18",
+        "idGroupement": "01",
+        "idJuridiction": "1303",
+        "libelleJuridiction": "MARSEILLE",
+        "dateDecision": "20250425",
+        "numeroDossier": "2022F01667",
+        "idChambre": "16",
+        "libelleChambre": "Chambre 16",
+        "idMatiere": "599",
+        "libelleMatiere": "Demande / contrat non qualifié",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bc1"
+    },
+    "path": "fcbc51d0-83be-4ac6-8b73-5b38e3e1e899.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1303_2024F01710_2025-02-06_5",
+        "idGroupement": "01",
+        "idJuridiction": "1303",
+        "libelleJuridiction": "MARSEILLE",
+        "dateDecision": "20250206",
+        "numeroDossier": "2024F01710",
+        "idChambre": "05",
+        "libelleChambre": "chambre 05",
+        "idMatiere": "599",
+        "libelleMatiere": "Demande / contrat non qualifié",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bc2"
+    },
+    "path": "ae6209e4-2e0c-4b93-9626-fa1fbb2efc48.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1303_2025F00147_2025-03-18_4",
+        "idGroupement": "01",
+        "idJuridiction": "1303",
+        "libelleJuridiction": "MARSEILLE",
+        "dateDecision": "20250318",
+        "numeroDossier": "2025F00147",
+        "idChambre": "05",
+        "libelleChambre": "chambre 05",
+        "idMatiere": "599",
+        "libelleMatiere": "Demande / contrat non qualifié",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bc3"
+    },
+    "path": "b2e3cfe7-d4d8-410c-9f27-f1364603b43f.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1303_2025F00208_2025-04-22_4",
+        "idGroupement": "01",
+        "idJuridiction": "1303",
+        "libelleJuridiction": "MARSEILLE",
+        "dateDecision": "20250422",
+        "numeroDossier": "2025F00208",
+        "idChambre": "05",
+        "libelleChambre": "chambre 05",
+        "idMatiere": "592",
+        "libelleMatiere": "Demande / contrat location de véhicule automobile",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bc4"
+    },
+    "path": "c9e75406-174a-4380-bacb-abd202bdeabe.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0101_2025J08006_2025-11-07_3",
+        "idGroupement": "51",
+        "idJuridiction": "0101",
+        "libelleJuridiction": "BOURG-EN-BRESSE",
+        "dateDecision": "20251107",
+        "numeroDossier": "2025J08006",
+        "idChambre": "AUDIENCE CONTENTIEUX (Audience Publique)",
+        "libelleChambre": null,
+        "idMatiere": "NAT_31B",
+        "libelleMatiere": "Demande en paiement du prix et/ou tendant à faire sanctionner le non-paiement du prix",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bc5"
+    },
+    "path": "dfdebacc-2250-4e21-91bc-39dce99ac475.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0605_2024F00609_2025-11-13_13",
+        "idGroupement": "03",
+        "idJuridiction": "0605",
+        "libelleJuridiction": "NICE",
+        "dateDecision": "20251113",
+        "numeroDossier": "2024F00609",
+        "idChambre": "03",
+        "libelleChambre": "Chambre 3",
+        "idMatiere": "532",
+        "libelleMatiere": "Demande en remboursement pret./caution",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bc6"
+    },
+    "path": "6e1bfd05-5a39-4fba-91c4-6855696bb0e6.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0605_2024F00128_2025-11-13_37",
+        "idGroupement": "03",
+        "idJuridiction": "0605",
+        "libelleJuridiction": "NICE",
+        "dateDecision": "20251113",
+        "numeroDossier": "2024F00128",
+        "idChambre": "03",
+        "libelleChambre": "Chambre 3",
+        "idMatiere": "382",
+        "libelleMatiere": "Demande paiement solde compte bancaire",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bc7"
+    },
+    "path": "264d39da-d919-4298-a131-eb7e207e79a5.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1303_2025R00101_2025-04-24_4",
+        "idGroupement": "01",
+        "idJuridiction": "1303",
+        "libelleJuridiction": "MARSEILLE",
+        "dateDecision": "20250424",
+        "numeroDossier": "2025R00101",
+        "idChambre": "SH",
+        "libelleChambre": "SALON D'HONNEUR",
+        "idMatiere": "502",
+        "libelleMatiere": "Demande en paiement du prix de vente",
+        "idProcedure": "R",
+        "libelleProcedure": "REFERE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bc8"
+    },
+    "path": "530de6b2-19bc-40c7-ac51-6534ae9651bf.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1402_2023006848_2025-11-12_11",
+        "idGroupement": "05",
+        "idJuridiction": "1402",
+        "libelleJuridiction": "CAEN",
+        "dateDecision": "20251112",
+        "numeroDossier": "2023006848",
+        "idChambre": "CG4",
+        "libelleChambre": "Contentieux général - chambre 4",
+        "idMatiere": "A502",
+        "libelleMatiere": "Action en paiement du prix ou en sanction du non-paiement",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bc9"
+    },
+    "path": "d164a7b6-2326-4000-b43b-4fe6f3602a75.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1402_2022000256_2025-03-26_12",
+        "idGroupement": "05",
+        "idJuridiction": "1402",
+        "libelleJuridiction": "CAEN",
+        "dateDecision": "20250326",
+        "numeroDossier": "2022000256",
+        "idChambre": "CG2",
+        "libelleChambre": "Contentieux général - chambre 2",
+        "idMatiere": "A589",
+        "libelleMatiere": "AUTRES DEMANDES RELATIVES AU CONTRAT D ASSURANCE",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bca"
+    },
+    "path": "ed9571c3-1c8a-404a-b6e0-b3b3f7fd1131.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1402_2025001743_2025-04-30_2",
+        "idGroupement": "05",
+        "idJuridiction": "1402",
+        "libelleJuridiction": "CAEN",
+        "dateDecision": "20250430",
+        "numeroDossier": "2025001743",
+        "idChambre": "CG5",
+        "libelleChambre": "Contentieux général - chambre 5",
+        "idMatiere": "A502",
+        "libelleMatiere": "Action en paiement du prix ou en sanction du non-paiement",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": false,
+          "adresse": false,
+          "dateCivile": false,
+          "plaqueImmatriculation": false,
+          "cadastre": false,
+          "chaineNumeroIdentifiante": false,
+          "coordonneeElectronique": false,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bcb"
+    },
+    "path": "ff78faae-1fd7-46f1-b929-ba1d452f762e.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1402_2025007851_2025-11-06_3",
+        "idGroupement": "05",
+        "idJuridiction": "1402",
+        "libelleJuridiction": "CAEN",
+        "dateDecision": "20251106",
+        "numeroDossier": "2025007851",
+        "idChambre": "DEL3",
+        "libelleChambre": "Référés (délibérés)",
+        "idMatiere": "A905",
+        "libelleMatiere": "PROVISION (REFERE)",
+        "idProcedure": "R",
+        "libelleProcedure": "REFERE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bcc"
+    },
+    "path": "b98d522b-59f7-41b5-add8-430fc1babc1b.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1704_2025000547_2025-03-04_2",
+        "idGroupement": "05",
+        "idJuridiction": "1704",
+        "libelleJuridiction": "LA ROCHELLE",
+        "dateDecision": "20250304",
+        "numeroDossier": "2025000547",
+        "idChambre": "PC",
+        "libelleChambre": "PROCEDURES COLLECTIVES",
+        "idMatiere": "A25203",
+        "libelleMatiere": "Prononcé de la liquidation judiciaire au cours du redressement judiciaire sans activité - L631-15-II et L641-1-III",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bcd"
+    },
+    "path": "4abf9cef-96c4-4add-82a2-c4d22b460e8d.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1704_2025004007_2025-11-12_3",
+        "idGroupement": "05",
+        "idJuridiction": "1704",
+        "libelleJuridiction": "LA ROCHELLE",
+        "dateDecision": "20251112",
+        "numeroDossier": "2025004007",
+        "idChambre": "PC",
+        "libelleChambre": "PROCEDURES COLLECTIVES",
+        "idMatiere": "A2202",
+        "libelleMatiere": "Poursuite de la période d'observation (2 mois après jugement d'ouverture) (RJ) - L631-15-I",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bce"
+    },
+    "path": "7de5e7a0-d649-4d84-a95a-8b4931d7963c.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1901_2024R00031_2025-04-28_8",
+        "idGroupement": "01",
+        "idJuridiction": "1901",
+        "libelleJuridiction": "BRIVE",
+        "dateDecision": "20250428",
+        "numeroDossier": "2024R00031",
+        "idChambre": "02",
+        "libelleChambre": "Référé",
+        "idMatiere": "562",
+        "libelleMatiere": "Demande en dommages-intérêts contre le prestataire de services pour mauvaise exécution",
+        "idProcedure": "R",
+        "libelleProcedure": "REFERE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bcf"
+    },
+    "path": "cc5cd750-ffb8-4bf4-82da-a83babb38f0d.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2104_2023001004_2025-02-06_11",
+        "idGroupement": "05",
+        "idJuridiction": "2104",
+        "libelleJuridiction": "DIJON",
+        "dateDecision": "20250206",
+        "numeroDossier": "2023001004",
+        "idChambre": "1",
+        "libelleChambre": "AFFAIRE COURANTE",
+        "idMatiere": "A502",
+        "libelleMatiere": "ACTION EN PAIEMENT DU PRIX OU EN SANCTION DU NON PAIEMENT",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bd0"
+    },
+    "path": "7ad7b271-194e-4433-b8d2-571a1e80c6ad.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2104_2023001174_2025-03-27_14",
+        "idGroupement": "05",
+        "idJuridiction": "2104",
+        "libelleJuridiction": "DIJON",
+        "dateDecision": "20250327",
+        "numeroDossier": "2023001174",
+        "idChambre": "1",
+        "libelleChambre": "AFFAIRE COURANTE",
+        "idMatiere": "A609",
+        "libelleMatiere": "ACTION EN DOMMAGES ET INTERETS",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bd1"
+    },
+    "path": "b50a6ecb-6275-47d9-98fa-c559c4e42772.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2104_2025001262_2025-03-26_3",
+        "idGroupement": "05",
+        "idJuridiction": "2104",
+        "libelleJuridiction": "DIJON",
+        "dateDecision": "20250326",
+        "numeroDossier": "2025001262",
+        "idChambre": "3",
+        "libelleChambre": "R E F E R E",
+        "idMatiere": "A905",
+        "libelleMatiere": "PROVISION (REFERE)",
+        "idProcedure": "R",
+        "libelleProcedure": "REFERE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bd2"
+    },
+    "path": "c5124f93-0e34-455d-971d-a5d5344c5ce1.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2104_2025001492_2025-03-18_2",
+        "idGroupement": "05",
+        "idJuridiction": "2104",
+        "libelleJuridiction": "DIJON",
+        "dateDecision": "20250318",
+        "numeroDossier": "2025001492",
+        "idChambre": "2",
+        "libelleChambre": "PROCEDURE COLLECTIVE",
+        "idMatiere": "A200",
+        "libelleMatiere": "Demande d'ouverture de la procédure de redressement judiciaire - L631-1",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bd3"
+    },
+    "path": "eb3515cd-54ae-41df-bbaa-8eda0a9a0d26.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2801_2024F01128_2025-03-28_3",
+        "idGroupement": "51",
+        "idJuridiction": "2801",
+        "libelleJuridiction": "CHARTRES",
+        "dateDecision": "20250328",
+        "numeroDossier": "2024F01128",
+        "idChambre": "Audience de mise à disposition procédure",
+        "libelleChambre": null,
+        "idMatiere": "NAT_PLAN_SAUV",
+        "libelleMatiere": "Demande d'arrêt du plan de sauvegarde",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bd4"
+    },
+    "path": "b699ab4f-5922-4bb3-8eb4-1ad8e4fb9dca.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2801_2024F00819_2025-01-15_3",
+        "idGroupement": "51",
+        "idJuridiction": "2801",
+        "libelleJuridiction": "CHARTRES",
+        "dateDecision": "20250115",
+        "numeroDossier": "2024F00819",
+        "idChambre": "Audience de mise à disposition procédure",
+        "libelleChambre": null,
+        "idMatiere": "NAT_EXAMCLOT",
+        "libelleMatiere": "Examen de la clôture de la PC",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bd5"
+    },
+    "path": "fb06b8fc-72f8-420b-8547-1e600b27c3d4.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2801_2024F01614_2025-02-20_2",
+        "idGroupement": "51",
+        "idJuridiction": "2801",
+        "libelleJuridiction": "CHARTRES",
+        "dateDecision": "20250220",
+        "numeroDossier": "2024F01614",
+        "idChambre": "Chambre du Conseil",
+        "libelleChambre": null,
+        "idMatiere": "NAT_4AL",
+        "libelleMatiere": "demande de conversion en liquidation judiciaire",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bd6"
+    },
+    "path": "e9f68c15-06f3-4505-8f96-20b812182124.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2801_2024J00212_2025-03-05_4",
+        "idGroupement": "51",
+        "idJuridiction": "2801",
+        "libelleJuridiction": "CHARTRES",
+        "dateDecision": "20250305",
+        "numeroDossier": "2024J00212",
+        "idChambre": "Audience de mise à disposition contentieux",
+        "libelleChambre": null,
+        "idMatiere": "NAT_31B",
+        "libelleMatiere": "Demande en paiement du prix et/ou tendant à faire sanctionner le non-paiement du prix",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bd7"
+    },
+    "path": "fb4745ae-831e-425e-8cd0-e362e5133fea.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2801_2024J00185_2025-04-10_7",
+        "idGroupement": "51",
+        "idJuridiction": "2801",
+        "libelleJuridiction": "CHARTRES",
+        "dateDecision": "20250410",
+        "numeroDossier": "2024J00185",
+        "idChambre": "Audience de mise à disposition contentieux",
+        "libelleChambre": null,
+        "idMatiere": "NAT_31B",
+        "libelleMatiere": "Demande en paiement du prix et/ou tendant à faire sanctionner le non-paiement du prix",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f072d84c62a8022bd8"
+    },
+    "path": "a53c65f3-e00e-4687-b8c8-143f60c313de.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2801_2025F00120_2025-03-27_2",
+        "idGroupement": "51",
+        "idJuridiction": "2801",
+        "libelleJuridiction": "CHARTRES",
+        "dateDecision": "20250327",
+        "numeroDossier": "2025F00120",
+        "idChambre": "Chambre du Conseil",
+        "libelleChambre": null,
+        "idMatiere": "NAT_PPO",
+        "libelleMatiere": "Poursuite de la période d'observation",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bd9"
+    },
+    "path": "8e59abc3-bd32-4d88-8fa7-65ae54dc580d.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2801_2025F00328_2025-04-24_2",
+        "idGroupement": "51",
+        "idJuridiction": "2801",
+        "libelleJuridiction": "CHARTRES",
+        "dateDecision": "20250424",
+        "numeroDossier": "2025F00328",
+        "idChambre": "Chambre du Conseil",
+        "libelleChambre": null,
+        "idMatiere": "NAT_4AE SUB LJ",
+        "libelleMatiere": "demande d'ouverture de redressement en subsidiaire liquidation judiciaire",
+        "idProcedure": "P",
+        "libelleProcedure": "PROCEDURES COLLECTIVES",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bda"
+    },
+    "path": "1a5ad4b5-91d6-4c5b-bf17-9159749322c7.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2801_2025F00125_2025-03-27_2",
+        "idGroupement": "51",
+        "idJuridiction": "2801",
+        "libelleJuridiction": "CHARTRES",
+        "dateDecision": "20250327",
+        "numeroDossier": "2025F00125",
+        "idChambre": "Chambre du Conseil",
+        "libelleChambre": null,
+        "idMatiere": "NAT_PXPO",
+        "libelleMatiere": "Prolongation exceptionnelle de la période d'observation en RJ",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bdb"
+    },
+    "path": "9870095d-e430-4d41-98fc-433ead88640e.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2801_2025F00362_2025-04-17_2",
+        "idGroupement": "51",
+        "idJuridiction": "2801",
+        "libelleJuridiction": "CHARTRES",
+        "dateDecision": "20250417",
+        "numeroDossier": "2025F00362",
+        "idChambre": "Chambre du Conseil",
+        "libelleChambre": null,
+        "idMatiere": "NAT_4AE SUB LJ",
+        "libelleMatiere": "demande d'ouverture de redressement en subsidiaire liquidation judiciaire",
+        "idProcedure": "P",
+        "libelleProcedure": "PROCEDURES COLLECTIVES",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bdc"
+    },
+    "path": "bf08538d-d143-4fad-9c09-6a603709d569.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2801_2025J00005_2025-03-25_4",
+        "idGroupement": "51",
+        "idJuridiction": "2801",
+        "libelleJuridiction": "CHARTRES",
+        "dateDecision": "20250325",
+        "numeroDossier": "2025J00005",
+        "idChambre": "AUDIENCE DE CONTENTIEUX",
+        "libelleChambre": null,
+        "idMatiere": "NAT_56B",
+        "libelleMatiere": "Demande en paiement du prix, ou des honoraires formée contre le client et/ou tendant à faire sanctio",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bdd"
+    },
+    "path": "4a56a913-e669-4583-a128-402a2947c583.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2901_2022001969_2025-02-07_22",
+        "idGroupement": "05",
+        "idJuridiction": "2901",
+        "libelleJuridiction": "BREST",
+        "dateDecision": "20250207",
+        "numeroDossier": "2022001969",
+        "idChambre": "1",
+        "libelleChambre": "AFFAIRE COURANTE",
+        "idMatiere": "A584",
+        "libelleMatiere": "ACTION EN PAIEMENT DE L INDEMNITE D ASSURANCE DANS UNE ASSURANCE DE DOMMAGES AUTRES QU UNE ASSURANCE DE RESPONSABILITE",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bde"
+    },
+    "path": "4bc3d499-41f1-46f3-819f-a75ae6b38a4b.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "2901_2023003111_2025-03-07_13",
+        "idGroupement": "05",
+        "idJuridiction": "2901",
+        "libelleJuridiction": "BREST",
+        "dateDecision": "20250307",
+        "numeroDossier": "2023003111",
+        "idChambre": "1",
+        "libelleChambre": "AFFAIRE COURANTE",
+        "idMatiere": "A903",
+        "libelleMatiere": "INJONCTION DE PAYER",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bdf"
+    },
+    "path": "f7e68cca-1b1f-4498-90b5-3ad2b12e2538.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3102_2024004398_2025-01-30_3",
+        "idGroupement": "02",
+        "idJuridiction": "3102",
+        "libelleJuridiction": "TOULOUSE",
+        "dateDecision": "20250130",
+        "numeroDossier": "2024004398",
+        "idChambre": "MAD.JE",
+        "libelleChambre": "DECISIONS RENDUES PAR MISE A DISPOSITION",
+        "idMatiere": "681",
+        "libelleMatiere": "Demande de maintien de la période d'observation",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022be0"
+    },
+    "path": "4b7b2d88-7ca1-4cbe-a04c-bc09735d7042.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3102_2024F00608_2025-02-03_11",
+        "idGroupement": "02",
+        "idJuridiction": "3102",
+        "libelleJuridiction": "TOULOUSE",
+        "dateDecision": "20250203",
+        "numeroDossier": "2024F00608",
+        "idChambre": "MAD.LU",
+        "libelleChambre": "DECISIONS RENDUES PAR MISE A DISPOSITION",
+        "idMatiere": "605",
+        "libelleMatiere": "Demande liquidation judiciaire sur résolution du plan redressement ou de sauvegarde",
+        "idProcedure": "P",
+        "libelleProcedure": "PROCEDURES COLLECTIVES",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022be1"
+    },
+    "path": "52e19854-2e44-4fae-a291-91075dc76ca3.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3102_2025000768_2025-03-31_4",
+        "idGroupement": "02",
+        "idJuridiction": "3102",
+        "libelleJuridiction": "TOULOUSE",
+        "dateDecision": "20250331",
+        "numeroDossier": "2025000768",
+        "idChambre": "MAD.LU",
+        "libelleChambre": "DECISIONS RENDUES PAR MISE A DISPOSITION",
+        "idMatiere": "406",
+        "libelleMatiere": "Résolution du plan de continuation et ouverture LJ",
+        "idProcedure": "P",
+        "libelleProcedure": "PROCEDURES COLLECTIVES",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022be2"
+    },
+    "path": "c8ce405f-69bf-4de3-839e-f4927e3724a1.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3102_J2025000038_2025-03-26_3",
+        "idGroupement": "02",
+        "idJuridiction": "3102",
+        "libelleJuridiction": "TOULOUSE",
+        "dateDecision": "20250326",
+        "numeroDossier": "J2025000038",
+        "idChambre": "CX.ME",
+        "libelleChambre": "Audience publique de contentieux (1er ETAGE)",
+        "idMatiere": "570",
+        "libelleMatiere": "Demande de paiement ou en indemnisation par intermédiaire",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022be3"
+    },
+    "path": "baa4fa85-5ccb-4261-bdbc-4db5a5af2628.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3102_J2025000072_2025-04-02_2",
+        "idGroupement": "02",
+        "idJuridiction": "3102",
+        "libelleJuridiction": "TOULOUSE",
+        "dateDecision": "20250402",
+        "numeroDossier": "J2025000072",
+        "idChambre": "CX.ME",
+        "libelleChambre": "Audience publique de contentieux (1er ETAGE)",
+        "idMatiere": "598",
+        "libelleMatiere": "Autres contrats",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022be4"
+    },
+    "path": "eaca38d7-c8f4-403f-874f-781f75e2f178.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3302_2024R01343_2025-04-15_7",
+        "idGroupement": "01",
+        "idJuridiction": "3302",
+        "libelleJuridiction": "BORDEAUX",
+        "dateDecision": "20250415",
+        "numeroDossier": "2024R01343",
+        "idChambre": "15",
+        "libelleChambre": "REFERES DELIBERE M. PASSAULT",
+        "idMatiere": "353",
+        "libelleMatiere": "Désignation d'expert",
+        "idProcedure": "R",
+        "libelleProcedure": "REFERE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022be5"
+    },
+    "path": "3d2194f2-9481-4b65-aa3c-e8752913d880.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3302_2024R01690_2025-03-18_3",
+        "idGroupement": "01",
+        "idJuridiction": "3302",
+        "libelleJuridiction": "BORDEAUX",
+        "dateDecision": "20250318",
+        "numeroDossier": "2024R01690",
+        "idChambre": "08",
+        "libelleChambre": "REFERES",
+        "idMatiere": "502",
+        "libelleMatiere": "Demande en paiement du prix de vente",
+        "idProcedure": "R",
+        "libelleProcedure": "REFERE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022be6"
+    },
+    "path": "8dd3576d-2aec-44ec-b47f-8aa2dadc2422.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3302_2025R00104_2025-04-29_7",
+        "idGroupement": "01",
+        "idJuridiction": "3302",
+        "libelleJuridiction": "BORDEAUX",
+        "dateDecision": "20250429",
+        "numeroDossier": "2025R00104",
+        "idChambre": "22",
+        "libelleChambre": "REFERES DELIBERE M. SALAUN",
+        "idMatiere": "502",
+        "libelleMatiere": "Demande en paiement du prix de vente",
+        "idProcedure": "R",
+        "libelleProcedure": "REFERE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022be7"
+    },
+    "path": "77fe5420-b352-4915-96be-530a3b9d6e04.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3302_2025R00121_2025-04-01_4",
+        "idGroupement": "01",
+        "idJuridiction": "3302",
+        "libelleJuridiction": "BORDEAUX",
+        "dateDecision": "20250401",
+        "numeroDossier": "2025R00121",
+        "idChambre": "08",
+        "libelleChambre": "REFERES",
+        "idMatiere": "502",
+        "libelleMatiere": "Demande en paiement du prix de vente",
+        "idProcedure": "R",
+        "libelleProcedure": "REFERE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022be8"
+    },
+    "path": "38165135-3a5b-421d-9f34-06f7c843ce0d.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3302_2025R00135_2025-04-08_6",
+        "idGroupement": "01",
+        "idJuridiction": "3302",
+        "libelleJuridiction": "BORDEAUX",
+        "dateDecision": "20250408",
+        "numeroDossier": "2025R00135",
+        "idChambre": "22",
+        "libelleChambre": "REFERES DELIBERE M. SALAUN",
+        "idMatiere": "502",
+        "libelleMatiere": "Demande en paiement du prix de vente",
+        "idProcedure": "R",
+        "libelleProcedure": "REFERE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022be9"
+    },
+    "path": "1323c49d-4683-4d77-b6b7-ba70ca956866.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3303_2024001351_2025-03-21_8",
+        "idGroupement": "02",
+        "idJuridiction": "3303",
+        "libelleJuridiction": "LIBOURNE",
+        "dateDecision": "20250321",
+        "numeroDossier": "2024001351",
+        "idChambre": "3DB",
+        "libelleChambre": "CHAMBRE DES DELIBERES - CONTENTIEUX",
+        "idMatiere": "599",
+        "libelleMatiere": "Contrat non qualifié / Demande en paiement",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bea"
+    },
+    "path": "05e328f2-0bcc-40d5-aec2-e6aa49477cc0.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3303_2024003898_2025-02-24_5",
+        "idGroupement": "02",
+        "idJuridiction": "3303",
+        "libelleJuridiction": "LIBOURNE",
+        "dateDecision": "20250224",
+        "numeroDossier": "2024003898",
+        "idChambre": "3DB",
+        "libelleChambre": "CHAMBRE DES DELIBERES - CONTENTIEUX",
+        "idMatiere": "599",
+        "libelleMatiere": "Contrat non qualifié / Demande en paiement",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022beb"
+    },
+    "path": "fee23df1-62ef-4674-ab9e-755874db9887.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3402_2024002220_2025-03-31_10",
+        "idGroupement": "05",
+        "idJuridiction": "3402",
+        "libelleJuridiction": "BEZIERS",
+        "dateDecision": "20250331",
+        "numeroDossier": "2024002220",
+        "idChambre": "1",
+        "libelleChambre": "AFFAIRES COURANTES PREMIERE CHAMBRE",
+        "idMatiere": "A532",
+        "libelleMatiere": "PRET: ACTION EN REMBOURSEMENT CONTRE EMPRUNTEUR ET/OU CAUTION",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bec"
+    },
+    "path": "fa09df5a-557b-4ede-bde6-eba1fba9ebc8.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3402_2024002444_2025-03-24_9",
+        "idGroupement": "05",
+        "idJuridiction": "3402",
+        "libelleJuridiction": "BEZIERS",
+        "dateDecision": "20250324",
+        "numeroDossier": "2024002444",
+        "idChambre": "1",
+        "libelleChambre": "AFFAIRES COURANTES PREMIERE CHAMBRE",
+        "idMatiere": "A502",
+        "libelleMatiere": "ACTION EN PAIEMENT DU PRIX OU EN SANCTION DU NON PAIEMENT",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bed"
+    },
+    "path": "34744f6e-2bc7-462e-a5e9-439f87ac2b11.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0605_2025F00180_2025-11-13_11",
+        "idGroupement": "03",
+        "idJuridiction": "0605",
+        "libelleJuridiction": "NICE",
+        "dateDecision": "20251113",
+        "numeroDossier": "2025F00180",
+        "idChambre": "03",
+        "libelleChambre": "Chambre 3",
+        "idMatiere": "599",
+        "libelleMatiere": "Demande / contrat non qualifié",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bee"
+    },
+    "path": "e3178912-98ea-435d-8f4b-0590f28ee9e6.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3102_2024F02509_2025-01-09_8",
+        "idGroupement": "02",
+        "idJuridiction": "3102",
+        "libelleJuridiction": "TOULOUSE",
+        "dateDecision": "20250109",
+        "numeroDossier": "2024F02509",
+        "idChambre": "MAD.JE",
+        "libelleChambre": "DECISIONS RENDUES PAR MISE A DISPOSITION",
+        "idMatiere": "800",
+        "libelleMatiere": "Demande en revendication JC",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bef"
+    },
+    "path": "6199c42f-ccee-4270-be51-3faabed38716.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3402_2024007701_2025-03-19_3",
+        "idGroupement": "05",
+        "idJuridiction": "3402",
+        "libelleJuridiction": "BEZIERS",
+        "dateDecision": "20250319",
+        "numeroDossier": "2024007701",
+        "idChambre": "2",
+        "libelleChambre": "PROCEDURE COLLECTIVE",
+        "idMatiere": "A2203",
+        "libelleMatiere": "Examen de la situation de l'entreprise au cours de la période d'observation (RJ) - R622-9",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bf0"
+    },
+    "path": "8538b6c3-26db-445f-b75e-fe316ac37bbc.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3402_2025001805_2025-04-28_3",
+        "idGroupement": "05",
+        "idJuridiction": "3402",
+        "libelleJuridiction": "BEZIERS",
+        "dateDecision": "20250428",
+        "numeroDossier": "2025001805",
+        "idChambre": "3",
+        "libelleChambre": "R E F E R E",
+        "idMatiere": "A502",
+        "libelleMatiere": "ACTION EN PAIEMENT DU PRIX OU EN SANCTION DU NON PAIEMENT",
+        "idProcedure": "R",
+        "libelleProcedure": "REFERE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": true,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bf1"
+    },
+    "path": "58c78469-e544-477c-b601-6037b7701717.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3501_2022F00291_2025-02-04_29",
+        "idGroupement": "01",
+        "idJuridiction": "3501",
+        "libelleJuridiction": "RENNES",
+        "dateDecision": "20250204",
+        "numeroDossier": "2022F00291",
+        "idChambre": "D1",
+        "libelleChambre": "DELIBERE 1ERE CHAMBRE",
+        "idMatiere": "N0389",
+        "libelleMatiere": "Droit bancaire et Effets de commerce : autres demandes",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bf2"
+    },
+    "path": "50760500-7bb1-4a51-adf2-e7d4f49049f8.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3501_2024F00007_2025-04-01_13",
+        "idGroupement": "01",
+        "idJuridiction": "3501",
+        "libelleJuridiction": "RENNES",
+        "dateDecision": "20250401",
+        "numeroDossier": "2024F00007",
+        "idChambre": "D1",
+        "libelleChambre": "DELIBERE 1ERE CHAMBRE",
+        "idMatiere": "N0533",
+        "libelleMatiere": "Prêt : autres demandes",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bf3"
+    },
+    "path": "6fcfad61-373b-4d68-8741-4a719b30c6cf.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3501_2024F00064_2025-04-03_10",
+        "idGroupement": "01",
+        "idJuridiction": "3501",
+        "libelleJuridiction": "RENNES",
+        "dateDecision": "20250403",
+        "numeroDossier": "2024F00064",
+        "idChambre": "D3",
+        "libelleChambre": "DELIBERE 3EME CHAMBRE",
+        "idMatiere": "N0389",
+        "libelleMatiere": "Droit bancaire et Effets de commerce : autres demandes",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bf4"
+    },
+    "path": "af91778f-541a-4f2b-87b5-8360a28ab0ca.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3501_2024F00220_2025-02-13_11",
+        "idGroupement": "01",
+        "idJuridiction": "3501",
+        "libelleJuridiction": "RENNES",
+        "dateDecision": "20250213",
+        "numeroDossier": "2024F00220",
+        "idChambre": "D2",
+        "libelleChambre": "DELIBERE 2EME CHAMBRE",
+        "idMatiere": "N0591",
+        "libelleMatiere": "Contrat de prêt à usage ou dépôt : demande exécution ou dommages et intérêts",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bf5"
+    },
+    "path": "ff969d9d-08df-4e7f-b499-1cacf471b202.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3501_2024F00252_2025-03-20_12",
+        "idGroupement": "01",
+        "idJuridiction": "3501",
+        "libelleJuridiction": "RENNES",
+        "dateDecision": "20250320",
+        "numeroDossier": "2024F00252",
+        "idChambre": "D3",
+        "libelleChambre": "DELIBERE 3EME CHAMBRE",
+        "idMatiere": "N0533",
+        "libelleMatiere": "Prêt : autres demandes",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bf6"
+    },
+    "path": "f71854e4-ce46-4457-8aa0-f24f84aaaab4.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3501_2024F00438_2025-03-18_6",
+        "idGroupement": "01",
+        "idJuridiction": "3501",
+        "libelleJuridiction": "RENNES",
+        "dateDecision": "20250318",
+        "numeroDossier": "2024F00438",
+        "idChambre": "D1",
+        "libelleChambre": "DELIBERE 1ERE CHAMBRE",
+        "idMatiere": "N0502",
+        "libelleMatiere": "Vente : demande en paiement du prix ou demande de résolution vente pour non paiement",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bf7"
+    },
+    "path": "8f40fae1-2727-40dd-834c-8ffdb01b2dfc.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3501_2025L00541_2025-04-30_2",
+        "idGroupement": "01",
+        "idJuridiction": "3501",
+        "libelleJuridiction": "RENNES",
+        "dateDecision": "20250430",
+        "numeroDossier": "2025L00541",
+        "idChambre": "PB",
+        "libelleChambre": "CHAMBRE B PROCEDURES COLLECTIVES",
+        "idMatiere": "N0663",
+        "libelleMatiere": "Loi 2005 : Autres demandes en cours de procédure liquidation Judiciaire",
+        "idProcedure": "L",
+        "libelleProcedure": "CONTENTIEUX LIE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bf8"
+    },
+    "path": "1c2a4389-cd8e-435e-9003-db1d60b2fac8.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3701_2023007763_2025-01-10_9",
+        "idGroupement": "02",
+        "idJuridiction": "3701",
+        "libelleJuridiction": "TOURS",
+        "dateDecision": "20250110",
+        "numeroDossier": "2023007763",
+        "idChambre": "2PRAG",
+        "libelleChambre": "Délibéré par remise au Greffe chambre 2",
+        "idMatiere": "532",
+        "libelleMatiere": "Paiement par caution du solde du prêt",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bf9"
+    },
+    "path": "f957031a-e75c-4d15-aba0-a8c32a6106a8.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "0605_2025RG02297_2025-11-18_4",
+        "idGroupement": "03",
+        "idJuridiction": "0605",
+        "libelleJuridiction": "NICE",
+        "dateDecision": "20251118",
+        "numeroDossier": "2025RG02297",
+        "idChambre": "10",
+        "libelleChambre": "Référés",
+        "idMatiere": "562",
+        "libelleMatiere": "Demande en dommages-intérêts contre le prestataire de services pour mauvaise exécution",
+        "idProcedure": "R",
+        "libelleProcedure": "REFERE",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bfa"
+    },
+    "path": "41cb4655-23cc-4832-9726-28bbc6614d16.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1303_2025F01163_2025-11-18_8",
+        "idGroupement": "01",
+        "idJuridiction": "1303",
+        "libelleJuridiction": "MARSEILLE",
+        "dateDecision": "20251118",
+        "numeroDossier": "2025F01163",
+        "idChambre": "07",
+        "libelleChambre": "Chambre 07",
+        "idMatiere": "599",
+        "libelleMatiere": "Demande / contrat non qualifié",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bfb"
+    },
+    "path": "1ef6e335-161a-4ce4-9a46-178374ec7600.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "1303_2025F01298_2025-11-18_4",
+        "idGroupement": "01",
+        "idJuridiction": "1303",
+        "libelleJuridiction": "MARSEILLE",
+        "dateDecision": "20251118",
+        "numeroDossier": "2025F01298",
+        "idChambre": "05",
+        "libelleChambre": "chambre 05",
+        "idMatiere": "531",
+        "libelleMatiere": "Demande remboursement pret./locataire (seul)",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bfc"
+    },
+    "path": "7507bff6-ddc3-43e6-a30e-61495964b080.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3102_2024004620_2025-11-18_10",
+        "idGroupement": "02",
+        "idJuridiction": "3102",
+        "libelleJuridiction": "TOULOUSE",
+        "dateDecision": "20251118",
+        "numeroDossier": "2024004620",
+        "idChambre": "CX.MA",
+        "libelleChambre": "Audience publique de contentieux (1er ETAGE)",
+        "idMatiere": "502",
+        "libelleMatiere": "Prix en matière vente (Dde paiement/résolution non paiement)",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6a2a60f172d84c62a8022bfd"
+    },
+    "path": "be5f077e-db8f-4bf4-a59c-a87ba6530c7a.pdf",
+    "metadatas": {
+      "texteDecisionIntegre": "[FACTICE]",
+      "metadonnees": {
+        "idDecision": "3102_2024J00315_2025-11-18_20",
+        "idGroupement": "02",
+        "idJuridiction": "3102",
+        "libelleJuridiction": "TOULOUSE",
+        "dateDecision": "20251118",
+        "numeroDossier": "2024J00315",
+        "idChambre": "CX.MA",
+        "libelleChambre": "Audience publique de contentieux (1er ETAGE)",
+        "idMatiere": "N_56B",
+        "libelleMatiere": "Demande en paiement du prix, ou des honoraires formée contre le client et/ou tendant à faire sanctio",
+        "idProcedure": "F",
+        "libelleProcedure": "FOND",
+        "decisionPublique": true,
+        "debatChambreDuConseil": false,
+        "interetParticulier": false,
+        "composition": null,
+        "parties": null,
+        "occultationsComplementaires": {
+          "personneMorale": false,
+          "personnePhysicoMoraleGeoMorale": true,
+          "adresse": true,
+          "dateCivile": true,
+          "plaqueImmatriculation": true,
+          "cadastre": true,
+          "chaineNumeroIdentifiante": true,
+          "coordonneeElectronique": true,
+          "professionnelMagistratGreffier": false,
+          "motifsDebatsChambreConseil": false,
+          "motifsSecretAffaires": false,
+          "conserverElement": null,
+          "supprimerElement": null
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "created",
+        "date": {
+          "$date": "2026-06-11T07:16:44Z"
+        }
+      }
+    ]
+  }
+]

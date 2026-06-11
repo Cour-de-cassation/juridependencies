@@ -17,11 +17,6 @@ const {
   BUCKET_ACCESS_SECRET,
   BUCKET_PORT,
   BUCKET_JURITJ_NAME_RAW,
-  BUCKET_JURITCOM_NAME_NORMALIZED,
-  BUCKET_JURITCOM_NAME_RAW,
-  BUCKET_JURITCOM_NAME_PDF2TEXT_SUCCESS,
-  BUCKET_JURITCOM_NAME_DECISION_FAILED,
-  BUCKET_JURITCOM_NAME_DELETION,
   BUCKET_JURITCOM_NAME_PDF,
   BUCKET_PORTALIS_COLLECT_NAME,
 } = process.env;
@@ -43,7 +38,7 @@ async function listAll(name, continuationToken) {
     new ListObjectsV2Command({
       Bucket: name,
       ContinuationToken: continuationToken,
-    })
+    }),
   );
   if (result.IsTruncated) {
     return [
@@ -59,7 +54,7 @@ function deleteFile(bucket, name) {
     new DeleteObjectCommand({
       Bucket: bucket,
       Key: name,
-    })
+    }),
   );
 }
 
@@ -71,11 +66,6 @@ async function dropAll(name) {
 async function main() {
   const buckets = [
     BUCKET_JURITJ_NAME_RAW,
-    BUCKET_JURITCOM_NAME_NORMALIZED,
-    BUCKET_JURITCOM_NAME_RAW,
-    BUCKET_JURITCOM_NAME_PDF2TEXT_SUCCESS,
-    BUCKET_JURITCOM_NAME_DECISION_FAILED,
-    BUCKET_JURITCOM_NAME_DELETION,
     BUCKET_JURITCOM_NAME_PDF,
     BUCKET_PORTALIS_COLLECT_NAME,
   ];

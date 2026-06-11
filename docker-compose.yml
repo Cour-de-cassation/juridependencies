@@ -97,30 +97,30 @@ services:
     ports:
       - 8090:8090
 
-  nlp-api:
-    image: nlp-api
-    ports:
-      - 8081:8081
-    environment:
-      - MODEL_JURICA=models/${PSEUDO_API_MODEL}
-      - MODEL_JURIDOUTE=models/${MODEL_JURIDOUTE}
-      - TRAIN_VOCAB_JURIDOUTE=models/${TRAIN_VOCAB_JURIDOUTE}
-      - TRAIN_FEATURES_JURIDOUTE=models/${TRAIN_FEATURES_JURIDOUTE}
-      - MINERU_TOOLS_CONFIG_JSON=/nlp-api/models/${MINERU_CONFIG_JSON}
-      - API_PORT=8081
-    volumes:
-      - ./models:/nlp-api/models
-      - ./datalab-cache:/root/.cache/datalab/models
-    mem_limit: 24g
-
-  # mock-nlp-api:
-  #   build:
-  #     context: mock-nlp-api
-  #     dockerfile: Dockerfile
+  # nlp-api:
+  #   image: nlp-api
   #   ports:
   #     - 8081:8081
   #   environment:
+  #     - MODEL_JURICA=models/${PSEUDO_API_MODEL}
+  #     - MODEL_JURIDOUTE=models/${MODEL_JURIDOUTE}
+  #     - TRAIN_VOCAB_JURIDOUTE=models/${TRAIN_VOCAB_JURIDOUTE}
+  #     - TRAIN_FEATURES_JURIDOUTE=models/${TRAIN_FEATURES_JURIDOUTE}
+  #     - MINERU_TOOLS_CONFIG_JSON=/nlp-api/models/${MINERU_CONFIG_JSON}
   #     - API_PORT=8081
+  #   volumes:
+  #     - ./models:/nlp-api/models
+  #     - ./datalab-cache:/root/.cache/datalab/models
+  #   mem_limit: 24g
+
+  mock-nlp-api:
+    build:
+      context: mock-nlp-api
+      dockerfile: Dockerfile
+    ports:
+      - 8081:8081
+    environment:
+      - API_PORT=8081
 
 volumes:
   dbsder-mongo-storage:

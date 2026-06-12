@@ -7,13 +7,14 @@ OS=$(cat /etc/os-release | grep ^ID=)
 OS=${OS#ID=*}
 VERSION=$(cat /etc/os-release | grep ^VERSION_ID=)
 VERSION=${VERSION#VERSION_ID=*}
+VERSION=${VERSION//\"/}
 
 if ! [ -f "$JURIDEPENDENCIES_DIR/.env" ]; then
     echo "env file missing at $JURIDEPENDENCIES_DIR/.env"
     exit 1
 fi
 
-install_ubuntu_dependencies() {
+install_latest_dependencies() {
     SETUP_ORACLE_DEPENDENCIES="unzip wget libaio1t64"
     if ! dpkg -s $SETUP_ORACLE_DEPENDENCIES &>/dev/null; then
         sudo -S apt install $SETUP_ORACLE_DEPENDENCIES
@@ -21,7 +22,7 @@ install_ubuntu_dependencies() {
     sudo -S ln -s /usr/lib/x86_64-linux-gnu/libaio.so.1t64 /usr/lib/x86_64-linux-gnu/libaio.so.1
 }
 
-install_debian_dependencies() {
+install_deprecated_dependencies() {
     SETUP_ORACLE_DEPENDENCIES="unzip wget libaio1"
     if ! dpkg -s $SETUP_ORACLE_DEPENDENCIES &>/dev/null; then
         sudo -S apt install $SETUP_ORACLE_DEPENDENCIES
@@ -32,10 +33,10 @@ install_dependencies() {
     bash $INSTALLS_DIR/install-docker.sh
     bash $INSTALLS_DIR/install-node.sh
 
-    if [ "$OS" = "ubuntu" ] && [ "${VERSION%%.*}" -ge "24" ]; then 
-        install_ubuntu_dependencies
+    if [ "$OS" = "ubuntu" ] && [ "${VERSION%%.*}" -ge "24" ] || [ "$OS" = "debian" ] && [ "${VERSION%%.*}" -ge "13" ] ; then 
+        install_latest_dependencies
     else 
-        install_debian_dependencies
+        install_deprecated_dependencies
     fi
 
     if [ -d "/opt/oracle" ]; then
@@ -74,13 +75,16 @@ install_oracle_project() {
 }
 
 setup_oracle_project() {
-    DBDSI_NAME=$(grep '^DBDSI_NAME=' .env | cut -c 12-)
+    DBDSI_NAME=$(grep '^DBDSI_NAME=' $JURIDEPENDENCIES_DIR/.env | cut -c 12-)
     if [ -n "$(docker ps -a | grep $DBDSI_NAME)" ]; then
         echo "Oracle docker container already exists"
         return 0
     fi
 
     echo "Docker building oracle for first time"
+    cd $JURIDEPENDENCIES_DIR/fake-data
+    npm i
+    cd $JURIDEPENDENCIES_DIR
     node $JURIDEPENDENCIES_DIR/fake-data/dbdsi/replace.js
     docker compose -f $JURIDEPENDENCIES_DIR/docker-compose.yml up -d dbdsi
 

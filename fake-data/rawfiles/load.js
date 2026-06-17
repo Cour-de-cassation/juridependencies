@@ -1,6 +1,7 @@
 const { MongoClient, BSON } = require("mongodb");
 const { readFile, readdir } = require("fs/promises");
 const { resolve } = require("path");
+const { program } = require("commander");
 
 if (!process.env.NODE_ENV)
   require("dotenv").config({
@@ -8,9 +9,15 @@ if (!process.env.NODE_ENV)
     quiet: true,
   });
 
+program.option("-c, --collection <name>").parse();
+const { collection: targetCollection } = program.opts();
+
 async function readCollections() {
   const path = resolve(__dirname, "db");
-  const files = await readdir(path);
+  const files = targetCollection
+    ? [`${targetCollection}.json`]
+    : await readdir(path);
+
   return files.map((_) => ({
     collectionName: _.slice(0, _.length - ".json".length),
     path: resolve(path, _),

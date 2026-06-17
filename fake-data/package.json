@@ -15,7 +15,8 @@
     "index:seeds": "node index/clean.js && node index/load.js",
     "rawfiles:seeds": "node rawfiles/clean.js && node rawfiles/load.js",
     "bucket:seeds": "node bucket/clean.js && node bucket/load.js",
-    "seeds": "npm run dbdsi:seeds && npm run dbsder:seeds && npm run label:seeds && npm run index:seeds && npm run rawfiles:seeds && npm run bucket:seeds"
+    "seeds": "npm run dbdsi:seeds && npm run dbsder:seeds && npm run label:seeds && npm run index:seeds && npm run rawfiles:seeds && npm run bucket:seeds",
+    "clean": "node dbsder/clean.js && node index/clean.js && node rawfiles/clean.js && node bucket/clean.js"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "3.1050.0",

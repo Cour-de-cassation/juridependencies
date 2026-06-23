@@ -15,9 +15,27 @@ DIR=$(realpath "$1")
 bash "$INSTALLS_DIR/install-docker.sh"
 SETUP_PROJECTS_DEPENDENCIES="git"
 
-if ! dpkg -s $SETUP_PROJECTS_DEPENDENCIES &>/dev/null; then
-    sudo -S apt install $SETUP_PROJECTS_DEPENDENCIES
+# Détection du package manager
+if command -v dnf &>/dev/null; then
+    PKG_MANAGER="dnf"
+    PKG_CHECK="rpm -q"
+    PKG_INSTALL="sudo dnf install -y"
+elif command -v apt &>/dev/null; then
+    PKG_MANAGER="apt"
+    PKG_CHECK="dpkg -s"
+    PKG_INSTALL="sudo apt install -y"
+else
+    echo "Package manager non supporté"
+    exit 1
 fi
+
+# Installation si absent
+for dep in $SETUP_PROJECTS_DEPENDENCIES; do
+    if ! $PKG_CHECK "$dep" &>/dev/null; then
+        echo "Installation de $dep..."
+        $PKG_INSTALL "$dep"
+    fi
+done
 
 update_jurizonage() {
     DIR_PREVIOUS=$(pwd)

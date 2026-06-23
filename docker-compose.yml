@@ -122,11 +122,8 @@ services:
     ports:
       - 8090:8090
 
-
-  # mock-nlp-api:
-  #   build:
-  #     context: mock-nlp-api
-  #     dockerfile: Dockerfile
+  # nlp-api:
+  #   image: nlp-api
   #   ports:
   #     - 8081:8081
   #   environment:

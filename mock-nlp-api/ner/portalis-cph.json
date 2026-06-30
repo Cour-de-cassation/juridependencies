@@ -1,0 +1,160 @@
+{
+  "entities": [
+    {
+      "text": "Arya",
+      "start": 42,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_arya",
+      "source": "NER model",
+      "score": 0.9998731017112732,
+      "end": 46
+    },
+    {
+      "text": "STARK",
+      "start": 47,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_stark",
+      "source": "NER model",
+      "score": 0.9997854232788086,
+      "end": 52
+    },
+    {
+      "text": "Lannister & Associés",
+      "start": 187,
+      "category": "personneMorale",
+      "entityId": "personneMorale_lannister & associes",
+      "source": "NER model",
+      "score": 0.9995123147964478,
+      "end": 207
+    },
+    {
+      "text": "14, rue du Château Rouge",
+      "start": 312,
+      "category": "adresse",
+      "entityId": "adresse_14, rue du chateau rouge",
+      "source": "NER model",
+      "score": 0.9998540878295898,
+      "end": 336
+    },
+    {
+      "text": "75011 Paris",
+      "start": 337,
+      "category": "localite",
+      "entityId": "localite_75011 paris",
+      "source": "NER model",
+      "score": 0.9991234540939331,
+      "end": 348
+    },
+    {
+      "text": "Oberyn MARTELL",
+      "start": 412,
+      "category": "professionnelAvocat",
+      "entityId": "professionnelAvocat_oberyn martell",
+      "source": "NER model",
+      "score": 0.9999127388000488,
+      "end": 426
+    },
+    {
+      "text": "Arya",
+      "start": 589,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_arya",
+      "source": "NER model",
+      "score": 0.9999204874038696,
+      "end": 593
+    },
+    {
+      "text": "STARK",
+      "start": 594,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_stark",
+      "source": "NER model",
+      "score": 0.9998912811279297,
+      "end": 599
+    },
+    {
+      "text": "Brienne",
+      "start": 1043,
+      "category": "professionnelMagistratGreffier",
+      "entityId": "professionnelMagistratGreffier_brienne",
+      "source": "NER model",
+      "score": 0.9998345375061035,
+      "end": 1050
+    },
+    {
+      "text": "DE TORTH",
+      "start": 1051,
+      "category": "professionnelMagistratGreffier",
+      "entityId": "professionnelMagistratGreffier_de torth",
+      "source": "NER model",
+      "score": 0.9997562170028687,
+      "end": 1059
+    },
+    {
+      "text": "Sandor CLEGANE",
+      "start": 1094,
+      "category": "professionnelMagistratGreffier",
+      "entityId": "professionnelMagistratGreffier_sandor clegane",
+      "source": "NER model",
+      "score": 0.9998801946640015,
+      "end": 1108
+    },
+    {
+      "text": "Arya",
+      "start": 2271,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_arya",
+      "source": "postprocess",
+      "score": 1,
+      "end": 2275
+    },
+    {
+      "text": "STARK",
+      "start": 2276,
+      "category": "personnePhysique",
+      "entityId": "personnePhysique_stark",
+      "source": "postprocess",
+      "score": 1,
+      "end": 2281
+    },
+    {
+      "text": "Brienne",
+      "start": 3108,
+      "category": "professionnelMagistratGreffier",
+      "entityId": "professionnelMagistratGreffier_brienne",
+      "source": "postprocess",
+      "score": 1,
+      "end": 3115
+    },
+    {
+      "text": "DE TORTH",
+      "start": 3116,
+      "category": "professionnelMagistratGreffier",
+      "entityId": "professionnelMagistratGreffier_de torth",
+      "source": "postprocess",
+      "score": 1,
+      "end": 3124
+    }
+  ],
+  "checklist": [],
+  "additionalTermsParsingFailed": false,
+  "additionalTermsToAnnotate": [],
+  "additionalTermsToUnAnnotate": [],
+  "versions": {
+    "juriSpacyTokenizer": {
+      "version": "1.2.0",
+      "date": "2025-11-10 15:42:15.381592"
+    },
+    "juritools": {
+      "version": "0.16.10",
+      "date": "2025-11-24 13:17:48.806354"
+    },
+    "nlpApi": {
+      "version": "0.7.1",
+      "date": "2025-11-25 13:03:04.328209"
+    },
+    "model": {
+      "name": "model_camembert_crf_02272024.pt"
+    }
+  }
+}

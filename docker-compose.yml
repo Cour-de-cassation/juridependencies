@@ -32,6 +32,16 @@ services:
       - oracle-data:/opt/oracle/oradata
       - ./fake-data/dbdsi/oracle_init.sql:/opt/oracle/scripts/startup/oracle_init.sql
 
+  dbdsimongo:
+    image: mongo:7.0.4
+    environment:
+      - MONGO_INITDB_DATABASE=${DBDSIMONGO_DATABASE}
+    command: mongod --port ${DBDSIMONGO_PORT}
+    volumes:
+      - dbdsi-mongo-storage:/data/dbdsimongo
+    ports:
+      - ${DBDSIMONGO_PORT}:${DBDSIMONGO_PORT}
+
   dbelastic:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.17.24
     environment:

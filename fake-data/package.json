@@ -11,11 +11,12 @@
     "dbdsi:migrate:down": "node dbdsi/migrate.js down",
     "dbdsi:seeds": "npm run dbdsi:migrate:down && npm run dbdsi:migrate:up && node dbdsi/seed.js",
     "dbsder:seeds": "node dbsder/clean.js && node dbsder/load.js",
+    "dbdsimongo:seeds": "node dbdsimongo/clean.js && node dbdsimongo/generate.js && node dbdsimongo/load.js",
     "label:seeds": "node label/clean.js && node label/load.js",
     "index:seeds": "node index/clean.js && node index/load.js",
     "rawfiles:seeds": "node rawfiles/clean.js && node rawfiles/load.js",
     "bucket:seeds": "node bucket/clean.js && node bucket/load.js",
-    "seeds": "npm run dbdsi:seeds && npm run dbsder:seeds && npm run label:seeds && npm run index:seeds && npm run rawfiles:seeds && npm run bucket:seeds"
+    "seeds": "npm run dbdsi:seeds && npm run dbsder:seeds && npm run dbdsimongo:seeds && npm run label:seeds && npm run index:seeds && npm run rawfiles:seeds && npm run bucket:seeds"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "3.1050.0",

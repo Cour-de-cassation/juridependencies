@@ -128,3 +128,4 @@ volumes:
   oracle-data:
   bucket-storage:
   elastic-data:
+  dbdsi-mongo-storage:

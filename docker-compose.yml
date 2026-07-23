@@ -80,7 +80,7 @@ services:
         /usr/bin/mc admin user svcacct add --access-key "${BUCKET_ACCESS_KEY}" --secret-key "${BUCKET_ACCESS_SECRET}" myminio root; exit 0; 
       "
   rabbitmq:
-    image: rabbitmq:3.13-management
+    image: rabbitmq:4.3.3-management
     ports:
       - 5672:5672
       - 15672:15672

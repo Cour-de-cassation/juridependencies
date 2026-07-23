@@ -1,11 +1,10 @@
 #!/bin/bash
 set -euo pipefail
 
-# Usage (depuis le conteneur) :
-#   docker exec rabbitmq /scripts/move-messages.sh <source-queue> <dest-queue>
-#
-# Exemple :
-#   docker exec rabbitmq /scripts/move-messages.sh jurinorm.fail nlp.done
+# lancer dans conteneur : 
+#   move-messages.sh jurinorm.nlp.ner.done.fail nlp.ner.done
+# lancer hors conteneur :
+#   docker exec rabbitmq /scripts/move-messages.sh jurinorm.nlp.ner.done.fail nlp.ner.done
 
 SOURCE="${1:-}"
 DEST="${2:-}"

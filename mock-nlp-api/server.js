@@ -18,7 +18,9 @@ async function getEntitiesMocked(filename, categories = []) {
 }
 
 app.post("/ner", async (req, res) => {
-    switch (req.body?.sourceName) {
+    const sourceName = req.body?.sourceName
+    console.log(`[MOCK-API] POST /ner — sourceName=${sourceName}`)
+    switch (sourceName) {
         case "jurinet": return res.status(200).json(await getEntitiesMocked("ner/cc.json", req.body?.categories))
         case "jurica": return res.status(200).json(await getEntitiesMocked("ner/ca.json", req.body?.categories))
         case "juritj": return res.status(200).json(await getEntitiesMocked("ner/tj.json", req.body?.categories))
@@ -29,9 +31,17 @@ app.post("/ner", async (req, res) => {
 })
 
 app.post("/pdf-to-text", multer().single("pdf_file"), async (req, res) => {
-    if (req.file?.originalname?.startsWith('TCOM_FAKE')) return res.status(200).json(JSON.parse(await readFile(resolve(__dirname, "pdf-to-text/tcom.json"))))
-    else if (req.file?.originalname?.startsWith('CPH_FAKE')) return res.status(200).json(JSON.parse(await readFile(resolve(__dirname, "pdf-to-text/portalis-cph.json"))))
-    else return res.status(400).json({ error: "[MOCK-API] filename not supported (should begins with TCOM_FAKE or CPH_FAKE)" })
+    const filename = req.file?.originalname
+    console.log(`[MOCK-API] POST /pdf-to-text — filename=${filename}`)
+    if (filename?.startsWith('CPH_FAKE')) {
+        const result = JSON.parse(await readFile(resolve(__dirname, "pdf-to-text/portalis-cph.json")))
+        console.log(`[MOCK-API] /pdf-to-text OK — CPH`)
+        return res.status(200).json(result)
+    } else {
+        const result = JSON.parse(await readFile(resolve(__dirname, "pdf-to-text/tcom.json")))
+        console.log(`[MOCK-API] /pdf-to-text OK — TCOM`)
+        return res.status(200).json(result)
+    }
 })
 
 app.listen(PORT, () => console.log(`[MOCK-API] listen on port ${PORT}`))

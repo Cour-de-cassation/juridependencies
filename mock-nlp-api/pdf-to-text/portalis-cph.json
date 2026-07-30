@@ -1,0 +1,22 @@
+{
+  "HTMLText": "<!DOCTYPE html>\n<html>\n <head>\n  <meta charset=\"utf-8\"/>\n </head>\n <body>\n  <h2>\n   [DECISION FACTICE] Télécharger PDF Télécharger PDF sans zonage\n  </h2>\n  <p block-type=\"Text\">\n   CONSEIL DE PRUD'HOMMES DE BORDEAUX\n  </p>\n  <p block-type=\"Text\">\n   JUGEMENT DU CONSEIL DE PRUD'HOMMES\n  </p>\n  <p block-type=\"Text\">\n   Arya STARK, demeurant 14, rue du Château Rouge, 75011 Paris, représentée par Maître Oberyn MARTELL, avocat au Barreau de Paris,\n  </p>\n  <p block-type=\"Text\">\n   DEMANDERESSE\n  </p>\n  <p block-type=\"Text\">\n   contre\n  </p>\n  <p block-type=\"Text\">\n   SAS Lannister &amp; Associés, dont le siège social est situé 14, rue du Château Rouge, 75011 Paris, représentée par Maître Petyr BAELISH, avocat au Barreau de Paris,\n  </p>\n  <p block-type=\"Text\">\n   DÉFENDERESSE\n  </p>\n  <h2>\n   COMPOSITION DU CONSEIL\n  </h2>\n  <p block-type=\"Text\">\n   Présidente : Madame Brienne DE TORTH\n  </p>\n  <p block-type=\"Text\">\n   Conseiller salarié : Monsieur Sandor CLEGANE\n  </p>\n  <p block-type=\"Text\">\n   Conseiller employeur : Madame Lyanna MORMONT\n  </p>\n  <p block-type=\"Text\">\n   Greffière : Madame Missandei TARGARYEN\n  </p>\n  <h2>\n   FAITS ET PROCÉDURE\n  </h2>\n  <p block-type=\"Text\">\n   Madame Arya STARK a été embauchée par la SAS Lannister &amp; Associés le 1er janvier 2020 en qualité de développeuse logicielle. Par lettre recommandée du 15 mars 2025, elle a été licenciée pour motif économique.\n  </p>\n  <p block-type=\"Text\">\n   Contestant son licenciement, Madame Arya STARK a saisi le Conseil de Prud'hommes de Bordeaux le 20 avril 2025.\n  </p>\n  <h2>\n   SUR CE LE CONSEIL,\n  </h2>\n  <p block-type=\"Text\">\n   Vu les pièces du dossier et les conclusions des parties,\n  </p>\n  <p block-type=\"Text\">\n   Attendu que le licenciement pour motif économique de Madame Arya STARK est déclaré sans cause réelle et sérieuse.\n  </p>\n  <h2>\n   PAR CES MOTIFS\n  </h2>\n  <p block-type=\"Text\">\n   Le Conseil de Prud'hommes, statuant en formation de jugement,\n  </p>\n  <p block-type=\"Text\">\n   DIT le licenciement de Madame Arya STARK sans cause réelle et sérieuse.\n  </p>\n  <p block-type=\"Text\">\n   CONDAMNE la SAS Lannister &amp; Associés à payer à Madame Arya STARK la somme de 15 000 euros à titre de dommages et intérêts.\n  </p>\n  <p block-type=\"Text\">\n   CONDAMNE la SAS Lannister &amp; Associés aux entiers dépens.\n  </p>\n  <p block-type=\"Text\">\n   Signé électroniquement par Brienne DE TORTH, Présidente\n  </p>\n  <p block-type=\"Text\">\n   Signé électroniquement par Missandei TARGARYEN, Greffière\n  </p>\n </body>\n</html>\n",
+  "pdfType": "ocr",
+  "pdfPageCount": 3,
+  "versions": {
+    "juriSpacyTokenizer": {
+      "version": "1.2.0",
+      "date": "2025-11-10 15:42:15.381592"
+    },
+    "juritools": {
+      "version": "0.16.10",
+      "date": "2025-11-24 13:17:48.806354"
+    },
+    "nlpApi": {
+      "version": "0.7.1",
+      "date": "2025-11-24 13:23:42.226544"
+    },
+    "model": {
+      "name": "model_camembert_crf_02272024.pt"
+    }
+  }
+}

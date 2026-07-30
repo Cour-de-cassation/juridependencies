@@ -11,6 +11,7 @@
     "dbdsi:migrate:down": "node dbdsi/migrate.js down",
     "dbdsi:seeds": "npm run dbdsi:migrate:down && npm run dbdsi:migrate:up && node dbdsi/seed.js",
     "dbsder:seeds": "node dbsder/clean.js && node dbsder/load.js",
+    "dbdsimongo:seeds": "node dbdsimongo/clean.js && node dbdsimongo/generate.js && node dbdsimongo/load.js",
     "label:seeds": "node label/clean.js && node label/load.js",
     "juripilot:seeds": "node juripilot/clean.js && node juripilot/load.js",
     "index:seeds": "node index/clean.js && node index/load.js",
@@ -20,10 +21,12 @@
   },
   "dependencies": {
     "@aws-sdk/client-s3": "3.1050.0",
+    "axios": "1.18.1",
     "commander": "14.0.3",
     "dotenv": "17.4.2",
     "iconv-lite": "0.7.2",
     "mongodb": "7.2.0",
-    "oracledb": "6.10.0"
+    "oracledb": "6.10.0",
+    "simple-oauth2": "5.1.0"
   }
 }

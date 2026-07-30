@@ -21,7 +21,7 @@ services:
     ports:
       - ${LABELDB_PORT}:${LABELDB_PORT}
 
-  juripilot:
+  juripilotdb:
     image: mongo:7.0.4
     environment:
       - MONGO_INITDB_DATABASE=${JURIPILOT_DATABASE}
@@ -67,12 +67,12 @@ services:
     volumes:
       - /dev/urandom:/dev/random:ro
     ports:
-      - 3000:3000
+      - ${MB_PORT}:${MB_PORT}
     depends_on:
       - postgres
     environment:
       - MB_DB_TYPE=${MB_DB_TYPE}
-      - MB_JETTY_PORT=${MB_JETTY_PORT}
+      - MB_PORT=${MB_PORT}
       - MB_DB_DBNAME=${MB_DB_DBNAME}
       - MB_DB_PORT=${MB_DB_PORT}
       - MB_DB_USER=${MB_DB_USER}

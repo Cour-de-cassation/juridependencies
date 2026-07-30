@@ -498,11 +498,7 @@
     "_id": {
       "$oid": "68dbe5119a84587e5329ae62"
     },
-<<<<<<< HEAD
     "user": "user 1",
-=======
-    "user": "Camille Teulier",
->>>>>>> f9582ef0 (adding juripilot to juridenpendecies)
     "description": "N° 2781646790 IdMongo 6866d54cd33109fd079b19db - Note : Immatriculation apparente",
     "type": "retreatment",
     "date": "2025-09-30",
@@ -1976,11 +1972,7 @@
     "_id": {
       "$oid": "6995e3950cd7b8e66733317a"
     },
-<<<<<<< HEAD
     "user": "user 1",
-=======
-    "user": "Camille Teulier",
->>>>>>> f9582ef0 (adding juripilot to juridenpendecies)
     "description": "N° 1733331314 IdMongo 689a59ddfd8239f1253052cc - Note : Prénom apparent",
     "type": "retreatment",
     "date": "2026-02-18",

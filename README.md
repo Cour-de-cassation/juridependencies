@@ -4,24 +4,24 @@
 
 - Définition
 - Contenu notable
-    - installs
-    - updates
-    - fake-data
-    - docker-compose.yml
+  - installs
+  - updates
+  - fake-data
+  - docker-compose.yml
 - SETUP dans un nouveau contexte
-    - pré-requis
-    - clone
-    - installation du projet open data
-        - installation automatique
-        - installation choisie
+  - pré-requis
+  - clone
+  - installation du projet open data
+    - installation automatique
+    - installation choisie
 - SETUP dans un contexte existant
-    - pré-requis
-    - clone
-    - installer les models
-    - installer les projets NLP
-    - installer les projets Web
-    - installer Docker
-    - installer Oracle
+  - pré-requis
+  - clone
+  - installer les models
+  - installer les projets NLP
+  - installer les projets Web
+  - installer Docker
+  - installer Oracle
 - Lancer les bases de données et les docker nlp
 - Maintenances courantes
 
@@ -46,10 +46,12 @@ Contient des scripts d'aide courant, notamment pour rebuild les images docker de
 
 Contient des scripts JS facilitant les migrations de schéma SQL ainsi que toute l'hydrataion des fausses données en SQL et Mongo.
 On y retrouve des fausses données pour:
+
 - DBSDSI (oracle: jurica et jurinet)
 - DBSDER (mongo)
 - INDEX (mongo: judilibre-index)
 - LABEL (mongo: labeldb)
+- JURIPILOT (mongo: juripilotDb)
 
 Le package.json propose des scripts pour combiner les les différentes actions de clean et générations de fausses données (seed).
 
@@ -111,7 +113,7 @@ Générez un fichier d'environnement (à partir du fichier d'exemple fourni):
 
 Si vous disposez déjà d'un repository contenant les models IA, déplacez ce repository dans `./models` et renseignez seulement leur nom dans votre ficher `.env`.
 Si ce dossier est un S3 synchronisé, vous pouvez utiliser le script: `chmod +x ./updates/update-models.sh && ./updates/update-models.sh`
-Un fichier .rclone.conf est à votre disposition pour un setup S3 personnalisé. 
+Un fichier .rclone.conf est à votre disposition pour un setup S3 personnalisé.
 
 Si vous ne disposez pas d'un repository contenant les models IA mais que vous possédez les identifiants du S3 de la cour de cassation: `chmod +x ./installs/install-models.sh && ./installs/install-models.sh`
 
@@ -139,7 +141,7 @@ Si vous ne disposez pas des repositories NLP vous pouvez les installer en utilis
 
 Si vous disposez déjà des projets Web, assurez vous d'avoir NVM ou un gestionnaire de version de node équivalent.
 
-Si vous ne disposez pas des projets Web, ils peuvent être installé dans un dossier grâce au script: 
+Si vous ne disposez pas des projets Web, ils peuvent être installé dans un dossier grâce au script:
 
 `chmod +x ./installs/install-web.sh && ./installs/install-web.sh [chemin du dossier d'installation souaité]`
 
@@ -162,4 +164,3 @@ Pour un management plus fin, n'hésitez pas à vous renseigner sur les commandes
 ## Maintenances courantes
 
 Si les versions des projets NLP ou que les models venaient à évoluer, vous pourriez utilisez les scripts d'updates `./updates/update-nlp.sh` et `./updates/update-models.sh`.
-

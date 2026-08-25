@@ -122,11 +122,8 @@ Si vous ne disposez pas d'un repository contenant les models IA mais que vous po
 Si vous diposez déjà des repositories NLP, ils doivent être rangés dans un même dossier et porter le nom par défaut du repository github:
 
 ```
-x --- nlp-api
-  --- nlp-jurispacy-tokenizer
-  --- nlp-juritools
+x --- nlp-juritools
   --- nlp-jurizonage
-  --- nlp-jurizonage-api
 ```
 
 s'ils ne sont pas dans cet état, déplacez les avec la commande `mv`.

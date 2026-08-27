@@ -43,7 +43,7 @@
       "session": "FRH",
       "solution": "Rejet",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1629391,
@@ -128,7 +128,7 @@
       "session": "FRH",
       "solution": "Rejet",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1632021,
@@ -213,7 +213,7 @@
       "session": "FRR",
       "solution": "Rejet non spécialement motivé",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1632275,
@@ -298,7 +298,7 @@
       "session": "FRH",
       "solution": "Irrecevabilité",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1639236,
@@ -383,7 +383,7 @@
       "session": "FRH",
       "solution": "Rejet",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1640444,
@@ -468,7 +468,7 @@
       "session": "FRR",
       "solution": "Rejet non spécialement motivé",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1642222,
@@ -553,7 +553,7 @@
       "session": "FRR",
       "solution": "Rejet non spécialement motivé",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1649991,
@@ -638,7 +638,7 @@
       "session": "FRH",
       "solution": "Rejet",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1650596,
@@ -723,7 +723,7 @@
       "session": "FRH",
       "solution": "Non-admission",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1656692,
@@ -808,7 +808,7 @@
       "session": "FRR",
       "solution": "Rejet non spécialement motivé",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1660357,
@@ -893,7 +893,7 @@
       "session": "FRH",
       "solution": "Qpc incidente - Non-lieu à renvoi au cc",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1663240,
@@ -978,7 +978,7 @@
       "session": "FRH",
       "solution": "Non-admission",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1666266,
@@ -1063,7 +1063,7 @@
       "session": "FRH",
       "solution": "Rejet",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1667165,
@@ -1148,7 +1148,7 @@
       "session": "FRH",
       "solution": "Non-admission",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1667244,
@@ -1233,7 +1233,7 @@
       "session": "FRH",
       "solution": "Non-admission",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1671009,
@@ -1318,7 +1318,7 @@
       "session": "FS",
       "solution": "Cassation partielle et désignation de juridiction",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1671461,
@@ -1403,7 +1403,7 @@
       "session": "FRH",
       "solution": "Cassation sans renvoi",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1674895,
@@ -1488,7 +1488,7 @@
       "session": "FRR",
       "solution": "Rejet non spécialement motivé",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1677392,
@@ -1573,7 +1573,7 @@
       "session": "FRR",
       "solution": "Rejet non spécialement motivé",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1678554,
@@ -1658,7 +1658,7 @@
       "session": "FRH",
       "solution": "Cassation",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1679499,
@@ -1743,7 +1743,7 @@
       "session": "FS",
       "solution": "Cassation partielle sans renvoi",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1681861,
@@ -1828,7 +1828,7 @@
       "session": "FRR",
       "solution": "Rejet non spécialement motivé",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1682604,
@@ -1913,7 +1913,7 @@
       "session": "FRR",
       "solution": "Irrecevabilité non spécialement motivée",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1685921,
@@ -1998,7 +1998,7 @@
       "session": "FRR",
       "solution": "Rejet non spécialement motivé",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1686430,
@@ -2083,7 +2083,7 @@
       "session": "FRH",
       "solution": "Cassation",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1686467,
@@ -2168,7 +2168,7 @@
       "session": "FRH",
       "solution": "Cassation partielle",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1689228,
@@ -2253,7 +2253,7 @@
       "session": "FRH",
       "solution": "Irrecevabilité",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1691083,
@@ -2338,7 +2338,7 @@
       "session": "FRH",
       "solution": "Non-admission",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1691262,
@@ -2423,7 +2423,7 @@
       "session": "FRR",
       "solution": "Rejet non spécialement motivé",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1691898,
@@ -2508,7 +2508,7 @@
       "session": "FRH",
       "solution": "Rejet",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1692355,
@@ -2584,7 +2584,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 3698392954,
@@ -2801,7 +2801,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 429146565,
@@ -3029,7 +3029,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 751264194,
@@ -3246,7 +3246,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1965730795,
@@ -3463,7 +3463,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 3127301957,
@@ -3680,7 +3680,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 588645772,
@@ -3897,7 +3897,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1693382021,
@@ -4114,7 +4114,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2278279525,
@@ -4342,7 +4342,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 3149899823,
@@ -4559,7 +4559,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 110581415,
@@ -4776,7 +4776,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 968790085,
@@ -4993,7 +4993,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 3616581679,
@@ -5210,7 +5210,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 3205378729,
@@ -5427,7 +5427,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 4213283434,
@@ -5644,7 +5644,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1761507183,
@@ -5861,7 +5861,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1747354569,
@@ -6078,7 +6078,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 3668230518,
@@ -6295,7 +6295,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 3657011330,
@@ -6512,7 +6512,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 927883397,
@@ -6729,7 +6729,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 841365293,
@@ -6957,7 +6957,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 848474470,
@@ -7174,7 +7174,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2302330308,
@@ -7391,7 +7391,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 420345606,
@@ -7608,7 +7608,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2895828320,
@@ -7825,7 +7825,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 3070008501,
@@ -8042,7 +8042,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 512358004,
@@ -8259,7 +8259,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 285068614,
@@ -8476,7 +8476,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2041242292,
@@ -8693,7 +8693,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 268266477,
@@ -8910,7 +8910,7 @@
       "session": "",
       "solution": "",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2043910044,
@@ -9137,7 +9137,7 @@
       "session": "",
       "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2535831,
@@ -9225,7 +9225,7 @@
       "session": "",
       "solution": "Radie l'affaire pour défaut de diligence des parties",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2558182,
@@ -9313,7 +9313,7 @@
       "session": "",
       "solution": "Constate ou prononce le désistement d'instance et/ou d'action",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2598372,
@@ -9401,7 +9401,7 @@
       "session": "",
       "solution": "Déclare la demande ou le recours irrecevable",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2598530,
@@ -9489,7 +9489,7 @@
       "session": "",
       "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2606944,
@@ -9577,7 +9577,7 @@
       "session": "",
       "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2608280,
@@ -9665,7 +9665,7 @@
       "session": "",
       "solution": "Constate ou prononce le désistement d'instance et/ou d'action",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2616506,
@@ -9753,7 +9753,7 @@
       "session": "",
       "solution": "Déclare l'acte de saisine caduc",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2632056,
@@ -9841,7 +9841,7 @@
       "session": "",
       "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2637718,
@@ -9929,7 +9929,7 @@
       "session": "",
       "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2647082,
@@ -10017,7 +10017,7 @@
       "session": "",
       "solution": "Ordonnance d'incident",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2652152,
@@ -10105,7 +10105,7 @@
       "session": "",
       "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2666262,
@@ -10193,7 +10193,7 @@
       "session": "",
       "solution": "Constate l'existence d'une transaction ou d'un accord, sans donner force exécutoire à l'acte",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2677092,
@@ -10281,7 +10281,7 @@
       "session": "",
       "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2677604,
@@ -10369,7 +10369,7 @@
       "session": "",
       "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2678421,
@@ -10457,7 +10457,7 @@
       "session": "",
       "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
       "motivationOccultation": null,
-      "selection": true,
+      "raisonInteretParticulier": "S2 - Cette décisions présente un intérêt particulier",
       "sommaire": ""
     },
     "documentNumber": 2678426,
@@ -10545,7 +10545,7 @@
       "session": "",
       "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2681413,
@@ -10633,7 +10633,7 @@
       "session": "",
       "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2694605,
@@ -10721,7 +10721,7 @@
       "session": "",
       "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2696278,
@@ -10809,7 +10809,7 @@
       "session": "",
       "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2698979,
@@ -10897,7 +10897,7 @@
       "session": "",
       "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2702327,
@@ -10985,7 +10985,7 @@
       "session": "",
       "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2704330,
@@ -11073,7 +11073,7 @@
       "session": "",
       "solution": "Constate ou prononce le désistement d'instance et/ou d'action",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2704647,
@@ -11161,7 +11161,7 @@
       "session": "",
       "solution": "Infirme partiellement, réforme ou modifie certaines dispositions de la décision déférée",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2707823,
@@ -11262,7 +11262,7 @@
       "session": "",
       "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2710739,
@@ -11350,7 +11350,7 @@
       "session": "",
       "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2715604,
@@ -11438,7 +11438,7 @@
       "session": "",
       "solution": "Déboute le ou les demandeurs de l'ensemble de leurs demandes",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2719294,
@@ -11526,7 +11526,7 @@
       "session": "",
       "solution": "Infirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2722172,
@@ -11614,7 +11614,7 @@
       "session": "",
       "solution": "Confirme la décision déférée dans toutes ses dispositions, à l'égard de toutes les parties au recours",
       "motivationOccultation": null,
-      "selection": true,
+      "raisonInteretParticulier": "C0 - interet particulier",
       "sommaire": ""
     },
     "documentNumber": 2724426,
@@ -11702,7 +11702,7 @@
       "session": "",
       "solution": "Annule la décision déférée",
       "motivationOccultation": null,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2773367,
@@ -11790,7 +11790,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2511741197,
@@ -11898,7 +11898,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2057439731,
@@ -12006,7 +12006,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2679176274,
@@ -12114,7 +12114,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1394441977,
@@ -12222,7 +12222,7 @@
       "session": "",
       "solution": "REFERE",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1368320623,
@@ -12330,7 +12330,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2296257733,
@@ -12438,7 +12438,7 @@
       "session": "",
       "solution": "CONTENTIEUX LIE",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2036190836,
@@ -12546,7 +12546,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2938376857,
@@ -12654,7 +12654,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1622404141,
@@ -12762,7 +12762,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 13925290,
@@ -12870,7 +12870,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 3271199790,
@@ -12978,7 +12978,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 273544490,
@@ -13086,7 +13086,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 3544345739,
@@ -13194,7 +13194,7 @@
       "session": "",
       "solution": "CONTENTIEUX LIE",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 4109890483,
@@ -13302,7 +13302,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1054006564,
@@ -13410,7 +13410,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1374493219,
@@ -13518,7 +13518,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2907066598,
@@ -13626,7 +13626,7 @@
       "session": "",
       "solution": "REFERE",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 925904935,
@@ -13734,7 +13734,7 @@
       "session": "",
       "solution": "REFERE",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 705133417,
@@ -13842,7 +13842,7 @@
       "session": "",
       "solution": "REFERE",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 776743111,
@@ -13950,7 +13950,7 @@
       "session": "",
       "solution": "REFERE",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1091344876,
@@ -14058,7 +14058,7 @@
       "session": "",
       "solution": "REFERE",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 2145974057,
@@ -14166,7 +14166,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 577770945,
@@ -14274,7 +14274,7 @@
       "session": "",
       "solution": "FOND",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 3575929007,
@@ -14382,7 +14382,7 @@
       "session": "",
       "solution": "PROCEDURES COLLECTIVES",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1937552518,
@@ -14490,7 +14490,7 @@
       "session": "",
       "solution": "PROCEDURES COLLECTIVES",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 3330793666,
@@ -14598,7 +14598,7 @@
       "session": "",
       "solution": "CONTENTIEUX LIE",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 552171244,
@@ -14706,7 +14706,7 @@
       "session": "",
       "solution": "PROCEDURES COLLECTIVES",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 3922893552,
@@ -14814,7 +14814,7 @@
       "session": "",
       "solution": "PROCEDURES COLLECTIVES",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 1562486942,
@@ -14922,7 +14922,7 @@
       "session": "",
       "solution": "CONTENTIEUX LIE",
       "motivationOccultation": false,
-      "selection": false,
+      "raisonInteretParticulier": null,
       "sommaire": ""
     },
     "documentNumber": 3323439157,

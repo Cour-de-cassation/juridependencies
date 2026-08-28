@@ -58,6 +58,11 @@ app.post("/ner", async (req, res) => {
   }
 });
 
+app.post("/pseudo", async (req, res) => {
+  console.log(req.body);
+  return res.status(200).json([]);
+});
+
 app.post("/pdf-to-text", multer().single("pdf_file"), async (req, res) => {
   if (req.file?.originalname?.startsWith("TCOM_FAKE"))
     return res

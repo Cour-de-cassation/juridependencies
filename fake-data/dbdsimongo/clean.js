@@ -1,0 +1,24 @@
+const { MongoClient } = require("mongodb");
+const { resolve } = require("path");
+
+if (!process.env.NODE_ENV)
+  require("dotenv").config({
+    path: resolve(__dirname, "..", "..", ".env"),
+    quiet: true,
+  });
+
+async function main() {
+  const client = new MongoClient(
+    `mongodb://localhost:${process.env.DBDSIMONGO_PORT}/${process.env.DBDSIMONGO_DATABASE}`
+  );
+  await client.connect();
+
+  const collections = await client.db().collections();
+
+  return Promise.all(collections.map((_) => _.drop()));
+}
+
+main()
+  .then(() => console.log("dbdsimongo deleted"))
+  .catch(console.error)
+  .finally(() => process.exit());

@@ -30,6 +30,11 @@ app.post("/ner", async (req, res) => {
     }
 })
 
+app.post("/pseudo", async (req, res) => {
+  console.log(req.body);
+  return res.status(200).json([]);
+});
+
 app.post("/pdf-to-text", multer().single("pdf_file"), async (req, res) => {
     const filename = req.file?.originalname
     console.log(`[MOCK-API] POST /pdf-to-text — filename=${filename}`)

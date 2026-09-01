@@ -9,8 +9,19 @@ if ! [ -f "$JURIDEPENDENCIES_DIR/.env" ]; then
 fi
 
 SETUP_MODELS_DEPENDENCIES="rclone"
-if ! dpkg -s $SETUP_MODELS_DEPENDENCIES &>/dev/null; then
-    sudo -S apt install $SETUP_MODELS_DEPENDENCIES
+if command -v dnf &>/dev/null; then
+    PKG_CHECK="rpm -q"
+    PKG_INSTALL="sudo dnf install -y"
+elif command -v apt &>/dev/null; then
+    PKG_CHECK="dpkg -s"
+    PKG_INSTALL="sudo apt install -y"
+else
+    echo "Package manager non supporté"
+    exit 1
+fi
+
+if ! $PKG_CHECK $SETUP_MODELS_DEPENDENCIES &>/dev/null; then
+    $PKG_INSTALL $SETUP_MODELS_DEPENDENCIES
 fi
 
 S3_ACCESS_KEY=$(grep '^S3_ACCESS_KEY=' $JURIDEPENDENCIES_DIR/.env | cut -c 15-)

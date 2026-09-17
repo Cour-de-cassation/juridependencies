@@ -168,3 +168,4 @@ Credentials admin local :
 - Email : `labo.sder@justice.fr`
 - Mot de passe : `local2026`
 
+Pour que l'embedding des dashboards fonctionne côté Juripilot, la valeur de `MB_EMBEDDING_SECRET_KEY` doit être identique à `METABASE_API_KEY` dans `juripilot/back/.env`.

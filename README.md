@@ -161,3 +161,10 @@ Pour un management plus fin, n'hésitez pas à vous renseigner sur les commandes
 ## Maintenances courantes
 
 Si les versions des projets NLP ou que les models venaient à évoluer, vous pourriez utilisez les scripts d'updates `./updates/update-nlp.sh` et `./updates/update-models.sh`.
+
+## Metabase
+
+Credentials admin local :
+- Email : `labo.sder@justice.fr`
+- Mot de passe : `local2026`
+

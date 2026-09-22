@@ -166,6 +166,9 @@ Si les versions des projets NLP ou que les models venaient à évoluer, vous pou
 
 Credentials admin local :
 - Email : `labo.sder@justice.fr`
-- Mot de passe : `local2026`
+- Mot de passe : `labosder5`
 
 Pour que l'embedding des dashboards fonctionne côté Juripilot, la valeur de `MB_EMBEDDING_SECRET_KEY` doit être identique à `METABASE_API_KEY` dans `juripilot/back/.env`.
+
+Pour conserver des changements même en cas de volume supprimé il faut mettre à jour le dump :
+`docker exec postgres pg_dump -U metabase metabaseappdb > fake-data/metabase/dump.sql`

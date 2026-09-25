@@ -71,8 +71,9 @@ services:
       - dbelastic
     volumes:
       - ./.kibana/config:/usr/share/kibana/config
+
   metabase:
-    image: metabase/metabase:v0.58.x
+    image: metabase/metabase:v0.63.10
     container_name: metabase
     volumes:
       - /dev/urandom:/dev/random:ro
@@ -88,14 +89,19 @@ services:
       - MB_DB_USER=${MB_DB_USER}
       - MB_DB_PASS=${MB_DB_PASS}
       - MB_DB_HOST=${MB_DB_HOST}
+      - MB_EMBEDDING_SECRET_KEY=${MB_EMBEDDING_SECRET_KEY}
 
   postgres:
-    image: postgres:14.23-alpine3.23
+    image: postgres:17.4-bookworm
     container_name: postgres
     environment:
       - POSTGRES_USER=${POSTGRES_USER}
       - POSTGRES_DB=${POSTGRES_DB}
       - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+    volumes:
+      - metabase-postgres-storage:/var/lib/postgresql/data
+      - ./fake-data/metabase/dump.sql:/docker-entrypoint-initdb.d/init.sql:ro
+
 
   bucket:
     image: minio/minio:RELEASE.2023-02-27T18-10-45Z
@@ -165,3 +171,4 @@ volumes:
   bucket-storage:
   elastic-data:
   dbdsi-mongo-storage:
+  metabase-postgres-storage:

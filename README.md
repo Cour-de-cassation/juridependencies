@@ -161,3 +161,14 @@ Pour un management plus fin, n'hésitez pas à vous renseigner sur les commandes
 ## Maintenances courantes
 
 Si les versions des projets NLP ou que les models venaient à évoluer, vous pourriez utilisez les scripts d'updates `./updates/update-nlp.sh` et `./updates/update-models.sh`.
+
+## Metabase
+
+Credentials admin local :
+- Email : `labo.sder@justice.fr`
+- Mot de passe : `labosder5`
+
+Pour que l'embedding des dashboards fonctionne côté Juripilot, la valeur de `MB_EMBEDDING_SECRET_KEY` doit être identique à `METABASE_API_KEY` dans `juripilot/back/.env`.
+
+Pour conserver des changements même en cas de volume supprimé il faut mettre à jour le dump :
+`docker exec postgres pg_dump -U metabase metabaseappdb > fake-data/metabase/dump.sql`

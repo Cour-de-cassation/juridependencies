@@ -2,7 +2,7 @@ name: opendata
 
 services:
   dbsder:
-    image: mongo:7.0.4
+    image: mongo:7.0.41
     environment:
       - MONGO_INITDB_DATABASE=${DBSDER_DATABASE}
     command: mongod --port ${DBSDER_PORT}
@@ -12,7 +12,7 @@ services:
       - ${DBSDER_PORT}:${DBSDER_PORT}
 
   labeldb:
-    image: mongo:7.0.4
+    image: mongo:7.0.41
     environment:
       - MONGO_INITDB_DATABASE=${LABELDB_DATABASE}
     command: mongod --port ${LABELDB_PORT}
@@ -22,7 +22,7 @@ services:
       - ${LABELDB_PORT}:${LABELDB_PORT}
 
   juripilotdb:
-    image: mongo:7.0.4
+    image: mongo:7.0.41
     environment:
       - MONGO_INITDB_DATABASE=${JURIPILOT_DATABASE}
     command: mongod --port ${JURIPILOTDB_PORT}
@@ -43,7 +43,7 @@ services:
       - ./fake-data/dbdsi/oracle_init.sql:/opt/oracle/scripts/startup/oracle_init.sql
 
   dbdsimongo:
-    image: mongo:7.0.4
+    image: mongo:7.0.41
     environment:
       - MONGO_INITDB_DATABASE=${DBDSIMONGO_DATABASE}
     command: mongod --port ${DBDSIMONGO_PORT}
@@ -92,7 +92,7 @@ services:
       - MB_EMBEDDING_SECRET_KEY=${MB_EMBEDDING_SECRET_KEY}
 
   postgres:
-    image: postgres:17.4-bookworm
+    image: postgres:17.11-alpine
     container_name: postgres
     environment:
       - POSTGRES_USER=${POSTGRES_USER}

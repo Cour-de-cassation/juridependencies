@@ -1,0 +1,30 @@
+---
+- name: Create Mock NLP API Deployment
+  k8s:
+    apply: true
+    state: present
+    verify_ssl: true
+    definition:
+      apiVersion: apps/v1
+      kind: Deployment
+      metadata:
+        name: "{{ namespace }}-mock-nlp-api"
+        namespace: "{{ namespace }}"
+      spec:
+        replicas: 1
+        selector:
+          matchLabels:
+            app: "{{ namespace }}"
+        template:
+          metadata:
+            labels:
+              app: "{{ namespace }}"
+          spec:
+            containers:
+              - name: mock-nlp-api
+                image: "{{ docker_image_name }}"
+                ports:
+                  - containerPort: 8081
+                env:
+                  - name: API_PORT
+                    value: "8081"

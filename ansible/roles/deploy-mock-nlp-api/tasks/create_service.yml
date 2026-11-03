@@ -1,0 +1,20 @@
+---
+- name: Create Mock NLP API Service
+  k8s:
+    apply: true
+    state: present
+    verify_ssl: true
+    definition:
+      apiVersion: v1
+      kind: Service
+      metadata:
+        name: "{{ namespace }}-api-service"
+        namespace: "{{ namespace }}"
+      spec:
+        selector:
+          app: "{{ namespace }}"
+        type: ClusterIP
+        ports:
+          - protocol: TCP
+            port: 8081
+            targetPort: 8081

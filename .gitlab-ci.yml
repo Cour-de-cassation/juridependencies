@@ -1,0 +1,43 @@
+variables:
+  docker_image_name: "$CI_REGISTRY/cour-de-cassation/juridependencies/mock-nlp-api:$CI_COMMIT_SHORT_SHA"
+
+stages:
+  - build
+  - deploy
+
+build_mock_nlp_api_image:
+  stage: build
+  image: docker:29.0.4-dind
+  variables:
+    HTTP_PROXY: $HTTP_PROXY_DEV
+    HTTPS_PROXY: $HTTPS_PROXY_DEV
+  script:
+    - echo $CI_JOB_TOKEN | docker login -u $CI_REGISTRY_USER --password-stdin $CI_REGISTRY
+    - docker build
+        --build-arg http_proxy=$HTTP_PROXY
+        --build-arg https_proxy=$HTTPS_PROXY
+        -t $docker_image_name -f mock-nlp-api/Dockerfile mock-nlp-api
+    - docker push $docker_image_name
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "poc/ftho/286/init-rabbitmq"'
+  tags:
+    - docker
+
+deploy_dev:
+  stage: deploy
+  image: alpine/ansible:2.16.1
+  script:
+    - mkdir /root/.ssh
+    - cat $SSH_KEY > /root/.ssh/id_rsa
+    - cat $KNOWN_HOSTS > /root/.ssh/known_hosts
+    - chmod 600 /root/.ssh/id_rsa
+    - chmod 600 /root/.ssh/known_hosts
+    - ansible-playbook -e docker_image_name=$docker_image_name
+        -i ansible/inventory/dev.yml ansible/deploy-mock.yml
+        --vault-password-file=$ANSIBLE_VAULT_PASS
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "poc/ftho/286/init-rabbitmq"'
+  tags:
+    - docker
+  dependencies:
+    - build_mock_nlp_api_image

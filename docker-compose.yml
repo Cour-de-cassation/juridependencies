@@ -114,17 +114,11 @@ services:
     environment:
       - MINIO_ROOT_USER=${BUCKET_USER}
       - MINIO_ROOT_PASSWORD=${BUCKET_PASS}
-    healthcheck:
-      test: ["CMD", "curl", "-sf", "http://localhost:${BUCKET_PORT}/minio/health/live"]
-      interval: 2s
-      timeout: 3s
-      retries: 15
 
   createbuckets:
     image: bitnamilegacy/minio-client:2025.7.21-debian-12-r3
     depends_on:
-      bucket:
-        condition: service_healthy
+      - bucket
     entrypoint: > # source: https://github.com/minio/minio/issues/4769
       /bin/sh -c "
         mc alias set myminio http://${BUCKET_NAME}:${BUCKET_PORT} ${BUCKET_USER} ${BUCKET_PASS};

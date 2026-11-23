@@ -102,9 +102,9 @@ services:
       - metabase-postgres-storage:/var/lib/postgresql/data
       - ./fake-data/metabase/dump.sql:/docker-entrypoint-initdb.d/init.sql:ro
 
-
   bucket:
-    image: minio/minio:RELEASE.2023-02-27T18-10-45Z
+    image: bitnamilegacy/minio:2023.2.27-debian-11-r3
+    user: root
     command: minio server /data --console-address :${BUCKET_CONSOLE_PORT}
     volumes:
       - bucket-storage:/data
@@ -116,19 +116,19 @@ services:
       - MINIO_ROOT_PASSWORD=${BUCKET_PASS}
 
   createbuckets:
-    image: minio/mc:RELEASE.2025-08-13T08-35-41Z
+    image: bitnamilegacy/minio-client:2025.7.21-debian-12-r3
     depends_on:
       - bucket
     entrypoint: > # source: https://github.com/minio/minio/issues/4769
-      /bin/sh -c " 
-        /usr/bin/mc alias set myminio http://${BUCKET_NAME}:${BUCKET_PORT} ${BUCKET_USER} ${BUCKET_PASS}; 
-        /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITJ_NAME_RAW} && 
-        /usr/bin/mc policy download myminio/${BUCKET_JURITJ_NAME_RAW} && 
-        /usr/bin/mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_PDF} && 
-        /usr/bin/mc policy download myminio/${BUCKET_JURITCOM_NAME_PDF} &&
-        /usr/bin/mc mb --ignore-existing myminio/${BUCKET_PORTALIS_COLLECT_NAME} && 
-        /usr/bin/mc policy download myminio/${BUCKET_PORTALIS_COLLECT_NAME} && 
-        /usr/bin/mc admin user svcacct add --access-key "${BUCKET_ACCESS_KEY}" --secret-key "${BUCKET_ACCESS_SECRET}" myminio root; exit 0; 
+      /bin/sh -c "
+        mc alias set myminio http://${BUCKET_NAME}:${BUCKET_PORT} ${BUCKET_USER} ${BUCKET_PASS};
+        mc mb --ignore-existing myminio/${BUCKET_JURITJ_NAME_RAW} &&
+        mc anonymous set download myminio/${BUCKET_JURITJ_NAME_RAW} &&
+        mc mb --ignore-existing myminio/${BUCKET_JURITCOM_NAME_PDF} &&
+        mc anonymous set download myminio/${BUCKET_JURITCOM_NAME_PDF} &&
+        mc mb --ignore-existing myminio/${BUCKET_PORTALIS_COLLECT_NAME} &&
+        mc anonymous set download myminio/${BUCKET_PORTALIS_COLLECT_NAME} &&
+        mc admin user svcacct add --access-key "${BUCKET_ACCESS_KEY}" --secret-key "${BUCKET_ACCESS_SECRET}" myminio root; exit 0; 
       "
   rabbitmq:
     image: rabbitmq:4.3.3-management

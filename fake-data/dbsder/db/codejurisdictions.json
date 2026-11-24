@@ -1,0 +1,7464 @@
+[
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0532ff"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_AGEN",
+    "libelle": "Cour d'appel d'Agen",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053300"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_AIXENPROVENCE",
+    "libelle": "Cour d'appel d'Aix-en-Provence",
+    "commentaire": "anciennement CA_AIX_EN_PROVENCE",
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053301"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_AMIENS",
+    "libelle": "Cour d'appel d'Amiens",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053302"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_ANGERS",
+    "libelle": "Cour d'appel d'Angers",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053303"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_BASSETERRE",
+    "libelle": "Cour d'appel de Basse-Terre",
+    "commentaire": "anciennement CA_BASSE_TERRE",
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053304"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_BASTIA",
+    "libelle": "Cour d'appel de Bastia",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053305"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_BESANCON",
+    "libelle": "Cour d'appel de Besançon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053306"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_BORDEAUX",
+    "libelle": "Cour d'appel de Bordeaux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053307"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_BOURGES",
+    "libelle": "Cour d'appel de Bourges",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053308"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_CAEN",
+    "libelle": "Cour d'appel de Caen",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053309"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_CAYENNE",
+    "libelle": "Cour d'appel de Cayenne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05330a"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_CHAMBERY",
+    "libelle": "Cour d'appel de Chambéry",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05330b"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_COLMAR",
+    "libelle": "Cour d'appel de Colmar",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05330c"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_DIJON",
+    "libelle": "Cour d'appel de Dijon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05330d"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_DOUAI",
+    "libelle": "Cour d'appel de Douai",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05330e"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_FORTDEFRANCE",
+    "libelle": "Cour d'appel de Fort-de-France",
+    "commentaire": "anciennement CA_FORT_DE_FRANCE",
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05330f"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_GRENOBLE",
+    "libelle": "Cour d'appel de Grenoble",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053310"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_LIMOGES",
+    "libelle": "Cour d'appel de Limoges",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053311"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_LYON",
+    "libelle": "Cour d'appel de Lyon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053312"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_MAMOUDZOU",
+    "libelle": "Cour d'appel de Mamoudzou",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053313"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_METZ",
+    "libelle": "Cour d'appel de Metz",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053314"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_MONTPELLIER",
+    "libelle": "Cour d'appel de Montpellier",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053315"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_NANCY",
+    "libelle": "Cour d'appel de Nancy",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053316"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_NIMES",
+    "libelle": "Cour d'appel de Nîmes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053317"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_NOUMEA",
+    "libelle": "Cour d'appel de Nouméa",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053318"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_ORLEANS",
+    "libelle": "Cour d'appel d'Orléans",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053319"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_PAPEETE",
+    "libelle": "Cour d'appel de Papeete",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05331a"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_PARIS",
+    "libelle": "Cour d'appel de Paris",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05331b"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_PAU",
+    "libelle": "Cour d'appel de Pau",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05331c"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_POITIERS",
+    "libelle": "Cour d'appel de Poitiers",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05331d"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_REIMS",
+    "libelle": "Cour d'appel de Reims",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05331e"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_RENNES",
+    "libelle": "Cour d'appel de Rennes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05331f"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_RIOM",
+    "libelle": "Cour d'appel de Riom",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053320"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_ROUEN",
+    "libelle": "Cour d'appel de Rouen",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053321"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_SAINTDENISDELAREUNION",
+    "libelle": "Cour d'appel de Saint-Denis de la Réunion",
+    "commentaire": "anciennement CA_ST_DENIS",
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053322"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_TOULOUSE",
+    "libelle": "Cour d'appel de Toulouse",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053323"
+    },
+    "jurisdictionType": "CA",
+    "code": "CA_VERSAILLES",
+    "libelle": "Cour d'appel de Versailles",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053324"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj47001",
+    "libelle": "Tribunal judiciaire d'Agen",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053325"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj13001",
+    "libelle": "Tribunal judiciaire d'Aix-en-Provence",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053326"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj2a004",
+    "libelle": "Tribunal judiciaire d'Ajaccio",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053327"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj73011",
+    "libelle": "Tribunal judiciaire d'Albertville",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053328"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj81004",
+    "libelle": "Tribunal judiciaire d'Albi",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053329"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj61001",
+    "libelle": "Tribunal judiciaire d'Alençon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05332a"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj30007",
+    "libelle": "Tribunal judiciaire d'Alès",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05332b"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj80021",
+    "libelle": "Tribunal judiciaire d'Amiens",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05332c"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj49007",
+    "libelle": "Tribunal judiciaire d'Angers",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05332d"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj16015",
+    "libelle": "Tribunal judiciaire d'Angoulême",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05332e"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj74010",
+    "libelle": "Tribunal judiciaire d'Annecy",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05332f"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj61006",
+    "libelle": "Tribunal judiciaire d'Argentan",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053330"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj62041",
+    "libelle": "Tribunal judiciaire d'Arras",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053331"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj32013",
+    "libelle": "Tribunal judiciaire d'Auch",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053332"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj15014",
+    "libelle": "Tribunal judiciaire d'Aurillac",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053333"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj89024",
+    "libelle": "Tribunal judiciaire d'Auxerre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053334"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj59036",
+    "libelle": "Tribunal judiciaire d'Avesnes-sur-Helpe",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053335"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj84007",
+    "libelle": "Tribunal judiciaire d'Avignon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053336"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj55029",
+    "libelle": "Tribunal judiciaire de Bar-le-Duc",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053337"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj97105",
+    "libelle": "Tribunal judiciaire de Basse-Terre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053338"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj2b033",
+    "libelle": "Tribunal judiciaire de Bastia",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053339"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj64102",
+    "libelle": "Tribunal judiciaire de Bayonne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05333a"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj60057",
+    "libelle": "Tribunal judiciaire de Beauvais",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05333b"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj90010",
+    "libelle": "Tribunal judiciaire de Belfort",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05333c"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj24037",
+    "libelle": "Tribunal judiciaire de Bergerac",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05333d"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj25056",
+    "libelle": "Tribunal judiciaire de Besançon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05333e"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj62119",
+    "libelle": "Tribunal judiciaire de Béthune",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05333f"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj34032",
+    "libelle": "Tribunal judiciaire de Béziers",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053340"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj41018",
+    "libelle": "Tribunal judiciaire de Blois",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053341"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj93008",
+    "libelle": "Tribunal judiciaire de Bobigny",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053342"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj74042",
+    "libelle": "Tribunal judiciaire de Bonneville",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053343"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj33063",
+    "libelle": "Tribunal judiciaire de Bordeaux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053344"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj62160",
+    "libelle": "Tribunal judiciaire de Boulogne-sur-Mer",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053345"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj01053",
+    "libelle": "Tribunal judiciaire de Bourg-en-Bresse",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053346"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj18033",
+    "libelle": "Tribunal judiciaire de Bourges",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053347"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj38053",
+    "libelle": "Tribunal judiciaire de Bourgoin-Jallieu",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053348"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj29019",
+    "libelle": "Tribunal judiciaire de Brest",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053349"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj19031",
+    "libelle": "Tribunal judiciaire de Brive-la-Gaillarde",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05334a"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj14118",
+    "libelle": "Tribunal judiciaire de Caen",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05334b"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj46042",
+    "libelle": "Tribunal judiciaire de Cahors",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05334c"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj59122",
+    "libelle": "Tribunal judiciaire de Cambrai",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05334d"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj11069",
+    "libelle": "Tribunal judiciaire de Carcassonne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05334e"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj84031",
+    "libelle": "Tribunal judiciaire de Carpentras",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05334f"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj81065",
+    "libelle": "Tribunal judiciaire de Castres",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053350"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj97302",
+    "libelle": "Tribunal judiciaire de Cayenne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053351"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj71076",
+    "libelle": "Tribunal judiciaire de Chalon-sur-Saône",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053352"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj51108",
+    "libelle": "Tribunal judiciaire de Chalons-en-Champagne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053353"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj73065",
+    "libelle": "Tribunal judiciaire de Chambéry",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053354"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj08105",
+    "libelle": "Tribunal judiciaire de Charleville-Mézières",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053355"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj28085",
+    "libelle": "Tribunal judiciaire de Chartres",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053356"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj36044",
+    "libelle": "Tribunal judiciaire de Châteauroux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053357"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj52121",
+    "libelle": "Tribunal judiciaire de Chaumont",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053358"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj50129",
+    "libelle": "Tribunal judiciaire de Cherbourg-en-Cotentin",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053359"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj63113",
+    "libelle": "Tribunal judiciaire de Clermont-Ferrand",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05335a"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj68066",
+    "libelle": "Tribunal judiciaire de Colmar",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05335b"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj60159",
+    "libelle": "Tribunal judiciaire de Compiègne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05335c"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj50147",
+    "libelle": "Tribunal judiciaire de Coutances",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05335d"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj94028",
+    "libelle": "Tribunal judiciaire de Créteil",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05335e"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj03095",
+    "libelle": "Tribunal judiciaire de Cusset",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05335f"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj40088",
+    "libelle": "Tribunal judiciaire de Dax",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053360"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj76217",
+    "libelle": "Tribunal judiciaire de Dieppe",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053361"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj04070",
+    "libelle": "Tribunal judiciaire de Digne-les-Bains",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053362"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj21231",
+    "libelle": "Tribunal judiciaire de Dijon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053363"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj39198",
+    "libelle": "Tribunal judiciaire de Dole (chambre détachée)",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053364"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj59178",
+    "libelle": "Tribunal judiciaire de Douai",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053365"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj83050",
+    "libelle": "Tribunal judiciaire de Draguignan",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053366"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj59183",
+    "libelle": "Tribunal judiciaire de Dunkerque",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053367"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj88160",
+    "libelle": "Tribunal judiciaire d'Épinal",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053368"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj27229",
+    "libelle": "Tribunal judiciaire d'Évreux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053369"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj91228",
+    "libelle": "Tribunal judiciaire d'Évry",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05336a"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj09122",
+    "libelle": "Tribunal judiciaire de Foix",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05336b"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj77186",
+    "libelle": "Tribunal judiciaire de Fontainebleau",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05336c"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj97209",
+    "libelle": "Tribunal judiciaire de Fort-de-France",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05336d"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj05061",
+    "libelle": "Tribunal judiciaire de Gap",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05336e"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj06069",
+    "libelle": "Tribunal judiciaire de Grasse",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05336f"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj38185",
+    "libelle": "Tribunal judiciaire de Grenoble",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053370"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj23096",
+    "libelle": "Tribunal judiciaire de Guéret",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053371"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj22070",
+    "libelle": "Tribunal judiciaire de Guingamp (chambre détachée)",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053372"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj98811",
+    "libelle": "Tribunal judiciaire de Kone (section détachée)",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053373"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj85191",
+    "libelle": "Tribunal judiciaire de La Roche-sur-Yon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053374"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj17300",
+    "libelle": "Tribunal judiciaire de La Rochelle",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053375"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj02408",
+    "libelle": "Tribunal judiciaire de Laon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053376"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj53130",
+    "libelle": "Tribunal judiciaire de Laval",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053377"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj76351",
+    "libelle": "Tribunal judiciaire du Havre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053378"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj72181",
+    "libelle": "Tribunal judiciaire du Mans",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053379"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj43157",
+    "libelle": "Tribunal judiciaire du Puy-en-Velay",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05337a"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj85194",
+    "libelle": "Tribunal judiciaire des Sables-d'Olonne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05337b"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj33243",
+    "libelle": "Tribunal judiciaire de Libourne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05337c"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj59350",
+    "libelle": "Tribunal judiciaire de Lille",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05337d"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj87085",
+    "libelle": "Tribunal judiciaire de Limoges",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05337e"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj14366",
+    "libelle": "Tribunal judiciaire de Lisieux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05337f"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj39300",
+    "libelle": "Tribunal judiciaire de Lons-le-Saunier",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053380"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj56121",
+    "libelle": "Tribunal judiciaire de Lorient",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053381"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj69123",
+    "libelle": "Tribunal judiciaire de Lyon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053382"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj71270",
+    "libelle": "Tribunal judiciaire de Mâcon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053383"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj97611",
+    "libelle": "Tribunal judiciaire de Mamoudzou",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053384"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj47157",
+    "libelle": "Tribunal judiciaire de Marmande (chambre détachée)",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053385"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj13055",
+    "libelle": "Tribunal judiciaire de Marseille",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053386"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj98613",
+    "libelle": "Tribunal judiciaire de Mata-Utu",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053387"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj77284",
+    "libelle": "Tribunal judiciaire de Meaux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053388"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj77288",
+    "libelle": "Tribunal judiciaire de Melun",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053389"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj48095",
+    "libelle": "Tribunal judiciaire de Mende",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05338a"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj57463",
+    "libelle": "Tribunal judiciaire de Metz",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05338b"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj12145",
+    "libelle": "Tribunal judiciaire de Millau (chambre détachée)",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05338c"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj40192",
+    "libelle": "Tribunal judiciaire de Mont-de-Marsan",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05338d"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj45208",
+    "libelle": "Tribunal judiciaire de Montargis",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05338e"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj82121",
+    "libelle": "Tribunal judiciaire de Montauban",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05338f"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj25388",
+    "libelle": "Tribunal judiciaire de Montbéliard",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053390"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj03185",
+    "libelle": "Tribunal judiciaire de Montluçon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053391"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj34172",
+    "libelle": "Tribunal judiciaire de Montpellier",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053392"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj03190",
+    "libelle": "Tribunal judiciaire de Moulins",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053393"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj68224",
+    "libelle": "Tribunal judiciaire de Mulhouse",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053394"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj54395",
+    "libelle": "Tribunal judiciaire de Nancy",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053395"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj92050",
+    "libelle": "Tribunal judiciaire de Nanterre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053396"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj44109",
+    "libelle": "Tribunal judiciaire de Nantes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053397"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj11262",
+    "libelle": "Tribunal judiciaire de Narbonne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053398"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj58194",
+    "libelle": "Tribunal judiciaire de Nevers",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053399"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj06088",
+    "libelle": "Tribunal judiciaire de Nice",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05339a"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj30189",
+    "libelle": "Tribunal judiciaire de Nîmes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05339b"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj79191",
+    "libelle": "Tribunal judiciaire de Niort",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05339c"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj98818",
+    "libelle": "Tribunal judiciaire de Nouméa",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05339d"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj45234",
+    "libelle": "Tribunal judiciaire d'Orléans",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05339e"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj98735",
+    "libelle": "Tribunal judiciaire de Papeete",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05339f"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj75056",
+    "libelle": "Tribunal judiciaire de Paris",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533a0"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj64445",
+    "libelle": "Tribunal judiciaire de Pau",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533a1"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj24322",
+    "libelle": "Tribunal judiciaire de Périgueux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533a2"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj66136",
+    "libelle": "Tribunal judiciaire de Perpignan",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533a3"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj97120",
+    "libelle": "Tribunal judiciaire de Pointe-à-Pitre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533a4"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj86194",
+    "libelle": "Tribunal judiciaire de Poitiers",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533a5"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj95500",
+    "libelle": "Tribunal judiciaire de Pontoise",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533a6"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj07186",
+    "libelle": "Tribunal judiciaire de Privas",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533a7"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj29232",
+    "libelle": "Tribunal judiciaire de Quimper",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533a8"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj51454",
+    "libelle": "Tribunal judiciaire de Reims",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533a9"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj35238",
+    "libelle": "Tribunal judiciaire de Rennes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533aa"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj42187",
+    "libelle": "Tribunal judiciaire de Roanne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533ab"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj12202",
+    "libelle": "Tribunal judiciaire de Rodez",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533ac"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj76540",
+    "libelle": "Tribunal judiciaire de Rouen",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533ad"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj22278",
+    "libelle": "Tribunal judiciaire de Saint-Brieuc",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533ae"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj97411",
+    "libelle": "Tribunal judiciaire de Saint-Denis de La Réunion",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533af"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj42218",
+    "libelle": "Tribunal judiciaire de Saint-Etienne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533b0"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj31483",
+    "libelle": "Tribunal judiciaire de Saint-Gaudens",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533b1"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj35288",
+    "libelle": "Tribunal judiciaire de Saint-Malo",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533b2"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj44184",
+    "libelle": "Tribunal judiciaire de Saint-Nazaire",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533b3"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj62765",
+    "libelle": "Tribunal judiciaire de Saint-Omer",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533b4"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj97416",
+    "libelle": "Tribunal judiciaire de Saint-Pierre de La Réunion",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533b5"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj02691",
+    "libelle": "Tribunal judiciaire de Saint-Quentin",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533b6"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj97311",
+    "libelle": "Tribunal judiciaire de Saint-Laurent-Du-Maroni (chambre détachée)",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533b7"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj97801",
+    "libelle": "Tribunal judiciaire de Saint-Martin (chambre détachée)",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533b8"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj17415",
+    "libelle": "Tribunal judiciaire de Saintes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533b9"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj57631",
+    "libelle": "Tribunal judiciaire de Sarreguemines",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533ba"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj49328",
+    "libelle": "Tribunal judiciaire de Saumur",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533bb"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj67437",
+    "libelle": "Tribunal judiciaire de Saverne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533bc"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj60612",
+    "libelle": "Tribunal judiciaire de Senlis",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533bd"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj89387",
+    "libelle": "Tribunal judiciaire de Sens",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533be"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj02722",
+    "libelle": "Tribunal judiciaire de Soissons",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533bf"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj67482",
+    "libelle": "Tribunal judiciaire de Strasbourg",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533c0"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj13108",
+    "libelle": "Tribunal judiciaire de Tarascon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533c1"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj65440",
+    "libelle": "Tribunal judiciaire de Tarbes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533c2"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj57672",
+    "libelle": "Tribunal judiciaire de Thionville",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533c3"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj74281",
+    "libelle": "Tribunal judiciaire de Thonon-les-Bains",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533c4"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj83137",
+    "libelle": "Tribunal judiciaire de Toulon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533c5"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj31555",
+    "libelle": "Tribunal judiciaire de Toulouse",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533c6"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj37261",
+    "libelle": "Tribunal judiciaire de Tours",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533c7"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj10387",
+    "libelle": "Tribunal judiciaire de Troyes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533c8"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj19272",
+    "libelle": "Tribunal judiciaire de Tulle",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533c9"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj54099",
+    "libelle": "Tribunal judiciaire de Val de Briey",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533ca"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj26362",
+    "libelle": "Tribunal judiciaire de Valence",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533cb"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj59606",
+    "libelle": "Tribunal judiciaire de Valenciennes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533cc"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj56260",
+    "libelle": "Tribunal judiciaire de Vannes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533cd"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj55545",
+    "libelle": "Tribunal judiciaire de Verdun",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533ce"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj78646",
+    "libelle": "Tribunal judiciaire de Versailles",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533cf"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj70550",
+    "libelle": "Tribunal judiciaire de Vesoul",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533d0"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj38544",
+    "libelle": "Tribunal judiciaire de Vienne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533d1"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj69264",
+    "libelle": "Tribunal judiciaire de Villefranche-sur-Saône",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533d2"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj13206",
+    "libelle": "Tribunal judiciaire de Marseille",
+    "commentaire": "Ce TJ est associé à tj13055 (TPROX, chambre déportée, etc ...)",
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533d3"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj75101",
+    "libelle": "Tribunal judiciaire de Paris",
+    "commentaire": "Ce TJ est associé à tj75056 (TPROX, chambre déportée, etc ...)",
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533d4"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj69383",
+    "libelle": "Tribunal judiciaire de Lyon",
+    "commentaire": "Ce TJ est associé à tj69123 (TPROX, chambre déportée, etc ...)",
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533d5"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj1053",
+    "libelle": "Tribunal judiciaire de Bourg-en-Bresse",
+    "commentaire": "Ce TJ est associé à tj01053 (TPROX, chambre déportée, etc ...)",
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533d6"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj6088",
+    "libelle": "Tribunal judiciaire de Nice",
+    "commentaire": "Ce TJ est associé à tj06088 (TPROX, chambre déportée, etc ...)",
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533d7"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj77291",
+    "libelle": "Tribunal judiciaire de Meaux",
+    "commentaire": "Ce TJ est associé à tj77284 (TPROX, chambre déportée, etc ...)",
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533d8"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj97502",
+    "libelle": "Tribunal judiciaire de Saint-Pierre de La Réunion",
+    "commentaire": "Ce TJ est associé à tj97416 (TPROX, chambre déportée, etc ...)",
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533d9"
+    },
+    "jurisdictionType": "TJ",
+    "code": "tj98758",
+    "libelle": "Tribunal judiciaire de Papeete",
+    "commentaire": "Ce TJ est associé à tj98735 (TPROX, chambre déportée, etc ...)",
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533da"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "4701",
+    "libelle": "Tribunal de commerce d'Agen",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533db"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1301",
+    "libelle": "Tribunal de commerce d'Aix-en-Provence",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533dc"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "2001",
+    "libelle": "Tribunal de commerce d'Ajaccio",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533dd"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "8101",
+    "libelle": "Tribunal de commerce d'Albi",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533de"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "6101",
+    "libelle": "Tribunal de commerce d'Alençon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533df"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "8002",
+    "libelle": "Tribunal de commerce d'Amiens",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533e0"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "4901",
+    "libelle": "Tribunal de commerce d'Angers",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533e1"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1601",
+    "libelle": "Tribunal de commerce d'Angoulême",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533e2"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7401",
+    "libelle": "Tribunal de commerce d'Annecy",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533e3"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "0601",
+    "libelle": "Tribunal de commerce d'Antibes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533e4"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "6201",
+    "libelle": "Tribunal de commerce d'Arras",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533e5"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "0702",
+    "libelle": "Tribunal de commerce d'Aubenas",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533e6"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "3201",
+    "libelle": "Tribunal de commerce d'Auch",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533e7"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1501",
+    "libelle": "Tribunal de commerce d'Aurillac",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533e8"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "8901",
+    "libelle": "Tribunal des activités économiques d'Auxerre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533e9"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "8401",
+    "libelle": "Tribunal des activités économiques d'Avignon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533ea"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5501",
+    "libelle": "Tribunal de commerce de Bar-le-Duc",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533eb"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "9711",
+    "libelle": "Tribunal de commerce de Basse-Terre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533ec"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "2002",
+    "libelle": "Tribunal de commerce de Bastia",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533ed"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "6401",
+    "libelle": "Tribunal de commerce de Bayonne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533ee"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "6001",
+    "libelle": "Tribunal de commerce de Beauvais",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533ef"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "9001",
+    "libelle": "Tribunal de commerce de Belfort",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533f0"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "2401",
+    "libelle": "Tribunal de commerce de Bergerac",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533f1"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "2701",
+    "libelle": "Tribunal de commerce de Bernay",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533f2"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "2501",
+    "libelle": "Tribunal de commerce de Besançon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533f3"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "3402",
+    "libelle": "Tribunal de commerce de Béziers",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533f4"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "4101",
+    "libelle": "Tribunal de commerce de Blois",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533f5"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "9301",
+    "libelle": "Tribunal de commerce de Bobigny",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533f6"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "3302",
+    "libelle": "Tribunal de commerce de Bordeaux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533f7"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "6202",
+    "libelle": "Tribunal de commerce de Boulogne-sur-Mer",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533f8"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "0101",
+    "libelle": "Tribunal de commerce de Bourg-en-Bresse",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533f9"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1801",
+    "libelle": "Tribunal de commerce de Bourges",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533fa"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "2901",
+    "libelle": "Tribunal de commerce de Brest",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533fb"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5401",
+    "libelle": "Tribunal de commerce de Briey",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533fc"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1901",
+    "libelle": "Tribunal de commerce de Brive-la-Gaillarde",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533fd"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1402",
+    "libelle": "Tribunal de commerce de Caen",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533fe"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "4601",
+    "libelle": "Tribunal de commerce de Cahors",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0533ff"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "0602",
+    "libelle": "Tribunal de commerce de Cannes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053400"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1101",
+    "libelle": "Tribunal de commerce de Carcassonne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053401"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "8102",
+    "libelle": "Tribunal de commerce de Castres",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053402"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "9731",
+    "libelle": "Tribunal de commerce de Cayenne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053403"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7102",
+    "libelle": "Tribunal de commerce de Chalon-sur-Saône",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053404"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5101",
+    "libelle": "Tribunal de commerce de Chalons-en-Champagne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053405"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7301",
+    "libelle": "Tribunal de commerce de Chambéry",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053406"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "2801",
+    "libelle": "Tribunal de commerce de Chartres",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053407"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "3601",
+    "libelle": "Tribunal de commerce de Châteauroux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053408"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5201",
+    "libelle": "Tribunal de commerce de Chaumont",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053409"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5001",
+    "libelle": "Tribunal de commerce de Cherbourg",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05340a"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "6303",
+    "libelle": "Tribunal de commerce de Clermont-Ferrand",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05340b"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "6002",
+    "libelle": "Tribunal de commerce de Compiègne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05340c"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5002",
+    "libelle": "Tribunal de commerce de Coutances",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05340d"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "9401",
+    "libelle": "Tribunal de commerce de Créteil",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05340e"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "0301",
+    "libelle": "Tribunal de commerce de Cusset",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05340f"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "4001",
+    "libelle": "Tribunal de commerce de Dax",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053410"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7601",
+    "libelle": "Tribunal de commerce de Dieppe",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053411"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "2104",
+    "libelle": "Tribunal de commerce de Dijon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053412"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5952",
+    "libelle": "Tribunal de commerce de Douai",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053413"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "8302",
+    "libelle": "Tribunal de commerce de Draguignan",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053414"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5902",
+    "libelle": "Tribunal de commerce de Dunkerque",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053415"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "8801",
+    "libelle": "Tribunal de commerce d'Épinal",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053416"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "2702",
+    "libelle": "Tribunal de commerce d'Évreux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053417"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7801",
+    "libelle": "Tribunal de commerce d'Évry",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053418"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "0901",
+    "libelle": "Tribunal de commerce de Foix",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053419"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "9721",
+    "libelle": "Tribunal de commerce de Fort-de-France",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05341a"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "8303",
+    "libelle": "Tribunal de commerce de Fréjus",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05341b"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "0501",
+    "libelle": "Tribunal de commerce de Gap",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05341c"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "0603",
+    "libelle": "Tribunal de commerce de Grasse",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05341d"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "3801",
+    "libelle": "Tribunal de commerce de Grenoble",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05341e"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "2301",
+    "libelle": "Tribunal de commerce de Guéret",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05341f"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "8501",
+    "libelle": "Tribunal de commerce de La Roche-sur-Yon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053420"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1704",
+    "libelle": "Tribunal de commerce de La Rochelle",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053421"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5301",
+    "libelle": "Tribunal de commerce de Laval",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053422"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7606",
+    "libelle": "Tribunal des activités économiques du Havre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053423"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7202",
+    "libelle": "Tribunal des activités économiques du Mans",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053424"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "4302",
+    "libelle": "Tribunal de commerce du Puy-en-Velay",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053425"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "3303",
+    "libelle": "Tribunal de commerce de Libourne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053426"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5910",
+    "libelle": "Tribunal de commerce de Lille Métropole",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053427"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "8701",
+    "libelle": "Tribunal des activités économiques de Limoges",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053428"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1407",
+    "libelle": "Tribunal de commerce de Lisieux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053429"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "3902",
+    "libelle": "Tribunal de commerce de Lons-le-Saunier",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05342a"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5601",
+    "libelle": "Tribunal de commerce de Lorient",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05342b"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "6901",
+    "libelle": "Tribunal des activités économiques de Lyon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05342c"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7106",
+    "libelle": "Tribunal de commerce de Mâcon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05342d"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "9761",
+    "libelle": "Tribunal de commerce de Mamoudzou",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05342e"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "0401",
+    "libelle": "Tribunal de commerce de Manosque",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05342f"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1303",
+    "libelle": "Tribunal des activités économiques de Marseille",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053430"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7701",
+    "libelle": "Tribunal de commerce de Meaux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053431"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7702",
+    "libelle": "Tribunal de commerce de Melun",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053432"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "4801",
+    "libelle": "Tribunal de commerce de Mende",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053433"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "4002",
+    "libelle": "Tribunal de commerce de Mont-de-Marsan",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053434"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "8201",
+    "libelle": "Tribunal de commerce de Montauban",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053435"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "0303",
+    "libelle": "Tribunal de commerce de Montluçon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053436"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "3405",
+    "libelle": "Tribunal de commerce de Montpellier",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053437"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5402",
+    "libelle": "Tribunal des activités économiques de Nancy",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053438"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "9201",
+    "libelle": "Tribunal des activités économiques de Nanterre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053439"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "4401",
+    "libelle": "Tribunal de commerce de Nantes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05343a"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1104",
+    "libelle": "Tribunal de commerce de Narbonne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05343b"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5802",
+    "libelle": "Tribunal de commerce de Nevers",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05343c"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "0605",
+    "libelle": "Tribunal de commerce de Nice",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05343d"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "3003",
+    "libelle": "Tribunal de commerce de Nîmes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05343e"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7901",
+    "libelle": "Tribunal de commerce de Niort",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05343f"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "4502",
+    "libelle": "Tribunal de commerce d'Orléans",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053440"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7501",
+    "libelle": "Tribunal des activités économiques de Paris",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053441"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "6403",
+    "libelle": "Tribunal de commerce de Pau",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053442"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "2402",
+    "libelle": "Tribunal de commerce de Périgueux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053443"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "6601",
+    "libelle": "Tribunal de commerce de Perpignan",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053444"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "9712",
+    "libelle": "Tribunal de commerce de Pointe-à-Pitre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053445"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "8602",
+    "libelle": "Tribunal de commerce de Poitiers",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053446"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7802",
+    "libelle": "Tribunal de commerce de Pontoise",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053447"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "2903",
+    "libelle": "Tribunal de commerce de Quimper",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053448"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5103",
+    "libelle": "Tribunal de commerce de Reims",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053449"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "3501",
+    "libelle": "Tribunal de commerce de Rennes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05344a"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "4201",
+    "libelle": "Tribunal de commerce de Roanne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05344b"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1203",
+    "libelle": "Tribunal de commerce de Rodez",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05344c"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "2602",
+    "libelle": "Tribunal de commerce de Romans",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05344d"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7608",
+    "libelle": "Tribunal de commerce de Rouen",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05344e"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "2202",
+    "libelle": "Tribunal des activités économiques de Saint-Brieuc",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05344f"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "9741",
+    "libelle": "Tribunal de commerce de Saint-Denis de La Réunion",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053450"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "4202",
+    "libelle": "Tribunal de commerce de Saint-Etienne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053451"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "3502",
+    "libelle": "Tribunal de commerce de Saint-Malo",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053452"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "4402",
+    "libelle": "Tribunal de commerce de Saint-Nazaire",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053453"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "9742",
+    "libelle": "Tribunal de commerce de Saint-Pierre de La Réunion",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053454"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "0202",
+    "libelle": "Tribunal de commerce de Saint-Quentin",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053455"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1708",
+    "libelle": "Tribunal de commerce de Saintes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053456"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1304",
+    "libelle": "Tribunal de commerce de Salon-de-Provence",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053457"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "0802",
+    "libelle": "Tribunal de commerce de Sedan",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053458"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "8903",
+    "libelle": "Tribunal de commerce de Sens",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053459"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "0203",
+    "libelle": "Tribunal de commerce de Soissons",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05345a"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1305",
+    "libelle": "Tribunal de commerce de Tarascon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05345b"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "6502",
+    "libelle": "Tribunal de commerce de Tarbes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05345c"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7402",
+    "libelle": "Tribunal de commerce de Thonon-les-Bains",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05345d"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "8305",
+    "libelle": "Tribunal de commerce de Toulon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05345e"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "3102",
+    "libelle": "Tribunal de commerce de Toulouse",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05345f"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "3701",
+    "libelle": "Tribunal de commerce de Tours",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053460"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "1001",
+    "libelle": "Tribunal de commerce de Troyes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053461"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5906",
+    "libelle": "Tribunal de commerce de Valenciennes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053462"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "5602",
+    "libelle": "Tribunal de commerce de Vannes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053463"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7001",
+    "libelle": "Tribunal de commerce de Vesoul - Gray",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053464"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "7803",
+    "libelle": "Tribunal des activités économiques de Versailles",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053465"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "3802",
+    "libelle": "Tribunal de commerce de Vienne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053466"
+    },
+    "jurisdictionType": "TCOM",
+    "code": "6903",
+    "libelle": "Tribunal de commerce de Villefranche-sur-Saône - Tarare",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053467"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101172",
+    "libelle": "Conseil de prud'hommes d'Abbeville",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053468"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101061",
+    "libelle": "Conseil de prud'hommes d'Agen",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053469"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100970",
+    "libelle": "Conseil de prud'hommes d'Aix-en-Provence",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05346a"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101148",
+    "libelle": "Conseil de prud'hommes d'Aix-les-Bains",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05346b"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100990",
+    "libelle": "Conseil de prud'hommes d'Ajaccio",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05346c"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101149",
+    "libelle": "Conseil de prud'hommes d'Albertville",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05346d"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101176",
+    "libelle": "Conseil de prud'hommes d'Albi",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05346e"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101109",
+    "libelle": "Conseil de prud'hommes d'Alençon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05346f"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101016",
+    "libelle": "Conseil de prud'hommes d'Alès",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053470"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101173",
+    "libelle": "Conseil de prud'hommes d'Amiens",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053471"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101064",
+    "libelle": "Conseil de prud'hommes d'Angers",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053472"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100981",
+    "libelle": "Conseil de prud'hommes d'Angoulême",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053473"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101151",
+    "libelle": "Conseil de prud'hommes d'Annecy",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053474"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101152",
+    "libelle": "Conseil de prud'hommes d'Annemasse",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053475"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100956",
+    "libelle": "Conseil de prud'hommes d'Annonay",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053476"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101110",
+    "libelle": "Conseil de prud'hommes d'Argentan",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053477"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101208",
+    "libelle": "Conseil de prud'hommes d'Argenteuil",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053478"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100971",
+    "libelle": "Conseil de prud'hommes d'Arles",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053479"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101112",
+    "libelle": "Conseil de prud'hommes d'Arras",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05347a"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100957",
+    "libelle": "Conseil de prud'hommes d'Aubenas",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05347b"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101020",
+    "libelle": "Conseil de prud'hommes d'Auch",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05347c"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100980",
+    "libelle": "Conseil de prud'hommes d'Aurillac",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05347d"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101197",
+    "libelle": "Conseil de prud'hommes d'Auxerre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05347e"
+    },
+    "jurisdictionType": "CPH",
+    "code": "937373",
+    "libelle": "Conseil de prud'hommes d'Avesnes-sur-Helpe",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05347f"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101184",
+    "libelle": "Conseil de prud'hommes d'Avignon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053480"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101067",
+    "libelle": "Conseil de prud'hommes d'Avranches",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053481"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101080",
+    "libelle": "Conseil de prud'hommes de Bar-le-Duc",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053482"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101211",
+    "libelle": "Conseil de prud'hommes de Basse-Terre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053483"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100991",
+    "libelle": "Conseil de prud'hommes de Bastia",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053484"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101122",
+    "libelle": "Conseil de prud'hommes de Bayonne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053485"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101106",
+    "libelle": "Conseil de prud'hommes de Beauvais",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053486"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101199",
+    "libelle": "Conseil de prud'hommes de Belfort",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053487"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100936",
+    "libelle": "Conseil de prud'hommes de Belley",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053488"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100998",
+    "libelle": "Conseil de prud'hommes de Bergerac",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053489"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101005",
+    "libelle": "Conseil de prud'hommes de Bernay",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05348a"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101000",
+    "libelle": "Conseil de prud'hommes de Besançon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05348b"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101113",
+    "libelle": "Conseil de prud'hommes de Béthune",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05348c"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101024",
+    "libelle": "Conseil de prud'hommes de Béziers",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05348d"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101046",
+    "libelle": "Conseil de prud'hommes de Blois",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05348e"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101205",
+    "libelle": "Conseil de prud'hommes de Bobigny",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05348f"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101153",
+    "libelle": "Conseil de prud'hommes de Bonneville",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053490"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101021",
+    "libelle": "Conseil de prud'hommes de Bordeaux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053491"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101203",
+    "libelle": "Conseil de prud'hommes de Boulogne-Billancourt",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053492"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101114",
+    "libelle": "Conseil de prud'hommes de Boulogne-sur-Mer",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053493"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100937",
+    "libelle": "Conseil de prud'hommes de Bourg-en-Bresse",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053494"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100986",
+    "libelle": "Conseil de prud'hommes de Bourges",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053495"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101036",
+    "libelle": "Conseil de prud'hommes de Bourgoin-Jallieu",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053496"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101013",
+    "libelle": "Conseil de prud'hommes de Brest",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053497"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100988",
+    "libelle": "Conseil de prud'hommes de Brive-la-Gaillarde",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053498"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100975",
+    "libelle": "Conseil de prud'hommes de Caen",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053499"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101059",
+    "libelle": "Conseil de prud'hommes de Cahors",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05349a"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101115",
+    "libelle": "Conseil de prud'hommes de Calais",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05349b"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101091",
+    "libelle": "Conseil de prud'hommes de Cambrai",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05349c"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100952",
+    "libelle": "Conseil de prud'hommes de Cannes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05349d"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100965",
+    "libelle": "Conseil de prud'hommes de Carcassonne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05349e"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101177",
+    "libelle": "Conseil de prud'hommes de Castres",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05349f"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101214",
+    "libelle": "Conseil de prud'hommes de Cayenne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534a0"
+    },
+    "jurisdictionType": "CPH",
+    "code": "907248",
+    "libelle": "Conseil de prud'hommes de Cergy-Pontoise",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534a1"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101143",
+    "libelle": "Conseil de prud'hommes de Chalon-sur-Saône",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534a2"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101150",
+    "libelle": "Conseil de prud'hommes de Chambéry",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534a3"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100958",
+    "libelle": "Conseil de prud'hommes de Charleville-Mézières",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534a4"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101009",
+    "libelle": "Conseil de prud'hommes de Chartres",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534a5"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101073",
+    "libelle": "Conseil de prud'hommes de Chaumont",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534a6"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101068",
+    "libelle": "Conseil de prud'hommes de Cherbourg-en-Cotentin",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534a7"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101070",
+    "libelle": "Conseil de prud'hommes de Châlons-en-Champagne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534a8"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101010",
+    "libelle": "Conseil de prud'hommes de Châteaudun",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534a9"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101033",
+    "libelle": "Conseil de prud'hommes de Châteauroux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534aa"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101119",
+    "libelle": "Conseil de prud'hommes de Clermont-Ferrand",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534ab"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101134",
+    "libelle": "Conseil de prud'hommes de Colmar",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534ac"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101107",
+    "libelle": "Conseil de prud'hommes de Compiègne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534ad"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101069",
+    "libelle": "Conseil de prud'hommes de Coutances",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534ae"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101108",
+    "libelle": "Conseil de prud'hommes de Creil",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534af"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101206",
+    "libelle": "Conseil de prud'hommes de Créteil",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534b0"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101044",
+    "libelle": "Conseil de prud'hommes de Dax",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534b1"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101157",
+    "libelle": "Conseil de prud'hommes de Dieppe",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534b2"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100948",
+    "libelle": "Conseil de prud'hommes de Digne-les-Bains",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534b3"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100993",
+    "libelle": "Conseil de prud'hommes de Dijon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534b4"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100994",
+    "libelle": "Conseil de prud'hommes de Dinan",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534b5"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101041",
+    "libelle": "Conseil de prud'hommes de Dole",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534b6"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101094",
+    "libelle": "Conseil de prud'hommes de Douai",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534b7"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101181",
+    "libelle": "Conseil de prud'hommes de Draguignan",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534b8"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101011",
+    "libelle": "Conseil de prud'hommes de Dreux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534b9"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101095",
+    "libelle": "Conseil de prud'hommes de Dunkerque",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534ba"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101071",
+    "libelle": "Conseil de prud'hommes d'Épernay",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534bb"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101193",
+    "libelle": "Conseil de prud'hommes d'Épinal",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534bc"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101006",
+    "libelle": "Conseil de prud'hommes d'Évreux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534bd"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101200",
+    "libelle": "Conseil de prud'hommes d'Évry-Courcouronnes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534be"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100962",
+    "libelle": "Conseil de prud'hommes de Foix",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534bf"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101162",
+    "libelle": "Conseil de prud'hommes de Fontainebleau",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534c0"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101084",
+    "libelle": "Conseil de prud'hommes de Forbach",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534c1"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101213",
+    "libelle": "Conseil de prud'hommes de Fort-de-France",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534c2"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101182",
+    "libelle": "Conseil de prud'hommes de Fréjus",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534c3"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100951",
+    "libelle": "Conseil de prud'hommes de Gap",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534c4"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100953",
+    "libelle": "Conseil de prud'hommes de Grasse",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534c5"
+    },
+    "jurisdictionType": "CPH",
+    "code": "905647",
+    "libelle": "Conseil de prud'hommes de Grenoble",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534c6"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100995",
+    "libelle": "Conseil de prud'hommes de Guingamp",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534c7"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100997",
+    "libelle": "Conseil de prud'hommes de Guéret",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534c8"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101127",
+    "libelle": "Conseil de prud'hommes d'Haguenau",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534c9"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101160",
+    "libelle": "Conseil de prud'hommes du Havre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534ca"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101099",
+    "libelle": "Conseil de prud'hommes d'Hazebrouck",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534cb"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100942",
+    "libelle": "Conseil de prud'hommes de Laon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534cc"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101075",
+    "libelle": "Conseil de prud'hommes de Laval",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534cd"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101116",
+    "libelle": "Conseil de prud'hommes de Lens",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534ce"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101022",
+    "libelle": "Conseil de prud'hommes de Libourne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534cf"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101101",
+    "libelle": "Conseil de prud'hommes de Lille",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534d0"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101191",
+    "libelle": "Conseil de prud'hommes de Limoges",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534d1"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100977",
+    "libelle": "Conseil de prud'hommes de Lisieux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534d2"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101202",
+    "libelle": "Conseil de prud'hommes de Longjumeau",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534d3"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101077",
+    "libelle": "Conseil de prud'hommes de Longwy",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534d4"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101042",
+    "libelle": "Conseil de prud'hommes de Lons-le-Saunier",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534d5"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101082",
+    "libelle": "Conseil de prud'hommes de Lorient",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534d6"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101007",
+    "libelle": "Conseil de prud'hommes de Louviers",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534d7"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101140",
+    "libelle": "Conseil de prud'hommes de Lure",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534d8"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101138",
+    "libelle": "Conseil de prud'hommes de Lyon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534d9"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101100",
+    "libelle": "Conseil de prud'hommes de Lys-Lez-Lannoy",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534da"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101145",
+    "libelle": "Conseil de prud'hommes de Mâcon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534db"
+    },
+    "jurisdictionType": "CPH",
+    "code": "919416",
+    "libelle": "Conseil de prud'hommes de Mamoudzou",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534dc"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101147",
+    "libelle": "Conseil de prud'hommes du Mans",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534dd"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101165",
+    "libelle": "Conseil de prud'hommes de Mantes-la-Jolie",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534de"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101062",
+    "libelle": "Conseil de prud'hommes de Marmande",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534df"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100972",
+    "libelle": "Conseil de prud'hommes de Marseille",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534e0"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100973",
+    "libelle": "Conseil de prud'hommes de Martigues",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534e1"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101163",
+    "libelle": "Conseil de prud'hommes de Meaux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534e2"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101164",
+    "libelle": "Conseil de prud'hommes de Melun",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534e3"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101063",
+    "libelle": "Conseil de prud'hommes de Mende",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534e4"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101085",
+    "libelle": "Conseil de prud'hommes de Metz",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534e5"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100968",
+    "libelle": "Conseil de prud'hommes de Millau",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534e6"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101057",
+    "libelle": "Conseil de prud'hommes de Montargis",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534e7"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101180",
+    "libelle": "Conseil de prud'hommes de Montauban",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534e8"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101049",
+    "libelle": "Conseil de prud'hommes de Montbrison",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534e9"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101001",
+    "libelle": "Conseil de prud'hommes de Montbéliard",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534ea"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101045",
+    "libelle": "Conseil de prud'hommes de Mont-de-Marsan",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534eb"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100945",
+    "libelle": "Conseil de prud'hommes de Montluçon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534ec"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101210",
+    "libelle": "Conseil de prud'hommes de Montmorency",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534ed"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101026",
+    "libelle": "Conseil de prud'hommes de Montpellier",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534ee"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101002",
+    "libelle": "Conseil de prud'hommes de Montélimar",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534ef"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101014",
+    "libelle": "Conseil de prud'hommes de Morlaix",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534f0"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100946",
+    "libelle": "Conseil de prud'hommes de Moulins",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534f1"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101136",
+    "libelle": "Conseil de prud'hommes de Mulhouse",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534f2"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101079",
+    "libelle": "Conseil de prud'hommes de Nancy",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534f3"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101204",
+    "libelle": "Conseil de prud'hommes de Nanterre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534f4"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101055",
+    "libelle": "Conseil de prud'hommes de Nantes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534f5"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100966",
+    "libelle": "Conseil de prud'hommes de Narbonne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534f6"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101089",
+    "libelle": "Conseil de prud'hommes de Nevers",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534f7"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100955",
+    "libelle": "Conseil de prud'hommes de Nice",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534f8"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101170",
+    "libelle": "Conseil de prud'hommes de Niort",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534f9"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101017",
+    "libelle": "Conseil de prud'hommes de Nîmes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534fa"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101186",
+    "libelle": "Conseil de prud'hommes d'Orange",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534fb"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101058",
+    "libelle": "Conseil de prud'hommes d'Orléans",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534fc"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100938",
+    "libelle": "Conseil de prud'hommes d'Oyonnax",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534fd"
+    },
+    "jurisdictionType": "CPH",
+    "code": "915272",
+    "libelle": "Conseil de prud'hommes de Paris",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534fe"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101124",
+    "libelle": "Conseil de prud'hommes de Pau",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed0534ff"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101126",
+    "libelle": "Conseil de prud'hommes de Perpignan",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053500"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100999",
+    "libelle": "Conseil de prud'hommes de Périgueux",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053501"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101175",
+    "libelle": "Conseil de prud'hommes de Péronne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053502"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101212",
+    "libelle": "Conseil de prud'hommes de Pointe-à-Pitre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053503"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101166",
+    "libelle": "Conseil de prud'hommes de Poissy",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053504"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101190",
+    "libelle": "Conseil de prud'hommes de Poitiers",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053505"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101054",
+    "libelle": "Conseil de prud'hommes du Puy-en-Velay",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053506"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101015",
+    "libelle": "Conseil de prud'hommes de Quimper",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053507"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101167",
+    "libelle": "Conseil de prud'hommes de Rambouillet",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053508"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101072",
+    "libelle": "Conseil de prud'hommes de Reims",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053509"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101030",
+    "libelle": "Conseil de prud'hommes de Rennes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05350a"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101120",
+    "libelle": "Conseil de prud'hommes de Riom",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05350b"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101051",
+    "libelle": "Conseil de prud'hommes de Roanne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05350c"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100983",
+    "libelle": "Conseil de prud'hommes de Rochefort",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05350d"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100984",
+    "libelle": "Conseil de prud'hommes de La Rochelle",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05350e"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101187",
+    "libelle": "Conseil de prud'hommes de La Roche-sur-Yon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05350f"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100969",
+    "libelle": "Conseil de prud'hommes de Rodez",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053510"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101103",
+    "libelle": "Conseil de prud'hommes de Roubaix",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053511"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101161",
+    "libelle": "Conseil de prud'hommes de Rouen",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053512"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101188",
+    "libelle": "Conseil de prud'hommes des Sables d'Olonne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053513"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100996",
+    "libelle": "Conseil de prud'hommes de Saint-Brieuc",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053514"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101215",
+    "libelle": "Conseil de prud'hommes de Saint-Denis",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053515"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101196",
+    "libelle": "Conseil de prud'hommes de Saint-Dié-des-Vosges",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053516"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100985",
+    "libelle": "Conseil de prud'hommes de Saintes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053517"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101053",
+    "libelle": "Conseil de prud'hommes de Saint-Étienne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053518"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101018",
+    "libelle": "Conseil de prud'hommes de Saint-Gaudens",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053519"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101168",
+    "libelle": "Conseil de prud'hommes de Saint-Germain-en-Laye",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05351a"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101031",
+    "libelle": "Conseil de prud'hommes de Saint-Malo",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05351b"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101056",
+    "libelle": "Conseil de prud'hommes de Saint-Nazaire",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05351c"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101118",
+    "libelle": "Conseil de prud'hommes de Saint-Omer",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05351d"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101216",
+    "libelle": "Conseil de prud'hommes de Saint-Pierre",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05351e"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100943",
+    "libelle": "Conseil de prud'hommes de Saint-Quentin",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05351f"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101066",
+    "libelle": "Conseil de prud'hommes de Saumur",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053520"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101129",
+    "libelle": "Conseil de prud'hommes de Saverne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053521"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101130",
+    "libelle": "Conseil de prud'hommes de Schiltigheim",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053522"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101198",
+    "libelle": "Conseil de prud'hommes de Sens",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053523"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100944",
+    "libelle": "Conseil de prud'hommes de Soissons",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053524"
+    },
+    "jurisdictionType": "CPH",
+    "code": "907249",
+    "libelle": "Conseil de prud'hommes de St-Pierre-et-Miquelon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053525"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101132",
+    "libelle": "Conseil de prud'hommes de Strasbourg",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053526"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101027",
+    "libelle": "Conseil de prud'hommes de Sète",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053527"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101125",
+    "libelle": "Conseil de prud'hommes de Tarbes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053528"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101088",
+    "libelle": "Conseil de prud'hommes de Thionville",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053529"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101171",
+    "libelle": "Conseil de prud'hommes de Thouars",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05352a"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101183",
+    "libelle": "Conseil de prud'hommes de Toulon",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05352b"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101019",
+    "libelle": "Conseil de prud'hommes de Toulouse",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05352c"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101104",
+    "libelle": "Conseil de prud'hommes de Tourcoing",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05352d"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101035",
+    "libelle": "Conseil de prud'hommes de Tours",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05352e"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100964",
+    "libelle": "Conseil de prud'hommes de Troyes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05352f"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100989",
+    "libelle": "Conseil de prud'hommes de Tulle",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053530"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101004",
+    "libelle": "Conseil de prud'hommes de Valence",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053531"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101105",
+    "libelle": "Conseil de prud'hommes de Valenciennes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053532"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101083",
+    "libelle": "Conseil de prud'hommes de Vannes",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053533"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101081",
+    "libelle": "Conseil de prud'hommes de Verdun",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053534"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101169",
+    "libelle": "Conseil de prud'hommes de Versailles",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053535"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101141",
+    "libelle": "Conseil de prud'hommes de Vesoul",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053536"
+    },
+    "jurisdictionType": "CPH",
+    "code": "100947",
+    "libelle": "Conseil de prud'hommes de Vichy",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053537"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101039",
+    "libelle": "Conseil de prud'hommes de Vienne",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053538"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101139",
+    "libelle": "Conseil de prud'hommes de Villefranche-sur-Saône",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed053539"
+    },
+    "jurisdictionType": "CPH",
+    "code": "101207",
+    "libelle": "Conseil de prud'hommes de Villeneuve-Saint-Georges",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05353a"
+    },
+    "jurisdictionType": "CPH",
+    "code": "916801",
+    "libelle": "Tribunal du travail de Nouméa",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05353b"
+    },
+    "jurisdictionType": "CPH",
+    "code": "917210",
+    "libelle": "Tribunal du travail de Nuku-Hiva",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  },
+  {
+    "_id": {
+      "$oid": "6b05b528490bd295ed05353c"
+    },
+    "jurisdictionType": "CPH",
+    "code": "916803",
+    "libelle": "Tribunal du travail de Papeete",
+    "commentaire": null,
+    "dateDebutValidite": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "dateFinValidite": null
+  }
+]
